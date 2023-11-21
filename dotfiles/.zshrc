@@ -117,3 +117,11 @@ alias gotv='go test -v ./...'
 alias jhack='python3 /home/aflynn50/Canonical/jhack/jhack/main.py'
 
 alias gt='gnome-terminal'
+
+export GOPATH=$HOME/go
+export PATH=$PATH:$GOROOT/bin:$GOPATH/bin
+
+export PATH=$PATH:$HOME/.cargo/bin
+
+# Display annoying omz update prompt
+export DISABLE_UPDATE_PROMPT=true

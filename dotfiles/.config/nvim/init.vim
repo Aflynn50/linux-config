@@ -47,6 +47,13 @@ function! s:build_go_files()
   endif
 endfunction
 
+" rust
+let g:rustfmt_autosave = 1
+let g:cargo_shell_command_runner = '!'
+autocmd FileType rust nmap <leader>b :Cbuild<CR>
+autocmd FileType rust nmap <leader>r :Crun<CR>
+autocmd FileType rust nmap <leader>t :Ctest<CR>
+
 " For faith/vim-go
 autocmd FileType go nmap <leader>b :<C-u>call <SID>build_go_files()<CR>
 autocmd FileType go nmap <leader>r  <Plug>(go-run)
@@ -60,6 +67,7 @@ let @e = 'l:q'
 map <C-n> :cnext<CR>
 map <C-m> :cprevious<CR>
 nnoremap <leader>a :cclose<CR>
+
 
 "Disable folding for vim-markdown
 let g:vim_markdown_folding_disabled = 1
@@ -84,6 +92,7 @@ nnoremap <leader>fh <cmd>lua require('telescope.builtin').help_tags()<cr>
 
 "git
 command GC G commit -a --verbose
+nnoremap <C-G> :GC<CR> \| :star<CR>
 
 "S for stamp, i.e. paste without overwriting the paste register
 nnoremap <leader>S diw"0P
@@ -91,7 +100,7 @@ nnoremap <leader>S diw"0P
 set nofoldenable
 
 "Use clipboard for copying always
-set clipboard+=unnamedplus
+"set clipboard+=unnamedplus
 
 call plug#begin()
 " Plug 'ctrlpvim/ctrlp.vim'
@@ -111,12 +120,12 @@ Plug 'Aflynn50/NeoSolarized'
 Plug 'romainl/vim-cool'
 Plug 'nvim-treesitter/nvim-treesitter', {'do': ':TSUpdate'}
 Plug 'neovim/nvim-lspconfig'
+Plug 'rust-lang/rust.vim'
 " cutlass turns off copy on delete
 " Plug 'svermeulen/vim-cutlass'
 " Plug 'ray-x/go.nvim'
 " Plug 'ray-x/guihua.lua'
 call plug#end()
-
 
 set termguicolors
 syntax enable

@@ -62,6 +62,10 @@ ZSH_THEME="aflynn"
 # Would you like to use another custom folder than $ZSH/custom?
 # ZSH_CUSTOM=/path/to/new-custom-folder
 
+# Stop displaying annoying omz update prompt
+export DISABLE_UPDATE_PROMPT=true
+export DISABLE_AUTO_UPDATE=true
+
 # Which plugins would you like to load?
 # Standard plugins can be found in $ZSH/plugins/
 # Custom plugins may be added to $ZSH_CUSTOM/plugins/
@@ -111,17 +115,39 @@ alias la='ls -A'
 alias l='ls -CF'
 
 # easy and quick go test
-alias got='go test ./...'
-alias gotv='go test -v ./...'
+alias got='go test ./... -check.v'
+alias gotv='go test -v ./... -check.vv'
 
-alias jhack='python3 /home/aflynn50/Canonical/jhack/jhack/main.py'
+alias gpom='git checkout main && git pull origin main && git checkout -'
 
+# alias jhack='python3 /home/aflynn50/Canonical/jhack/jhack/main.py'
+#
 alias gt='gnome-terminal'
 
+
 export GOPATH=$HOME/go
-export PATH=$PATH:$GOROOT/bin:$GOPATH/bin
+# Prepend
+export PATH=$GOROOT/bin:$GOPATH/bin:$PATH
+
+# This is where the go website reccomends we install it
+# export PATH=$PATH:/usr/local/go/bin
 
 export PATH=$PATH:$HOME/.cargo/bin
 
-# Display annoying omz update prompt
-export DISABLE_UPDATE_PROMPT=true
+# Put python virtual env on the path to use it as normal
+export PATH=/home/aflynn/pythonenv/bin:$PATH
+
+# Juju
+# Ignore tests that fail in make static-analysis
+export STATIC_ANALYSIS_JOB=test_static_analysis_go
+# kill all controllers
+alias jkc='juju list-controllers --format=json | jq ".controllers | keys | .[]" | xargs -I% juju kill-controller --no-prompt -t 0s %'
+# Watch status
+alias jw='watch -c juju status --color'
+alias jwr='watch -c juju status --color --relations'
+# debug log
+alias jdb='juju debug-log -m controller --replay'
+alias jdc='juju destroy-controller --no-prompt'
+# Juju binary
+alias j='/snap/bin/juju'
+alias jt='PATH="/home/aflynn/Canonical/juju/_deps/musl-amd64/output/bin:$PATH" CC="musl-gcc" CGO_CFLAGS="-I/home/aflynn/Canonical/juju/_deps/dqlite-deps-amd64/include" CGO_LDFLAGS="-L/home/aflynn/Canonical/juju/_deps/dqlite-deps-amd64 -luv -lraft -ldqlite -llz4 -lsqlite3" CGO_LDFLAGS_ALLOW="(-Wl,-wrap,pthread_create)|(-Wl,-z,now)" LD_LIBRARY_PATH="/home/aflynn/Canonical/juju/_deps/dqlite-deps-amd64" CGO_ENABLED="1" go test -mod="readonly" -tags="libsqlite3,dqlite" -ldflags "-s -w -linkmode 'external' -extldflags '-static' -X github.com/juju/juju/version.GitCommit=4f05189fe8849b2cf5fb4e9dea7caf7edcbb438b -X github.com/juju/juju/version.GitTreeState=clean -X github.com/juju/juju/version.build= -X github.com/juju/juju/version.GoBuildTags=libsqlite3,dqlite"'

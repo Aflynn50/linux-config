@@ -1,0 +1,47 @@
+[Data Source]
+DisplayName=Contacts
+Enabled=true
+Parent=carddav-stub
+
+[WebDAV Backend]
+AvoidIfmatch=false
+CalendarAutoSchedule=false
+Color=
+DisplayName=Contacts
+EmailAddress=
+ResourcePath=/remote.php/dav/addressbooks/users/aflynn50/contacts/
+ResourceQuery=
+SslTrust=accept|af-nextcloud.duckdns.org|07a6b68aa531d2627ec5530da494c0a52cd1a95c0c93c1c8b7ab9b4d40778113
+
+Order=4294967295
+
+[Address Book]
+BackendName=carddav
+
+Order=0
+
+[Autocomplete]
+IncludeMe=true
+
+[Refresh]
+Enabled=true
+IntervalMinutes=60
+
+[Contacts Backend]
+IncludeMe=false
+
+[Authentication]
+Host=nextcloud.aflynn.uk
+Method=plain/password
+Port=443
+ProxyUid=system-proxy
+RememberPassword=true
+User=aflynn50
+CredentialName=
+IsExternal=false
+
+[Offline]
+StaySynchronized=false
+
+[Security]
+Method=tls

@@ -1,0 +1,29 @@
+<application>
+  <component name="Trusted.Paths">
+    <option name="TRUSTED_PROJECT_PATHS">
+      <map>
+        <entry key="$USER_HOME$/.cache/JetBrains/GoLand2023.2/demo/LearnGoProject" value="true" />
+        <entry key="$USER_HOME$/Canonical/Juju/charm" value="true" />
+        <entry key="$USER_HOME$/Canonical/Juju/juju" value="true" />
+        <entry key="$USER_HOME$/Canonical/Juju/juju-controller" value="true" />
+        <entry key="$USER_HOME$/Canonical/Juju/juju-qa-jenkins" value="true" />
+        <entry key="$USER_HOME$/Canonical/Juju/juju2" value="true" />
+        <entry key="$USER_HOME$/Canonical/Juju/utils" value="true" />
+        <entry key="$USER_HOME$/Canonical/Juju/worker" value="true" />
+        <entry key="$USER_HOME$/Canonical/SQLair/dqlite-bench" value="true" />
+        <entry key="$USER_HOME$/Canonical/SQLair/sqlair" value="true" />
+        <entry key="$USER_HOME$/Canonical/SQLair/sqlair-bench" value="true" />
+        <entry key="$USER_HOME$/Canonical/SQLair/wt2" value="true" />
+        <entry key="$USER_HOME$/Canonical/juju" value="true" />
+      </map>
+    </option>
+  </component>
+  <component name="Trusted.Paths.Settings">
+    <option name="TRUSTED_PATHS">
+      <list>
+        <option value="$USER_HOME$/Canonical/SQLair" />
+        <option value="$USER_HOME$/Canonical/Juju" />
+      </list>
+    </option>
+  </component>
+</application>

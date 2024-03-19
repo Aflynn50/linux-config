@@ -1,0 +1,20 @@
+[Data Source]
+DisplayName=alastair.flynn@some.ox.ac.uk
+Enabled=true
+Parent=b6c4ddd86e1f3701ce821a6606bec3f0ef6672af
+
+[Authentication]
+Host=outlook.office365.com
+Method=LOGIN
+Port=587
+ProxyUid=system-proxy
+RememberPassword=true
+User=some4247@OX.AC.UK
+CredentialName=
+IsExternal=false
+
+[Security]
+Method=starttls-on-standard-port
+
+[Mail Transport]
+BackendName=smtp

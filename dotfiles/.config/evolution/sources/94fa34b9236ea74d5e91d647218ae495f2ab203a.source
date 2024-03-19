@@ -1,0 +1,23 @@
+[Data Source]
+DisplayName=af@aflynn.uk
+Enabled=true
+Parent=f260ae0446def17d4f22392de063750dcdd8658f
+
+[Authentication]
+Host=smtppro.zoho.eu
+Method=PLAIN
+Port=465
+ProxyUid=system-proxy
+RememberPassword=true
+User=af@aflynn.uk
+CredentialName=
+IsExternal=false
+
+[Security]
+Method=ssl-on-alternate-port
+
+[Mail Transport]
+BackendName=smtp
+
+[Smtp Backend]
+ReencodeData=false

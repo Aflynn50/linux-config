@@ -1,0 +1,1992 @@
+<application>
+  <component name="VimHistorySettings">
+    <history>
+      <history-search>
+        <entry encoding="base64">RmluZA==</entry>
+        <entry encoding="base64">RmluZElkKA==</entry>
+        <entry encoding="base64">IEZpbmRJZCg=</entry>
+        <entry encoding="base64">cmVzb2x2ZQ==</entry>
+        <entry encoding="base64">XDxjb25zdHJ1Y3RSZWZyZXNoQmFzZVw+</entry>
+        <entry encoding="base64">XDxjdXJyZW50S2V5RGF0YUZvckRlbGV0ZVw+</entry>
+        <entry encoding="base64">SW52YWxpZCBLZXk=</entry>
+        <entry encoding="base64">SW52YWxpZCBrZXk=</entry>
+        <entry encoding="base64">XDxhbGxLZXlzXD4=</entry>
+        <entry encoding="base64">bW9kZWxDb25m</entry>
+        <entry encoding="base64">VXBkYXRlTW9kZWw=</entry>
+        <entry encoding="base64">VXBkYXRlTW9kZWxDb24=</entry>
+        <entry encoding="base64">amVua2lucy1q</entry>
+        <entry encoding="base64">XDxQVVNIX0pPQlw+</entry>
+        <entry encoding="base64">bG93ZXJD</entry>
+        <entry encoding="base64">bG93ZXI=</entry>
+        <entry encoding="base64">bG93ZXJDYXNl</entry>
+        <entry encoding="base64">VGVybQ==</entry>
+        <entry encoding="base64">R2V0</entry>
+        <entry encoding="base64">XDxkYkNsb3VkRnJvbUNsb3VkXD4=</entry>
+        <entry encoding="base64">XDx1cHNlcnRDbG91ZFw+</entry>
+        <entry encoding="base64">U3RydWN0V2l0aEVtYmVkZGVk</entry>
+        <entry encoding="base64">Q3JlYXRlQ3JlZA==</entry>
+        <entry encoding="base64">Tm90Rm91bmQ=</entry>
+        <entry encoding="base64">bG9hZA==</entry>
+        <entry encoding="base64">bG9hZENsb3Vk</entry>
+        <entry encoding="base64">c3FsYWlyLkVyck5v</entry>
+        <entry encoding="base64">cmVzdWx0</entry>
+        <entry encoding="base64">OTU=</entry>
+        <entry encoding="base64">QWRkU3BhY2U=</entry>
+        <entry encoding="base64">cmV0cmk=</entry>
+        <entry encoding="base64">cmV0cml2aW5nIHNwYWNl</entry>
+        <entry encoding="base64">cmV0cmlldmluZw==</entry>
+        <entry encoding="base64">cXVlcnlpbmcgc3Vi</entry>
+        <entry encoding="base64">cXVlcnlpbmcgc3BhY2VzIGI=</entry>
+        <entry encoding="base64">cXVlcnlpbmcgc3VibmV0</entry>
+        <entry encoding="base64">VGVzdFJldA==</entry>
+        <entry encoding="base64">ZmluZFVzZXI=</entry>
+        <entry encoding="base64">XDx9XD4=</entry>
+        <entry encoding="base64">XDxzdG9yYWdlUG9vbHNMb2FkZXJcPg==</entry>
+        <entry encoding="base64">c3RvcmFnZVBvb2xzTG9hZGVy</entry>
+        <entry encoding="base64">c3RvcmFnZVBvb2xzTG9hZA==</entry>
+        <entry encoding="base64">cyBcKlN0YXRl</entry>
+        <entry encoding="base64">R2V0QQ==</entry>
+        <entry encoding="base64">R2V0QWw=</entry>
+        <entry encoding="base64">c3FsYWlyLlByZXBhcmU=</entry>
+        <entry encoding="base64">RXhwb3J0ZWQ=</entry>
+        <entry encoding="base64">dmFsaWRBdXRo</entry>
+        <entry encoding="base64">bGVuKA==</entry>
+        <entry encoding="base64">R2V0QWxs</entry>
+      </history-search>
+      <history-cmd>
+        <entry encoding="base64">JXMvW11uZXR3b3JrLkludGVyZmFjZUluZm8vbmV0d29yay5JbnRlcmZhY2VJbmZvcy9nYw==</entry>
+        <entry encoding="base64">JXMvW11wYXJhbXMuTmV0d29ya0NvbmZpZy9jb3JlbmV0d29yay5JbnRlcmZhY2VJbmZvcy9nYw==</entry>
+        <entry encoding="base64">JXMvW11wYXJhbXMuTmV0d29ya0NvbmZpZy9uZXR3b3JrLkludGVyZmFjZUluZm9zL2dj</entry>
+        <entry encoding="base64">MTU5</entry>
+        <entry encoding="base64">MTQz</entry>
+        <entry encoding="base64">ODY5</entry>
+        <entry encoding="base64">ODU5</entry>
+        <entry encoding="base64">JXMvQ29sdW1uSW5wdXQvQ29sdW1uSW5zZXJ0L2c=</entry>
+        <entry encoding="base64">JXMvQXN0ZXJpc2tJbnB1dC9Bc3Rlcmlza0luc2VydC9n</entry>
+        <entry encoding="base64">Mjk3</entry>
+        <entry encoding="base64">MTk0NQ==</entry>
+        <entry encoding="base64">MTQ1</entry>
+        <entry encoding="base64">cQ==</entry>
+        <entry encoding="base64">NDc=</entry>
+        <entry encoding="base64">MTM2</entry>
+        <entry encoding="base64">MzU=</entry>
+        <entry encoding="base64">NzE=</entry>
+        <entry encoding="base64">NTk3</entry>
+        <entry encoding="base64">NTY3</entry>
+        <entry encoding="base64">Njc2</entry>
+        <entry encoding="base64">MTI1NQ==</entry>
+        <entry encoding="base64">NzI0</entry>
+        <entry encoding="base64">MTM0</entry>
+        <entry encoding="base64">MTgy</entry>
+        <entry encoding="base64">ODc=</entry>
+        <entry encoding="base64">NzQ=</entry>
+        <entry encoding="base64">NDg2</entry>
+        <entry encoding="base64">cy9zcWxhaXIuUHJlcGFyZS9zdC5QcmVwYXJlL2c=</entry>
+        <entry encoding="base64">JzwsJz5zL1N0cnVjdFdpdGhFbWJlZGRlZC9FbWJlZGRpbmdzL2c=</entry>
+        <entry encoding="base64">JzwsJz5zL3NxbGFpci5QcmVwYXJlL3N0LlByZXBhcmUvZw==</entry>
+        <entry encoding="base64">JXMvc3FsYWlyLlByZXBhcmUvc3QuUHJlcGFyZS9nYw==</entry>
+        <entry encoding="base64">Mzg4</entry>
+        <entry encoding="base64">NTU2</entry>
+        <entry encoding="base64">MjMz</entry>
+        <entry encoding="base64">ODU=</entry>
+        <entry encoding="base64">MjM=</entry>
+        <entry encoding="base64">MTkx</entry>
+        <entry encoding="base64">JXMvcyBcKlN0YXRlL3N0ICpTdGF0ZS9n</entry>
+        <entry encoding="base64">NDU1</entry>
+        <entry encoding="base64">MTA3</entry>
+        <entry encoding="base64">JXMvc3FsYWlyLlByZXBhcmUvc3QuUHJlcGFyZS9n</entry>
+        <entry encoding="base64">MTcy</entry>
+        <entry encoding="base64">MzE5</entry>
+        <entry encoding="base64">MzAw</entry>
+        <entry encoding="base64">NDQ2</entry>
+        <entry encoding="base64">NTg2</entry>
+        <entry encoding="base64">MzY5</entry>
+        <entry encoding="base64">MTI0</entry>
+        <entry encoding="base64">MTA4</entry>
+        <entry encoding="base64">dw==</entry>
+      </history-cmd>
+      <history-expr />
+      <history-input />
+    </history>
+  </component>
+  <component name="VimJumpsSettings">
+    <project id="$USER_HOME$/Canonical/SQLair/sqlair">
+      <jump line="394" column="0" filename="$USER_HOME$/Canonical/SQLair/sqlair/package_test.go" />
+      <jump line="473" column="6" filename="$USER_HOME$/Canonical/SQLair/sqlair/package_test.go" />
+      <jump line="472" column="91" filename="$USER_HOME$/Canonical/SQLair/sqlair/package_test.go" />
+      <jump line="408" column="0" filename="$USER_HOME$/Canonical/SQLair/sqlair/package_test.go" />
+      <jump line="405" column="14" filename="$USER_HOME$/Canonical/SQLair/sqlair/package_test.go" />
+      <jump line="392" column="0" filename="$USER_HOME$/Canonical/SQLair/sqlair/package_test.go" />
+      <jump line="281" column="14" filename="$USER_HOME$/Canonical/SQLair/sqlair/internal/typeinfo/arginfo.go" />
+      <jump line="721" column="9" filename="$USER_HOME$/Canonical/SQLair/sqlair/internal/expr/expr_test.go" />
+      <jump line="442" column="39" filename="$USER_HOME$/Canonical/SQLair/sqlair/internal/expr/expr_test.go" />
+      <jump line="0" column="0" filename="$USER_HOME$/Canonical/SQLair/sqlair/internal/expr/expr_test.go" />
+      <jump line="443" column="142" filename="$USER_HOME$/Canonical/SQLair/sqlair/internal/expr/expr_test.go" />
+      <jump line="91" column="30" filename="$USER_HOME$/Canonical/SQLair/sqlair/internal/expr/expr_test.go" />
+      <jump line="92" column="18" filename="$USER_HOME$/Canonical/SQLair/sqlair/internal/expr/expr_test.go" />
+      <jump line="448" column="79" filename="$USER_HOME$/Canonical/SQLair/sqlair/internal/expr/expr_test.go" />
+      <jump line="451" column="35" filename="$USER_HOME$/Canonical/SQLair/sqlair/internal/expr/expr_test.go" />
+      <jump line="74" column="0" filename="$USER_HOME$/Canonical/SQLair/sqlair/internal/expr/expr_test.go" />
+      <jump line="337" column="8" filename="$USER_HOME$/Canonical/SQLair/sqlair/package_test.go" />
+      <jump line="1103" column="28" filename="$USER_HOME$/Canonical/SQLair/sqlair/package_test.go" />
+      <jump line="1100" column="45" filename="$USER_HOME$/Canonical/SQLair/sqlair/package_test.go" />
+      <jump line="1105" column="0" filename="$USER_HOME$/Canonical/SQLair/sqlair/package_test.go" />
+      <jump line="125" column="0" filename="$USER_HOME$/Canonical/SQLair/sqlair/package_test.go" />
+      <jump line="1106" column="123" filename="$USER_HOME$/Canonical/SQLair/sqlair/package_test.go" />
+      <jump line="1107" column="23" filename="$USER_HOME$/Canonical/SQLair/sqlair/package_test.go" />
+      <jump line="1069" column="92" filename="$USER_HOME$/Canonical/SQLair/sqlair/package_test.go" />
+      <jump line="22" column="0" filename="$USER_HOME$/Canonical/SQLair/sqlair/internal/typeinfo/arginfo.go" />
+      <jump line="31" column="24" filename="$USER_HOME$/Canonical/SQLair/sqlair/internal/typeinfo/arginfo.go" />
+      <jump line="41" column="38" filename="$USER_HOME$/Canonical/SQLair/sqlair/internal/typeinfo/arginfo.go" />
+      <jump line="283" column="27" filename="$USER_HOME$/Canonical/SQLair/sqlair/internal/typeinfo/arginfo.go" />
+      <jump line="282" column="34" filename="$USER_HOME$/Canonical/SQLair/sqlair/internal/typeinfo/arginfo.go" />
+      <jump line="288" column="34" filename="$USER_HOME$/Canonical/SQLair/sqlair/internal/typeinfo/arginfo.go" />
+      <jump line="313" column="41" filename="$USER_HOME$/Canonical/SQLair/sqlair/internal/typeinfo/arginfo.go" />
+      <jump line="263" column="0" filename="$USER_HOME$/Canonical/SQLair/sqlair/internal/typeinfo/arginfo.go" />
+      <jump line="304" column="28" filename="$USER_HOME$/Canonical/SQLair/sqlair/internal/typeinfo/arginfo.go" />
+      <jump line="206" column="0" filename="$USER_HOME$/Canonical/SQLair/sqlair/internal/typeinfo/valuelocator.go" />
+      <jump line="177" column="18" filename="$USER_HOME$/Canonical/SQLair/sqlair/internal/typeinfo/valuelocator.go" />
+      <jump line="309" column="45" filename="$USER_HOME$/Canonical/SQLair/sqlair/internal/typeinfo/arginfo.go" />
+      <jump line="297" column="15" filename="$USER_HOME$/Canonical/SQLair/sqlair/internal/typeinfo/arginfo.go" />
+      <jump line="1075" column="0" filename="$USER_HOME$/Canonical/SQLair/sqlair/package_test.go" />
+      <jump line="884" column="161" filename="$USER_HOME$/Canonical/SQLair/sqlair/package_test.go" />
+      <jump line="902" column="64" filename="$USER_HOME$/Canonical/SQLair/sqlair/package_test.go" />
+      <jump line="116" column="4" filename="$USER_HOME$/Canonical/SQLair/sqlair/internal/typeinfo/valuelocator.go" />
+      <jump line="72" column="26" filename="$USER_HOME$/Canonical/SQLair/sqlair/internal/typeinfo/arginfo_test.go" />
+      <jump line="43" column="4" filename="$USER_HOME$/Canonical/SQLair/sqlair/internal/typeinfo/arginfo_test.go" />
+      <jump line="57" column="25" filename="$USER_HOME$/Canonical/SQLair/sqlair/internal/typeinfo/arginfo_test.go" />
+      <jump line="484" column="0" filename="$USER_HOME$/Canonical/SQLair/sqlair/internal/expr/expr_test.go" />
+      <jump line="73" column="0" filename="$USER_HOME$/Canonical/SQLair/sqlair/internal/expr/expr_test.go" />
+      <jump line="450" column="136" filename="$USER_HOME$/Canonical/SQLair/sqlair/internal/expr/expr_test.go" />
+      <jump line="453" column="41" filename="$USER_HOME$/Canonical/SQLair/sqlair/internal/expr/expr_test.go" />
+      <jump line="454" column="35" filename="$USER_HOME$/Canonical/SQLair/sqlair/internal/expr/expr_test.go" />
+      <jump line="452" column="80" filename="$USER_HOME$/Canonical/SQLair/sqlair/internal/expr/expr_test.go" />
+      <jump line="462" column="28" filename="$USER_HOME$/Canonical/SQLair/sqlair/internal/expr/expr_test.go" />
+      <jump line="461" column="36" filename="$USER_HOME$/Canonical/SQLair/sqlair/internal/expr/expr_test.go" />
+      <jump line="464" column="52" filename="$USER_HOME$/Canonical/SQLair/sqlair/internal/expr/expr_test.go" />
+      <jump line="54" column="5" filename="$USER_HOME$/Canonical/SQLair/sqlair/internal/expr/expr_test.go" />
+      <jump line="911" column="0" filename="$USER_HOME$/Canonical/SQLair/sqlair/package_test.go" />
+      <jump line="912" column="25" filename="$USER_HOME$/Canonical/SQLair/sqlair/package_test.go" />
+      <jump line="888" column="10" filename="$USER_HOME$/Canonical/SQLair/sqlair/package_test.go" />
+      <jump line="885" column="43" filename="$USER_HOME$/Canonical/SQLair/sqlair/package_test.go" />
+      <jump line="78" column="11" filename="$USER_HOME$/Canonical/SQLair/sqlair/package_test.go" />
+      <jump line="88" column="5" filename="$USER_HOME$/Canonical/SQLair/sqlair/package_test.go" />
+      <jump line="845" column="19" filename="$USER_HOME$/Canonical/SQLair/sqlair/package_test.go" />
+      <jump line="847" column="19" filename="$USER_HOME$/Canonical/SQLair/sqlair/package_test.go" />
+      <jump line="89" column="30" filename="$USER_HOME$/Canonical/SQLair/sqlair/package_test.go" />
+      <jump line="80" column="5" filename="$USER_HOME$/Canonical/SQLair/sqlair/package_test.go" />
+      <jump line="887" column="47" filename="$USER_HOME$/Canonical/SQLair/sqlair/package_test.go" />
+      <jump line="886" column="12" filename="$USER_HOME$/Canonical/SQLair/sqlair/package_test.go" />
+      <jump line="926" column="4" filename="$USER_HOME$/Canonical/SQLair/sqlair/package_test.go" />
+      <jump line="1108" column="24" filename="$USER_HOME$/Canonical/SQLair/sqlair/package_test.go" />
+      <jump line="1110" column="123" filename="$USER_HOME$/Canonical/SQLair/sqlair/package_test.go" />
+      <jump line="1112" column="0" filename="$USER_HOME$/Canonical/SQLair/sqlair/package_test.go" />
+      <jump line="1114" column="40" filename="$USER_HOME$/Canonical/SQLair/sqlair/package_test.go" />
+      <jump line="25" column="14" filename="$USER_HOME$/Canonical/SQLair/sqlair/internal/expr/parser.go" />
+      <jump line="44" column="4" filename="$USER_HOME$/Canonical/SQLair/sqlair/internal/typeinfo/validate.go" />
+      <jump line="0" column="0" filename="$USER_HOME$/Canonical/SQLair/sqlair/README.md" />
+      <jump line="75" column="5" filename="$USER_HOME$/Canonical/SQLair/sqlair/package_test.go" />
+      <jump line="1113" column="50" filename="$USER_HOME$/Canonical/SQLair/sqlair/package_test.go" />
+      <jump line="71" column="5" filename="$USER_HOME$/Canonical/SQLair/sqlair/package_test.go" />
+      <jump line="76" column="23" filename="$USER_HOME$/Canonical/SQLair/sqlair/package_test.go" />
+      <jump line="1118" column="0" filename="$USER_HOME$/Canonical/SQLair/sqlair/package_test.go" />
+      <jump line="1115" column="24" filename="$USER_HOME$/Canonical/SQLair/sqlair/package_test.go" />
+      <jump line="1116" column="71" filename="$USER_HOME$/Canonical/SQLair/sqlair/package_test.go" />
+      <jump line="77" column="20" filename="$USER_HOME$/Canonical/SQLair/sqlair/package_test.go" />
+      <jump line="84" column="51" filename="$USER_HOME$/Canonical/SQLair/sqlair/package_test.go" />
+      <jump line="1165" column="0" filename="$USER_HOME$/Canonical/SQLair/sqlair/package_test.go" />
+      <jump line="50" column="0" filename="$USER_HOME$/Canonical/SQLair/sqlair/internal/expr/query.go" />
+      <jump line="460" column="66" filename="$USER_HOME$/Canonical/SQLair/sqlair/internal/expr/expr_test.go" />
+      <jump line="110" column="30" filename="$USER_HOME$/Canonical/SQLair/sqlair/internal/expr/expr_test.go" />
+      <jump line="109" column="3" filename="$USER_HOME$/Canonical/SQLair/sqlair/internal/expr/expr_test.go" />
+      <jump line="111" column="19" filename="$USER_HOME$/Canonical/SQLair/sqlair/internal/expr/expr_test.go" />
+      <jump line="108" column="16" filename="$USER_HOME$/Canonical/SQLair/sqlair/internal/expr/expr_test.go" />
+      <jump line="87" column="19" filename="$USER_HOME$/Canonical/SQLair/sqlair/internal/expr/expr_test.go" />
+      <jump line="537" column="29" filename="$USER_HOME$/Canonical/SQLair/sqlair/internal/expr/expr_test.go" />
+      <jump line="539" column="29" filename="$USER_HOME$/Canonical/SQLair/sqlair/internal/expr/expr_test.go" />
+      <jump line="56" column="0" filename="$USER_HOME$/Canonical/SQLair/sqlair/internal/expr/expr_test.go" />
+      <jump line="55" column="18" filename="$USER_HOME$/Canonical/SQLair/sqlair/internal/expr/expr_test.go" />
+      <jump line="1235" column="0" filename="$USER_HOME$/Canonical/SQLair/sqlair/package_test.go" />
+      <jump line="72" column="0" filename="$USER_HOME$/Canonical/SQLair/sqlair/package_test.go" />
+      <jump line="70" column="20" filename="$USER_HOME$/Canonical/SQLair/sqlair/package_test.go" />
+      <jump line="121" column="22" filename="$USER_HOME$/Canonical/SQLair/sqlair/package_test.go" />
+      <jump line="112" column="15" filename="$USER_HOME$/Canonical/SQLair/sqlair/package_test.go" />
+    </project>
+    <project id="$USER_HOME$/Canonical/SQLair/wt2">
+      <jump line="0" column="0" filename="$USER_HOME$/Canonical/SQLair/wt2/README.md" />
+      <jump line="0" column="0" filename="$USER_HOME$/Canonical/SQLair/wt2/internal/expr/bindtypes.go" />
+      <jump line="120" column="15" filename="$USER_HOME$/Canonical/SQLair/wt2/internal/expr/bindtypes.go" />
+      <jump line="101" column="37" filename="$USER_HOME$/Canonical/SQLair/wt2/internal/expr/bindtypes.go" />
+      <jump line="103" column="17" filename="$USER_HOME$/Canonical/SQLair/wt2/internal/expr/bindtypes.go" />
+      <jump line="45" column="0" filename="$USER_HOME$/Canonical/SQLair/wt2/internal/expr/parser.go" />
+      <jump line="134" column="0" filename="$USER_HOME$/Canonical/SQLair/wt2/internal/expr/bindtypes.go" />
+      <jump line="7" column="26" filename="$USER_HOME$/Canonical/SQLair/wt2/internal/expr/bindtypes.go" />
+      <jump line="46" column="8" filename="$USER_HOME$/Canonical/SQLair/wt2/internal/expr/bindtypes.go" />
+      <jump line="80" column="32" filename="$USER_HOME$/Canonical/SQLair/wt2/internal/expr/bindtypes.go" />
+      <jump line="84" column="28" filename="$USER_HOME$/Canonical/SQLair/wt2/internal/expr/bindtypes.go" />
+      <jump line="126" column="63" filename="$USER_HOME$/Canonical/SQLair/wt2/internal/expr/bindtypes.go" />
+      <jump line="163" column="12" filename="$USER_HOME$/Canonical/SQLair/wt2/internal/expr/bindtypes.go" />
+      <jump line="161" column="19" filename="$USER_HOME$/Canonical/SQLair/wt2/internal/expr/bindtypes.go" />
+      <jump line="162" column="23" filename="$USER_HOME$/Canonical/SQLair/wt2/internal/expr/bindtypes.go" />
+      <jump line="139" column="37" filename="$USER_HOME$/Canonical/SQLair/wt2/internal/expr/bindtypes.go" />
+      <jump line="159" column="36" filename="$USER_HOME$/Canonical/SQLair/wt2/internal/expr/bindtypes.go" />
+      <jump line="127" column="0" filename="$USER_HOME$/Canonical/SQLair/wt2/internal/expr/parser.go" />
+      <jump line="137" column="39" filename="$USER_HOME$/Canonical/SQLair/wt2/internal/expr/parser.go" />
+      <jump line="534" column="47" filename="$USER_HOME$/Canonical/SQLair/wt2/internal/expr/parser.go" />
+      <jump line="587" column="12" filename="$USER_HOME$/Canonical/SQLair/wt2/internal/expr/parser.go" />
+      <jump line="488" column="17" filename="$USER_HOME$/Canonical/SQLair/wt2/internal/expr/parser.go" />
+      <jump line="533" column="31" filename="$USER_HOME$/Canonical/SQLair/wt2/internal/expr/parser.go" />
+      <jump line="530" column="0" filename="$USER_HOME$/Canonical/SQLair/wt2/internal/expr/parser.go" />
+      <jump line="678" column="0" filename="$USER_HOME$/Canonical/SQLair/wt2/internal/expr/parser.go" />
+      <jump line="681" column="0" filename="$USER_HOME$/Canonical/SQLair/wt2/internal/expr/parser.go" />
+      <jump line="682" column="0" filename="$USER_HOME$/Canonical/SQLair/wt2/internal/expr/parser.go" />
+      <jump line="697" column="0" filename="$USER_HOME$/Canonical/SQLair/wt2/internal/expr/parser.go" />
+      <jump line="499" column="12" filename="$USER_HOME$/Canonical/SQLair/wt2/internal/expr/parser.go" />
+      <jump line="558" column="12" filename="$USER_HOME$/Canonical/SQLair/wt2/internal/expr/parser.go" />
+      <jump line="562" column="8" filename="$USER_HOME$/Canonical/SQLair/wt2/internal/expr/parser.go" />
+      <jump line="510" column="9" filename="$USER_HOME$/Canonical/SQLair/wt2/internal/expr/parser.go" />
+      <jump line="509" column="13" filename="$USER_HOME$/Canonical/SQLair/wt2/internal/expr/parser.go" />
+      <jump line="496" column="29" filename="$USER_HOME$/Canonical/SQLair/wt2/internal/expr/parser.go" />
+      <jump line="495" column="32" filename="$USER_HOME$/Canonical/SQLair/wt2/internal/expr/parser.go" />
+      <jump line="497" column="32" filename="$USER_HOME$/Canonical/SQLair/wt2/internal/expr/parser.go" />
+      <jump line="493" column="8" filename="$USER_HOME$/Canonical/SQLair/wt2/internal/expr/parser.go" />
+      <jump line="502" column="15" filename="$USER_HOME$/Canonical/SQLair/wt2/internal/expr/parser.go" />
+      <jump line="500" column="8" filename="$USER_HOME$/Canonical/SQLair/wt2/internal/expr/parser.go" />
+      <jump line="553" column="28" filename="$USER_HOME$/Canonical/SQLair/wt2/internal/expr/parser.go" />
+      <jump line="478" column="16" filename="$USER_HOME$/Canonical/SQLair/wt2/internal/expr/parser.go" />
+      <jump line="569" column="17" filename="$USER_HOME$/Canonical/SQLair/wt2/internal/expr/parser.go" />
+      <jump line="584" column="17" filename="$USER_HOME$/Canonical/SQLair/wt2/internal/expr/parser.go" />
+      <jump line="564" column="12" filename="$USER_HOME$/Canonical/SQLair/wt2/internal/expr/parser.go" />
+      <jump line="547" column="0" filename="$USER_HOME$/Canonical/SQLair/wt2/internal/expr/parser.go" />
+      <jump line="537" column="0" filename="$USER_HOME$/Canonical/SQLair/wt2/internal/expr/parser.go" />
+      <jump line="688" column="0" filename="$USER_HOME$/Canonical/SQLair/wt2/internal/expr/parser.go" />
+      <jump line="692" column="0" filename="$USER_HOME$/Canonical/SQLair/wt2/internal/expr/parser.go" />
+      <jump line="693" column="0" filename="$USER_HOME$/Canonical/SQLair/wt2/internal/expr/parser.go" />
+      <jump line="696" column="0" filename="$USER_HOME$/Canonical/SQLair/wt2/internal/expr/parser.go" />
+      <jump line="700" column="0" filename="$USER_HOME$/Canonical/SQLair/wt2/internal/expr/parser.go" />
+      <jump line="699" column="0" filename="$USER_HOME$/Canonical/SQLair/wt2/internal/expr/parser.go" />
+      <jump line="703" column="0" filename="$USER_HOME$/Canonical/SQLair/wt2/internal/expr/parser.go" />
+      <jump line="54" column="0" filename="$USER_HOME$/Canonical/SQLair/wt2/internal/expr/parser.go" />
+      <jump line="40" column="0" filename="$USER_HOME$/Canonical/SQLair/wt2/internal/expr/parser.go" />
+      <jump line="520" column="0" filename="$USER_HOME$/Canonical/SQLair/wt2/internal/expr/parser.go" />
+      <jump line="528" column="0" filename="$USER_HOME$/Canonical/SQLair/wt2/internal/expr/parser.go" />
+      <jump line="529" column="0" filename="$USER_HOME$/Canonical/SQLair/wt2/internal/expr/parser.go" />
+      <jump line="539" column="0" filename="$USER_HOME$/Canonical/SQLair/wt2/internal/expr/parser.go" />
+      <jump line="457" column="61" filename="$USER_HOME$/Canonical/SQLair/wt2/internal/expr/parser.go" />
+      <jump line="523" column="22" filename="$USER_HOME$/Canonical/SQLair/wt2/internal/expr/parser.go" />
+      <jump line="0" column="0" filename="$USER_HOME$/Canonical/SQLair/wt2/sqlair.go" />
+      <jump line="467" column="0" filename="$USER_HOME$/Canonical/SQLair/wt2/sqlair.go" />
+      <jump line="472" column="0" filename="$USER_HOME$/Canonical/SQLair/wt2/sqlair.go" />
+      <jump line="466" column="18" filename="$USER_HOME$/Canonical/SQLair/wt2/sqlair.go" />
+      <jump line="469" column="9" filename="$USER_HOME$/Canonical/SQLair/wt2/sqlair.go" />
+    </project>
+    <project id="$USER_HOME$/Canonical/SQLair/go-sqlite-bench">
+      <jump line="0" column="0" filename="$USER_HOME$/Canonical/SQLair/go-sqlite-bench/README.md" />
+      <jump line="0" column="0" filename="$USER_HOME$/Canonical/SQLair/go-sqlite-bench/app/sqldb.go" />
+      <jump line="30" column="22" filename="$USER_HOME$/Canonical/SQLair/go-sqlite-bench/app/sqldb.go" />
+      <jump line="29" column="22" filename="$USER_HOME$/Canonical/SQLair/go-sqlite-bench/app/sqldb.go" />
+      <jump line="32" column="30" filename="$USER_HOME$/Canonical/SQLair/go-sqlite-bench/app/sqldb.go" />
+      <jump line="0" column="0" filename="$USER_HOME$/Canonical/SQLair/go-sqlite-bench/cmd/bench-craw/craw.go" />
+      <jump line="0" column="0" filename="$USER_HOME$/Canonical/SQLair/go-sqlite-bench/app/util.go" />
+      <jump line="31" column="17" filename="$USER_HOME$/Canonical/SQLair/go-sqlite-bench/app/sqldb.go" />
+      <jump line="0" column="0" filename="$USER_HOME$/Canonical/SQLair/go-sqlite-bench/app/db.go" />
+      <jump line="0" column="0" filename="$USER_HOME$/Canonical/SQLair/go-sqlite-bench/app/app.go" />
+      <jump line="112" column="15" filename="$USER_HOME$/Canonical/SQLair/go-sqlite-bench/app/app.go" />
+      <jump line="203" column="35" filename="$USER_HOME$/Canonical/SQLair/go-sqlite-bench/app/app.go" />
+      <jump line="0" column="0" filename="$USER_HOME$/Canonical/SQLair/go-sqlite-bench/build-all.sh" />
+      <jump line="0" column="0" filename="$USER_HOME$/Canonical/SQLair/go-sqlite-bench/cmd/bench-mattn/mattn.go" />
+      <jump line="2" column="7" filename="$USER_HOME$/Canonical/SQLair/go-sqlite-bench/cmd/bench-mattn/mattn.go" />
+      <jump line="7" column="0" filename="$USER_HOME$/Canonical/SQLair/go-sqlite-bench/cmd/bench-mattn/mattn.go" />
+      <jump line="6" column="26" filename="$USER_HOME$/Canonical/SQLair/go-sqlite-bench/cmd/bench-mattn/mattn.go" />
+      <jump line="7" column="21" filename="$USER_HOME$/Canonical/SQLair/go-sqlite-bench/build-all.sh" />
+      <jump line="0" column="0" filename="$USER_HOME$/Canonical/SQLair/go-sqlite-bench/run-all.sh" />
+      <jump line="7" column="15" filename="$USER_HOME$/Canonical/SQLair/go-sqlite-bench/run-all.sh" />
+      <jump line="6" column="1" filename="$USER_HOME$/Canonical/SQLair/go-sqlite-bench/run-all.sh" />
+      <jump line="25" column="0" filename="$USER_HOME$/Canonical/SQLair/go-sqlite-bench/run-all.sh" />
+      <jump line="26" column="0" filename="$USER_HOME$/Canonical/SQLair/go-sqlite-bench/run-all.sh" />
+      <jump line="5" column="0" filename="$USER_HOME$/Canonical/SQLair/go-sqlite-bench/run-all.sh" />
+      <jump line="11" column="0" filename="$USER_HOME$/Canonical/SQLair/go-sqlite-bench/build-all.sh" />
+      <jump line="4" column="0" filename="$USER_HOME$/Canonical/SQLair/go-sqlite-bench/build-all.sh" />
+      <jump line="17" column="24" filename="$USER_HOME$/Canonical/SQLair/go-sqlite-bench/app/app.go" />
+      <jump line="63" column="31" filename="$USER_HOME$/Canonical/SQLair/go-sqlite-bench/app/app.go" />
+      <jump line="53" column="40" filename="$USER_HOME$/Canonical/SQLair/go-sqlite-bench/app/app.go" />
+      <jump line="0" column="0" filename="$USER_HOME$/Canonical/SQLair/go-sqlite-bench/results/out.txt" />
+      <jump line="0" column="0" filename="$USER_HOME$/Canonical/SQLair/go-sqlite-bench/results/results.csv" />
+    </project>
+    <project id="$USER_HOME$/Canonical/SQLair/dqlite-bench">
+      <jump line="0" column="0" filename="$USER_HOME$/Canonical/SQLair/dqlite-bench/main.go" />
+      <jump line="157" column="8" filename="$USER_HOME$/Canonical/SQLair/dqlite-bench/dqlite.go" />
+      <jump line="197" column="8" filename="$USER_HOME$/Canonical/SQLair/dqlite-bench/dqlite.go" />
+      <jump line="185" column="10" filename="$USER_HOME$/Canonical/SQLair/dqlite-bench/dqlite.go" />
+      <jump line="187" column="19" filename="$USER_HOME$/Canonical/SQLair/dqlite-bench/dqlite.go" />
+      <jump line="186" column="14" filename="$USER_HOME$/Canonical/SQLair/dqlite-bench/dqlite.go" />
+      <jump line="0" column="0" filename="$USER_HOME$/Canonical/SQLair/dqlite-bench/ops.go" />
+      <jump line="101" column="24" filename="$USER_HOME$/Canonical/SQLair/dqlite-bench/ops.go" />
+      <jump line="231" column="0" filename="$USER_HOME$/Canonical/SQLair/dqlite-bench/ops.go" />
+      <jump line="39" column="15" filename="$USER_HOME$/Canonical/SQLair/dqlite-bench/main.go" />
+      <jump line="38" column="7" filename="$USER_HOME$/Canonical/SQLair/dqlite-bench/main.go" />
+      <jump line="37" column="6" filename="$USER_HOME$/Canonical/SQLair/dqlite-bench/main.go" />
+      <jump line="251" column="35" filename="$USER_HOME$/Canonical/SQLair/dqlite-bench/ops.go" />
+      <jump line="243" column="35" filename="$USER_HOME$/Canonical/SQLair/dqlite-bench/ops.go" />
+      <jump line="155" column="8" filename="$USER_HOME$/Canonical/SQLair/dqlite-bench/dqlite.go" />
+      <jump line="148" column="0" filename="$USER_HOME$/Canonical/SQLair/dqlite-bench/dqlite.go" />
+      <jump line="370" column="10" filename="$USER_HOME$/Canonical/SQLair/dqlite-bench/main.go" />
+      <jump line="369" column="46" filename="$USER_HOME$/Canonical/SQLair/dqlite-bench/main.go" />
+      <jump line="105" column="17" filename="$USER_HOME$/Canonical/SQLair/dqlite-bench/main.go" />
+      <jump line="42" column="0" filename="$USER_HOME$/Canonical/SQLair/dqlite-bench/main.go" />
+      <jump line="43" column="11" filename="$USER_HOME$/Canonical/SQLair/dqlite-bench/main.go" />
+      <jump line="20" column="39" filename="$USER_HOME$/Canonical/SQLair/dqlite-bench/ops.go" />
+      <jump line="45" column="38" filename="$USER_HOME$/Canonical/SQLair/dqlite-bench/ops.go" />
+      <jump line="47" column="34" filename="$USER_HOME$/Canonical/SQLair/dqlite-bench/ops.go" />
+      <jump line="49" column="0" filename="$USER_HOME$/Canonical/SQLair/dqlite-bench/ops.go" />
+      <jump line="219" column="16" filename="$USER_HOME$/Canonical/SQLair/dqlite-bench/ops.go" />
+      <jump line="45" column="13" filename="$USER_HOME$/Canonical/SQLair/dqlite-bench/main.go" />
+      <jump line="321" column="28" filename="$USER_HOME$/Canonical/SQLair/dqlite-bench/main.go" />
+      <jump line="21" column="21" filename="$USER_HOME$/Canonical/SQLair/dqlite-bench/ops.go" />
+      <jump line="257" column="27" filename="$USER_HOME$/Canonical/SQLair/dqlite-bench/ops.go" />
+      <jump line="227" column="17" filename="$USER_HOME$/Canonical/SQLair/dqlite-bench/ops.go" />
+      <jump line="33" column="5" filename="$USER_HOME$/Canonical/SQLair/dqlite-bench/main.go" />
+      <jump line="40" column="4" filename="$USER_HOME$/Canonical/SQLair/dqlite-bench/main.go" />
+      <jump line="110" column="28" filename="$USER_HOME$/Canonical/SQLair/dqlite-bench/main.go" />
+      <jump line="34" column="5" filename="$USER_HOME$/Canonical/SQLair/dqlite-bench/dqlite.go" />
+      <jump line="31" column="5" filename="$USER_HOME$/Canonical/SQLair/dqlite-bench/dqlite.go" />
+      <jump line="119" column="28" filename="$USER_HOME$/Canonical/SQLair/dqlite-bench/main.go" />
+      <jump line="299" column="21" filename="$USER_HOME$/Canonical/SQLair/dqlite-bench/main.go" />
+      <jump line="301" column="24" filename="$USER_HOME$/Canonical/SQLair/dqlite-bench/main.go" />
+      <jump line="28" column="9" filename="$USER_HOME$/Canonical/SQLair/dqlite-bench/main.go" />
+      <jump line="48" column="0" filename="$USER_HOME$/Canonical/SQLair/dqlite-bench/main.go" />
+      <jump line="51" column="27" filename="$USER_HOME$/Canonical/SQLair/dqlite-bench/main.go" />
+      <jump line="34" column="0" filename="$USER_HOME$/Canonical/SQLair/dqlite-bench/main.go" />
+      <jump line="41" column="0" filename="$USER_HOME$/Canonical/SQLair/dqlite-bench/main.go" />
+      <jump line="36" column="10" filename="$USER_HOME$/Canonical/SQLair/dqlite-bench/main.go" />
+      <jump line="16" column="0" filename="$USER_HOME$/Canonical/SQLair/dqlite-bench/dqlite.go" />
+      <jump line="14" column="5" filename="$USER_HOME$/Canonical/SQLair/dqlite-bench/dqlite.go" />
+      <jump line="137" column="12" filename="$USER_HOME$/Canonical/SQLair/dqlite-bench/dqlite.go" />
+      <jump line="73" column="9" filename="$USER_HOME$/Canonical/SQLair/dqlite-bench/dqlite.go" />
+      <jump line="131" column="0" filename="$USER_HOME$/Canonical/SQLair/dqlite-bench/dqlite.go" />
+      <jump line="134" column="21" filename="$USER_HOME$/Canonical/SQLair/dqlite-bench/dqlite.go" />
+      <jump line="284" column="5" filename="$USER_HOME$/Canonical/SQLair/dqlite-bench/ops.go" />
+      <jump line="261" column="21" filename="$USER_HOME$/Canonical/SQLair/dqlite-bench/ops.go" />
+      <jump line="259" column="26" filename="$USER_HOME$/Canonical/SQLair/dqlite-bench/ops.go" />
+      <jump line="258" column="31" filename="$USER_HOME$/Canonical/SQLair/dqlite-bench/ops.go" />
+      <jump line="159" column="13" filename="$USER_HOME$/Canonical/SQLair/dqlite-bench/dqlite.go" />
+      <jump line="138" column="36" filename="$USER_HOME$/Canonical/SQLair/dqlite-bench/dqlite.go" />
+      <jump line="142" column="0" filename="$USER_HOME$/Canonical/SQLair/dqlite-bench/dqlite.go" />
+      <jump line="143" column="24" filename="$USER_HOME$/Canonical/SQLair/dqlite-bench/dqlite.go" />
+      <jump line="140" column="21" filename="$USER_HOME$/Canonical/SQLair/dqlite-bench/dqlite.go" />
+    </project>
+    <project id="$USER_HOME$/Canonical/SQLair/sqlair-bench">
+      <jump line="83" column="45" filename="$USER_HOME$/Canonical/SQLair/wt1/bench/ops.go" />
+      <jump line="81" column="0" filename="$USER_HOME$/Canonical/SQLair/wt1/bench/ops.go" />
+      <jump line="228" column="20" filename="$USER_HOME$/Canonical/SQLair/sqlair-bench/db.go" />
+      <jump line="224" column="97" filename="$USER_HOME$/Canonical/SQLair/sqlair-bench/db.go" />
+      <jump line="68" column="13" filename="$USER_HOME$/Canonical/SQLair/wt1/bench/ops.go" />
+      <jump line="20" column="25" filename="$USER_HOME$/Canonical/SQLair/wt1/bench/ops.go" />
+      <jump line="231" column="50" filename="$USER_HOME$/Canonical/SQLair/sqlair-bench/db.go" />
+      <jump line="246" column="4" filename="$USER_HOME$/Canonical/SQLair/sqlair-bench/db.go" />
+      <jump line="235" column="8" filename="$USER_HOME$/Canonical/SQLair/sqlair-bench/db.go" />
+      <jump line="216" column="21" filename="$USER_HOME$/Canonical/SQLair/sqlair-bench/db.go" />
+      <jump line="233" column="22" filename="$USER_HOME$/Canonical/SQLair/sqlair-bench/db.go" />
+      <jump line="281" column="64" filename="$USER_HOME$/Canonical/SQLair/sqlair-bench/db.go" />
+      <jump line="119" column="25" filename="$USER_HOME$/Canonical/SQLair/wt1/bench/ops.go" />
+      <jump line="140" column="23" filename="$USER_HOME$/Canonical/SQLair/wt1/bench/ops.go" />
+      <jump line="141" column="0" filename="$USER_HOME$/Canonical/SQLair/wt1/bench/ops.go" />
+      <jump line="151" column="0" filename="$USER_HOME$/Canonical/SQLair/wt1/bench/ops.go" />
+      <jump line="309" column="28" filename="$USER_HOME$/Canonical/SQLair/sqlair-bench/db.go" />
+      <jump line="199" column="19" filename="$USER_HOME$/Canonical/SQLair/sqlair-bench/main.go" />
+      <jump line="71" column="25" filename="$USER_HOME$/Canonical/SQLair/sqlair-bench/main.go" />
+      <jump line="78" column="21" filename="$USER_HOME$/Canonical/SQLair/sqlair-bench/main.go" />
+      <jump line="0" column="0" filename="$USER_HOME$/Canonical/SQLair/sqlair-bench/dbwrapper.go" />
+      <jump line="22" column="0" filename="$USER_HOME$/Canonical/SQLair/sqlair-bench/dbwrapper.go" />
+      <jump line="35" column="0" filename="$USER_HOME$/Canonical/SQLair/sqlair-bench/dbwrapper.go" />
+      <jump line="34" column="0" filename="$USER_HOME$/Canonical/SQLair/sqlair-bench/dbwrapper.go" />
+      <jump line="30" column="16" filename="$USER_HOME$/Canonical/SQLair/sqlair-bench/dbwrapper.go" />
+      <jump line="33" column="29" filename="$USER_HOME$/Canonical/SQLair/sqlair-bench/dbwrapper.go" />
+      <jump line="32" column="20" filename="$USER_HOME$/Canonical/SQLair/sqlair-bench/dbwrapper.go" />
+      <jump line="23" column="0" filename="$USER_HOME$/Canonical/SQLair/sqlair-bench/dbwrapper.go" />
+      <jump line="21" column="22" filename="$USER_HOME$/Canonical/SQLair/sqlair-bench/dbwrapper.go" />
+      <jump line="313" column="0" filename="$USER_HOME$/Canonical/SQLair/sqlair-bench/db.go" />
+      <jump line="237" column="78" filename="$USER_HOME$/Canonical/SQLair/sqlair-bench/db.go" />
+      <jump line="208" column="19" filename="$USER_HOME$/Canonical/SQLair/sqlair-bench/db.go" />
+      <jump line="217" column="8" filename="$USER_HOME$/Canonical/SQLair/sqlair-bench/db.go" />
+      <jump line="232" column="45" filename="$USER_HOME$/Canonical/SQLair/sqlair-bench/db.go" />
+      <jump line="282" column="37" filename="$USER_HOME$/Canonical/SQLair/sqlair-bench/db.go" />
+      <jump line="283" column="37" filename="$USER_HOME$/Canonical/SQLair/sqlair-bench/db.go" />
+      <jump line="291" column="38" filename="$USER_HOME$/Canonical/SQLair/sqlair-bench/db.go" />
+      <jump line="23" column="6" filename="$USER_HOME$/Canonical/SQLair/sqlair-bench/db.go" />
+      <jump line="24" column="8" filename="$USER_HOME$/Canonical/SQLair/sqlair-bench/db.go" />
+      <jump line="25" column="4" filename="$USER_HOME$/Canonical/SQLair/sqlair-bench/db.go" />
+      <jump line="40" column="39" filename="$USER_HOME$/Canonical/SQLair/sqlair-bench/db.go" />
+      <jump line="53" column="24" filename="$USER_HOME$/Canonical/SQLair/sqlair-bench/db.go" />
+      <jump line="90" column="18" filename="$USER_HOME$/Canonical/SQLair/sqlair-bench/db.go" />
+      <jump line="128" column="24" filename="$USER_HOME$/Canonical/SQLair/sqlair-bench/db.go" />
+      <jump line="155" column="24" filename="$USER_HOME$/Canonical/SQLair/sqlair-bench/db.go" />
+      <jump line="186" column="4" filename="$USER_HOME$/Canonical/SQLair/sqlair-bench/db.go" />
+      <jump line="214" column="17" filename="$USER_HOME$/Canonical/SQLair/sqlair-bench/db.go" />
+      <jump line="244" column="8" filename="$USER_HOME$/Canonical/SQLair/sqlair-bench/db.go" />
+      <jump line="247" column="17" filename="$USER_HOME$/Canonical/SQLair/sqlair-bench/db.go" />
+      <jump line="253" column="18" filename="$USER_HOME$/Canonical/SQLair/sqlair-bench/db.go" />
+      <jump line="263" column="18" filename="$USER_HOME$/Canonical/SQLair/sqlair-bench/db.go" />
+      <jump line="270" column="21" filename="$USER_HOME$/Canonical/SQLair/sqlair-bench/db.go" />
+      <jump line="301" column="5" filename="$USER_HOME$/Canonical/SQLair/sqlair-bench/db.go" />
+      <jump line="299" column="17" filename="$USER_HOME$/Canonical/SQLair/sqlair-bench/db.go" />
+      <jump line="77" column="22" filename="$USER_HOME$/Canonical/SQLair/sqlair-bench/main.go" />
+      <jump line="120" column="8" filename="$USER_HOME$/Canonical/SQLair/sqlair-bench/ops.go" />
+      <jump line="122" column="27" filename="$USER_HOME$/Canonical/SQLair/sqlair-bench/ops.go" />
+      <jump line="152" column="25" filename="$USER_HOME$/Canonical/SQLair/sqlair-bench/ops.go" />
+      <jump line="293" column="31" filename="$USER_HOME$/Canonical/SQLair/sqlair-bench/db.go" />
+      <jump line="324" column="11" filename="$USER_HOME$/Canonical/SQLair/sqlair-bench/db.go" />
+      <jump line="118" column="120" filename="$USER_HOME$/Canonical/SQLair/sqlair-bench/db.go" />
+      <jump line="126" column="8" filename="$USER_HOME$/Canonical/SQLair/sqlair-bench/db.go" />
+      <jump line="130" column="15" filename="$USER_HOME$/Canonical/SQLair/sqlair-bench/db.go" />
+      <jump line="143" column="25" filename="$USER_HOME$/Canonical/SQLair/sqlair-bench/db.go" />
+      <jump line="149" column="11" filename="$USER_HOME$/Canonical/SQLair/sqlair-bench/db.go" />
+      <jump line="153" column="8" filename="$USER_HOME$/Canonical/SQLair/sqlair-bench/db.go" />
+      <jump line="156" column="15" filename="$USER_HOME$/Canonical/SQLair/sqlair-bench/db.go" />
+      <jump line="170" column="25" filename="$USER_HOME$/Canonical/SQLair/sqlair-bench/db.go" />
+      <jump line="177" column="11" filename="$USER_HOME$/Canonical/SQLair/sqlair-bench/db.go" />
+      <jump line="164" column="8" filename="$USER_HOME$/Canonical/SQLair/sqlair-bench/db.go" />
+      <jump line="133" column="20" filename="$USER_HOME$/Canonical/SQLair/sqlair-bench/db.go" />
+      <jump line="152" column="40" filename="$USER_HOME$/Canonical/SQLair/sqlair-bench/db.go" />
+      <jump line="288" column="38" filename="$USER_HOME$/Canonical/SQLair/sqlair-bench/db.go" />
+      <jump line="311" column="42" filename="$USER_HOME$/Canonical/SQLair/sqlair-bench/db.go" />
+      <jump line="319" column="22" filename="$USER_HOME$/Canonical/SQLair/sqlair-bench/db.go" />
+      <jump line="322" column="17" filename="$USER_HOME$/Canonical/SQLair/sqlair-bench/db.go" />
+      <jump line="302" column="21" filename="$USER_HOME$/Canonical/SQLair/sqlair-bench/db.go" />
+      <jump line="317" column="25" filename="$USER_HOME$/Canonical/SQLair/sqlair-bench/db.go" />
+      <jump line="314" column="28" filename="$USER_HOME$/Canonical/SQLair/sqlair-bench/db.go" />
+      <jump line="321" column="21" filename="$USER_HOME$/Canonical/SQLair/sqlair-bench/db.go" />
+      <jump line="300" column="14" filename="$USER_HOME$/Canonical/SQLair/sqlair-bench/db.go" />
+      <jump line="310" column="1" filename="$USER_HOME$/Canonical/SQLair/sqlair-bench/db.go" />
+      <jump line="325" column="24" filename="$USER_HOME$/Canonical/SQLair/sqlair-bench/db.go" />
+      <jump line="308" column="5" filename="$USER_HOME$/Canonical/SQLair/sqlair-bench/db.go" />
+      <jump line="257" column="0" filename="$USER_HOME$/Canonical/SQLair/sqlair-bench/db.go" />
+      <jump line="259" column="24" filename="$USER_HOME$/Canonical/SQLair/sqlair-bench/db.go" />
+      <jump line="258" column="26" filename="$USER_HOME$/Canonical/SQLair/sqlair-bench/db.go" />
+      <jump line="318" column="28" filename="$USER_HOME$/Canonical/SQLair/sqlair-bench/db.go" />
+      <jump line="287" column="0" filename="$USER_HOME$/Canonical/SQLair/sqlair-bench/db.go" />
+      <jump line="260" column="41" filename="$USER_HOME$/Canonical/SQLair/sqlair-bench/db.go" />
+      <jump line="78" column="21" filename="$USER_HOME$/Canonical/SQLair/sqlair-bench/db.go" />
+      <jump line="27" column="4" filename="$USER_HOME$/Canonical/SQLair/sqlair-bench/db.go" />
+      <jump line="52" column="14" filename="$USER_HOME$/Canonical/SQLair/sqlair-bench/db.go" />
+      <jump line="30" column="5" filename="$USER_HOME$/Canonical/SQLair/sqlair-bench/db.go" />
+      <jump line="31" column="17" filename="$USER_HOME$/Canonical/SQLair/sqlair-bench/db.go" />
+      <jump line="454" column="5" filename="/snap/go/current/src/database/sql/sql.go" />
+      <jump line="39" column="0" filename="$USER_HOME$/Canonical/SQLair/sqlair-bench/dbprovider.go" />
+      <jump line="266" column="0" filename="/snap/go/current/src/runtime/proc.go" />
+      <jump line="43" column="0" filename="$USER_HOME$/go/pkg/mod/github.com/prometheus/client_golang@v1.17.0/prometheus/timer.go" />
+      <jump line="27" column="22" filename="$USER_HOME$/Canonical/SQLair/sqlair-bench/dbwrapper.go" />
+    </project>
+    <project id="$USER_HOME$/Canonical/juju">
+      <jump line="152" column="22" filename="$USER_HOME$/Canonical/juju/domain/network/state/subnet.go" />
+      <jump line="96" column="4" filename="$USER_HOME$/Canonical/juju/domain/network/state/subnet.go" />
+      <jump line="147" column="4" filename="$USER_HOME$/Canonical/juju/domain/network/state/subnet.go" />
+      <jump line="176" column="4" filename="$USER_HOME$/Canonical/juju/domain/network/state/space.go" />
+      <jump line="178" column="31" filename="$USER_HOME$/Canonical/juju/domain/network/state/subnet.go" />
+      <jump line="182" column="0" filename="$USER_HOME$/Canonical/juju/domain/network/state/subnet.go" />
+      <jump line="51" column="42" filename="$USER_HOME$/Canonical/juju/domain/network/state/types.go" />
+      <jump line="52" column="6" filename="$USER_HOME$/Canonical/juju/domain/network/state/types.go" />
+      <jump line="60" column="5" filename="$USER_HOME$/Canonical/juju/domain/network/state/types.go" />
+      <jump line="110" column="36" filename="$USER_HOME$/Canonical/juju/domain/network/state/space.go" />
+      <jump line="50" column="4" filename="$USER_HOME$/Canonical/juju/domain/network/state/space.go" />
+      <jump line="55" column="4" filename="$USER_HOME$/Canonical/juju/domain/network/state/space.go" />
+      <jump line="405" column="14" filename="$USER_HOME$/Canonical/juju/domain/network/state/subnet.go" />
+      <jump line="343" column="15" filename="$USER_HOME$/Canonical/juju/domain/network/state/space.go" />
+      <jump line="341" column="0" filename="$USER_HOME$/Canonical/juju/domain/network/state/space.go" />
+      <jump line="135" column="0" filename="$USER_HOME$/Canonical/juju/domain/network/state/space.go" />
+      <jump line="171" column="33" filename="$USER_HOME$/Canonical/juju/domain/network/state/space.go" />
+      <jump line="307" column="21" filename="$USER_HOME$/Canonical/juju/domain/network/state/space.go" />
+      <jump line="322" column="58" filename="$USER_HOME$/Canonical/juju/domain/network/state/space.go" />
+      <jump line="344" column="4" filename="$USER_HOME$/Canonical/juju/domain/network/state/space.go" />
+      <jump line="345" column="4" filename="$USER_HOME$/Canonical/juju/domain/network/state/space.go" />
+      <jump line="1" column="47" filename="$USER_HOME$/Canonical/juju/domain/network/state/space.go" />
+      <jump line="18" column="27" filename="$USER_HOME$/Canonical/juju/domain/network/state/space.go" />
+      <jump line="23" column="32" filename="$USER_HOME$/Canonical/juju/domain/network/state/space.go" />
+      <jump line="77" column="4" filename="$USER_HOME$/Canonical/juju/domain/network/state/space.go" />
+      <jump line="96" column="12" filename="$USER_HOME$/Canonical/juju/domain/network/state/space.go" />
+      <jump line="104" column="34" filename="$USER_HOME$/Canonical/juju/domain/network/state/space.go" />
+      <jump line="120" column="69" filename="$USER_HOME$/Canonical/juju/domain/network/state/space.go" />
+      <jump line="348" column="25" filename="$USER_HOME$/Canonical/juju/domain/network/state/space.go" />
+      <jump line="346" column="26" filename="$USER_HOME$/Canonical/juju/domain/network/state/space.go" />
+      <jump line="130" column="10" filename="$USER_HOME$/Canonical/juju/domain/network/state/space.go" />
+      <jump line="105" column="0" filename="$USER_HOME$/Canonical/juju/domain/network/state/space.go" />
+      <jump line="91" column="8" filename="$USER_HOME$/Canonical/juju/domain/network/state/space.go" />
+      <jump line="498" column="0" filename="$USER_HOME$/Canonical/juju/domain/network/state/space_test.go" />
+      <jump line="101" column="5" filename="$USER_HOME$/Canonical/juju/domain/credential/types.go" />
+      <jump line="172" column="24" filename="$USER_HOME$/Canonical/juju/domain/network/state/space_test.go" />
+      <jump line="222" column="0" filename="$USER_HOME$/Canonical/juju/domain/network/state/space_test.go" />
+      <jump line="228" column="90" filename="$USER_HOME$/Canonical/juju/domain/network/state/space_test.go" />
+      <jump line="61" column="32" filename="$USER_HOME$/Canonical/juju/domain/network/state/types.go" />
+      <jump line="95" column="53" filename="$USER_HOME$/Canonical/juju/domain/network/state/space.go" />
+      <jump line="214" column="52" filename="$USER_HOME$/Canonical/juju/domain/network/state/space_test.go" />
+      <jump line="212" column="40" filename="$USER_HOME$/Canonical/juju/domain/network/state/space_test.go" />
+      <jump line="213" column="46" filename="$USER_HOME$/Canonical/juju/domain/network/state/space_test.go" />
+      <jump line="215" column="32" filename="$USER_HOME$/Canonical/juju/domain/network/state/space_test.go" />
+      <jump line="230" column="17" filename="$USER_HOME$/Canonical/juju/domain/network/state/space_test.go" />
+      <jump line="231" column="65" filename="$USER_HOME$/Canonical/juju/domain/network/state/space_test.go" />
+      <jump line="229" column="48" filename="$USER_HOME$/Canonical/juju/domain/network/state/space_test.go" />
+      <jump line="225" column="0" filename="$USER_HOME$/Canonical/juju/domain/network/state/space_test.go" />
+      <jump line="92" column="23" filename="$USER_HOME$/Canonical/juju/domain/network/state/space.go" />
+      <jump line="86" column="33" filename="$USER_HOME$/Canonical/juju/domain/network/state/space.go" />
+      <jump line="66" column="4" filename="$USER_HOME$/Canonical/juju/domain/network/state/space.go" />
+      <jump line="70" column="31" filename="$USER_HOME$/Canonical/juju/domain/network/state/space.go" />
+      <jump line="508" column="0" filename="$USER_HOME$/Canonical/juju/domain/network/state/subnet.go" />
+      <jump line="72" column="54" filename="$USER_HOME$/Canonical/juju/domain/network/state/subnet.go" />
+      <jump line="111" column="8" filename="$USER_HOME$/Canonical/juju/domain/network/state/subnet.go" />
+      <jump line="71" column="4" filename="$USER_HOME$/Canonical/juju/domain/network/state/subnet.go" />
+      <jump line="117" column="33" filename="$USER_HOME$/Canonical/juju/domain/network/state/subnet.go" />
+      <jump line="69" column="7" filename="$USER_HOME$/Canonical/juju/domain/network/state/space.go" />
+      <jump line="206" column="4" filename="$USER_HOME$/Canonical/juju/domain/network/state/space_test.go" />
+      <jump line="73" column="19" filename="$USER_HOME$/Canonical/juju/domain/network/state/subnet.go" />
+      <jump line="77" column="23" filename="$USER_HOME$/Canonical/juju/domain/network/state/subnet.go" />
+      <jump line="60" column="25" filename="$USER_HOME$/Canonical/juju/domain/network/state/subnet.go" />
+      <jump line="202" column="0" filename="$USER_HOME$/Canonical/juju/domain/network/state/space_test.go" />
+      <jump line="193" column="22" filename="$USER_HOME$/Canonical/juju/domain/network/state/space_test.go" />
+      <jump line="71" column="29" filename="$USER_HOME$/Canonical/juju/domain/network/state/space.go" />
+      <jump line="114" column="21" filename="$USER_HOME$/Canonical/juju/domain/network/state/space.go" />
+      <jump line="112" column="8" filename="$USER_HOME$/Canonical/juju/domain/network/state/space.go" />
+      <jump line="328" column="21" filename="$USER_HOME$/Canonical/juju/domain/network/state/space.go" />
+      <jump line="44" column="0" filename="$USER_HOME$/Canonical/juju/domain/network/state/space.go" />
+      <jump line="43" column="32" filename="$USER_HOME$/Canonical/juju/domain/network/state/space.go" />
+      <jump line="45" column="15" filename="$USER_HOME$/Canonical/juju/domain/network/state/space.go" />
+      <jump line="86" column="0" filename="$USER_HOME$/Canonical/juju/domain/network/state/subnet.go" />
+      <jump line="286" column="17" filename="$USER_HOME$/Canonical/juju/domain/network/state/subnet.go" />
+      <jump line="104" column="90" filename="$USER_HOME$/Canonical/juju/domain/network/state/subnet.go" />
+      <jump line="126" column="12" filename="$USER_HOME$/Canonical/juju/domain/network/state/space.go" />
+      <jump line="52" column="79" filename="$USER_HOME$/Canonical/juju/domain/network/state/space.go" />
+      <jump line="46" column="18" filename="$USER_HOME$/Canonical/juju/domain/network/state/space.go" />
+      <jump line="88" column="0" filename="$USER_HOME$/Canonical/juju/domain/network/state/space.go" />
+      <jump line="99" column="28" filename="$USER_HOME$/Canonical/juju/domain/network/state/space.go" />
+      <jump line="106" column="32" filename="$USER_HOME$/Canonical/juju/domain/network/state/subnet.go" />
+      <jump line="196" column="87" filename="$USER_HOME$/Canonical/juju/domain/network/state/subnet.go" />
+      <jump line="202" column="57" filename="$USER_HOME$/Canonical/juju/domain/network/state/subnet.go" />
+      <jump line="203" column="31" filename="$USER_HOME$/Canonical/juju/domain/network/state/subnet.go" />
+      <jump line="211" column="85" filename="$USER_HOME$/Canonical/juju/domain/network/state/space_test.go" />
+      <jump line="197" column="25" filename="$USER_HOME$/Canonical/juju/domain/network/state/subnet.go" />
+      <jump line="0" column="31" filename="$USER_HOME$/Canonical/juju/domain/network/state/types.go" />
+      <jump line="0" column="0" filename="$USER_HOME$/Canonical/juju/domain/network/service/state_mock_test.go" />
+      <jump line="51" column="21" filename="$USER_HOME$/Canonical/juju/core/network/subnet.go" />
+      <jump line="667" column="0" filename="$USER_HOME$/Canonical/juju/domain/schema/model.go" />
+      <jump line="536" column="5" filename="$USER_HOME$/Canonical/juju/domain/user/state/state.go" />
+      <jump line="164" column="53" filename="$USER_HOME$/Canonical/juju/domain/credential/state/state.go" />
+      <jump line="0" column="0" filename="$USER_HOME$/Canonical/juju/domain/modelconfig/state/state.go" />
+      <jump line="30" column="7" filename="$USER_HOME$/Canonical/juju/domain/modelconfig/state/state.go" />
+      <jump line="32" column="20" filename="$USER_HOME$/Canonical/juju/domain/modelconfig/state/state.go" />
+      <jump line="36" column="55" filename="$USER_HOME$/Canonical/juju/domain/modelconfig/state/state.go" />
+      <jump line="37" column="41" filename="$USER_HOME$/Canonical/juju/domain/modelconfig/state/state.go" />
+      <jump line="45" column="0" filename="$USER_HOME$/Canonical/juju/domain/modelconfig/state/state.go" />
+      <jump line="52" column="17" filename="$USER_HOME$/Canonical/juju/domain/modelconfig/state/state.go" />
+      <jump line="51" column="20" filename="$USER_HOME$/Canonical/juju/domain/modelconfig/state/state.go" />
+      <jump line="53" column="28" filename="$USER_HOME$/Canonical/juju/domain/modelconfig/state/state.go" />
+    </project>
+    <project id="$USER_HOME$/Canonical/Juju/juju">
+      <jump line="0" column="0" filename="$USER_HOME$/Canonical/Juju/juju/domain/user/state/state.go" />
+      <jump line="119" column="22" filename="$USER_HOME$/Canonical/Juju/juju/domain/user/state/state.go" />
+      <jump line="170" column="34" filename="$USER_HOME$/Canonical/Juju/juju/domain/user/state/state.go" />
+      <jump line="209" column="31" filename="$USER_HOME$/Canonical/Juju/juju/domain/user/state/state.go" />
+      <jump line="257" column="40" filename="$USER_HOME$/Canonical/Juju/juju/domain/user/state/state.go" />
+      <jump line="304" column="36" filename="$USER_HOME$/Canonical/Juju/juju/domain/user/state/state.go" />
+      <jump line="356" column="27" filename="$USER_HOME$/Canonical/Juju/juju/domain/user/state/state.go" />
+      <jump line="361" column="26" filename="$USER_HOME$/Canonical/Juju/juju/domain/user/state/state.go" />
+      <jump line="366" column="27" filename="$USER_HOME$/Canonical/Juju/juju/domain/user/state/state.go" />
+      <jump line="412" column="27" filename="$USER_HOME$/Canonical/Juju/juju/domain/user/state/state.go" />
+      <jump line="447" column="26" filename="$USER_HOME$/Canonical/Juju/juju/domain/user/state/state.go" />
+      <jump line="492" column="26" filename="$USER_HOME$/Canonical/Juju/juju/domain/user/state/state.go" />
+      <jump line="534" column="27" filename="$USER_HOME$/Canonical/Juju/juju/domain/user/state/state.go" />
+      <jump line="575" column="28" filename="$USER_HOME$/Canonical/Juju/juju/domain/user/state/state.go" />
+      <jump line="638" column="32" filename="$USER_HOME$/Canonical/Juju/juju/domain/user/state/state.go" />
+      <jump line="667" column="30" filename="$USER_HOME$/Canonical/Juju/juju/domain/user/state/state.go" />
+      <jump line="710" column="47" filename="$USER_HOME$/Canonical/Juju/juju/domain/user/state/state.go" />
+      <jump line="758" column="38" filename="$USER_HOME$/Canonical/Juju/juju/domain/user/state/state.go" />
+      <jump line="793" column="39" filename="$USER_HOME$/Canonical/Juju/juju/domain/user/state/state.go" />
+      <jump line="831" column="8" filename="$USER_HOME$/Canonical/Juju/juju/domain/user/state/state.go" />
+      <jump line="244" column="31" filename="$USER_HOME$/Canonical/Juju/juju/domain/credential/state/state.go" />
+      <jump line="240" column="0" filename="$USER_HOME$/Canonical/Juju/juju/domain/user/state/state.go" />
+      <jump line="663" column="8" filename="$USER_HOME$/Canonical/Juju/juju/domain/user/state/state.go" />
+      <jump line="661" column="35" filename="$USER_HOME$/Canonical/Juju/juju/domain/user/state/state.go" />
+      <jump line="692" column="3" filename="$USER_HOME$/Canonical/Juju/juju/domain/user/state/state.go" />
+      <jump line="760" column="66" filename="$USER_HOME$/Canonical/Juju/juju/domain/user/state/state.go" />
+      <jump line="823" column="59" filename="$USER_HOME$/Canonical/Juju/juju/domain/user/state/state.go" />
+      <jump line="669" column="38" filename="$USER_HOME$/Canonical/Juju/juju/domain/user/state/state.go" />
+      <jump line="681" column="34" filename="$USER_HOME$/Canonical/Juju/juju/domain/user/state/state.go" />
+      <jump line="671" column="23" filename="$USER_HOME$/Canonical/Juju/juju/domain/user/state/state.go" />
+      <jump line="197" column="3" filename="$USER_HOME$/Canonical/Juju/juju/domain/user/state/state.go" />
+      <jump line="206" column="24" filename="$USER_HOME$/Canonical/Juju/juju/domain/user/state/state.go" />
+      <jump line="210" column="32" filename="$USER_HOME$/Canonical/Juju/juju/domain/user/state/state.go" />
+      <jump line="200" column="17" filename="$USER_HOME$/Canonical/Juju/juju/domain/user/state/state.go" />
+      <jump line="199" column="23" filename="$USER_HOME$/Canonical/Juju/juju/domain/user/state/state.go" />
+      <jump line="198" column="22" filename="$USER_HOME$/Canonical/Juju/juju/domain/user/state/state.go" />
+      <jump line="227" column="15" filename="$USER_HOME$/Canonical/Juju/juju/domain/user/state/state.go" />
+      <jump line="711" column="0" filename="$USER_HOME$/Canonical/Juju/juju/domain/user/state/state.go" />
+      <jump line="747" column="11" filename="$USER_HOME$/Canonical/Juju/juju/domain/user/state/state.go" />
+      <jump line="697" column="4" filename="$USER_HOME$/Canonical/Juju/juju/domain/user/state/state.go" />
+      <jump line="615" column="23" filename="$USER_HOME$/Canonical/Juju/juju/domain/user/state/state.go" />
+      <jump line="509" column="28" filename="$USER_HOME$/Canonical/Juju/juju/domain/user/state/state.go" />
+      <jump line="829" column="0" filename="$USER_HOME$/Canonical/Juju/juju/domain/user/state/state.go" />
+      <jump line="832" column="24" filename="$USER_HOME$/Canonical/Juju/juju/domain/user/state/state.go" />
+      <jump line="833" column="34" filename="$USER_HOME$/Canonical/Juju/juju/domain/user/state/state.go" />
+      <jump line="827" column="0" filename="$USER_HOME$/Canonical/Juju/juju/domain/user/state/state.go" />
+      <jump line="712" column="54" filename="$USER_HOME$/Canonical/Juju/juju/domain/user/state/state.go" />
+      <jump line="723" column="5" filename="$USER_HOME$/Canonical/Juju/juju/domain/user/state/state.go" />
+      <jump line="795" column="44" filename="$USER_HOME$/Canonical/Juju/juju/domain/user/state/state.go" />
+      <jump line="782" column="47" filename="$USER_HOME$/Canonical/Juju/juju/domain/user/state/state.go" />
+      <jump line="786" column="0" filename="$USER_HOME$/Canonical/Juju/juju/domain/user/state/state.go" />
+      <jump line="140" column="0" filename="$USER_HOME$/Canonical/Juju/juju/domain/user/state/state.go" />
+      <jump line="137" column="28" filename="$USER_HOME$/Canonical/Juju/juju/domain/user/state/state.go" />
+      <jump line="110" column="3" filename="$USER_HOME$/Canonical/Juju/juju/domain/user/state/state.go" />
+      <jump line="113" column="17" filename="$USER_HOME$/Canonical/Juju/juju/domain/user/state/state.go" />
+      <jump line="130" column="14" filename="$USER_HOME$/Canonical/Juju/juju/domain/user/state/state.go" />
+      <jump line="136" column="51" filename="$USER_HOME$/Canonical/Juju/juju/domain/user/state/state.go" />
+      <jump line="127" column="0" filename="$USER_HOME$/Canonical/Juju/juju/domain/user/state/state.go" />
+      <jump line="138" column="27" filename="$USER_HOME$/Canonical/Juju/juju/domain/user/state/state.go" />
+      <jump line="371" column="1" filename="$USER_HOME$/Canonical/Juju/juju/domain/blockdevice/state/state.go" />
+      <jump line="373" column="40" filename="$USER_HOME$/Canonical/Juju/juju/domain/blockdevice/state/state.go" />
+      <jump line="367" column="27" filename="$USER_HOME$/Canonical/Juju/juju/domain/blockdevice/state/state.go" />
+      <jump line="368" column="5" filename="$USER_HOME$/Canonical/Juju/juju/domain/blockdevice/state/state.go" />
+      <jump line="381" column="0" filename="$USER_HOME$/Canonical/Juju/juju/domain/blockdevice/state/state.go" />
+      <jump line="171" column="105" filename="$USER_HOME$/Canonical/Juju/juju/domain/blockdevice/state/state.go" />
+      <jump line="297" column="0" filename="$USER_HOME$/Canonical/Juju/juju/domain/credential/state/state.go" />
+      <jump line="266" column="27" filename="$USER_HOME$/Canonical/Juju/juju/domain/credential/state/state.go" />
+      <jump line="236" column="30" filename="$USER_HOME$/Canonical/Juju/juju/domain/credential/state/state.go" />
+      <jump line="550" column="22" filename="$USER_HOME$/Canonical/Juju/juju/domain/credential/state/state_test.go" />
+      <jump line="278" column="29" filename="$USER_HOME$/Canonical/Juju/juju/domain/credential/state/state.go" />
+      <jump line="0" column="0" filename="$USER_HOME$/Canonical/Juju/juju/domain/user/state/state_test.go" />
+      <jump line="141" column="32" filename="$USER_HOME$/Canonical/Juju/juju/domain/user/state/state_test.go" />
+      <jump line="328" column="36" filename="$USER_HOME$/Canonical/Juju/juju/domain/blockdevice/state/state.go" />
+      <jump line="268" column="40" filename="$USER_HOME$/Canonical/Juju/juju/domain/credential/state/state.go" />
+      <jump line="281" column="42" filename="$USER_HOME$/Canonical/Juju/juju/domain/credential/state/state.go" />
+      <jump line="585" column="8" filename="$USER_HOME$/Canonical/Juju/juju/domain/credential/state/state.go" />
+      <jump line="592" column="4" filename="$USER_HOME$/Canonical/Juju/juju/domain/credential/state/state.go" />
+      <jump line="375" column="42" filename="$USER_HOME$/Canonical/Juju/juju/domain/network/state/subnet.go" />
+      <jump line="380" column="0" filename="$USER_HOME$/Canonical/Juju/juju/domain/network/state/subnet.go" />
+      <jump line="382" column="11" filename="$USER_HOME$/Canonical/Juju/juju/domain/network/state/subnet.go" />
+      <jump line="184" column="47" filename="$USER_HOME$/Canonical/Juju/juju/domain/network/state/space.go" />
+      <jump line="215" column="41" filename="$USER_HOME$/Canonical/Juju/juju/domain/network/state/space.go" />
+      <jump line="216" column="25" filename="$USER_HOME$/Canonical/Juju/juju/domain/network/state/space.go" />
+      <jump line="218" column="4" filename="$USER_HOME$/Canonical/Juju/juju/domain/network/state/space.go" />
+      <jump line="0" column="0" filename="$USER_HOME$/Canonical/Juju/juju/domain/annotation/state/types.go" />
+      <jump line="0" column="0" filename="$USER_HOME$/Canonical/Juju/juju/domain/annotation/state/state.go" />
+      <jump line="11" column="14" filename="$USER_HOME$/Canonical/Juju/juju/domain/annotation/state/state.go" />
+      <jump line="64" column="4" filename="$USER_HOME$/Canonical/Juju/juju/domain/annotation/state/state.go" />
+      <jump line="124" column="4" filename="$USER_HOME$/Canonical/Juju/juju/domain/annotation/state/state.go" />
+      <jump line="132" column="43" filename="$USER_HOME$/Canonical/Juju/juju/domain/annotation/state/state.go" />
+      <jump line="355" column="131" filename="$USER_HOME$/Canonical/Juju/juju/domain/permission/state/state.go" />
+      <jump line="349" column="20" filename="$USER_HOME$/Canonical/Juju/juju/domain/permission/state/state.go" />
+      <jump line="192" column="58" filename="$USER_HOME$/Canonical/Juju/juju/domain/permission/state/state.go" />
+      <jump line="202" column="25" filename="$USER_HOME$/Canonical/Juju/juju/domain/permission/state/state.go" />
+      <jump line="206" column="29" filename="$USER_HOME$/Canonical/Juju/juju/domain/permission/state/state.go" />
+      <jump line="15" column="30" filename="$USER_HOME$/Canonical/Juju/juju/domain/objectstore/state/state.go" />
+      <jump line="108" column="30" filename="$USER_HOME$/Canonical/Juju/juju/domain/externalcontroller/state/state.go" />
+      <jump line="70" column="32" filename="$USER_HOME$/Canonical/Juju/juju/domain/externalcontroller/state/state.go" />
+      <jump line="0" column="0" filename="$USER_HOME$/Canonical/Juju/juju/go.mod" />
+      <jump line="318" column="57" filename="$USER_HOME$/Canonical/Juju/juju/go.mod" />
+    </project>
+    <project id="$USER_HOME$/Canonical/Juju/juju2">
+      <jump line="207" column="4" filename="$USER_HOME$/Canonical/Juju/juju2/apiserver/facades/client/keymanager/keymanager_test.go" />
+      <jump line="221" column="31" filename="$USER_HOME$/Canonical/Juju/juju2/apiserver/facades/client/keymanager/keymanager_test.go" />
+      <jump line="220" column="29" filename="$USER_HOME$/Canonical/Juju/juju2/apiserver/facades/client/keymanager/keymanager_test.go" />
+      <jump line="223" column="23" filename="$USER_HOME$/Canonical/Juju/juju2/apiserver/facades/client/keymanager/keymanager_test.go" />
+      <jump line="217" column="33" filename="$USER_HOME$/Canonical/Juju/juju2/apiserver/facades/client/keymanager/keymanager_test.go" />
+      <jump line="219" column="4" filename="$USER_HOME$/Canonical/Juju/juju2/apiserver/facades/client/keymanager/keymanager_test.go" />
+      <jump line="212" column="29" filename="$USER_HOME$/Canonical/Juju/juju2/apiserver/facades/client/keymanager/keymanager_test.go" />
+      <jump line="218" column="31" filename="$USER_HOME$/Canonical/Juju/juju2/apiserver/facades/client/keymanager/keymanager_test.go" />
+      <jump line="291" column="58" filename="$USER_HOME$/Canonical/Juju/juju2/apiserver/facades/client/keymanager/keymanager_test.go" />
+      <jump line="312" column="43" filename="$USER_HOME$/Canonical/Juju/juju2/apiserver/facades/client/keymanager/keymanager_test.go" />
+      <jump line="208" column="5" filename="$USER_HOME$/Canonical/Juju/juju2/apiserver/facades/client/keymanager/keymanager_test.go" />
+      <jump line="209" column="33" filename="$USER_HOME$/Canonical/Juju/juju2/apiserver/facades/client/keymanager/keymanager_test.go" />
+      <jump line="274" column="4" filename="$USER_HOME$/Canonical/Juju/juju2/apiserver/facades/client/keymanager/keymanager_test.go" />
+      <jump line="353" column="23" filename="$USER_HOME$/Canonical/Juju/juju2/apiserver/facades/client/keymanager/keymanager.go" />
+      <jump line="347" column="34" filename="$USER_HOME$/Canonical/Juju/juju2/apiserver/facades/client/keymanager/keymanager.go" />
+      <jump line="211" column="22" filename="$USER_HOME$/Canonical/Juju/juju2/apiserver/facades/client/keymanager/keymanager_test.go" />
+      <jump line="314" column="17" filename="$USER_HOME$/Canonical/Juju/juju2/apiserver/facades/client/keymanager/keymanager.go" />
+      <jump line="318" column="25" filename="$USER_HOME$/Canonical/Juju/juju2/apiserver/facades/client/keymanager/keymanager.go" />
+      <jump line="315" column="19" filename="$USER_HOME$/Canonical/Juju/juju2/apiserver/facades/client/keymanager/keymanager.go" />
+      <jump line="321" column="4" filename="$USER_HOME$/Canonical/Juju/juju2/apiserver/facades/client/keymanager/keymanager.go" />
+      <jump line="316" column="8" filename="$USER_HOME$/Canonical/Juju/juju2/apiserver/facades/client/keymanager/keymanager.go" />
+      <jump line="331" column="19" filename="$USER_HOME$/Canonical/Juju/juju2/apiserver/facades/client/keymanager/keymanager.go" />
+      <jump line="157" column="11" filename="$USER_HOME$/Canonical/Juju/juju2/apiserver/facades/client/keymanager/keymanager.go" />
+      <jump line="160" column="16" filename="$USER_HOME$/Canonical/Juju/juju2/apiserver/facades/client/keymanager/keymanager.go" />
+      <jump line="330" column="12" filename="$USER_HOME$/Canonical/Juju/juju2/apiserver/facades/client/keymanager/keymanager.go" />
+      <jump line="25" column="4" filename="$USER_HOME$/Canonical/Juju/juju2/apiserver/facades/client/keymanager/keymanager.go" />
+      <jump line="155" column="53" filename="$USER_HOME$/Canonical/Juju/juju2/apiserver/facades/client/keymanager/keymanager.go" />
+      <jump line="158" column="19" filename="$USER_HOME$/Canonical/Juju/juju2/apiserver/facades/client/keymanager/keymanager.go" />
+      <jump line="161" column="4" filename="$USER_HOME$/Canonical/Juju/juju2/apiserver/facades/client/keymanager/keymanager.go" />
+      <jump line="159" column="8" filename="$USER_HOME$/Canonical/Juju/juju2/apiserver/facades/client/keymanager/keymanager.go" />
+      <jump line="230" column="12" filename="$USER_HOME$/Canonical/Juju/juju2/apiserver/facades/client/keymanager/keymanager.go" />
+      <jump line="236" column="16" filename="$USER_HOME$/Canonical/Juju/juju2/apiserver/facades/client/keymanager/keymanager.go" />
+      <jump line="287" column="16" filename="$USER_HOME$/Canonical/Juju/juju2/apiserver/facades/client/keymanager/keymanager.go" />
+      <jump line="295" column="8" filename="$USER_HOME$/Canonical/Juju/juju2/apiserver/facades/client/keymanager/keymanager.go" />
+      <jump line="286" column="36" filename="$USER_HOME$/Canonical/Juju/juju2/apiserver/facades/client/keymanager/keymanager.go" />
+      <jump line="283" column="23" filename="$USER_HOME$/Canonical/Juju/juju2/apiserver/facades/client/keymanager/keymanager.go" />
+      <jump line="291" column="23" filename="$USER_HOME$/Canonical/Juju/juju2/apiserver/facades/client/keymanager/keymanager.go" />
+      <jump line="281" column="34" filename="$USER_HOME$/Canonical/Juju/juju2/apiserver/facades/client/keymanager/keymanager.go" />
+      <jump line="285" column="45" filename="$USER_HOME$/Canonical/Juju/juju2/apiserver/facades/client/keymanager/keymanager.go" />
+      <jump line="329" column="19" filename="$USER_HOME$/Canonical/Juju/juju2/apiserver/facades/client/keymanager/keymanager.go" />
+      <jump line="310" column="26" filename="$USER_HOME$/Canonical/Juju/juju2/apiserver/facades/client/keymanager/keymanager.go" />
+      <jump line="308" column="3" filename="$USER_HOME$/Canonical/Juju/juju2/apiserver/facades/client/keymanager/keymanager.go" />
+      <jump line="309" column="26" filename="$USER_HOME$/Canonical/Juju/juju2/apiserver/facades/client/keymanager/keymanager.go" />
+      <jump line="349" column="39" filename="$USER_HOME$/Canonical/Juju/juju2/apiserver/facades/client/keymanager/keymanager.go" />
+      <jump line="326" column="52" filename="$USER_HOME$/Canonical/Juju/juju2/apiserver/facades/client/keymanager/keymanager.go" />
+      <jump line="112" column="51" filename="$USER_HOME$/Canonical/Juju/juju2/apiserver/facades/client/keymanager/keymanager.go" />
+      <jump line="327" column="4" filename="$USER_HOME$/Canonical/Juju/juju2/apiserver/facades/client/keymanager/keymanager.go" />
+      <jump line="338" column="14" filename="$USER_HOME$/Canonical/Juju/juju2/apiserver/facades/client/keymanager/keymanager.go" />
+      <jump line="343" column="24" filename="$USER_HOME$/Canonical/Juju/juju2/apiserver/facades/client/keymanager/keymanager.go" />
+      <jump line="393" column="25" filename="$USER_HOME$/Canonical/Juju/juju2/apiserver/facades/client/keymanager/keymanager.go" />
+      <jump line="371" column="25" filename="$USER_HOME$/Canonical/Juju/juju2/apiserver/facades/client/keymanager/keymanager.go" />
+      <jump line="11" column="5" filename="$USER_HOME$/go/pkg/mod/github.com/juju/collections@v1.0.4/transform/slice.go" />
+      <jump line="390" column="8" filename="$USER_HOME$/Canonical/Juju/juju2/apiserver/facades/client/keymanager/keymanager.go" />
+      <jump line="382" column="38" filename="$USER_HOME$/Canonical/Juju/juju2/apiserver/facades/client/keymanager/keymanager.go" />
+      <jump line="381" column="38" filename="$USER_HOME$/Canonical/Juju/juju2/apiserver/facades/client/keymanager/keymanager.go" />
+      <jump line="334" column="33" filename="$USER_HOME$/Canonical/Juju/juju2/apiserver/facades/client/keymanager/keymanager.go" />
+      <jump line="357" column="8" filename="$USER_HOME$/Canonical/Juju/juju2/apiserver/facades/client/keymanager/keymanager.go" />
+      <jump line="358" column="4" filename="$USER_HOME$/Canonical/Juju/juju2/apiserver/facades/client/keymanager/keymanager.go" />
+      <jump line="398" column="38" filename="$USER_HOME$/Canonical/Juju/juju2/apiserver/facades/client/keymanager/keymanager.go" />
+      <jump line="402" column="8" filename="$USER_HOME$/Canonical/Juju/juju2/apiserver/facades/client/keymanager/keymanager.go" />
+      <jump line="246" column="5" filename="$USER_HOME$/Canonical/Juju/juju2/apiserver/facades/client/keymanager/keymanager_test.go" />
+      <jump line="238" column="41" filename="$USER_HOME$/Canonical/Juju/juju2/apiserver/facades/client/keymanager/keymanager_test.go" />
+      <jump line="227" column="45" filename="$USER_HOME$/Canonical/Juju/juju2/apiserver/facades/client/keymanager/keymanager_test.go" />
+      <jump line="242" column="24" filename="$USER_HOME$/Canonical/Juju/juju2/apiserver/facades/client/keymanager/keymanager_test.go" />
+      <jump line="237" column="4" filename="$USER_HOME$/Canonical/Juju/juju2/apiserver/facades/client/keymanager/keymanager_test.go" />
+      <jump line="253" column="0" filename="$USER_HOME$/Canonical/Juju/juju2/apiserver/facades/client/keymanager/keymanager_test.go" />
+      <jump line="245" column="12" filename="$USER_HOME$/Canonical/Juju/juju2/apiserver/facades/client/keymanager/keymanager_test.go" />
+      <jump line="394" column="5" filename="$USER_HOME$/Canonical/Juju/juju2/apiserver/facades/client/keymanager/keymanager.go" />
+      <jump line="402" column="4" filename="$USER_HOME$/Canonical/Juju/juju2/cmd/juju/commands/main_test.go" />
+      <jump line="0" column="0" filename="$USER_HOME$/Canonical/Juju/juju2/cmd/juju/commands/remove_sshkeys.go" />
+      <jump line="17" column="31" filename="$USER_HOME$/Canonical/Juju/juju2/cmd/juju/commands/remove_sshkeys.go" />
+      <jump line="21" column="29" filename="$USER_HOME$/Canonical/Juju/juju2/cmd/juju/commands/remove_sshkeys.go" />
+      <jump line="20" column="30" filename="$USER_HOME$/Canonical/Juju/juju2/cmd/juju/commands/remove_sshkeys.go" />
+      <jump line="24" column="25" filename="$USER_HOME$/Canonical/Juju/juju2/cmd/juju/commands/remove_sshkeys.go" />
+      <jump line="14" column="0" filename="$USER_HOME$/Canonical/Juju/juju2/cmd/juju/commands/remove_sshkeys.go" />
+      <jump line="25" column="3" filename="$USER_HOME$/Canonical/Juju/juju2/cmd/juju/commands/remove_sshkeys.go" />
+      <jump line="68" column="13" filename="$USER_HOME$/Canonical/Juju/juju2/cmd/juju/commands/add_sshkeys.go" />
+      <jump line="23" column="63" filename="$USER_HOME$/Canonical/Juju/juju2/cmd/juju/commands/remove_sshkeys.go" />
+      <jump line="22" column="64" filename="$USER_HOME$/Canonical/Juju/juju2/cmd/juju/commands/remove_sshkeys.go" />
+      <jump line="26" column="0" filename="$USER_HOME$/Canonical/Juju/juju2/cmd/juju/commands/remove_sshkeys.go" />
+      <jump line="54" column="18" filename="$USER_HOME$/Canonical/Juju/juju2/cmd/juju/commands/remove_sshkeys.go" />
+      <jump line="57" column="25" filename="$USER_HOME$/Canonical/Juju/juju2/cmd/juju/commands/remove_sshkeys.go" />
+      <jump line="236" column="121" filename="$USER_HOME$/Canonical/Juju/juju2/apiserver/facades/client/keymanager/keymanager_test.go" />
+      <jump line="229" column="28" filename="$USER_HOME$/Canonical/Juju/juju2/apiserver/facades/client/keymanager/keymanager_test.go" />
+      <jump line="232" column="28" filename="$USER_HOME$/Canonical/Juju/juju2/apiserver/facades/client/keymanager/keymanager_test.go" />
+      <jump line="352" column="39" filename="$USER_HOME$/Canonical/Juju/juju2/apiserver/facades/client/keymanager/keymanager.go" />
+      <jump line="356" column="26" filename="$USER_HOME$/Canonical/Juju/juju2/apiserver/facades/client/keymanager/keymanager.go" />
+      <jump line="392" column="8" filename="$USER_HOME$/Canonical/Juju/juju2/apiserver/facades/client/keymanager/keymanager.go" />
+      <jump line="409" column="22" filename="$USER_HOME$/Canonical/Juju/juju2/apiserver/facades/client/keymanager/keymanager.go" />
+      <jump line="61" column="4" filename="$USER_HOME$/Canonical/Juju/juju2/apiserver/facades/client/keymanager/register.go" />
+      <jump line="138" column="21" filename="$USER_HOME$/Canonical/Juju/juju2/apiserver/facades/client/keymanager/keymanager.go" />
+      <jump line="139" column="22" filename="$USER_HOME$/Canonical/Juju/juju2/apiserver/facades/client/keymanager/keymanager.go" />
+      <jump line="20" column="17" filename="$USER_HOME$/Canonical/Juju/juju2/version/version.go" />
+      <jump line="88" column="33" filename="$USER_HOME$/Canonical/Juju/juju2/apiserver/facades/client/keymanager/mocks/keymanager_mock.go" />
+      <jump line="269" column="4" filename="$USER_HOME$/Canonical/Juju/juju2/state/model.go" />
+      <jump line="404" column="18" filename="$USER_HOME$/Canonical/Juju/juju2/state/modelconfig.go" />
+      <jump line="111" column="19" filename="$USER_HOME$/Canonical/Juju/juju2/state/settings.go" />
+      <jump line="351" column="48" filename="$USER_HOME$/Canonical/Juju/juju2/state/modelconfig.go" />
+      <jump line="77" column="38" filename="$USER_HOME$/Canonical/Juju/juju2/state/modelconfig.go" />
+      <jump line="423" column="5" filename="$USER_HOME$/Canonical/Juju/juju2/state/modelconfig.go" />
+    </project>
+    <project id="$USER_HOME$/Canonical/Juju">
+      <jump line="0" column="0" filename="$USER_HOME$/Canonical/Juju/juju/juju/api_test.go" />
+      <jump line="0" column="0" filename="$USER_HOME$/Canonical/Juju/charm/actions.go" />
+      <jump line="44" column="4" filename="$USER_HOME$/Canonical/Juju/charm/actions.go" />
+      <jump line="53" column="39" filename="$USER_HOME$/Canonical/Juju/charm/actions.go" />
+      <jump line="64" column="4" filename="$USER_HOME$/Canonical/Juju/charm/actions.go" />
+      <jump line="39" column="0" filename="$USER_HOME$/go/pkg/mod/github.com/juju/gojsonschema@v1.0.0/schema.go" />
+      <jump line="54" column="23" filename="$USER_HOME$/Canonical/Juju/charm/actions.go" />
+      <jump line="38" column="5" filename="$USER_HOME$/go/pkg/mod/github.com/juju/gojsonschema@v1.0.0/schema.go" />
+      <jump line="66" column="21" filename="$USER_HOME$/Canonical/Juju/charm/actions.go" />
+      <jump line="63" column="17" filename="$USER_HOME$/Canonical/Juju/charm/actions.go" />
+      <jump line="65" column="34" filename="$USER_HOME$/Canonical/Juju/charm/actions.go" />
+      <jump line="36" column="0" filename="$USER_HOME$/Canonical/Juju/charm/actions.go" />
+      <jump line="88" column="12" filename="$USER_HOME$/Canonical/Juju/charm/actions.go" />
+      <jump line="106" column="32" filename="$USER_HOME$/Canonical/Juju/charm/actions.go" />
+      <jump line="203" column="35" filename="$USER_HOME$/Canonical/Juju/charm/actions.go" />
+      <jump line="29" column="27" filename="$USER_HOME$/Canonical/Juju/charm/actions.go" />
+      <jump line="37" column="3" filename="$USER_HOME$/Canonical/Juju/charm/actions.go" />
+      <jump line="40" column="5" filename="$USER_HOME$/Canonical/Juju/charm/actions.go" />
+      <jump line="47" column="68" filename="$USER_HOME$/Canonical/Juju/charm/actions.go" />
+      <jump line="50" column="25" filename="$USER_HOME$/Canonical/Juju/charm/actions.go" />
+      <jump line="51" column="12" filename="$USER_HOME$/Canonical/Juju/charm/actions.go" />
+      <jump line="89" column="12" filename="$USER_HOME$/Canonical/Juju/charm/actions.go" />
+      <jump line="60" column="33" filename="$USER_HOME$/Canonical/Juju/charm/actions.go" />
+      <jump line="0" column="0" filename="$USER_HOME$/Canonical/Juju/charm/base.go" />
+      <jump line="0" column="0" filename="$USER_HOME$/Canonical/Juju/charm/actions_test.go" />
+      <jump line="33" column="29" filename="$USER_HOME$/Canonical/Juju/charm/actions_test.go" />
+      <jump line="34" column="28" filename="$USER_HOME$/Canonical/Juju/charm/actions_test.go" />
+      <jump line="36" column="28" filename="$USER_HOME$/Canonical/Juju/charm/actions_test.go" />
+      <jump line="93" column="28" filename="$USER_HOME$/Canonical/Juju/charm/actions_test.go" />
+      <jump line="889" column="29" filename="$USER_HOME$/Canonical/Juju/charm/actions_test.go" />
+      <jump line="945" column="37" filename="$USER_HOME$/Canonical/Juju/charm/actions_test.go" />
+      <jump line="954" column="7" filename="$USER_HOME$/Canonical/Juju/charm/actions_test.go" />
+      <jump line="956" column="38" filename="$USER_HOME$/Canonical/Juju/charm/actions_test.go" />
+      <jump line="958" column="38" filename="$USER_HOME$/Canonical/Juju/charm/actions_test.go" />
+      <jump line="1020" column="27" filename="$USER_HOME$/Canonical/Juju/charm/actions_test.go" />
+      <jump line="296" column="8" filename="$USER_HOME$/Canonical/Juju/charm/actions.go" />
+      <jump line="213" column="62" filename="$USER_HOME$/Canonical/Juju/charm/actions.go" />
+      <jump line="214" column="43" filename="$USER_HOME$/Canonical/Juju/charm/actions.go" />
+      <jump line="234" column="38" filename="$USER_HOME$/Canonical/Juju/charm/actions.go" />
+      <jump line="236" column="34" filename="$USER_HOME$/Canonical/Juju/charm/actions.go" />
+      <jump line="117" column="8" filename="$USER_HOME$/Canonical/Juju/charm/actions.go" />
+      <jump line="115" column="41" filename="$USER_HOME$/Canonical/Juju/charm/actions.go" />
+      <jump line="116" column="35" filename="$USER_HOME$/Canonical/Juju/charm/actions.go" />
+      <jump line="119" column="35" filename="$USER_HOME$/Canonical/Juju/charm/actions.go" />
+      <jump line="124" column="0" filename="$USER_HOME$/Canonical/Juju/charm/actions.go" />
+      <jump line="114" column="20" filename="$USER_HOME$/Canonical/Juju/charm/actions.go" />
+      <jump line="130" column="20" filename="$USER_HOME$/Canonical/Juju/charm/actions.go" />
+      <jump line="131" column="18" filename="$USER_HOME$/Canonical/Juju/charm/actions.go" />
+      <jump line="128" column="20" filename="$USER_HOME$/Canonical/Juju/charm/actions.go" />
+      <jump line="143" column="26" filename="$USER_HOME$/Canonical/Juju/charm/actions.go" />
+      <jump line="133" column="50" filename="$USER_HOME$/Canonical/Juju/charm/actions.go" />
+      <jump line="134" column="41" filename="$USER_HOME$/Canonical/Juju/charm/actions.go" />
+      <jump line="1021" column="29" filename="$USER_HOME$/Canonical/Juju/charm/actions_test.go" />
+      <jump line="229" column="30" filename="$USER_HOME$/Canonical/Juju/charm/actions_test.go" />
+      <jump line="221" column="28" filename="$USER_HOME$/Canonical/Juju/charm/actions_test.go" />
+      <jump line="222" column="38" filename="$USER_HOME$/Canonical/Juju/charm/actions_test.go" />
+      <jump line="228" column="30" filename="$USER_HOME$/Canonical/Juju/charm/actions_test.go" />
+      <jump line="295" column="27" filename="$USER_HOME$/Canonical/Juju/charm/actions_test.go" />
+      <jump line="289" column="4" filename="$USER_HOME$/Canonical/Juju/charm/actions_test.go" />
+      <jump line="297" column="5" filename="$USER_HOME$/Canonical/Juju/charm/actions_test.go" />
+      <jump line="298" column="0" filename="$USER_HOME$/Canonical/Juju/charm/actions_test.go" />
+      <jump line="601" column="16" filename="$USER_HOME$/Canonical/Juju/charm/actions_test.go" />
+      <jump line="604" column="28" filename="$USER_HOME$/Canonical/Juju/charm/actions_test.go" />
+      <jump line="603" column="32" filename="$USER_HOME$/Canonical/Juju/charm/actions_test.go" />
+      <jump line="605" column="34" filename="$USER_HOME$/Canonical/Juju/charm/actions_test.go" />
+      <jump line="607" column="31" filename="$USER_HOME$/Canonical/Juju/charm/actions_test.go" />
+      <jump line="606" column="45" filename="$USER_HOME$/Canonical/Juju/charm/actions_test.go" />
+      <jump line="1026" column="38" filename="$USER_HOME$/Canonical/Juju/charm/actions_test.go" />
+    </project>
+    <project id="$USER_HOME$/Canonical/Juju/charm">
+      <jump line="536" column="46" filename="$USER_HOME$/Canonical/Juju/charm/actions_test.go" />
+      <jump line="540" column="56" filename="$USER_HOME$/Canonical/Juju/charm/actions_test.go" />
+      <jump line="518" column="16" filename="$USER_HOME$/Canonical/Juju/charm/actions_test.go" />
+      <jump line="520" column="57" filename="$USER_HOME$/Canonical/Juju/charm/actions_test.go" />
+      <jump line="504" column="43" filename="$USER_HOME$/Canonical/Juju/charm/actions_test.go" />
+      <jump line="505" column="57" filename="$USER_HOME$/Canonical/Juju/charm/actions_test.go" />
+      <jump line="468" column="45" filename="$USER_HOME$/Canonical/Juju/charm/actions_test.go" />
+      <jump line="471" column="56" filename="$USER_HOME$/Canonical/Juju/charm/actions_test.go" />
+      <jump line="430" column="20" filename="$USER_HOME$/Canonical/Juju/charm/actions_test.go" />
+      <jump line="431" column="56" filename="$USER_HOME$/Canonical/Juju/charm/actions_test.go" />
+      <jump line="414" column="24" filename="$USER_HOME$/Canonical/Juju/charm/actions_test.go" />
+      <jump line="415" column="56" filename="$USER_HOME$/Canonical/Juju/charm/actions_test.go" />
+      <jump line="360" column="45" filename="$USER_HOME$/Canonical/Juju/charm/actions_test.go" />
+      <jump line="365" column="56" filename="$USER_HOME$/Canonical/Juju/charm/actions_test.go" />
+      <jump line="345" column="17" filename="$USER_HOME$/Canonical/Juju/charm/actions_test.go" />
+      <jump line="610" column="33" filename="$USER_HOME$/Canonical/Juju/charm/actions_test.go" />
+      <jump line="622" column="4" filename="$USER_HOME$/Canonical/Juju/charm/actions_test.go" />
+      <jump line="604" column="0" filename="$USER_HOME$/Canonical/Juju/charm/actions_test.go" />
+      <jump line="603" column="7" filename="$USER_HOME$/Canonical/Juju/charm/actions_test.go" />
+      <jump line="602" column="8" filename="$USER_HOME$/Canonical/Juju/charm/actions_test.go" />
+      <jump line="621" column="11" filename="$USER_HOME$/Canonical/Juju/charm/actions_test.go" />
+      <jump line="626" column="25" filename="$USER_HOME$/Canonical/Juju/charm/actions_test.go" />
+      <jump line="37" column="28" filename="$USER_HOME$/Canonical/Juju/charm/actions_test.go" />
+      <jump line="121" column="47" filename="$USER_HOME$/Canonical/Juju/charm/actions.go" />
+      <jump line="49" column="8" filename="$USER_HOME$/Canonical/Juju/charm/actions.go" />
+      <jump line="50" column="1" filename="$USER_HOME$/Canonical/Juju/charm/actions.go" />
+      <jump line="12" column="27" filename="$USER_HOME$/Canonical/Juju/charm/actions.go" />
+      <jump line="176" column="34" filename="$USER_HOME$/Canonical/Juju/charm/charm_test.go" />
+      <jump line="214" column="4" filename="$USER_HOME$/Canonical/Juju/charm/charm_test.go" />
+      <jump line="177" column="60" filename="$USER_HOME$/Canonical/Juju/charm/charm_test.go" />
+      <jump line="242" column="4" filename="$USER_HOME$/Canonical/Juju/charm/charm_test.go" />
+      <jump line="60" column="0" filename="$USER_HOME$/Canonical/Juju/charm/charmarchive_test.go" />
+      <jump line="168" column="0" filename="$USER_HOME$/Canonical/Juju/charm/charm_test.go" />
+      <jump line="222" column="40" filename="$USER_HOME$/Canonical/Juju/charm/charm_test.go" />
+      <jump line="204" column="4" filename="$USER_HOME$/Canonical/Juju/charm/charm_test.go" />
+      <jump line="208" column="0" filename="$USER_HOME$/Canonical/Juju/charm/charm_test.go" />
+      <jump line="71" column="28" filename="$USER_HOME$/Canonical/Juju/charm/charm_test.go" />
+      <jump line="28" column="26" filename="$USER_HOME$/Canonical/Juju/charm/charm_test.go" />
+      <jump line="43" column="0" filename="$USER_HOME$/Canonical/Juju/charm/charm_test.go" />
+      <jump line="102" column="28" filename="$USER_HOME$/Canonical/Juju/charm/charm_test.go" />
+      <jump line="115" column="33" filename="$USER_HOME$/Canonical/Juju/charm/charm_test.go" />
+      <jump line="22" column="29" filename="$USER_HOME$/Canonical/Juju/charm/actions_test.go" />
+      <jump line="190" column="12" filename="$USER_HOME$/Canonical/Juju/charm/actions_test.go" />
+      <jump line="198" column="21" filename="$USER_HOME$/Canonical/Juju/charm/actions_test.go" />
+      <jump line="208" column="47" filename="$USER_HOME$/Canonical/Juju/charm/actions_test.go" />
+      <jump line="197" column="31" filename="$USER_HOME$/Canonical/Juju/charm/actions_test.go" />
+      <jump line="201" column="38" filename="$USER_HOME$/Canonical/Juju/charm/actions_test.go" />
+      <jump line="309" column="0" filename="$USER_HOME$/Canonical/Juju/charm/actions.go" />
+      <jump line="293" column="0" filename="$USER_HOME$/Canonical/Juju/charm/actions.go" />
+      <jump line="643" column="34" filename="$USER_HOME$/Canonical/Juju/charm/actions_test.go" />
+      <jump line="129" column="8" filename="$USER_HOME$/Canonical/Juju/charm/actions.go" />
+      <jump line="18" column="0" filename="$USER_HOME$/Canonical/Juju/charm/actions.go" />
+      <jump line="1053" column="0" filename="$USER_HOME$/Canonical/Juju/charm/actions_test.go" />
+      <jump line="1062" column="0" filename="$USER_HOME$/Canonical/Juju/charm/actions_test.go" />
+      <jump line="186" column="0" filename="$USER_HOME$/Canonical/Juju/charm/actions_test.go" />
+      <jump line="84" column="16" filename="$USER_HOME$/Canonical/Juju/charm/actions_test.go" />
+      <jump line="85" column="52" filename="$USER_HOME$/Canonical/Juju/charm/actions_test.go" />
+      <jump line="61" column="41" filename="$USER_HOME$/Canonical/Juju/charm/actions_test.go" />
+      <jump line="64" column="52" filename="$USER_HOME$/Canonical/Juju/charm/actions_test.go" />
+      <jump line="45" column="41" filename="$USER_HOME$/Canonical/Juju/charm/actions_test.go" />
+      <jump line="48" column="52" filename="$USER_HOME$/Canonical/Juju/charm/actions_test.go" />
+      <jump line="34" column="39" filename="$USER_HOME$/Canonical/Juju/charm/actions_test.go" />
+      <jump line="35" column="52" filename="$USER_HOME$/Canonical/Juju/charm/actions_test.go" />
+      <jump line="124" column="52" filename="$USER_HOME$/Canonical/Juju/charm/actions_test.go" />
+      <jump line="130" column="39" filename="$USER_HOME$/Canonical/Juju/charm/actions_test.go" />
+      <jump line="140" column="52" filename="$USER_HOME$/Canonical/Juju/charm/actions_test.go" />
+      <jump line="157" column="52" filename="$USER_HOME$/Canonical/Juju/charm/actions_test.go" />
+      <jump line="166" column="53" filename="$USER_HOME$/Canonical/Juju/charm/actions_test.go" />
+      <jump line="178" column="52" filename="$USER_HOME$/Canonical/Juju/charm/actions_test.go" />
+      <jump line="207" column="13" filename="$USER_HOME$/Canonical/Juju/charm/actions_test.go" />
+      <jump line="144" column="16" filename="$USER_HOME$/Canonical/Juju/charm/actions_test.go" />
+      <jump line="206" column="115" filename="$USER_HOME$/Canonical/Juju/charm/actions_test.go" />
+      <jump line="205" column="38" filename="$USER_HOME$/Canonical/Juju/charm/actions_test.go" />
+      <jump line="202" column="49" filename="$USER_HOME$/Canonical/Juju/charm/actions_test.go" />
+      <jump line="203" column="45" filename="$USER_HOME$/Canonical/Juju/charm/actions_test.go" />
+      <jump line="204" column="14" filename="$USER_HOME$/Canonical/Juju/charm/actions_test.go" />
+      <jump line="193" column="8" filename="$USER_HOME$/Canonical/Juju/charm/actions_test.go" />
+      <jump line="233" column="8" filename="$USER_HOME$/Canonical/Juju/charm/actions.go" />
+      <jump line="52" column="24" filename="$USER_HOME$/Canonical/Juju/charm/actions.go" />
+      <jump line="0" column="31" filename="$USER_HOME$/Canonical/Juju/charm/go.mod" />
+      <jump line="12" column="34" filename="$USER_HOME$/Canonical/Juju/charm/go.mod" />
+      <jump line="1" column="0" filename="$USER_HOME$/Canonical/Juju/charm/go.mod" />
+      <jump line="7" column="32" filename="$USER_HOME$/Canonical/Juju/charm/go.mod" />
+      <jump line="25" column="8" filename="$USER_HOME$/Canonical/Juju/charm/go.mod" />
+      <jump line="15" column="31" filename="$USER_HOME$/Canonical/Juju/charm/go.mod" />
+      <jump line="10" column="34" filename="$USER_HOME$/Canonical/Juju/charm/go.mod" />
+      <jump line="51" column="24" filename="$USER_HOME$/Canonical/Juju/charm/actions.go" />
+      <jump line="0" column="0" filename="$USER_HOME$/Canonical/Juju/charm/README.md" />
+      <jump line="126" column="31" filename="$USER_HOME$/Canonical/Juju/charm/charm_test.go" />
+      <jump line="411" column="15" filename="$USER_HOME$/Canonical/Juju/charm/actions_test.go" />
+      <jump line="627" column="69" filename="$USER_HOME$/Canonical/Juju/charm/actions_test.go" />
+      <jump line="134" column="31" filename="$USER_HOME$/Canonical/Juju/charm/actions_test.go" />
+      <jump line="110" column="23" filename="$USER_HOME$/Canonical/Juju/charm/actions_test.go" />
+      <jump line="655" column="0" filename="$USER_HOME$/Canonical/Juju/charm/actions_test.go" />
+      <jump line="119" column="28" filename="$USER_HOME$/Canonical/Juju/charm/actions_test.go" />
+      <jump line="105" column="31" filename="$USER_HOME$/Canonical/Juju/charm/actions_test.go" />
+      <jump line="104" column="49" filename="$USER_HOME$/Canonical/Juju/charm/actions_test.go" />
+      <jump line="118" column="4" filename="$USER_HOME$/Canonical/Juju/charm/actions_test.go" />
+      <jump line="115" column="46" filename="$USER_HOME$/Canonical/Juju/charm/actions_test.go" />
+      <jump line="117" column="12" filename="$USER_HOME$/Canonical/Juju/charm/actions_test.go" />
+    </project>
+    <project id="$USER_HOME$/Canonical/Juju/gojsonschema">
+      <jump line="0" column="0" filename="$USER_HOME$/Canonical/Juju/gojsonschema/README.md" />
+      <jump line="0" column="0" filename="$USER_HOME$/Canonical/Juju/gojsonschema/defaults.go" />
+      <jump line="23" column="21" filename="$USER_HOME$/Canonical/Juju/gojsonschema/defaults.go" />
+      <jump line="57" column="17" filename="$USER_HOME$/Canonical/Juju/gojsonschema/defaults.go" />
+      <jump line="57" column="21" filename="$USER_HOME$/Canonical/Juju/gojsonschema/schemaPool.go" />
+      <jump line="0" column="0" filename="$USER_HOME$/Canonical/Juju/gojsonschema/defaults_test.go" />
+      <jump line="14" column="15" filename="$USER_HOME$/Canonical/Juju/gojsonschema/defaults_test.go" />
+      <jump line="13" column="0" filename="$USER_HOME$/Canonical/Juju/gojsonschema/defaults_test.go" />
+      <jump line="34" column="0" filename="$USER_HOME$/Canonical/Juju/gojsonschema/defaults_test.go" />
+      <jump line="27" column="21" filename="$USER_HOME$/Canonical/Juju/gojsonschema/defaults.go" />
+      <jump line="6" column="16" filename="$USER_HOME$/Canonical/Juju/gojsonschema/defaults.go" />
+      <jump line="74" column="16" filename="$USER_HOME$/Canonical/Juju/gojsonschema/defaults.go" />
+      <jump line="72" column="2" filename="$USER_HOME$/Canonical/Juju/gojsonschema/defaults.go" />
+      <jump line="71" column="22" filename="$USER_HOME$/Canonical/Juju/gojsonschema/defaults.go" />
+      <jump line="73" column="19" filename="$USER_HOME$/Canonical/Juju/gojsonschema/defaults.go" />
+      <jump line="76" column="22" filename="$USER_HOME$/Canonical/Juju/gojsonschema/defaults.go" />
+      <jump line="77" column="30" filename="$USER_HOME$/Canonical/Juju/gojsonschema/defaults.go" />
+      <jump line="94" column="0" filename="$USER_HOME$/Canonical/Juju/gojsonschema/defaults.go" />
+      <jump line="103" column="33" filename="$USER_HOME$/Canonical/Juju/gojsonschema/defaults.go" />
+      <jump line="114" column="0" filename="$USER_HOME$/Canonical/Juju/gojsonschema/defaults.go" />
+      <jump line="110" column="12" filename="$USER_HOME$/Canonical/Juju/gojsonschema/defaults.go" />
+      <jump line="113" column="0" filename="$USER_HOME$/Canonical/Juju/gojsonschema/defaults.go" />
+      <jump line="112" column="4" filename="$USER_HOME$/Canonical/Juju/gojsonschema/defaults.go" />
+      <jump line="111" column="8" filename="$USER_HOME$/Canonical/Juju/gojsonschema/defaults.go" />
+      <jump line="15" column="29" filename="$USER_HOME$/Canonical/Juju/gojsonschema/defaults_test.go" />
+    </project>
+    <project id="$USER_HOME$/Canonical/Juju/juju-controller">
+      <jump line="4" column="0" filename="$USER_HOME$/Canonical/Juju/juju-controller/requirements-dev.txt" />
+      <jump line="8" column="43" filename="$USER_HOME$/Canonical/Juju/juju-controller/tests/test_controlsocket.py" />
+      <jump line="149" column="4" filename="$USER_HOME$/Canonical/Juju/juju-controller/tests/test_charm.py" />
+      <jump line="258" column="8" filename="$USER_HOME$/Canonical/Juju/juju-controller/tests/test_charm.py" />
+      <jump line="158" column="58" filename="$USER_HOME$/Canonical/Juju/juju-controller/tests/test_charm.py" />
+      <jump line="156" column="4" filename="$USER_HOME$/Canonical/Juju/juju-controller/tests/test_charm.py" />
+      <jump line="160" column="38" filename="$USER_HOME$/Canonical/Juju/juju-controller/tests/test_charm.py" />
+      <jump line="159" column="8" filename="$USER_HOME$/Canonical/Juju/juju-controller/tests/test_charm.py" />
+      <jump line="9" column="0" filename="$USER_HOME$/Canonical/Juju/juju-controller/src/charm.py" />
+      <jump line="33" column="0" filename="$USER_HOME$/Canonical/Juju/juju-controller/src/controlsocket.py" />
+      <jump line="142" column="0" filename="$USER_HOME$/Canonical/Juju/juju-controller/src/unixsocket.py" />
+      <jump line="8" column="0" filename="$USER_HOME$/Canonical/Juju/juju-controller/tests/test_charm.py" />
+      <jump line="155" column="11" filename="$USER_HOME$/Canonical/Juju/juju-controller/tests/test_charm.py" />
+      <jump line="9" column="0" filename="$USER_HOME$/Canonical/Juju/juju-controller/tests/test_controlsocket.py" />
+      <jump line="9" column="0" filename="$USER_HOME$/Canonical/Juju/juju-controller/tests/test_sockets.py" />
+      <jump line="129" column="0" filename="$USER_HOME$/Canonical/Juju/juju-controller/tests/test_sockets.py" />
+      <jump line="111" column="8" filename="$USER_HOME$/Canonical/Juju/juju-controller/tests/test_sockets.py" />
+      <jump line="113" column="0" filename="$USER_HOME$/Canonical/Juju/juju-controller/tests/test_sockets.py" />
+      <jump line="105" column="8" filename="$USER_HOME$/Canonical/Juju/juju-controller/tests/test_sockets.py" />
+      <jump line="176" column="8" filename="$USER_HOME$/Canonical/Juju/juju-controller/tests/test_sockets.py" />
+      <jump line="115" column="41" filename="$USER_HOME$/Canonical/Juju/juju-controller/tests/test_sockets.py" />
+      <jump line="125" column="24" filename="$USER_HOME$/Canonical/Juju/juju-controller/tests/test_sockets.py" />
+      <jump line="164" column="0" filename="$USER_HOME$/Canonical/Juju/juju-controller/src/unixsocket.py" />
+      <jump line="22" column="20" filename="$USER_HOME$/Canonical/Juju/juju-controller/src/unixsocket.py" />
+      <jump line="99" column="0" filename="$USER_HOME$/Canonical/Juju/juju-controller/src/unixsocket.py" />
+      <jump line="3" column="0" filename="$USER_HOME$/Canonical/Juju/juju-controller/src/configchangesocket.py" />
+      <jump line="34" column="0" filename="$USER_HOME$/Canonical/Juju/juju-controller/src/controlsocket.py" />
+      <jump line="18" column="51" filename="$USER_HOME$/Canonical/Juju/juju-controller/src/configchangesocket.py" />
+      <jump line="24" column="8" filename="$USER_HOME$/Canonical/Juju/juju-controller/src/configchangesocket.py" />
+      <jump line="109" column="0" filename="$USER_HOME$/Canonical/Juju/juju-controller/tests/test_sockets.py" />
+      <jump line="97" column="36" filename="$USER_HOME$/Canonical/Juju/juju-controller/tests/test_sockets.py" />
+      <jump line="108" column="36" filename="$USER_HOME$/Canonical/Juju/juju-controller/tests/test_sockets.py" />
+      <jump line="137" column="45" filename="$USER_HOME$/Canonical/Juju/juju-controller/tests/test_sockets.py" />
+      <jump line="136" column="12" filename="$USER_HOME$/Canonical/Juju/juju-controller/tests/test_sockets.py" />
+      <jump line="141" column="38" filename="$USER_HOME$/Canonical/Juju/juju-controller/tests/test_sockets.py" />
+      <jump line="157" column="0" filename="$USER_HOME$/Canonical/Juju/juju-controller/tests/test_sockets.py" />
+      <jump line="130" column="36" filename="$USER_HOME$/Canonical/Juju/juju-controller/tests/test_sockets.py" />
+      <jump line="121" column="0" filename="$USER_HOME$/Canonical/Juju/juju-controller/tests/test_sockets.py" />
+      <jump line="138" column="8" filename="$USER_HOME$/Canonical/Juju/juju-controller/tests/test_sockets.py" />
+      <jump line="105" column="0" filename="$USER_HOME$/Canonical/Juju/juju-controller/src/unixsocket.py" />
+      <jump line="16" column="0" filename="$USER_HOME$/Canonical/Juju/juju-controller/src/controlsocket.py" />
+      <jump line="30" column="27" filename="$USER_HOME$/Canonical/Juju/juju-controller/src/controlsocket.py" />
+      <jump line="18" column="51" filename="$USER_HOME$/Canonical/Juju/juju-controller/src/controlsocket.py" />
+      <jump line="112" column="51" filename="$USER_HOME$/Canonical/Juju/juju-controller/tests/test_sockets.py" />
+      <jump line="110" column="25" filename="$USER_HOME$/Canonical/Juju/juju-controller/tests/test_sockets.py" />
+      <jump line="142" column="19" filename="$USER_HOME$/Canonical/Juju/juju-controller/tests/test_sockets.py" />
+      <jump line="126" column="40" filename="$USER_HOME$/Canonical/Juju/juju-controller/tests/test_sockets.py" />
+      <jump line="131" column="26" filename="$USER_HOME$/Canonical/Juju/juju-controller/tests/test_sockets.py" />
+      <jump line="63" column="27" filename="$USER_HOME$/Canonical/Juju/juju-controller/tests/test_sockets.py" />
+      <jump line="149" column="8" filename="$USER_HOME$/Canonical/Juju/juju-controller/tests/test_sockets.py" />
+      <jump line="117" column="21" filename="$USER_HOME$/Canonical/Juju/juju-controller/tests/test_sockets.py" />
+      <jump line="122" column="0" filename="$USER_HOME$/Canonical/Juju/juju-controller/tests/test_sockets.py" />
+      <jump line="82" column="24" filename="$USER_HOME$/Canonical/Juju/juju-controller/src/unixsocket.py" />
+      <jump line="83" column="20" filename="$USER_HOME$/Canonical/Juju/juju-controller/tests/test_sockets.py" />
+      <jump line="64" column="25" filename="$USER_HOME$/Canonical/Juju/juju-controller/tests/test_sockets.py" />
+      <jump line="69" column="0" filename="$USER_HOME$/Canonical/Juju/juju-controller/tests/test_sockets.py" />
+      <jump line="158" column="6" filename="$USER_HOME$/Canonical/Juju/juju-controller/tests/test_sockets.py" />
+      <jump line="23" column="28" filename="$USER_HOME$/Canonical/Juju/juju-controller/tests/test_sockets.py" />
+      <jump line="151" column="29" filename="$USER_HOME$/Canonical/Juju/juju-controller/tests/test_sockets.py" />
+      <jump line="150" column="29" filename="$USER_HOME$/Canonical/Juju/juju-controller/tests/test_sockets.py" />
+      <jump line="50" column="27" filename="$USER_HOME$/Canonical/Juju/juju-controller/src/unixsocket.py" />
+      <jump line="64" column="26" filename="$USER_HOME$/Canonical/Juju/juju-controller/src/unixsocket.py" />
+      <jump line="66" column="24" filename="$USER_HOME$/Canonical/Juju/juju-controller/src/unixsocket.py" />
+      <jump line="72" column="22" filename="$USER_HOME$/Canonical/Juju/juju-controller/src/unixsocket.py" />
+      <jump line="71" column="21" filename="$USER_HOME$/Canonical/Juju/juju-controller/src/unixsocket.py" />
+      <jump line="59" column="25" filename="$USER_HOME$/Canonical/Juju/juju-controller/src/unixsocket.py" />
+      <jump line="62" column="22" filename="$USER_HOME$/Canonical/Juju/juju-controller/src/unixsocket.py" />
+      <jump line="28" column="52" filename="$USER_HOME$/Canonical/Juju/juju-controller/src/unixsocket.py" />
+      <jump line="36" column="27" filename="$USER_HOME$/Canonical/Juju/juju-controller/src/unixsocket.py" />
+      <jump line="48" column="20" filename="$USER_HOME$/Canonical/Juju/juju-controller/src/unixsocket.py" />
+      <jump line="61" column="46" filename="$USER_HOME$/Canonical/Juju/juju-controller/src/unixsocket.py" />
+      <jump line="31" column="45" filename="$USER_HOME$/Canonical/Juju/juju-controller/src/controlsocket.py" />
+      <jump line="22" column="20" filename="$USER_HOME$/Canonical/Juju/juju-controller/src/controlsocket.py" />
+      <jump line="29" column="24" filename="$USER_HOME$/Canonical/Juju/juju-controller/src/controlsocket.py" />
+      <jump line="75" column="13" filename="$USER_HOME$/Canonical/Juju/juju-controller/src/unixsocket.py" />
+      <jump line="51" column="8" filename="$USER_HOME$/Canonical/Juju/juju-controller/src/unixsocket.py" />
+      <jump line="17" column="59" filename="$USER_HOME$/Canonical/Juju/juju-controller/src/configchangesocket.py" />
+      <jump line="89" column="8" filename="$USER_HOME$/Canonical/Juju/juju-controller/src/unixsocket.py" />
+      <jump line="90" column="41" filename="$USER_HOME$/Canonical/Juju/juju-controller/src/unixsocket.py" />
+      <jump line="70" column="24" filename="$USER_HOME$/Canonical/Juju/juju-controller/src/unixsocket.py" />
+      <jump line="114" column="22" filename="$USER_HOME$/Canonical/Juju/juju-controller/tests/test_sockets.py" />
+      <jump line="145" column="12" filename="$USER_HOME$/Canonical/Juju/juju-controller/tests/test_sockets.py" />
+      <jump line="290" column="0" filename="$USER_HOME$/Canonical/Juju/juju-controller/src/charm.py" />
+      <jump line="11" column="0" filename="$USER_HOME$/Canonical/Juju/juju-controller/src/charm.py" />
+      <jump line="5" column="0" filename="$USER_HOME$/Canonical/Juju/juju-controller/src/charm.py" />
+      <jump line="20" column="22" filename="$USER_HOME$/Canonical/Juju/juju-controller/src/charm.py" />
+      <jump line="210" column="8" filename="$USER_HOME$/Canonical/Juju/juju-controller/src/charm.py" />
+      <jump line="153" column="12" filename="$USER_HOME$/Canonical/Juju/juju-controller/src/charm.py" />
+      <jump line="157" column="45" filename="$USER_HOME$/Canonical/Juju/juju-controller/src/charm.py" />
+      <jump line="168" column="38" filename="$USER_HOME$/Canonical/Juju/juju-controller/src/charm.py" />
+      <jump line="6" column="0" filename="$USER_HOME$/Canonical/Juju/juju-controller/tests/test_charm.py" />
+      <jump line="143" column="21" filename="$USER_HOME$/Canonical/Juju/juju-controller/tests/test_sockets.py" />
+      <jump line="118" column="25" filename="$USER_HOME$/Canonical/Juju/juju-controller/tests/test_sockets.py" />
+      <jump line="120" column="39" filename="$USER_HOME$/Canonical/Juju/juju-controller/tests/test_sockets.py" />
+      <jump line="135" column="23" filename="$USER_HOME$/Canonical/Juju/juju-controller/tests/test_sockets.py" />
+      <jump line="132" column="8" filename="$USER_HOME$/Canonical/Juju/juju-controller/tests/test_sockets.py" />
+      <jump line="20" column="0" filename="$USER_HOME$/Canonical/Juju/juju-controller/src/configchangesocket.py" />
+      <jump line="22" column="24" filename="$USER_HOME$/Canonical/Juju/juju-controller/src/configchangesocket.py" />
+      <jump line="26" column="28" filename="$USER_HOME$/Canonical/Juju/juju-controller/src/controlsocket.py" />
+      <jump line="56" column="17" filename="$USER_HOME$/Canonical/Juju/juju-controller/src/unixsocket.py" />
+    </project>
+    <project id="$USER_HOME$/Canonical/Juju/juju-qa-jenkins">
+      <jump line="8" column="24" filename="$USER_HOME$/Canonical/Juju/juju-qa-jenkins/jobs/ci-run/integration/gen/test-actions.yml" />
+      <jump line="18" column="20" filename="$USER_HOME$/Canonical/Juju/juju-qa-jenkins/jobs/ci-run/integration/gen/test-actions.yml" />
+      <jump line="28" column="1" filename="$USER_HOME$/Canonical/Juju/juju-qa-jenkins/tools/gen-wire-tests/juju.config" />
+      <jump line="24" column="4" filename="$USER_HOME$/Canonical/Juju/juju-qa-jenkins/tools/gen-wire-tests/juju.config" />
+      <jump line="0" column="0" filename="$USER_HOME$/Canonical/Juju/juju-qa-jenkins/tools/gen-wire-tests/README.md" />
+      <jump line="57" column="21" filename="$USER_HOME$/Canonical/Juju/juju-qa-jenkins/jobs/ci-run/integration/integrationtests.yml" />
+      <jump line="116" column="45" filename="$USER_HOME$/Canonical/Juju/juju-qa-jenkins/jobs/ci-run/integration/integrationtests.yml" />
+      <jump line="33" column="8" filename="$USER_HOME$/Canonical/Juju/juju-qa-jenkins/jobs/ci-run/integration/gen/test-smoke_k8s.yml" />
+      <jump line="16" column="12" filename="$USER_HOME$/Canonical/Juju/juju-qa-jenkins/jobs/ci-run/integration/gen/test-actions.yml" />
+      <jump line="43" column="34" filename="$USER_HOME$/Canonical/Juju/juju-qa-jenkins/jobs/ci-run/integration/gen/test-actions.yml" />
+      <jump line="32" column="5" filename="$USER_HOME$/Canonical/Juju/juju-qa-jenkins/tools/gen-wire-tests/juju.config" />
+      <jump line="196" column="9" filename="$USER_HOME$/Canonical/Juju/juju-qa-jenkins/tools/gen-wire-tests/juju.config" />
+      <jump line="197" column="17" filename="$USER_HOME$/Canonical/Juju/juju-qa-jenkins/tools/gen-wire-tests/juju.config" />
+      <jump line="42" column="0" filename="$USER_HOME$/Canonical/Juju/juju-qa-jenkins/jobs/ci-run/integration/gen/test-actions.yml" />
+      <jump line="32" column="39" filename="$USER_HOME$/Canonical/Juju/juju-qa-jenkins/jobs/ci-run/integration/gen/test-actions.yml" />
+      <jump line="205" column="0" filename="$USER_HOME$/Canonical/Juju/juju-qa-jenkins/tools/gen-wire-tests/juju.config" />
+      <jump line="14" column="23" filename="$USER_HOME$/Canonical/Juju/juju-qa-jenkins/Makefile" />
+      <jump line="17" column="21" filename="$USER_HOME$/Canonical/Juju/juju-qa-jenkins/Makefile" />
+      <jump line="32" column="16" filename="$USER_HOME$/Canonical/Juju/juju-qa-jenkins/Makefile" />
+      <jump line="51" column="0" filename="$USER_HOME$/Canonical/Juju/juju-qa-jenkins/Makefile" />
+      <jump line="0" column="0" filename="$USER_HOME$/Canonical/Juju/juju-qa-jenkins/Makefile" />
+      <jump line="0" column="0" filename="$USER_HOME$/Canonical/Juju/juju-qa-jenkins/tests/main.sh" />
+      <jump line="101" column="4" filename="$USER_HOME$/Canonical/Juju/juju-qa-jenkins/tests/suites/static_analysis/lint_yaml.sh" />
+      <jump line="106" column="4" filename="$USER_HOME$/Canonical/Juju/juju-qa-jenkins/tests/suites/static_analysis/lint_yaml.sh" />
+      <jump line="119" column="16" filename="$USER_HOME$/Canonical/Juju/juju-qa-jenkins/tests/suites/static_analysis/lint_yaml.sh" />
+      <jump line="128" column="14" filename="$USER_HOME$/Canonical/Juju/juju-qa-jenkins/tests/suites/static_analysis/lint_yaml.sh" />
+      <jump line="129" column="20" filename="$USER_HOME$/Canonical/Juju/juju-qa-jenkins/tests/suites/static_analysis/lint_yaml.sh" />
+      <jump line="118" column="20" filename="$USER_HOME$/Canonical/Juju/juju-qa-jenkins/tests/suites/static_analysis/lint_yaml.sh" />
+      <jump line="111" column="12" filename="$USER_HOME$/Canonical/Juju/juju-qa-jenkins/tests/suites/static_analysis/lint_yaml.sh" />
+      <jump line="113" column="14" filename="$USER_HOME$/Canonical/Juju/juju-qa-jenkins/tests/suites/static_analysis/lint_yaml.sh" />
+      <jump line="116" column="12" filename="$USER_HOME$/Canonical/Juju/juju-qa-jenkins/tests/suites/static_analysis/lint_yaml.sh" />
+      <jump line="60" column="28" filename="$USER_HOME$/Canonical/Juju/juju-qa-jenkins/tests/suites/static_analysis/lint_yaml.sh" />
+      <jump line="20" column="10" filename="$USER_HOME$/Canonical/Juju/juju-qa-jenkins/tests/suites/static_analysis/lint_yaml.sh" />
+      <jump line="59" column="13" filename="$USER_HOME$/Canonical/Juju/juju-qa-jenkins/tests/suites/static_analysis/lint_yaml.sh" />
+      <jump line="89" column="31" filename="$USER_HOME$/Canonical/Juju/juju-qa-jenkins/tests/suites/static_analysis/lint_yaml.sh" />
+      <jump line="0" column="0" filename="$USER_HOME$/Canonical/Juju/juju-qa-jenkins/tests/suites/static_analysis/task.sh" />
+      <jump line="4" column="5" filename="$USER_HOME$/Canonical/Juju/juju-qa-jenkins/tests/suites/static_analysis/task.sh" />
+      <jump line="114" column="4" filename="$USER_HOME$/Canonical/Juju/juju-qa-jenkins/tests/suites/static_analysis/lint_yaml.sh" />
+      <jump line="35" column="76" filename="$USER_HOME$/Canonical/Juju/juju-qa-jenkins/tests/suites/static_analysis/lint_yaml.sh" />
+      <jump line="127" column="50" filename="$USER_HOME$/Canonical/Juju/juju-qa-jenkins/tests/suites/static_analysis/lint_yaml.sh" />
+      <jump line="41" column="4" filename="$USER_HOME$/Canonical/Juju/juju-qa-jenkins/tests/main.sh" />
+      <jump line="42" column="12" filename="$USER_HOME$/Canonical/Juju/juju-qa-jenkins/tests/main.sh" />
+      <jump line="43" column="32" filename="$USER_HOME$/Canonical/Juju/juju-qa-jenkins/tests/main.sh" />
+      <jump line="54" column="10" filename="$USER_HOME$/Canonical/Juju/juju-qa-jenkins/tests/main.sh" />
+      <jump line="0" column="0" filename="$USER_HOME$/Canonical/Juju/juju-qa-jenkins/tests/suites/static_analysis/lint_shell.sh" />
+      <jump line="135" column="33" filename="$USER_HOME$/Canonical/Juju/juju-qa-jenkins/tests/suites/static_analysis/lint_yaml.sh" />
+      <jump line="75" column="23" filename="$USER_HOME$/Canonical/Juju/juju-qa-jenkins/tests/suites/static_analysis/lint_yaml.sh" />
+      <jump line="46" column="43" filename="$USER_HOME$/Canonical/Juju/juju-qa-jenkins/tests/main.sh" />
+      <jump line="88" column="9" filename="$USER_HOME$/Canonical/Juju/juju-qa-jenkins/tests/main.sh" />
+      <jump line="141" column="33" filename="$USER_HOME$/Canonical/Juju/juju-qa-jenkins/tests/main.sh" />
+      <jump line="6" column="25" filename="$USER_HOME$/Canonical/Juju/juju-qa-jenkins/tests/suites/static_analysis/task.sh" />
+      <jump line="23" column="12" filename="$USER_HOME$/Canonical/Juju/juju-qa-jenkins/tests/main.sh" />
+      <jump line="144" column="9" filename="$USER_HOME$/Canonical/Juju/juju-qa-jenkins/tests/main.sh" />
+      <jump line="151" column="3" filename="$USER_HOME$/Canonical/Juju/juju-qa-jenkins/tests/main.sh" />
+      <jump line="148" column="20" filename="$USER_HOME$/Canonical/Juju/juju-qa-jenkins/tests/main.sh" />
+      <jump line="20" column="0" filename="$USER_HOME$/Canonical/Juju/juju-qa-jenkins/tests/main.sh" />
+      <jump line="21" column="11" filename="$USER_HOME$/Canonical/Juju/juju-qa-jenkins/tests/main.sh" />
+      <jump line="150" column="23" filename="$USER_HOME$/Canonical/Juju/juju-qa-jenkins/tests/main.sh" />
+      <jump line="133" column="20" filename="$USER_HOME$/Canonical/Juju/juju-qa-jenkins/tests/main.sh" />
+      <jump line="134" column="13" filename="$USER_HOME$/Canonical/Juju/juju-qa-jenkins/tests/main.sh" />
+      <jump line="135" column="15" filename="$USER_HOME$/Canonical/Juju/juju-qa-jenkins/tests/main.sh" />
+      <jump line="142" column="15" filename="$USER_HOME$/Canonical/Juju/juju-qa-jenkins/tests/main.sh" />
+      <jump line="124" column="9" filename="$USER_HOME$/Canonical/Juju/juju-qa-jenkins/tests/main.sh" />
+      <jump line="129" column="24" filename="$USER_HOME$/Canonical/Juju/juju-qa-jenkins/tests/main.sh" />
+      <jump line="143" column="30" filename="$USER_HOME$/Canonical/Juju/juju-qa-jenkins/tests/main.sh" />
+      <jump line="63" column="16" filename="$USER_HOME$/Canonical/Juju/juju-qa-jenkins/tests/main.sh" />
+      <jump line="50" column="79" filename="$USER_HOME$/Canonical/Juju/juju-qa-jenkins/Makefile" />
+      <jump line="57" column="52" filename="$USER_HOME$/Canonical/Juju/juju-qa-jenkins/Makefile" />
+      <jump line="61" column="39" filename="$USER_HOME$/Canonical/Juju/juju-qa-jenkins/Makefile" />
+      <jump line="204" column="39" filename="$USER_HOME$/Canonical/Juju/juju-qa-jenkins/tools/gen-wire-tests/juju.config" />
+      <jump line="55" column="64" filename="$USER_HOME$/Canonical/Juju/juju-qa-jenkins/tests/main.sh" />
+      <jump line="127" column="0" filename="$USER_HOME$/Canonical/Juju/juju-qa-jenkins/tests/main.sh" />
+      <jump line="139" column="0" filename="$USER_HOME$/Canonical/Juju/juju-qa-jenkins/tests/main.sh" />
+      <jump line="128" column="24" filename="$USER_HOME$/Canonical/Juju/juju-qa-jenkins/tests/main.sh" />
+      <jump line="192" column="44" filename="$USER_HOME$/Canonical/Juju/juju-qa-jenkins/jobs/ci-run/integration/integrationtests.yml" />
+      <jump line="97" column="14" filename="$USER_HOME$/Canonical/Juju/juju-qa-jenkins/jobs/ci-run/integration/integrationtests.yml" />
+      <jump line="95" column="26" filename="$USER_HOME$/Canonical/Juju/juju-qa-jenkins/jobs/ci-run/integration/integrationtests.yml" />
+      <jump line="89" column="37" filename="$USER_HOME$/Canonical/Juju/juju-qa-jenkins/jobs/ci-run/integration/integrationtests.yml" />
+      <jump line="147" column="16" filename="$USER_HOME$/Canonical/Juju/juju-qa-jenkins/jobs/ci-run/integration/integrationtests.yml" />
+      <jump line="196" column="12" filename="$USER_HOME$/Canonical/Juju/juju-qa-jenkins/jobs/ci-run/integration/integrationtests.yml" />
+      <jump line="53" column="58" filename="$USER_HOME$/Canonical/Juju/juju-qa-jenkins/Makefile" />
+      <jump line="36" column="45" filename="$USER_HOME$/Canonical/Juju/juju-qa-jenkins/Makefile" />
+      <jump line="47" column="48" filename="$USER_HOME$/Canonical/Juju/juju-qa-jenkins/Makefile" />
+      <jump line="43" column="31" filename="$USER_HOME$/Canonical/Juju/juju-qa-jenkins/Makefile" />
+      <jump line="40" column="41" filename="$USER_HOME$/Canonical/Juju/juju-qa-jenkins/Makefile" />
+      <jump line="48" column="0" filename="$USER_HOME$/Canonical/Juju/juju-qa-jenkins/Makefile" />
+      <jump line="4" column="11" filename="$USER_HOME$/Canonical/Juju/juju-qa-jenkins/jobs/ci-run/integration/gen/test-smoke_k8s.yml" />
+      <jump line="0" column="0" filename="$USER_HOME$/Canonical/Juju/juju-qa-jenkins/README.md" />
+      <jump line="31" column="3" filename="$USER_HOME$/Canonical/Juju/juju-qa-jenkins/Makefile" />
+      <jump line="29" column="28" filename="$USER_HOME$/Canonical/Juju/juju-qa-jenkins/Makefile" />
+      <jump line="45" column="20" filename="$USER_HOME$/Canonical/Juju/juju-qa-jenkins/Makefile" />
+      <jump line="49" column="0" filename="$USER_HOME$/Canonical/Juju/juju-qa-jenkins/Makefile" />
+      <jump line="64" column="15" filename="$USER_HOME$/Canonical/Juju/juju-qa-jenkins/Makefile" />
+      <jump line="66" column="0" filename="$USER_HOME$/Canonical/Juju/juju-qa-jenkins/Makefile" />
+      <jump line="4" column="27" filename="$USER_HOME$/Canonical/Juju/juju-qa-jenkins/Makefile" />
+      <jump line="21" column="6" filename="$USER_HOME$/Canonical/Juju/juju-qa-jenkins/Makefile" />
+      <jump line="22" column="10" filename="$USER_HOME$/Canonical/Juju/juju-qa-jenkins/Makefile" />
+      <jump line="34" column="13" filename="$USER_HOME$/Canonical/Juju/juju-qa-jenkins/Makefile" />
+      <jump line="37" column="74" filename="$USER_HOME$/Canonical/Juju/juju-qa-jenkins/Makefile" />
+      <jump line="3" column="27" filename="$USER_HOME$/Canonical/Juju/juju-qa-jenkins/Makefile" />
+    </project>
+    <project id="$USER_HOME$/Canonical/Juju/utils">
+      <jump line="28" column="20" filename="$USER_HOME$/Canonical/Juju/utils/ssh/export_test.go" />
+      <jump line="383" column="19" filename="$USER_HOME$/Canonical/Juju/utils/ssh/ssh_gocrypto.go" />
+      <jump line="387" column="21" filename="$USER_HOME$/Canonical/Juju/utils/ssh/ssh_gocrypto.go" />
+      <jump line="26" column="5" filename="$USER_HOME$/Canonical/Juju/utils/ssh/export_test.go" />
+      <jump line="296" column="28" filename="$USER_HOME$/Canonical/Juju/utils/ssh/ssh_gocrypto_test.go" />
+      <jump line="369" column="0" filename="$USER_HOME$/Canonical/Juju/utils/ssh/ssh_gocrypto_test.go" />
+      <jump line="271" column="36" filename="$USER_HOME$/Canonical/Juju/utils/ssh/ssh_gocrypto_test.go" />
+      <jump line="0" column="0" filename="$USER_HOME$/Canonical/Juju/utils/bzr/bzr.go" />
+      <jump line="148" column="24" filename="$USER_HOME$/Canonical/Juju/utils/bzr/bzr.go" />
+      <jump line="150" column="22" filename="$USER_HOME$/Canonical/Juju/utils/bzr/bzr.go" />
+      <jump line="154" column="21" filename="$USER_HOME$/Canonical/Juju/utils/bzr/bzr.go" />
+      <jump line="149" column="23" filename="$USER_HOME$/Canonical/Juju/utils/bzr/bzr.go" />
+      <jump line="98" column="23" filename="$USER_HOME$/Canonical/Juju/utils/bzr/bzr.go" />
+      <jump line="69" column="23" filename="$USER_HOME$/Canonical/Juju/utils/bzr/bzr.go" />
+      <jump line="58" column="23" filename="$USER_HOME$/Canonical/Juju/utils/bzr/bzr.go" />
+      <jump line="52" column="23" filename="$USER_HOME$/Canonical/Juju/utils/bzr/bzr.go" />
+      <jump line="32" column="0" filename="$USER_HOME$/Canonical/Juju/utils/bzr/bzr.go" />
+      <jump line="28" column="15" filename="$USER_HOME$/Canonical/Juju/utils/bzr/bzr.go" />
+      <jump line="46" column="0" filename="$USER_HOME$/Canonical/Juju/utils/bzr/bzr_test.go" />
+      <jump line="294" column="0" filename="$USER_HOME$/Canonical/Juju/utils/ssh/ssh_gocrypto_test.go" />
+      <jump line="288" column="0" filename="$USER_HOME$/Canonical/Juju/utils/ssh/ssh_gocrypto_test.go" />
+      <jump line="273" column="19" filename="$USER_HOME$/Canonical/Juju/utils/ssh/ssh_gocrypto_test.go" />
+      <jump line="270" column="46" filename="$USER_HOME$/Canonical/Juju/utils/ssh/ssh_gocrypto_test.go" />
+      <jump line="15" column="9" filename="$USER_HOME$/Canonical/Juju/utils/ssh/ssh_gocrypto_test.go" />
+      <jump line="207" column="28" filename="$USER_HOME$/Canonical/Juju/utils/ssh/ssh_gocrypto_test.go" />
+      <jump line="213" column="18" filename="$USER_HOME$/Canonical/Juju/utils/ssh/ssh_gocrypto_test.go" />
+      <jump line="88" column="45" filename="$USER_HOME$/Canonical/Juju/utils/ssh/ssh_gocrypto_test.go" />
+      <jump line="240" column="49" filename="$USER_HOME$/Canonical/Juju/utils/ssh/ssh_gocrypto_test.go" />
+      <jump line="241" column="41" filename="$USER_HOME$/Canonical/Juju/utils/ssh/ssh_gocrypto_test.go" />
+      <jump line="246" column="24" filename="$USER_HOME$/Canonical/Juju/utils/ssh/ssh_gocrypto_test.go" />
+      <jump line="234" column="4" filename="$USER_HOME$/Canonical/Juju/utils/ssh/ssh_gocrypto_test.go" />
+      <jump line="204" column="14" filename="$USER_HOME$/Canonical/Juju/utils/ssh/ssh_gocrypto_test.go" />
+      <jump line="159" column="0" filename="$USER_HOME$/Canonical/Juju/utils/ssh/ssh_gocrypto_test.go" />
+      <jump line="144" column="31" filename="$USER_HOME$/Canonical/Juju/utils/ssh/ssh_gocrypto_test.go" />
+      <jump line="290" column="0" filename="$USER_HOME$/Canonical/Juju/utils/ssh/ssh_gocrypto_test.go" />
+      <jump line="293" column="30" filename="$USER_HOME$/Canonical/Juju/utils/ssh/ssh_gocrypto_test.go" />
+      <jump line="175" column="0" filename="$USER_HOME$/Canonical/Juju/utils/ssh/ssh_gocrypto_test.go" />
+      <jump line="272" column="4" filename="$USER_HOME$/Canonical/Juju/utils/ssh/ssh_gocrypto_test.go" />
+      <jump line="291" column="4" filename="$USER_HOME$/Canonical/Juju/utils/ssh/ssh_gocrypto_test.go" />
+      <jump line="158" column="8" filename="$USER_HOME$/Canonical/Juju/utils/ssh/ssh_gocrypto_test.go" />
+      <jump line="157" column="8" filename="$USER_HOME$/Canonical/Juju/utils/ssh/ssh_gocrypto_test.go" />
+      <jump line="163" column="46" filename="$USER_HOME$/Canonical/Juju/utils/ssh/ssh_gocrypto_test.go" />
+      <jump line="38" column="0" filename="$USER_HOME$/Canonical/Juju/utils/ssh/ssh_gocrypto_test.go" />
+      <jump line="53" column="39" filename="$USER_HOME$/Canonical/Juju/utils/ssh/ssh_gocrypto_test.go" />
+      <jump line="221" column="0" filename="$USER_HOME$/go/pkg/mod/golang.org/x/crypto@v0.1.0/ssh/server.go" />
+      <jump line="382" column="25" filename="$USER_HOME$/go/pkg/mod/golang.org/x/crypto@v0.1.0/ssh/server.go" />
+      <jump line="403" column="49" filename="$USER_HOME$/go/pkg/mod/golang.org/x/crypto@v0.1.0/ssh/server.go" />
+      <jump line="189" column="3" filename="$USER_HOME$/go/pkg/mod/golang.org/x/crypto@v0.1.0/ssh/server.go" />
+      <jump line="213" column="21" filename="$USER_HOME$/go/pkg/mod/golang.org/x/crypto@v0.1.0/ssh/server.go" />
+      <jump line="290" column="5" filename="$USER_HOME$/go/pkg/mod/golang.org/x/crypto@v0.1.0/ssh/transport.go" />
+      <jump line="251" column="41" filename="$USER_HOME$/go/pkg/mod/golang.org/x/crypto@v0.1.0/ssh/server.go" />
+      <jump line="289" column="5" filename="$USER_HOME$/go/pkg/mod/golang.org/x/crypto@v0.1.0/ssh/transport.go" />
+      <jump line="267" column="33" filename="$USER_HOME$/go/pkg/mod/golang.org/x/crypto@v0.1.0/ssh/server.go" />
+      <jump line="188" column="24" filename="$USER_HOME$/go/pkg/mod/golang.org/x/crypto@v0.1.0/ssh/handshake.go" />
+      <jump line="58" column="4" filename="$USER_HOME$/go/pkg/mod/golang.org/x/crypto@v0.1.0/ssh/handshake.go" />
+      <jump line="285" column="32" filename="$USER_HOME$/go/pkg/mod/golang.org/x/crypto@v0.1.0/ssh/server.go" />
+      <jump line="526" column="27" filename="$USER_HOME$/go/pkg/mod/golang.org/x/crypto@v0.1.0/ssh/server.go" />
+      <jump line="270" column="5" filename="$USER_HOME$/go/pkg/mod/golang.org/x/crypto@v0.1.0/ssh/keys.go" />
+      <jump line="564" column="21" filename="$USER_HOME$/go/pkg/mod/golang.org/x/crypto@v0.1.0/ssh/server.go" />
+      <jump line="548" column="23" filename="$USER_HOME$/go/pkg/mod/golang.org/x/crypto@v0.1.0/ssh/server.go" />
+      <jump line="521" column="24" filename="$USER_HOME$/go/pkg/mod/golang.org/x/crypto@v0.1.0/ssh/server.go" />
+      <jump line="11" column="0" filename="$USER_HOME$/go/pkg/mod/golang.org/x/crypto@v0.1.0/ssh/server.go" />
+      <jump line="15" column="50" filename="$USER_HOME$/go/pkg/mod/golang.org/x/crypto@v0.1.0/ssh/server.go" />
+      <jump line="16" column="47" filename="$USER_HOME$/go/pkg/mod/golang.org/x/crypto@v0.1.0/ssh/server.go" />
+      <jump line="432" column="22" filename="$USER_HOME$/go/pkg/mod/golang.org/x/crypto@v0.1.0/ssh/server.go" />
+      <jump line="224" column="44" filename="$USER_HOME$/go/pkg/mod/golang.org/x/crypto@v0.1.0/ssh/server.go" />
+      <jump line="103" column="0" filename="$USER_HOME$/go/pkg/mod/golang.org/x/crypto@v0.1.0/ssh/handshake.go" />
+      <jump line="56" column="5" filename="$USER_HOME$/go/pkg/mod/golang.org/x/crypto@v0.1.0/ssh/terminal/terminal.go" />
+      <jump line="390" column="36" filename="$USER_HOME$/Canonical/Juju/utils/ssh/ssh_gocrypto.go" />
+      <jump line="391" column="4" filename="$USER_HOME$/Canonical/Juju/utils/ssh/ssh_gocrypto.go" />
+      <jump line="384" column="33" filename="$USER_HOME$/Canonical/Juju/utils/ssh/ssh_gocrypto.go" />
+      <jump line="385" column="30" filename="$USER_HOME$/Canonical/Juju/utils/ssh/ssh_gocrypto.go" />
+      <jump line="23" column="30" filename="$USER_HOME$/Canonical/Juju/utils/ssh/ssh_gocrypto.go" />
+      <jump line="363" column="24" filename="$USER_HOME$/Canonical/Juju/utils/ssh/ssh_gocrypto.go" />
+      <jump line="405" column="21" filename="$USER_HOME$/Canonical/Juju/utils/ssh/ssh_gocrypto.go" />
+      <jump line="410" column="21" filename="$USER_HOME$/Canonical/Juju/utils/ssh/ssh_gocrypto.go" />
+      <jump line="269" column="30" filename="$USER_HOME$/Canonical/Juju/utils/ssh/ssh_gocrypto.go" />
+      <jump line="187" column="4" filename="$USER_HOME$/Canonical/Juju/utils/ssh/ssh_gocrypto.go" />
+      <jump line="486" column="4" filename="$USER_HOME$/Canonical/Juju/utils/ssh/ssh_gocrypto.go" />
+      <jump line="489" column="0" filename="$USER_HOME$/Canonical/Juju/utils/ssh/ssh_gocrypto.go" />
+      <jump line="494" column="14" filename="$USER_HOME$/Canonical/Juju/utils/ssh/ssh_gocrypto.go" />
+      <jump line="492" column="23" filename="$USER_HOME$/Canonical/Juju/utils/ssh/ssh_gocrypto.go" />
+      <jump line="493" column="21" filename="$USER_HOME$/Canonical/Juju/utils/ssh/ssh_gocrypto.go" />
+      <jump line="309" column="12" filename="$USER_HOME$/Canonical/Juju/utils/ssh/ssh_gocrypto.go" />
+      <jump line="88" column="15" filename="$USER_HOME$/go/pkg/mod/golang.org/x/crypto@v0.1.0/ssh/connection.go" />
+      <jump line="259" column="5" filename="/snap/go/10554/src/fmt/print.go" />
+      <jump line="45" column="40" filename="$USER_HOME$/Canonical/Juju/utils/ssh/ssh_gocrypto_test.go" />
+      <jump line="40" column="22" filename="$USER_HOME$/Canonical/Juju/utils/ssh/export_test.go" />
+      <jump line="431" column="31" filename="$USER_HOME$/go/pkg/mod/golang.org/x/crypto@v0.1.0/ssh/server.go" />
+      <jump line="0" column="0" filename="$USER_HOME$/Canonical/Juju/utils/ssh/authorisedkeys_test.go" />
+      <jump line="74" column="0" filename="$USER_HOME$/Canonical/Juju/utils/ssh/authorisedkeys.go" />
+      <jump line="336" column="15" filename="$USER_HOME$/Canonical/Juju/utils/ssh/authorisedkeys.go" />
+      <jump line="59" column="4" filename="$USER_HOME$/Canonical/Juju/utils/ssh/authorisedkeys.go" />
+      <jump line="58" column="11" filename="$USER_HOME$/Canonical/Juju/utils/ssh/authorisedkeys.go" />
+      <jump line="46" column="0" filename="$USER_HOME$/Canonical/Juju/utils/ssh/ssh_gocrypto_test.go" />
+      <jump line="340" column="0" filename="$USER_HOME$/Canonical/Juju/utils/ssh/ssh_gocrypto_test.go" />
+      <jump line="168" column="0" filename="$USER_HOME$/Canonical/Juju/utils/ssh/ssh_gocrypto_test.go" />
+      <jump line="165" column="45" filename="$USER_HOME$/Canonical/Juju/utils/ssh/ssh_gocrypto_test.go" />
+      <jump line="164" column="16" filename="$USER_HOME$/Canonical/Juju/utils/ssh/ssh_gocrypto_test.go" />
+      <jump line="169" column="41" filename="$USER_HOME$/Canonical/Juju/utils/ssh/ssh_gocrypto_test.go" />
+    </project>
+  </component>
+  <component name="VimMarksSettings">
+    <globalmarks />
+    <localmarks>
+      <file name="$USER_HOME$/Canonical/Juju/juju/domain/blockdevice/state/state.go" timestamp="1710801308881">
+        <mark key="&quot;" line="373" column="27" />
+        <mark key="'" line="54" column="5" />
+        <mark key="[" line="318" column="116" />
+        <mark key="]" line="318" column="150" />
+        <mark key="^" line="318" column="150" />
+        <mark key="." line="318" column="149" />
+      </file>
+      <file name="$USER_HOME$/Canonical/Juju/juju/domain/user/state/state.go" timestamp="1710801967725">
+        <mark key="&quot;" line="138" column="27" />
+        <mark key="'" line="136" column="51" />
+        <mark key="[" line="137" column="25" />
+        <mark key="]" line="137" column="26" />
+        <mark key="." line="137" column="25" />
+        <mark key="^" line="137" column="26" />
+      </file>
+      <file name="$USER_HOME$/Canonical/Juju/juju/domain/upgrade/state/state.go" timestamp="1710799185207">
+        <mark key="&quot;" line="310" column="0" />
+        <mark key="'" line="314" column="30" />
+      </file>
+      <file name="$USER_HOME$/Canonical/Juju/juju/domain/storage/state/storagepool.go" timestamp="1710799185189">
+        <mark key="&quot;" line="305" column="53" />
+        <mark key="'" line="305" column="53" />
+        <mark key="[" line="306" column="22" />
+        <mark key="]" line="306" column="57" />
+        <mark key="." line="306" column="56" />
+        <mark key="^" line="306" column="57" />
+      </file>
+      <file name="$USER_HOME$/Canonical/Juju/juju/domain/externalcontroller/state/state.go" timestamp="1710802024771">
+        <mark key="&quot;" line="234" column="21" />
+        <mark key="'" line="31" column="17" />
+        <mark key="[" line="108" column="29" />
+        <mark key="]" line="108" column="30" />
+        <mark key="." line="108" column="29" />
+        <mark key="^" line="108" column="30" />
+      </file>
+      <file name="$USER_HOME$/Canonical/Juju/juju/domain/network/state/space.go" timestamp="1710801671733">
+        <mark key="&quot;" line="184" column="47" />
+        <mark key="'" line="184" column="47" />
+        <mark key="[" line="214" column="41" />
+        <mark key="]" line="214" column="41" />
+        <mark key="^" line="243" column="25" />
+        <mark key="." line="214" column="41" />
+      </file>
+      <file name="$USER_HOME$/Canonical/Juju/juju/domain/permission/state/state.go" timestamp="1710801935346">
+        <mark key="&quot;" line="355" column="131" />
+        <mark key="'" line="349" column="20" />
+        <mark key="[" line="193" column="25" />
+        <mark key="]" line="193" column="59" />
+        <mark key="^" line="193" column="59" />
+        <mark key="." line="193" column="58" />
+      </file>
+      <file name="$USER_HOME$/Canonical/Juju/juju/domain/upgrade/state/state_test.go" timestamp="1710799185213">
+        <mark key="&quot;" line="456" column="21" />
+        <mark key="'" line="107" column="4" />
+        <mark key="[" line="454" column="94" />
+        <mark key="]" line="456" column="22" />
+        <mark key="^" line="456" column="22" />
+        <mark key="." line="456" column="21" />
+      </file>
+      <file name="$USER_HOME$/Canonical/Juju/juju/go.mod" timestamp="1710851738822">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="27" column="0" />
+        <mark key="]" line="27" column="0" />
+        <mark key="." line="27" column="0" />
+      </file>
+      <file name="$USER_HOME$/Canonical/Juju/juju/domain/testing/controllerconfigsuite.go" timestamp="1710799185197">
+        <mark key="&quot;" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Canonical/Juju/juju/domain/storage/state/state.go" timestamp="1710799185185">
+        <mark key="&quot;" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Canonical/Juju/juju/domain/credential/state/state.go" timestamp="1710801472028">
+        <mark key="&quot;" line="583" column="4" />
+        <mark key="'" line="236" column="30" />
+        <mark key="[" line="269" column="42" />
+        <mark key="]" line="269" column="67" />
+        <mark key="." line="269" column="66" />
+        <mark key="^" line="269" column="67" />
+      </file>
+      <file name="$USER_HOME$/Canonical/Juju/juju/domain/network/state/subnet.go" timestamp="1710801631860">
+        <mark key="&quot;" line="335" column="4" />
+        <mark key="'" line="315" column="26" />
+        <mark key="[" line="374" column="18" />
+        <mark key="]" line="374" column="54" />
+        <mark key="^" line="374" column="54" />
+        <mark key="." line="374" column="53" />
+      </file>
+      <file name="$USER_HOME$/Canonical/Juju/juju/domain/testing/watcher.go" timestamp="1710799185200">
+        <mark key="&quot;" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Canonical/Juju/juju/domain/annotation/state/state.go" timestamp="1710801745592">
+        <mark key="&quot;" line="44" column="4" />
+        <mark key="'" line="11" column="14" />
+        <mark key="[" line="124" column="0" />
+        <mark key="]" line="124" column="0" />
+        <mark key="." line="124" column="0" />
+        <mark key="^" line="39" column="33" />
+      </file>
+      <file name="$USER_HOME$/Canonical/Juju/juju/domain/servicefactory/service.go" timestamp="1710799185177">
+        <mark key="&quot;" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Canonical/Juju/juju/domain/user/state/state_test.go" timestamp="1710851736265">
+        <mark key="&quot;" line="141" column="32" />
+      </file>
+      <file name="$USER_HOME$/Canonical/Juju/juju/domain/unit/state/state.go" timestamp="1710799185203">
+        <mark key="&quot;" line="21" column="18" />
+        <mark key="'" line="59" column="4" />
+        <mark key="[" line="36" column="15" />
+        <mark key="]" line="36" column="17" />
+        <mark key="^" line="36" column="17" />
+        <mark key="." line="36" column="16" />
+      </file>
+      <file name="$USER_HOME$/Canonical/Juju/juju/domain/servicefactory/controller.go" timestamp="1710799185181">
+        <mark key="&quot;" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Canonical/Juju/juju/domain/credential/state/state_test.go" timestamp="1710801982835">
+        <mark key="&quot;" line="550" column="22" />
+        <mark key="'" line="231" column="22" />
+      </file>
+    </localmarks>
+  </component>
+  <component name="VimRegisterSettings">
+    <registers>
+      <register name="&quot;" type="LINE_WISE">
+        <text encoding="base64">cmVwbGFjZSBnaXRodWIuY29tL2Nhbm9uaWNhbC9zcWxhaXIgPT4gLi4vLi4vU1FMYWlyL3NxbGFpcgo=</text>
+      </register>
+      <register name="c" type="CHARACTER_WISE">
+        <keys>
+          <key char="105" code="0" mods="0" />
+          <key char="36" code="0" mods="0" />
+          <key char="67" code="0" mods="0" />
+          <key char="108" code="0" mods="0" />
+          <key char="111" code="0" mods="0" />
+          <key char="117" code="0" mods="0" />
+          <key char="100" code="0" mods="0" />
+          <key char="82" code="0" mods="0" />
+          <key char="101" code="0" mods="0" />
+          <key char="103" code="0" mods="0" />
+          <key char="105" code="0" mods="0" />
+          <key char="111" code="0" mods="0" />
+          <key char="110" code="0" mods="0" />
+          <key char="46" code="0" mods="0" />
+          <key char="65535" code="67" mods="130" />
+          <key char="119" code="0" mods="0" />
+          <key char="119" code="0" mods="0" />
+          <key char="119" code="0" mods="0" />
+        </keys>
+      </register>
+      <register name="e" type="CHARACTER_WISE">
+        <keys>
+          <key char="111" code="0" mods="0" />
+          <key char="105" code="0" mods="0" />
+          <key char="102" code="0" mods="0" />
+          <key char="32" code="0" mods="0" />
+          <key char="101" code="0" mods="0" />
+          <key char="114" code="0" mods="0" />
+          <key char="114" code="0" mods="0" />
+          <key char="111" code="0" mods="0" />
+          <key char="114" code="0" mods="0" />
+          <key char="115" code="0" mods="0" />
+          <key char="46" code="0" mods="0" />
+          <key char="73" code="0" mods="0" />
+          <key char="115" code="0" mods="0" />
+          <key char="40" code="0" mods="0" />
+          <key char="101" code="0" mods="0" />
+          <key char="114" code="0" mods="0" />
+          <key char="114" code="0" mods="0" />
+          <key char="44" code="0" mods="0" />
+          <key char="83" code="0" mods="0" />
+          <key char="65535" code="8" mods="0" />
+          <key char="115" code="0" mods="0" />
+          <key char="113" code="0" mods="0" />
+          <key char="108" code="0" mods="0" />
+          <key char="97" code="0" mods="0" />
+          <key char="105" code="0" mods="0" />
+          <key char="114" code="0" mods="0" />
+          <key char="46" code="0" mods="0" />
+          <key char="69" code="0" mods="0" />
+          <key char="114" code="0" mods="0" />
+          <key char="114" code="0" mods="0" />
+          <key char="111" code="0" mods="0" />
+          <key char="114" code="0" mods="0" />
+          <key char="65535" code="8" mods="0" />
+          <key char="65535" code="8" mods="0" />
+          <key char="78" code="0" mods="0" />
+          <key char="111" code="0" mods="0" />
+          <key char="82" code="0" mods="0" />
+          <key char="111" code="0" mods="0" />
+          <key char="119" code="0" mods="0" />
+          <key char="115" code="0" mods="0" />
+          <key char="41" code="0" mods="0" />
+          <key char="32" code="0" mods="0" />
+          <key char="123" code="0" mods="0" />
+          <key char="65535" code="10" mods="0" />
+          <key char="114" code="0" mods="0" />
+          <key char="101" code="0" mods="0" />
+          <key char="116" code="0" mods="0" />
+          <key char="117" code="0" mods="0" />
+          <key char="114" code="0" mods="0" />
+          <key char="110" code="0" mods="0" />
+          <key char="32" code="0" mods="0" />
+          <key char="110" code="0" mods="0" />
+          <key char="105" code="0" mods="0" />
+          <key char="108" code="0" mods="0" />
+          <key char="65535" code="8" mods="0" />
+          <key char="65535" code="8" mods="0" />
+          <key char="65535" code="8" mods="0" />
+          <key char="65535" code="8" mods="0" />
+          <key char="65535" code="8" mods="0" />
+          <key char="65535" code="8" mods="0" />
+          <key char="65535" code="8" mods="0" />
+          <key char="65535" code="8" mods="0" />
+          <key char="65535" code="8" mods="0" />
+          <key char="110" code="0" mods="0" />
+          <key char="105" code="0" mods="0" />
+          <key char="108" code="0" mods="0" />
+          <key char="110" code="0" mods="0" />
+          <key char="105" code="0" mods="0" />
+          <key char="108" code="0" mods="0" />
+          <key char="110" code="0" mods="0" />
+          <key char="105" code="0" mods="0" />
+          <key char="108" code="0" mods="0" />
+          <key char="125" code="0" mods="0" />
+          <key char="65535" code="8" mods="0" />
+          <key char="65535" code="10" mods="0" />
+          <key char="125" code="0" mods="0" />
+          <key char="65535" code="67" mods="130" />
+        </keys>
+      </register>
+      <register name="j" type="CHARACTER_WISE">
+        <keys>
+          <key char="106" code="0" mods="0" />
+          <key char="107" code="0" mods="0" />
+          <key char="106" code="0" mods="0" />
+          <key char="107" code="0" mods="0" />
+          <key char="108" code="0" mods="0" />
+          <key char="108" code="0" mods="0" />
+          <key char="108" code="0" mods="0" />
+          <key char="108" code="0" mods="0" />
+          <key char="108" code="0" mods="0" />
+          <key char="108" code="0" mods="0" />
+          <key char="99" code="0" mods="0" />
+          <key char="119" code="0" mods="0" />
+          <key char="65535" code="67" mods="130" />
+          <key char="119" code="0" mods="0" />
+          <key char="119" code="0" mods="0" />
+          <key char="119" code="0" mods="0" />
+          <key char="107" code="0" mods="0" />
+          <key char="107" code="0" mods="0" />
+          <key char="107" code="0" mods="0" />
+          <key char="107" code="0" mods="0" />
+          <key char="107" code="0" mods="0" />
+          <key char="111" code="0" mods="0" />
+          <key char="65535" code="10" mods="0" />
+          <key char="115" code="0" mods="0" />
+          <key char="113" code="0" mods="0" />
+          <key char="108" code="0" mods="0" />
+          <key char="97" code="0" mods="0" />
+          <key char="105" code="0" mods="0" />
+          <key char="114" code="0" mods="0" />
+          <key char="46" code="0" mods="0" />
+          <key char="80" code="0" mods="0" />
+          <key char="65535" code="8" mods="0" />
+          <key char="80" code="0" mods="0" />
+          <key char="114" code="0" mods="0" />
+          <key char="101" code="0" mods="0" />
+          <key char="112" code="0" mods="0" />
+          <key char="97" code="0" mods="0" />
+          <key char="114" code="0" mods="0" />
+          <key char="101" code="0" mods="0" />
+          <key char="40" code="0" mods="0" />
+          <key char="41" code="0" mods="0" />
+          <key char="65535" code="37" mods="0" />
+          <key char="65535" code="67" mods="130" />
+          <key char="106" code="0" mods="0" />
+          <key char="106" code="0" mods="0" />
+          <key char="106" code="0" mods="0" />
+          <key char="106" code="0" mods="0" />
+          <key char="106" code="0" mods="0" />
+          <key char="119" code="0" mods="0" />
+          <key char="119" code="0" mods="0" />
+          <key char="119" code="0" mods="0" />
+          <key char="119" code="0" mods="0" />
+          <key char="119" code="0" mods="0" />
+          <key char="100" code="0" mods="0" />
+          <key char="105" code="0" mods="0" />
+          <key char="34" code="0" mods="0" />
+          <key char="107" code="0" mods="0" />
+          <key char="107" code="0" mods="0" />
+          <key char="107" code="0" mods="0" />
+          <key char="107" code="0" mods="0" />
+          <key char="107" code="0" mods="0" />
+          <key char="104" code="0" mods="0" />
+          <key char="108" code="0" mods="0" />
+          <key char="97" code="0" mods="0" />
+          <key char="65535" code="37" mods="0" />
+          <key char="34" code="0" mods="0" />
+          <key char="65535" code="67" mods="130" />
+          <key char="112" code="0" mods="0" />
+          <key char="115" code="0" mods="0" />
+          <key char="38" code="0" mods="0" />
+          <key char="82" code="0" mods="0" />
+          <key char="36" code="0" mods="0" />
+          <key char="77" code="0" mods="0" />
+          <key char="46" code="0" mods="0" />
+          <key char="110" code="0" mods="0" />
+          <key char="97" code="0" mods="0" />
+          <key char="109" code="0" mods="0" />
+          <key char="101" code="0" mods="0" />
+          <key char="65535" code="67" mods="130" />
+          <key char="98" code="0" mods="0" />
+          <key char="98" code="0" mods="0" />
+          <key char="98" code="0" mods="0" />
+          <key char="98" code="0" mods="0" />
+          <key char="98" code="0" mods="0" />
+          <key char="98" code="0" mods="0" />
+          <key char="98" code="0" mods="0" />
+          <key char="98" code="0" mods="0" />
+          <key char="98" code="0" mods="0" />
+          <key char="98" code="0" mods="0" />
+          <key char="105" code="0" mods="0" />
+          <key char="38" code="0" mods="0" />
+          <key char="77" code="0" mods="0" />
+          <key char="46" code="0" mods="0" />
+          <key char="65535" code="67" mods="130" />
+          <key char="65" code="0" mods="0" />
+          <key char="65535" code="37" mods="0" />
+          <key char="44" code="0" mods="0" />
+          <key char="32" code="0" mods="0" />
+          <key char="83" code="0" mods="0" />
+          <key char="65535" code="8" mods="0" />
+          <key char="115" code="0" mods="0" />
+          <key char="113" code="0" mods="0" />
+          <key char="108" code="0" mods="0" />
+          <key char="97" code="0" mods="0" />
+          <key char="105" code="0" mods="0" />
+          <key char="114" code="0" mods="0" />
+          <key char="46" code="0" mods="0" />
+          <key char="77" code="0" mods="0" />
+          <key char="123" code="0" mods="0" />
+          <key char="125" code="0" mods="0" />
+          <key char="65535" code="67" mods="130" />
+          <key char="106" code="0" mods="0" />
+          <key char="107" code="0" mods="0" />
+          <key char="65535" code="67" mods="130" />
+          <key char="98" code="0" mods="0" />
+          <key char="98" code="0" mods="0" />
+          <key char="98" code="0" mods="0" />
+          <key char="73" code="0" mods="0" />
+          <key char="115" code="0" mods="0" />
+          <key char="116" code="0" mods="0" />
+          <key char="109" code="0" mods="0" />
+          <key char="116" code="0" mods="0" />
+          <key char="65535" code="8" mods="0" />
+          <key char="65535" code="8" mods="0" />
+          <key char="65535" code="8" mods="0" />
+          <key char="65535" code="8" mods="0" />
+          <key char="115" code="0" mods="0" />
+          <key char="101" code="0" mods="0" />
+          <key char="108" code="0" mods="0" />
+          <key char="101" code="0" mods="0" />
+          <key char="99" code="0" mods="0" />
+          <key char="116" code="0" mods="0" />
+          <key char="85" code="0" mods="0" />
+          <key char="85" code="0" mods="0" />
+          <key char="73" code="0" mods="0" />
+          <key char="68" code="0" mods="0" />
+          <key char="32" code="0" mods="0" />
+          <key char="58" code="0" mods="0" />
+          <key char="61" code="0" mods="0" />
+          <key char="65535" code="37" mods="0" />
+          <key char="65535" code="37" mods="0" />
+          <key char="65535" code="37" mods="0" />
+          <key char="115" code="0" mods="0" />
+          <key char="116" code="0" mods="0" />
+          <key char="109" code="0" mods="0" />
+          <key char="116" code="0" mods="0" />
+          <key char="44" code="0" mods="0" />
+          <key char="32" code="0" mods="0" />
+          <key char="101" code="0" mods="0" />
+          <key char="114" code="0" mods="0" />
+          <key char="114" code="0" mods="0" />
+          <key char="32" code="0" mods="0" />
+          <key char="65535" code="67" mods="130" />
+          <key char="111" code="0" mods="0" />
+          <key char="105" code="0" mods="0" />
+          <key char="102" code="0" mods="0" />
+          <key char="32" code="0" mods="0" />
+          <key char="101" code="0" mods="0" />
+          <key char="114" code="0" mods="0" />
+          <key char="65535" code="67" mods="130" />
+          <key char="107" code="0" mods="0" />
+          <key char="107" code="0" mods="0" />
+          <key char="107" code="0" mods="0" />
+          <key char="107" code="0" mods="0" />
+          <key char="107" code="0" mods="0" />
+          <key char="86" code="0" mods="0" />
+          <key char="106" code="0" mods="0" />
+          <key char="106" code="0" mods="0" />
+          <key char="121" code="0" mods="0" />
+          <key char="106" code="0" mods="0" />
+          <key char="106" code="0" mods="0" />
+          <key char="106" code="0" mods="0" />
+          <key char="106" code="0" mods="0" />
+          <key char="112" code="0" mods="0" />
+          <key char="106" code="0" mods="0" />
+          <key char="106" code="0" mods="0" />
+          <key char="106" code="0" mods="0" />
+          <key char="100" code="0" mods="0" />
+          <key char="100" code="0" mods="0" />
+          <key char="107" code="0" mods="0" />
+          <key char="107" code="0" mods="0" />
+          <key char="107" code="0" mods="0" />
+          <key char="106" code="0" mods="0" />
+          <key char="106" code="0" mods="0" />
+          <key char="106" code="0" mods="0" />
+          <key char="111" code="0" mods="0" />
+          <key char="65535" code="67" mods="130" />
+          <key char="107" code="0" mods="0" />
+        </keys>
+      </register>
+      <register name="+" type="CHARACTER_WISE">
+        <text encoding="base64">JiYgIWVycm9ycy5JcyhlcnIsIHNxbGFpci5FcnJOb1Jvd3Mp</text>
+      </register>
+      <register name="l" type="CHARACTER_WISE">
+        <text encoding="base64">bGxsbHc=</text>
+      </register>
+      <register name="-" type="CHARACTER_WISE">
+        <text encoding="base64">cmV0dXJuIGVycm9ycy5Bbm5vdGF0ZWYoZXJyLCAicGVybWlzc2lvbiB0YXJnZXQgJXEgZG9lcyBub3QgZXhpc3QiLCB0YXJnZXRLZXkp</text>
+      </register>
+      <register name="m" type="CHARACTER_WISE">
+        <keys>
+          <key char="47" code="0" mods="0" />
+          <key char="34" code="0" mods="0" />
+          <key char="112" code="0" mods="0" />
+          <key char="114" code="0" mods="0" />
+          <key char="111" code="0" mods="0" />
+          <key char="112" code="0" mods="0" />
+          <key char="101" code="0" mods="0" />
+          <key char="114" code="0" mods="0" />
+          <key char="116" code="0" mods="0" />
+          <key char="105" code="0" mods="0" />
+          <key char="101" code="0" mods="0" />
+          <key char="115" code="0" mods="0" />
+          <key char="65535" code="10" mods="0" />
+          <key char="47" code="0" mods="0" />
+          <key char="123" code="0" mods="0" />
+          <key char="125" code="0" mods="0" />
+          <key char="65535" code="10" mods="0" />
+          <key char="108" code="0" mods="0" />
+          <key char="108" code="0" mods="0" />
+          <key char="37" code="0" mods="0" />
+          <key char="97" code="0" mods="0" />
+          <key char="44" code="0" mods="0" />
+          <key char="65535" code="10" mods="0" />
+          <key char="34" code="0" mods="0" />
+          <key char="97" code="0" mods="0" />
+          <key char="100" code="0" mods="0" />
+          <key char="100" code="0" mods="0" />
+          <key char="105" code="0" mods="0" />
+          <key char="116" code="0" mods="0" />
+          <key char="105" code="0" mods="0" />
+          <key char="111" code="0" mods="0" />
+          <key char="110" code="0" mods="0" />
+          <key char="97" code="0" mods="0" />
+          <key char="108" code="0" mods="0" />
+          <key char="80" code="0" mods="0" />
+          <key char="114" code="0" mods="0" />
+          <key char="101" code="0" mods="0" />
+          <key char="65535" code="8" mods="0" />
+          <key char="111" code="0" mods="0" />
+          <key char="112" code="0" mods="0" />
+          <key char="101" code="0" mods="0" />
+          <key char="114" code="0" mods="0" />
+          <key char="116" code="0" mods="0" />
+          <key char="105" code="0" mods="0" />
+          <key char="101" code="0" mods="0" />
+          <key char="115" code="0" mods="0" />
+          <key char="65535" code="39" mods="0" />
+          <key char="58" code="0" mods="0" />
+          <key char="32" code="0" mods="0" />
+          <key char="102" code="0" mods="0" />
+          <key char="97" code="0" mods="0" />
+          <key char="108" code="0" mods="0" />
+          <key char="115" code="0" mods="0" />
+          <key char="101" code="0" mods="0" />
+          <key char="44" code="0" mods="0" />
+          <key char="65535" code="67" mods="130" />
+        </keys>
+      </register>
+      <register name="." type="CHARACTER_WISE">
+        <text encoding="base64">IQ==</text>
+      </register>
+      <register name="/" type="CHARACTER_WISE">
+        <text encoding="base64">R2V0QWxs</text>
+      </register>
+      <register name="0" type="LINE_WISE">
+        <text encoding="base64">CQlyZXR1cm4gbmlsLCBlcnJvcnMuQW5ub3RhdGUoZXJyLCAibG9hZGluZyBjbG91ZCBhdXRoIHR5cGVzIikK</text>
+      </register>
+      <register name="1" type="LINE_WISE">
+        <text encoding="base64">cmVwbGFjZSBnaXRodWIuY29tL2Nhbm9uaWNhbC9zcWxhaXIgPT4gLi4vLi4vU1FMYWlyL3NxbGFpcgo=</text>
+      </register>
+      <register name="q" type="CHARACTER_WISE">
+        <keys>
+          <key char="73" code="0" mods="0" />
+          <key char="65535" code="67" mods="130" />
+          <key char="100" code="0" mods="0" />
+          <key char="116" code="0" mods="0" />
+          <key char="44" code="0" mods="0" />
+          <key char="120" code="0" mods="0" />
+          <key char="120" code="0" mods="0" />
+          <key char="47" code="0" mods="0" />
+          <key char="116" code="0" mods="0" />
+          <key char="120" code="0" mods="0" />
+          <key char="46" code="0" mods="0" />
+          <key char="65535" code="10" mods="0" />
+          <key char="119" code="0" mods="0" />
+          <key char="108" code="0" mods="0" />
+          <key char="100" code="0" mods="0" />
+          <key char="116" code="0" mods="0" />
+          <key char="40" code="0" mods="0" />
+          <key char="105" code="0" mods="0" />
+          <key char="81" code="0" mods="0" />
+          <key char="117" code="0" mods="0" />
+          <key char="101" code="0" mods="0" />
+          <key char="114" code="0" mods="0" />
+          <key char="121" code="0" mods="0" />
+          <key char="65535" code="67" mods="130" />
+          <key char="102" code="0" mods="0" />
+          <key char="44" code="0" mods="0" />
+          <key char="108" code="0" mods="0" />
+          <key char="100" code="0" mods="0" />
+          <key char="65535" code="27" mods="0" />
+          <key char="108" code="0" mods="0" />
+          <key char="108" code="0" mods="0" />
+          <key char="100" code="0" mods="0" />
+          <key char="97" code="0" mods="0" />
+          <key char="34" code="0" mods="0" />
+          <key char="107" code="0" mods="0" />
+          <key char="111" code="0" mods="0" />
+          <key char="115" code="0" mods="0" />
+          <key char="116" code="0" mods="0" />
+          <key char="109" code="0" mods="0" />
+          <key char="116" code="0" mods="0" />
+          <key char="44" code="0" mods="0" />
+          <key char="32" code="0" mods="0" />
+          <key char="101" code="0" mods="0" />
+          <key char="114" code="0" mods="0" />
+          <key char="114" code="0" mods="0" />
+          <key char="32" code="0" mods="0" />
+          <key char="58" code="0" mods="0" />
+          <key char="61" code="0" mods="0" />
+          <key char="32" code="0" mods="0" />
+          <key char="115" code="0" mods="0" />
+          <key char="113" code="0" mods="0" />
+          <key char="108" code="0" mods="0" />
+          <key char="97" code="0" mods="0" />
+          <key char="105" code="0" mods="0" />
+          <key char="114" code="0" mods="0" />
+          <key char="46" code="0" mods="0" />
+          <key char="80" code="0" mods="0" />
+          <key char="114" code="0" mods="0" />
+          <key char="101" code="0" mods="0" />
+          <key char="112" code="0" mods="0" />
+          <key char="97" code="0" mods="0" />
+          <key char="114" code="0" mods="0" />
+          <key char="101" code="0" mods="0" />
+          <key char="40" code="0" mods="0" />
+          <key char="65535" code="67" mods="130" />
+          <key char="112" code="0" mods="0" />
+          <key char="111" code="0" mods="0" />
+          <key char="105" code="0" mods="0" />
+          <key char="102" code="0" mods="0" />
+          <key char="32" code="0" mods="0" />
+          <key char="101" code="0" mods="0" />
+          <key char="114" code="0" mods="0" />
+          <key char="114" code="0" mods="0" />
+          <key char="32" code="0" mods="0" />
+          <key char="33" code="0" mods="0" />
+          <key char="61" code="0" mods="0" />
+          <key char="32" code="0" mods="0" />
+          <key char="110" code="0" mods="0" />
+          <key char="105" code="0" mods="0" />
+          <key char="108" code="0" mods="0" />
+          <key char="32" code="0" mods="0" />
+          <key char="123" code="0" mods="0" />
+          <key char="65535" code="10" mods="0" />
+          <key char="114" code="0" mods="0" />
+          <key char="101" code="0" mods="0" />
+          <key char="116" code="0" mods="0" />
+          <key char="117" code="0" mods="0" />
+          <key char="114" code="0" mods="0" />
+          <key char="110" code="0" mods="0" />
+          <key char="32" code="0" mods="0" />
+          <key char="101" code="0" mods="0" />
+          <key char="114" code="0" mods="0" />
+          <key char="114" code="0" mods="0" />
+          <key char="111" code="0" mods="0" />
+          <key char="114" code="0" mods="0" />
+          <key char="115" code="0" mods="0" />
+          <key char="46" code="0" mods="0" />
+          <key char="84" code="0" mods="0" />
+          <key char="114" code="0" mods="0" />
+          <key char="97" code="0" mods="0" />
+          <key char="99" code="0" mods="0" />
+          <key char="101" code="0" mods="0" />
+          <key char="40" code="0" mods="0" />
+          <key char="101" code="0" mods="0" />
+          <key char="114" code="0" mods="0" />
+          <key char="114" code="0" mods="0" />
+          <key char="65535" code="67" mods="130" />
+          <key char="106" code="0" mods="0" />
+          <key char="106" code="0" mods="0" />
+          <key char="73" code="0" mods="0" />
+          <key char="65535" code="67" mods="130" />
+          <key char="47" code="0" mods="0" />
+          <key char="99" code="0" mods="0" />
+          <key char="116" code="0" mods="0" />
+          <key char="120" code="0" mods="0" />
+          <key char="44" code="0" mods="0" />
+          <key char="65535" code="10" mods="0" />
+          <key char="119" code="0" mods="0" />
+          <key char="97" code="0" mods="0" />
+          <key char="115" code="0" mods="0" />
+          <key char="116" code="0" mods="0" />
+          <key char="109" code="0" mods="0" />
+          <key char="116" code="0" mods="0" />
+          <key char="65535" code="67" mods="130" />
+          <key char="61" code="0" mods="0" />
+          <key char="61" code="0" mods="0" />
+        </keys>
+      </register>
+      <register name="2" type="LINE_WISE">
+        <text encoding="base64">CWlmIGxlbihmb3VuZEl0KSA9PSAxIHsKCQlyZXR1cm4gbmlsCgl9Cg==</text>
+      </register>
+      <register name="3" type="LINE_WISE">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="s" type="CHARACTER_WISE">
+        <keys>
+          <key char="36" code="0" mods="0" />
+          <key char="48" code="0" mods="0" />
+          <key char="119" code="0" mods="0" />
+          <key char="105" code="0" mods="0" />
+          <key char="40" code="0" mods="0" />
+          <key char="41" code="0" mods="0" />
+          <key char="65535" code="37" mods="0" />
+          <key char="115" code="0" mods="0" />
+          <key char="116" code="0" mods="0" />
+          <key char="32" code="0" mods="0" />
+          <key char="42" code="0" mods="0" />
+          <key char="83" code="0" mods="0" />
+          <key char="116" code="0" mods="0" />
+          <key char="97" code="0" mods="0" />
+          <key char="116" code="0" mods="0" />
+          <key char="101" code="0" mods="0" />
+          <key char="32" code="0" mods="0" />
+          <key char="65535" code="67" mods="130" />
+        </keys>
+      </register>
+      <register name="4" type="LINE_WISE">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="5" type="LINE_WISE">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="6" type="CHARACTER_WISE">
+        <text encoding="base64">JiYgIWVycm9ycy5JcyhlcnIsIHNxbGFpci5FcnJOb1Jvd3MpIA==</text>
+      </register>
+      <register name="7" type="CHARACTER_WISE">
+        <text encoding="base64">Cgl2YXIgcm93cyBTcGFjZVN1Ym5ldFJvd3MKCWlmIGVyciA6PSBkYi5UeG4oY3R4LCBmdW5jKGN0eCBjb250ZXh0LkNvbnRleHQsIHR4ICpzcWxhaXIuVFgpIGVycm9yIHsKCQlyZXR1cm4gZXJyb3JzLlRyYWNlKHR4LlF1ZXJ5KGN0eCwgcykuR2V0QWxsKCZyb3dzKSkKCX0pOyBlcnJvcnMuSXMoZXJyLCBzcWxhaXIuRXJyTm9Sb3dzKQ==</text>
+      </register>
+      <register name="8" type="LINE_WISE">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="9" type="LINE_WISE">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name=":" type="CHARACTER_WISE">
+        <text encoding="base64">dw==</text>
+      </register>
+    </registers>
+  </component>
+  <component name="VimSearchSettings">
+    <search>
+      <last-search encoding="base64">T2ZmZXI=</last-search>
+      <last-substitute encoding="base64">dGVzdC12Mg==</last-substitute>
+      <last-replace encoding="base64">dGVzdC12Mw==</last-replace>
+      <last-pattern encoding="base64">T2ZmZXI=</last-pattern>
+      <last-dir encoding="base64">MQ==</last-dir>
+      <show-last encoding="base64">ZmFsc2U=</show-last>
+    </search>
+  </component>
+  <component name="VimVariables">
+    <vim-variables />
+  </component>
+</application>

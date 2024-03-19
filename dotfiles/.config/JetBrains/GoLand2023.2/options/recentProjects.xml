@@ -1,0 +1,38 @@
+<application>
+  <component name="RecentProjectsManager">
+    <option name="additionalInfo">
+      <map>
+        <entry key="$USER_HOME$/.cache/JetBrains/GoLand2023.2/demo/LearnGoProject">
+          <value>
+            <RecentProjectMetaInfo frameTitle="LearnGoProject – main.go" hidden="true">
+              <option name="activationTimestamp" value="1699281654420" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="GO-232.10203.20" />
+              <option name="buildTimestamp" value="1698382889819" />
+              <frame x="260" y="53" width="1400" height="1000" extendedState="6" />
+              <option name="productionCode" value="GO" />
+              <option name="projectOpenTimestamp" value="1698673990951" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Canonical/SQLair/sqlair">
+          <value>
+            <RecentProjectMetaInfo frameTitle="sqlair – query.go" opened="true" projectWorkspaceId="2Xo3ePOE5eJFI3cYpRDASxC10cX">
+              <option name="activationTimestamp" value="1701422978967" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="GO-232.10203.20" />
+              <option name="buildTimestamp" value="1698382866969" />
+              <option name="colorInfo">
+                <RecentProjectColorInfo associatedIndex="1" />
+              </option>
+              <frame x="260" y="53" width="1400" height="1000" extendedState="6" />
+              <option name="productionCode" value="GO" />
+              <option name="projectOpenTimestamp" value="1699281700203" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="lastOpenedProject" value="$USER_HOME$/Canonical/SQLair/sqlair" />
+  </component>
+</application>

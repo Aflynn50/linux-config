@@ -1,0 +1,230 @@
+<application>
+  <component name="RecentProjectsManager">
+    <option name="additionalInfo">
+      <map>
+        <entry key="$USER_HOME$/.cache/JetBrains/GoLand2023.2/demo/LearnGoProject">
+          <value>
+            <RecentProjectMetaInfo frameTitle="LearnGoProject – main.go" hidden="true">
+              <option name="activationTimestamp" value="1699281654420" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="GO-232.10203.20" />
+              <option name="buildTimestamp" value="1698382889819" />
+              <frame x="260" y="53" width="1400" height="1000" extendedState="6" />
+              <option name="productionCode" value="GO" />
+              <option name="projectOpenTimestamp" value="1698673990951" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Canonical/SQLair/wt2">
+          <value>
+            <RecentProjectMetaInfo frameTitle="wt2 – sqlair.go" projectWorkspaceId="2ZWoNkKfXEbYlRniQOYfHvz5aFQ">
+              <option name="activationTimestamp" value="1704791691370" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="GO-233.11799.286" />
+              <option name="buildTimestamp" value="1702322520000" />
+              <option name="colorInfo">
+                <RecentProjectColorInfo associatedIndex="2" />
+              </option>
+              <frame x="0" y="32" width="1920" height="1048" extendedState="6" />
+              <option name="productionCode" value="GO" />
+              <option name="projectOpenTimestamp" value="1702547157489" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Canonical/SQLair/go-sqlite-bench">
+          <value>
+            <RecentProjectMetaInfo frameTitle="go-sqlite-bench – README.md" projectWorkspaceId="2aiBoKmPlGvIv9HsC5IkI4ggoOY">
+              <option name="activationTimestamp" value="1704795751352" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="GO-233.13135.104" />
+              <option name="buildTimestamp" value="1703050080000" />
+              <option name="colorInfo">
+                <RecentProjectColorInfo associatedIndex="3" />
+              </option>
+              <frame x="0" y="32" width="1920" height="1048" extendedState="6" />
+              <option name="productionCode" value="GO" />
+              <option name="projectOpenTimestamp" value="1704791692686" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Canonical/SQLair/dqlite-bench">
+          <value>
+            <RecentProjectMetaInfo frameTitle="dqlite-bench – dqlite.go" projectWorkspaceId="2aiK2NC9qqkUJPIwadcHAUdEXer">
+              <option name="activationTimestamp" value="1705684562079" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="GO-233.13135.104" />
+              <option name="buildTimestamp" value="1703050080000" />
+              <option name="colorInfo">
+                <RecentProjectColorInfo associatedIndex="4" />
+              </option>
+              <frame x="0" y="32" width="1920" height="1048" extendedState="6" />
+              <option name="productionCode" value="GO" />
+              <option name="projectOpenTimestamp" value="1704886613892" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Canonical/SQLair/sqlair-bench">
+          <value>
+            <RecentProjectMetaInfo frameTitle="sqlair-bench – main.go" projectWorkspaceId="2alGPPIoOqVNysczFfPCrJYUVIk">
+              <option name="activationTimestamp" value="1706008230817" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="GO-233.13135.104" />
+              <option name="buildTimestamp" value="1703050080000" />
+              <option name="colorInfo">
+                <RecentProjectColorInfo associatedIndex="5" />
+              </option>
+              <frame x="0" y="32" width="1920" height="1048" extendedState="6" />
+              <option name="productionCode" value="GO" />
+              <option name="projectOpenTimestamp" value="1705684562935" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Canonical/juju">
+          <value>
+            <RecentProjectMetaInfo frameTitle="juju" projectWorkspaceId="2bLxbVNEz2z0AJVogfWlUeiHii9">
+              <option name="activationTimestamp" value="1706109583216" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="GO-233.13135.104" />
+              <option name="buildTimestamp" value="1703050080000" />
+              <option name="colorInfo">
+                <RecentProjectColorInfo associatedIndex="6" />
+              </option>
+              <frame x="157" y="80" width="1400" height="1000" extendedState="6" />
+              <option name="productionCode" value="GO" />
+              <option name="projectOpenTimestamp" value="1706008231925" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Canonical/Juju/gojsonschema">
+          <value>
+            <RecentProjectMetaInfo frameTitle="gojsonschema – defaults_test.go" projectWorkspaceId="2cGWWOEad8usCVsqh7nWgeYMIoc">
+              <option name="activationTimestamp" value="1707901743793" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="GO-233.14015.113" />
+              <option name="buildTimestamp" value="1706254500000" />
+              <option name="colorInfo">
+                <RecentProjectColorInfo associatedIndex="1" />
+              </option>
+              <frame x="260" y="56" width="1400" height="1000" extendedState="6" />
+              <option name="productionCode" value="GO" />
+              <option name="projectOpenTimestamp" value="1707738426352" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Canonical/Juju/charm">
+          <value>
+            <RecentProjectMetaInfo frameTitle="charm – actions_test.go" projectWorkspaceId="2cGWUQL7A9yqfRVRD5QrF2BGFEn">
+              <option name="activationTimestamp" value="1708533316913" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="GO-233.14475.38" />
+              <option name="buildTimestamp" value="1707889680000" />
+              <option name="colorInfo">
+                <RecentProjectColorInfo associatedIndex="0" />
+              </option>
+              <frame x="0" y="32" width="1920" height="1048" extendedState="6" />
+              <option name="productionCode" value="GO" />
+              <option name="projectOpenTimestamp" value="1708533194657" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Canonical/Juju/juju-controller">
+          <value>
+            <RecentProjectMetaInfo frameTitle="juju-controller – unixsocket.py" projectWorkspaceId="2cgVeWtOTAHmAnXLA09Z7lT3YoX">
+              <option name="activationTimestamp" value="1709198462830" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="GO-233.14475.38" />
+              <option name="buildTimestamp" value="1707889680000" />
+              <option name="colorInfo">
+                <RecentProjectColorInfo associatedIndex="2" />
+              </option>
+              <frame x="441" y="0" width="1440" height="708" extendedState="6" />
+              <option name="productionCode" value="GO" />
+              <option name="projectOpenTimestamp" value="1709141247572" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Canonical/Juju/utils">
+          <value>
+            <RecentProjectMetaInfo frameTitle="utils – /snap/go/10554/src/fmt/print.go" projectWorkspaceId="2dN50l1Dlp2M51XdvJWxgkvr4Wq">
+              <option name="activationTimestamp" value="1710194215769" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="GO-233.14475.38" />
+              <option name="buildTimestamp" value="1707889680000" />
+              <option name="colorInfo">
+                <RecentProjectColorInfo associatedIndex="4" />
+              </option>
+              <frame x="260" y="56" width="1400" height="1000" extendedState="6" />
+              <option name="productionCode" value="GO" />
+              <option name="projectOpenTimestamp" value="1709835474228" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Canonical/Juju/juju">
+          <value>
+            <RecentProjectMetaInfo frameTitle="juju – deployrepository.go" opened="true" projectWorkspaceId="2cRlBVi7mm4vDZuEUMYLZYqBT6Y">
+              <option name="activationTimestamp" value="1710857895537" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="GO-233.14475.38" />
+              <option name="buildTimestamp" value="1707889680000" />
+              <option name="colorInfo">
+                <RecentProjectColorInfo associatedIndex="6" />
+              </option>
+              <frame x="0" y="32" width="1920" height="1048" extendedState="7" />
+              <option name="productionCode" value="GO" />
+              <option name="projectOpenTimestamp" value="1710421132005" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Canonical/Juju/juju2">
+          <value>
+            <RecentProjectMetaInfo frameTitle="juju2 – keymanager.go" opened="true" projectWorkspaceId="2dPx5aID8SlSetLDIszwo4llT8K">
+              <option name="activationTimestamp" value="1710442894409" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="GO-233.14475.38" />
+              <option name="buildTimestamp" value="1707889680000" />
+              <option name="colorInfo">
+                <RecentProjectColorInfo associatedIndex="6" />
+              </option>
+              <frame x="0" y="32" width="1920" height="1048" extendedState="7" />
+              <option name="productionCode" value="GO" />
+              <option name="projectOpenTimestamp" value="1710437177599" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Canonical/Juju/juju-qa-jenkins">
+          <value>
+            <RecentProjectMetaInfo frameTitle="juju-qa-jenkins" opened="true" projectWorkspaceId="2dN1U5u8qTbnJQQyKsGmITA5bY8">
+              <option name="activationTimestamp" value="1710447033346" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="GO-233.14475.38" />
+              <option name="buildTimestamp" value="1707889680000" />
+              <option name="colorInfo">
+                <RecentProjectColorInfo associatedIndex="3" />
+              </option>
+              <frame x="0" y="32" width="1920" height="1048" extendedState="6" />
+              <option name="productionCode" value="GO" />
+              <option name="projectOpenTimestamp" value="1710441353787" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Canonical/SQLair/sqlair">
+          <value>
+            <RecentProjectMetaInfo frameTitle="sqlair – package_test.go" projectWorkspaceId="2Xo3ePOE5eJFI3cYpRDASxC10cX">
+              <option name="activationTimestamp" value="1710785879351" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="GO-233.14475.38" />
+              <option name="buildTimestamp" value="1707889680000" />
+              <option name="colorInfo">
+                <RecentProjectColorInfo associatedIndex="1" />
+              </option>
+              <frame x="0" y="32" width="1920" height="1048" extendedState="6" />
+              <option name="productionCode" value="GO" />
+              <option name="projectOpenTimestamp" value="1710442873980" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="lastOpenedProject" value="$USER_HOME$/Canonical/Juju/juju" />
+  </component>
+</application>

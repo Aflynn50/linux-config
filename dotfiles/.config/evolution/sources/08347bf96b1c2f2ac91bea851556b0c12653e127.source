@@ -1,0 +1,23 @@
+[Data Source]
+DisplayName=alastairflynn@hotmail.co.uk
+Enabled=true
+Parent=0796472b624b3759235ee0b18a9bedac625a5a2d
+
+[Authentication]
+Host=smtp.office365.com
+Method=LOGIN
+Port=587
+ProxyUid=system-proxy
+RememberPassword=true
+User=alastairflynn@hotmail.co.uk
+CredentialName=
+IsExternal=false
+
+[Security]
+Method=starttls-on-standard-port
+
+[Mail Transport]
+BackendName=smtp
+
+[Smtp Backend]
+ReencodeData=false

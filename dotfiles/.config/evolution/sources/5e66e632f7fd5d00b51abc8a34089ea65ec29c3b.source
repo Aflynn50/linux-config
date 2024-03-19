@@ -1,0 +1,38 @@
+[Data Source]
+DisplayName=Tasks
+Enabled=true
+Parent=caldav-stub
+
+[Security]
+Method=tls
+
+[Authentication]
+Host=nextcloud.aflynn.uk
+Method=plain/password
+Port=443
+ProxyUid=system-proxy
+RememberPassword=true
+User=aflynn50
+CredentialName=
+IsExternal=false
+
+[Refresh]
+Enabled=true
+IntervalMinutes=60
+
+[WebDAV Backend]
+AvoidIfmatch=false
+CalendarAutoSchedule=false
+Color=
+DisplayName=Tasks
+EmailAddress=alastairflynn@hotmail.co.uk
+ResourcePath=/remote.php/dav/calendars/aflynn50/tasks/
+ResourceQuery=
+SslTrust=accept|af-nextcloud.duckdns.org|07a6b68aa531d2627ec5530da494c0a52cd1a95c0c93c1c8b7ab9b4d40778113
+Order=0
+
+[Task List]
+BackendName=caldav
+Color=#0082c9
+Selected=true
+Order=0

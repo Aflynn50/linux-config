@@ -1,0 +1,52 @@
+[Data Source]
+DisplayName=alastair.flynn@canonical.com
+Enabled=true
+Parent=430e91f6d96aca5ffeea4e93d5d8917329210956
+
+[Mail Submission]
+SentFolder=folder://local/Sent
+TransportUid=58484653e1aa312efa2a98ec955431444fd966b3
+RepliesToOriginFolder=false
+UseSentFolder=true
+
+[Mail Composition]
+Bcc=
+Cc=
+DraftsFolder=folder://b2930a2ba6f3acadbfdc6bbf6575389dd7f80a93/%5bGmail%5d/Drafts
+ReplyStyle=default
+SignImip=true
+TemplatesFolder=folder://local/Templates
+StartBottom=inconsistent
+TopSignature=inconsistent
+Language=
+
+[Mail Identity]
+Address=alastair.flynn@canonical.com
+Aliases=
+Name=Alastair Flynn
+Organization=
+ReplyTo=
+SignatureUid=none
+
+[Pretty Good Privacy (OpenPGP)]
+AlwaysTrust=false
+EncryptToSelf=true
+KeyId=
+SigningAlgorithm=
+SignByDefault=false
+EncryptByDefault=false
+PreferInline=false
+LocateKeys=true
+SendPublicKey=true
+SendPreferEncrypt=true
+
+[Message Disposition Notifications]
+ResponsePolicy=ask
+
+[Secure MIME (S/MIME)]
+EncryptionCertificate=
+EncryptByDefault=false
+EncryptToSelf=true
+SigningAlgorithm=
+SigningCertificate=
+SignByDefault=false

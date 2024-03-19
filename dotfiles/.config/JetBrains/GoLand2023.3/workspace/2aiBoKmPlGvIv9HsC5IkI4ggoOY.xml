@@ -1,0 +1,354 @@
+<project version="4">
+  <component name="BookmarksManager">
+    <option name="groups">
+      <GroupState>
+        <option name="name" value="go-sqlite-bench" />
+      </GroupState>
+    </option>
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/cmd/bench-mattn/mattn.go">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="120">
+              <caret line="6" column="26" selection-start-line="6" selection-start-column="26" selection-end-line="6" selection-end-column="26" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/sqldb.go">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="344">
+              <caret line="31" column="17" selection-start-line="31" selection-start-column="17" selection-end-line="31" selection-end-column="17" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/db.go">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-420" />
+          </provider>
+        </entry>
+      </file>
+      <file current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/app.go">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="249">
+              <caret line="53" column="40" selection-start-line="53" selection-start-column="40" selection-end-line="53" selection-end-column="40" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/results/out.txt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-1140" />
+          </provider>
+        </entry>
+      </file>
+      <file current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/results/results.csv">
+          <provider selected="true" editor-type-id="text-editor" />
+          <provider editor-type-id="csv-data-editor">
+            <state>
+              <format>
+                <csv-format name="CSV" id="Comma-separated (CSV)_id">
+                  <data>
+                    <record-format prefix="" suffix="" nullText="" quotationPolicy="as needed" valueSeparator="," recordSeparator="&#10;">
+                      <quotation>
+                        <quotes left="&quot;" right="&quot;" leftEscaped="&quot;&quot;" rightEscaped="&quot;&quot;" />
+                        <quotes left="'" right="'" leftEscaped="''" rightEscaped="''" />
+                      </quotation>
+                    </record-format>
+                  </data>
+                </csv-format>
+              </format>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/results/simple.png">
+          <provider selected="true" editor-type-id="images" />
+        </entry>
+      </file>
+      <file>
+        <entry file="file://$PROJECT_DIR$/README.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SHOW_PREVIEW" is_vertical_split="false">
+              <first_editor />
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/build-all.sh">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="80">
+              <caret line="4" selection-start-line="4" selection-end-line="4" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/run-all.sh">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="100">
+              <caret line="5" selection-start-line="5" selection-end-line="5" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTypeUsageLocalSummary">
+    <fileType name="CSV/TSV">
+      <summary usageCount="1" lastUsed="1704793814780" />
+    </fileType>
+    <fileType name="Go">
+      <summary usageCount="6" lastUsed="1704791777505" />
+    </fileType>
+    <fileType name="Image">
+      <summary usageCount="1" lastUsed="1704793819092" />
+    </fileType>
+    <fileType name="Markdown">
+      <summary usageCount="2" lastUsed="1704793823849" />
+    </fileType>
+    <fileType name="PLAIN_TEXT">
+      <summary usageCount="2" lastUsed="1704793806098" />
+    </fileType>
+    <fileType name="Shell Script">
+      <summary usageCount="2" lastUsed="1704791935263" />
+    </fileType>
+  </component>
+  <component name="IdeDocumentHistory">
+    <changedPaths>
+      <option value="$PROJECT_DIR$/run-all.sh" />
+      <option value="$PROJECT_DIR$/build-all.sh" />
+    </changedPaths>
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="$PROJECT_DIR$/.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="LanguageUsageStatistics">
+    <language id="Markdown">
+      <summary usageCount="2" lastUsage="1704793823849" />
+    </language>
+    <language id="Shell Script">
+      <summary usageCount="2" lastUsage="1704791935263" />
+    </language>
+    <language id="TEXT">
+      <summary usageCount="3" lastUsage="1704793814780" />
+    </language>
+    <language id="go">
+      <summary usageCount="6" lastUsage="1704791777505" />
+    </language>
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1" />
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="go-sqlite-bench" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///home/aflynn/Canonical/SQLair/go-sqlite-bench}" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="go-sqlite-bench" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///home/aflynn/Canonical/SQLair/go-sqlite-bench}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/aflynn/Canonical/SQLair/go-sqlite-bench/app}" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="go-sqlite-bench" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///home/aflynn/Canonical/SQLair/go-sqlite-bench}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/aflynn/Canonical/SQLair/go-sqlite-bench/build}" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="go-sqlite-bench" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///home/aflynn/Canonical/SQLair/go-sqlite-bench}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/aflynn/Canonical/SQLair/go-sqlite-bench/cmd}" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="go-sqlite-bench" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///home/aflynn/Canonical/SQLair/go-sqlite-bench}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/aflynn/Canonical/SQLair/go-sqlite-bench/results}" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="RunConfigurationStartHistory">
+    <history>
+      <element setting="Go Build.go build github.com/cvilsmeier/go-sqlite-bench/cmd/bench-mattn" />
+    </history>
+  </component>
+  <component name="TerminalArrangementManager">
+    <option name="myTabStates">
+      <TerminalTabState tabName="build-all.sh" currentWorkingDirectory="$PROJECT_DIR$">
+        <shellCommand>
+          <arg value="/usr/bin/zsh" />
+          <arg value="-i" />
+        </shellCommand>
+      </TerminalTabState>
+    </option>
+  </component>
+  <component name="ToolWindowManager">
+    <layoutV2>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.32994792" />
+      <window_info id="Commit" order="1" weight="0.25" />
+      <window_info id="Structure" order="2" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Version Control" order="0" />
+      <window_info anchor="bottom" id="Problems" order="1" />
+      <window_info anchor="bottom" id="Problems View" order="2" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="3" visible="true" weight="0.32967556" />
+      <window_info anchor="bottom" id="Run" order="4" show_stripe_button="false" weight="0.32967556" />
+      <window_info anchor="bottom" id="Services" order="4" />
+      <window_info anchor="right" content_ui="combo" id="Notifications" order="0" weight="0.25" />
+      <window_info anchor="right" id="AIAssistant" order="1" weight="0.25" />
+      <window_info anchor="right" id="Database" order="2" weight="0.25" />
+      <window_info anchor="right" id="Gradle" order="3" weight="0.25" />
+      <window_info anchor="right" id="Maven" order="4" weight="0.25" />
+      <unified_weights bottom="0.32967556" left="0.32994792" />
+    </layoutV2>
+    <recentWindows>
+      <value>Project</value>
+      <value>Terminal</value>
+      <value>Run</value>
+    </recentWindows>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="555" y="217" width="800" height="684" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1704793783166">
+      <screen x="0" y="32" width="1920" height="1048" />
+    </state>
+    <state x="555" y="217" width="800" height="684" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.32.1920.1048@0.32.1920.1048" timestamp="1704793783166" />
+    <state x="659" y="338" width="592" height="443" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1704793817956">
+      <screen x="0" y="32" width="1920" height="1048" />
+    </state>
+    <state x="659" y="338" width="592" height="443" key="#com.intellij.fileTypes.FileTypeChooser/0.32.1920.1048@0.32.1920.1048" timestamp="1704793817956" />
+    <state x="743" y="314" width="424" height="491" key="FileChooserDialogImpl" timestamp="1704795749881">
+      <screen x="0" y="32" width="1920" height="1048" />
+    </state>
+    <state x="743" y="314" width="424" height="491" key="FileChooserDialogImpl/0.32.1920.1048@0.32.1920.1048" timestamp="1704795749881" />
+    <state width="1838" height="303" key="GridCell.Tab.0.bottom" timestamp="1704795751368">
+      <screen x="0" y="32" width="1920" height="1048" />
+    </state>
+    <state width="1838" height="303" key="GridCell.Tab.0.bottom/0.32.1920.1048@0.32.1920.1048" timestamp="1704795751368" />
+    <state width="1838" height="303" key="GridCell.Tab.0.center" timestamp="1704795751368">
+      <screen x="0" y="32" width="1920" height="1048" />
+    </state>
+    <state width="1838" height="303" key="GridCell.Tab.0.center/0.32.1920.1048@0.32.1920.1048" timestamp="1704795751368" />
+    <state width="1838" height="303" key="GridCell.Tab.0.left" timestamp="1704795751368">
+      <screen x="0" y="32" width="1920" height="1048" />
+    </state>
+    <state width="1838" height="303" key="GridCell.Tab.0.left/0.32.1920.1048@0.32.1920.1048" timestamp="1704795751368" />
+    <state width="1838" height="303" key="GridCell.Tab.0.right" timestamp="1704795751368">
+      <screen x="0" y="32" width="1920" height="1048" />
+    </state>
+    <state width="1838" height="303" key="GridCell.Tab.0.right/0.32.1920.1048@0.32.1920.1048" timestamp="1704795751368" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/cmd/bench-craw/craw.go">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/util.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="e#1007#1034#0" expanded="true" />
+            <element signature="e#1007#1034#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/sqldb.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="344">
+          <caret line="31" column="17" selection-start-line="31" selection-start-column="17" selection-end-line="31" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/db.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-420" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cmd/bench-mattn/mattn.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="6" column="26" selection-start-line="6" selection-start-column="26" selection-end-line="6" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/run-all.sh">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="100">
+          <caret line="5" selection-start-line="5" selection-end-line="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/build/bench.db-journal">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/build-all.sh">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="80">
+          <caret line="4" lean-forward="true" selection-start-line="4" selection-end-line="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/app.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="249">
+          <caret line="53" column="40" selection-start-line="53" selection-start-column="40" selection-end-line="53" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/results/out.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1140" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/results/results.csv">
+      <provider selected="true" editor-type-id="text-editor" />
+      <provider editor-type-id="csv-data-editor">
+        <state>
+          <format>
+            <csv-format name="CSV" id="Comma-separated (CSV)_id">
+              <data>
+                <record-format prefix="" suffix="" nullText="" quotationPolicy="as needed" valueSeparator="," recordSeparator="&#10;">
+                  <quotation>
+                    <quotes left="&quot;" right="&quot;" leftEscaped="&quot;&quot;" rightEscaped="&quot;&quot;" />
+                    <quotes left="'" right="'" leftEscaped="''" rightEscaped="''" />
+                  </quotation>
+                </record-format>
+              </data>
+            </csv-format>
+          </format>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/results/simple.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SHOW_PREVIEW" is_vertical_split="false">
+          <first_editor />
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

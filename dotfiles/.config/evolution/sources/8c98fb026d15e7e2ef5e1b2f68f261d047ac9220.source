@@ -1,0 +1,14 @@
+[Data Source]
+DisplayName=Auto Addresses
+Enabled=true
+Parent=local-stub
+
+[Contacts Backend]
+IncludeMe=false
+
+[Address Book]
+BackendName=local
+Order=0
+
+[Autocomplete]
+IncludeMe=true

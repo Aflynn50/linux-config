@@ -1,0 +1,61 @@
+[Data Source]
+DisplayName=alastair.flynn@some.ox.ac.uk
+Enabled=false
+Parent=
+
+[Mail Account]
+BackendName=imapx
+IdentityUid=375a19ee481d989023ab9af244e341ed9ad35d12
+ArchiveFolder=folder://b6c4ddd86e1f3701ce821a6606bec3f0ef6672af/Archive
+NeedsInitialSetup=false
+MarkSeen=inconsistent
+MarkSeenTimeout=1500
+
+[Authentication]
+Host=outlook.office365.com
+Method=none
+Port=993
+ProxyUid=system-proxy
+RememberPassword=true
+User=some4247@OX.AC.UK
+CredentialName=
+IsExternal=false
+
+[Refresh]
+Enabled=true
+IntervalMinutes=15
+
+[Security]
+Method=ssl-on-alternate-port
+
+[Offline]
+StaySynchronized=false
+
+[Imapx Backend]
+FilterInbox=true
+StoreChangesInterval=3
+LimitByAge=false
+LimitUnit=years
+LimitValue=1
+UseMultiFetch=false
+CheckAll=true
+CheckSubscribed=false
+ConcurrentConnections=3
+FetchOrder=ascending
+FilterAll=false
+FilterJunk=false
+FilterJunkInbox=false
+Namespace=
+RealJunkPath=Junk Email
+RealTrashPath=Deleted Items
+ShellCommand=ssh -C -l %u %h exec /usr/sbin/imapd
+UseIdle=true
+UseNamespace=false
+UseQresync=false
+UseRealJunkPath=true
+UseRealTrashPath=true
+UseShellCommand=false
+UseSubscriptions=false
+IgnoreOtherUsersNamespace=false
+IgnoreSharedFoldersNamespace=false
+FullUpdateOnMeteredNetwork=true

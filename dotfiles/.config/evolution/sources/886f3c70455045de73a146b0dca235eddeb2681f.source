@@ -1,0 +1,30 @@
+[Data Source]
+DisplayName=Edinburgh Orienteering
+Enabled=true
+Parent=local-stub
+
+[Local Backend]
+CustomFile=
+EmailAddress=
+Writable=true
+
+[Calendar]
+BackendName=local
+Color=#e01b24
+Selected=true
+Order=0
+
+[Offline]
+StaySynchronized=true
+
+[Refresh]
+Enabled=true
+IntervalMinutes=30
+EnabledOnMeteredNetwork=true
+
+[Conflict Search]
+IncludeMe=true
+
+[Alarms]
+IncludeMe=true
+LastNotified=

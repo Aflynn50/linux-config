@@ -1,0 +1,123 @@
+<?xml version="1.0"?>
+<filteroptions>
+  <ruleset>
+    <rule enabled="true" grouping="all" source="incoming">
+      <title>Git updates canonical</title>
+      <partset>
+        <part name="sender">
+          <value name="sender-type" type="option" value="contains"/>
+          <value name="sender" type="string" allow-empty="false">
+            <string>notifications@github.com</string>
+          </value>
+        </part>
+      </partset>
+      <actionset>
+        <part name="move-to-folder">
+          <value name="folder" type="folder">
+            <folder uri="folder://11c1385ce269416905d867508f88fed222f3fc90/Git"/>
+          </value>
+        </part>
+      </actionset>
+    </rule>
+    <rule enabled="true" grouping="all" source="incoming">
+      <title>Jira</title>
+      <partset>
+        <part name="sender">
+          <value name="sender-type" type="option" value="is"/>
+          <value name="sender" type="string" allow-empty="false">
+            <string>jira@warthogs.atlassian.net</string>
+          </value>
+        </part>
+      </partset>
+      <actionset>
+        <part name="move-to-folder">
+          <value name="folder" type="folder">
+            <folder uri="folder://b2930a2ba6f3acadbfdc6bbf6575389dd7f80a93/Jira"/>
+          </value>
+        </part>
+      </actionset>
+    </rule>
+    <rule enabled="true" grouping="all" source="incoming" account-uid="11c1385ce269416905d867508f88fed222f3fc90">
+      <title>Meeting invitations</title>
+      <partset>
+        <part name="subject">
+          <value name="subject-type" type="option" value="ends with"/>
+          <value name="subject" type="string" allow-empty="true">
+            <string>(alastair.lawlor@canonical.com)</string>
+          </value>
+        </part>
+        <part name="subject">
+          <value name="subject-type" type="option" value="contains"/>
+          <value name="subject" type="string" allow-empty="true">
+            <string>@</string>
+          </value>
+        </part>
+        <part name="subject">
+          <value name="subject-type" type="option" value="contains"/>
+          <value name="subject" type="string" allow-empty="true">
+            <string>Invitation:</string>
+          </value>
+        </part>
+      </partset>
+      <actionset>
+        <part name="colour">
+          <value type="colour" name="colour" spec="#1a1a5f5fb4b4"/>
+        </part>
+      </actionset>
+    </rule>
+    <rule enabled="true" grouping="all" source="incoming" account-uid="f260ae0446def17d4f22392de063750dcdd8658f">
+      <title>Mail from Scottish Greens</title>
+      <partset>
+        <part name="sender">
+          <value name="sender-type" type="option" value="contains"/>
+          <value name="sender" type="string" allow-empty="false">
+            <string>@scottishgreens.org.uk</string>
+          </value>
+        </part>
+      </partset>
+      <actionset>
+        <part name="move-to-folder">
+          <value name="folder" type="folder">
+            <folder uri="folder://f260ae0446def17d4f22392de063750dcdd8658f/Green%20Party"/>
+          </value>
+        </part>
+      </actionset>
+    </rule>
+    <rule enabled="true" grouping="all" source="incoming">
+      <title>Board Game Arena</title>
+      <partset>
+        <part name="sender">
+          <value name="sender-type" type="option" value="contains"/>
+          <value name="sender" type="string" allow-empty="false">
+            <string>@boardgamearena.com</string>
+          </value>
+        </part>
+      </partset>
+      <actionset>
+        <part name="move-to-folder">
+          <value name="folder" type="folder">
+            <folder uri="folder://0796472b624b3759235ee0b18a9bedac625a5a2d/Boardgame%20Arena"/>
+          </value>
+        </part>
+      </actionset>
+    </rule>
+    <rule enabled="false" grouping="all" source="incoming" account-uid="0796472b624b3759235ee0b18a9bedac625a5a2d">
+      <title>Git Updates</title>
+      <partset>
+        <part name="sender">
+          <value name="sender-type" type="option" value="contains"/>
+          <value name="sender" type="string" allow-empty="false">
+            <string>notifications@github.com</string>
+          </value>
+        </part>
+      </partset>
+      <actionset>
+        <part name="move-to-folder">
+          <value name="folder" type="folder">
+            <folder uri="folder://0796472b624b3759235ee0b18a9bedac625a5a2d/Git"/>
+          </value>
+        </part>
+      </actionset>
+    </rule>
+  </ruleset>
+</filteroptions>

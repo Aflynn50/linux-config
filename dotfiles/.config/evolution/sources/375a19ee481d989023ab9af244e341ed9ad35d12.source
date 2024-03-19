@@ -1,0 +1,29 @@
+[Data Source]
+DisplayName=alastair.flynn@some.ox.ac.uk
+Enabled=false
+Parent=b6c4ddd86e1f3701ce821a6606bec3f0ef6672af
+
+[Mail Submission]
+SentFolder=folder://b6c4ddd86e1f3701ce821a6606bec3f0ef6672af/Sent%20Items
+TransportUid=13c7cf773e7b429194df5b6d156d935e6183692d
+RepliesToOriginFolder=false
+UseSentFolder=true
+
+[Mail Composition]
+Bcc=
+Cc=
+DraftsFolder=folder://b6c4ddd86e1f3701ce821a6606bec3f0ef6672af/Drafts
+ReplyStyle=default
+SignImip=true
+TemplatesFolder=folder://local/Templates
+StartBottom=inconsistent
+TopSignature=inconsistent
+Language=
+
+[Mail Identity]
+Address=alastair.flynn@some.ox.ac.uk
+Aliases=
+Name=Alastair
+Organization=
+ReplyTo=
+SignatureUid=none

@@ -1,0 +1,15 @@
+<templateSet group="Juju">
+  <template name="terr" value="if err != nil {&#10;    return $NILS$errors.Trace(err)&#10;}$END$&#10;" description="If trace err" toReformat="false" toShortenFQNames="true">
+    <variable name="NILS" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="GO_STATEMENT" value="true" />
+    </context>
+  </template>
+  <template name="aerr" value="if err != nil {&#10;    return $NILS$errors.Annotate(err, &quot;$MESSAGE$&quot;)&#10;}$END$&#10;" description="If annotate err" toReformat="false" toShortenFQNames="true">
+    <variable name="NILS" expression="defaultReturnValues()" defaultValue="" alwaysStopAt="true" />
+    <variable name="MESSAGE" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="GO_STATEMENT" value="true" />
+    </context>
+  </template>
+</templateSet>

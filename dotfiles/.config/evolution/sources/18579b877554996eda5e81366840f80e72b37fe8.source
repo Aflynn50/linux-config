@@ -1,0 +1,48 @@
+[Data Source]
+DisplayName=Alastairs Calendar
+Enabled=true
+Parent=caldav-stub
+
+[Offline]
+StaySynchronized=true
+
+[Security]
+Method=tls
+
+[WebDAV Backend]
+AvoidIfmatch=false
+CalendarAutoSchedule=false
+Color=
+DisplayName=New calendar please work
+EmailAddress=alastairflynn@hotmail.co.uk
+ResourcePath=/remote.php/dav/calendars/aflynn50/alastairs-calendar/
+ResourceQuery=
+SslTrust=accept|nextcloud.aflynn.uk|18a1e4462428705cf2795316343faa7529135eab3392558e6cee4c5457f0148b
+
+Order=0
+
+[Authentication]
+Host=nextcloud.aflynn.uk
+Method=plain/password
+Port=443
+ProxyUid=system-proxy
+RememberPassword=true
+User=aflynn50
+CredentialName=
+IsExternal=false
+
+[Refresh]
+Enabled=true
+IntervalMinutes=30
+EnabledOnMeteredNetwork=true
+
+[Calendar]
+BackendName=caldav
+Color=#3c6eba
+Selected=true
+
+Order=0
+
+[Alarms]
+IncludeMe=true
+LastNotified=2023-10-20T23:50:00Z

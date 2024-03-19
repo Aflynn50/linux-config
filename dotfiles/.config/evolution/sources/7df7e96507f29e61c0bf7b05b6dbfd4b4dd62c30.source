@@ -1,0 +1,49 @@
+[Data Source]
+DisplayName=alastairflynn@hotmail.co.uk
+Enabled=true
+Parent=0796472b624b3759235ee0b18a9bedac625a5a2d
+
+[Mail Submission]
+SentFolder=folder://0796472b624b3759235ee0b18a9bedac625a5a2d/Sent
+TransportUid=08347bf96b1c2f2ac91bea851556b0c12653e127
+RepliesToOriginFolder=false
+UseSentFolder=true
+
+[Mail Composition]
+Bcc=
+Cc=
+DraftsFolder=folder://0796472b624b3759235ee0b18a9bedac625a5a2d/Drafts
+ReplyStyle=default
+SignImip=true
+TemplatesFolder=folder://local/Templates
+StartBottom=inconsistent
+TopSignature=inconsistent
+Language=
+
+[Mail Identity]
+Address=alastairflynn@hotmail.co.uk
+Aliases=
+Name=Alastair Flynn
+Organization=
+ReplyTo=
+SignatureUid=none
+
+[Pretty Good Privacy (OpenPGP)]
+AlwaysTrust=false
+EncryptToSelf=true
+KeyId=
+SigningAlgorithm=
+SignByDefault=false
+EncryptByDefault=false
+PreferInline=false
+
+[Message Disposition Notifications]
+ResponsePolicy=ask
+
+[Secure MIME (S/MIME)]
+EncryptionCertificate=
+EncryptByDefault=false
+EncryptToSelf=true
+SigningAlgorithm=
+SigningCertificate=
+SignByDefault=false

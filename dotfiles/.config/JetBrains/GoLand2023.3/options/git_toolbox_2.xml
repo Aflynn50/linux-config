@@ -1,0 +1,10 @@
+<application>
+  <component name="GitToolBoxAppSettings2">
+    <option name="outdatedBranchesAutoCleanup">
+      <OutdatedBranchesAutoCleanupConfig>
+        <option name="autoCheckIntervalHours" value="24" />
+      </OutdatedBranchesAutoCleanupConfig>
+    </option>
+    <option name="startupNotificationVersion" value="1" />
+  </component>
+</application>

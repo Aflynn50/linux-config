@@ -1,0 +1,42 @@
+[Data Source]
+DisplayName=Juju Team Calendar
+Enabled=true
+Parent=google-stub
+
+[Authentication]
+Host=apidata.googleusercontent.com
+Method=Google
+Port=443
+ProxyUid=system-proxy
+RememberPassword=true
+User=alastair.flynn@canonical.com
+CredentialName=
+IsExternal=false
+
+[Security]
+Method=tls
+
+[Refresh]
+Enabled=true
+EnabledOnMeteredNetwork=true
+IntervalMinutes=30
+
+[WebDAV Backend]
+AvoidIfmatch=false
+CalendarAutoSchedule=false
+Color=
+DisplayName=Juju Team Calendar
+EmailAddress=alastair.flynn@canonical.com
+ResourcePath=/caldav/v2/canonical.com_ia67e1a7hjm1e6s3r2lid9nhs4%40group.calendar.google.com/events/
+ResourceQuery=
+SslTrust=
+Order=4294967295
+
+[Calendar]
+BackendName=caldav
+Color=#cd74e6
+Selected=false
+Order=0
+
+[Offline]
+StaySynchronized=true

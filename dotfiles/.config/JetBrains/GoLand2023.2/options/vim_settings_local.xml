@@ -1,0 +1,336 @@
+<application>
+  <component name="VimHistorySettings">
+    <history>
+      <history-search>
+        <entry encoding="base64">cGFyc2VkRXhwcg==</entry>
+        <entry encoding="base64">ZXM=</entry>
+        <entry encoding="base64">cGU=</entry>
+        <entry encoding="base64">UGFydA==</entry>
+        <entry encoding="base64">cGFydA==</entry>
+        <entry encoding="base64">UGFyc2VkRXhwcg==</entry>
+        <entry encoding="base64">U3RyaW5nKA==</entry>
+        <entry encoding="base64">U3RyaW5n</entry>
+        <entry encoding="base64">YXJncw==</entry>
+        <entry encoding="base64">cXBhcmFtcw==</entry>
+        <entry encoding="base64">U2NhbkFyZ3M=</entry>
+        <entry encoding="base64">UHJlcGFyZWRFeHBy</entry>
+        <entry encoding="base64">UXVlcnk=</entry>
+        <entry encoding="base64">cHJlcGFyZWRFeHBy</entry>
+        <entry encoding="base64">UHJlcGFyZQ==</entry>
+        <entry encoding="base64">RXhwZWN0</entry>
+        <entry encoding="base64">ZXhwZWN0</entry>
+        <entry encoding="base64">ZXhwZWN0ZWQ=</entry>
+        <entry encoding="base64">QmluZFR5cGVzZA==</entry>
+        <entry encoding="base64">ZXhwZWN0ZWRUeXBlZA==</entry>
+        <entry encoding="base64">YWRk</entry>
+        <entry encoding="base64">UGFyc2Uo</entry>
+        <entry encoding="base64">aXNOYW1lQg==</entry>
+        <entry encoding="base64">cGFyc2VPdXRwdXRFeA==</entry>
+        <entry encoding="base64">cGFyc2VPdXRwdXRFeHByZXNzaW9u</entry>
+        <entry encoding="base64">cGFyc2VJbnB1dEV4cHJlc3Npb24=</entry>
+        <entry encoding="base64">YmluZElucHV0</entry>
+        <entry encoding="base64">YmluZE91dA==</entry>
+        <entry encoding="base64">cXVlcnkgZXhwcmVzcw==</entry>
+        <entry encoding="base64">ZXhwcg==</entry>
+        <entry encoding="base64">cmVwcmVzZW50</entry>
+        <entry encoding="base64">cHJldkV4cHI=</entry>
+        <entry encoding="base64">ZXhwclN0YXJ0</entry>
+        <entry encoding="base64">ZXhwclN0YXJ0UG9z</entry>
+        <entry encoding="base64">cHJldkV4cHJQb3M=</entry>
+        <entry encoding="base64">UGFyc2U=</entry>
+        <entry encoding="base64">cGFyYW1z</entry>
+        <entry encoding="base64">cHJpbWk=</entry>
+        <entry encoding="base64">bmVlZCBzdHJ1Y3QsIG1hcCBvciBwcmltaXRpdmUgdHlwZQ==</entry>
+        <entry encoding="base64">c3RydWN0</entry>
+        <entry encoding="base64">cHJpbWF0aXZl</entry>
+        <entry encoding="base64">cHJpbWl0aXZl</entry>
+        <entry encoding="base64">bmVlZCBzdHJ1Y3QsIG1hcCwgb3IgcHJpbWl0aXZlIHR5cGU=</entry>
+        <entry encoding="base64">bWlzc2luZyBzdHJ1Y3Q=</entry>
+        <entry encoding="base64">bWlzc2luZyBzdA==</entry>
+        <entry encoding="base64">ZGI=</entry>
+        <entry encoding="base64">Y2Fubm8=</entry>
+        <entry encoding="base64">bWlzaW4=</entry>
+        <entry encoding="base64">bWlzc2luZw==</entry>
+        <entry encoding="base64">QmluZElucHV0</entry>
+      </history-search>
+      <history-cmd>
+        <entry encoding="base64">JXMvc3FsZy9xZy9n</entry>
+        <entry encoding="base64">JXMvdmlzaXRvci90eXBlQm91bmRQYXJ0VmlzaXRvci9n</entry>
+        <entry encoding="base64">c2V0IHRleHR3aWR0aD04MA==</entry>
+        <entry encoding="base64">c2V0IHRleHR3aWR0aCA4MA==</entry>
+        <entry encoding="base64">cQ==</entry>
+        <entry encoding="base64">JXMvaW5wdXRQYXJ0L3BhcnNlZElucHV0L2c=</entry>
+        <entry encoding="base64">JXMvb3V0cHV0UGFydC9wYXJzZWRPdXRwdXQvZw==</entry>
+        <entry encoding="base64">JXMvcXVlcnlQYXJ0L3BhcnNlZFBhcnQvZw==</entry>
+        <entry encoding="base64">JXMvcGFydC9leHByL2dj</entry>
+        <entry encoding="base64">JXMvcGFyc2VkSW5wdXQvaW5wdXRFeHByL2c=</entry>
+        <entry encoding="base64">JXMvcGFyc2VkT3V0cHV0L291dHB1dEV4cHIvZ2M=</entry>
+        <entry encoding="base64">JXMvYnlwYXNzUGFydC9ieXBhc3MvZw==</entry>
+        <entry encoding="base64">JXMvYnlwYXNzUGFydC9ieXBhc3MvZ2M=</entry>
+        <entry encoding="base64">JXMvUGFydC9FeHByL2c=</entry>
+        <entry encoding="base64">JXMvcGFyc2VkRXhwci9leHByL2c=</entry>
+        <entry encoding="base64">JXMvcGUvdGUvZ2M=</entry>
+        <entry encoding="base64">JXMvUGFydC9FeHByL2dj</entry>
+        <entry encoding="base64">JXMvcGFydC9leHByL2c=</entry>
+        <entry encoding="base64">ODg=</entry>
+        <entry encoding="base64">MTYw</entry>
+        <entry encoding="base64">JXMvYXJncy9wYXJhbXMvZ2M=</entry>
+        <entry encoding="base64">JXMvcXBhcmFtcy9wYXJhbXMvZw==</entry>
+        <entry encoding="base64">JXMvUHJlcGFyZWRFeHByL1R5cGVkRXhwci9n</entry>
+        <entry encoding="base64">JXMvUHJlcGFyZS9CaW5kVHlwZXMvZw==</entry>
+        <entry encoding="base64">JXMvUXVlcnkvQmluZElucHV0cy9nYw==</entry>
+        <entry encoding="base64">JXMvcHJlcGFyZWRFeHByL3R5cGVkRXhwci9n</entry>
+        <entry encoding="base64">JXMvQmluZFR5cGVzZC9UeXBlZC9nYw==</entry>
+        <entry encoding="base64">JXMvZXhwZWN0ZWRUeXBlZC9leHBlY2V0ZWRTUUwvZw==</entry>
+        <entry encoding="base64">JXMvZXhwZWN0ZWRUeXBlZC9leHBlY3RlZFNRTC9n</entry>
+        <entry encoding="base64">JXMvcGFyc2VPdXRwdXRFeHByZXNzaW9uL3BhcnNlT3V0cHV0RXhwci9n</entry>
+        <entry encoding="base64">JXMvcGFyc2VJbnB1dEV4cHJlc3Npb24vcGFyc2VJbnB1dEV4cHIvZw==</entry>
+        <entry encoding="base64">JXMvcHJldkV4cHIvcHJldkV4cHJQb3MvZw==</entry>
+        <entry encoding="base64">JXMvZXhwclN0YXJ0L2V4cHJTdGFydFBvcy9n</entry>
+        <entry encoding="base64">JXMvZXhwclN0YXJ0UG9zL2N1cnJlbnRFeHByU3RhcnQvZw==</entry>
+        <entry encoding="base64">JXMvcHJldkV4cHJQb3MvcHJldkV4cHJFbmQvZw==</entry>
+        <entry encoding="base64">NDA5</entry>
+        <entry encoding="base64">NDI3</entry>
+        <entry encoding="base64">JXMvbmVlZCBzdHJ1Y3QsIG1hcCBvciBwcmltaXRpdmUgdHlwZS9uZWVkIHZhbGlkIHR5cGUvZw==</entry>
+        <entry encoding="base64">JXMvbmVlZCBzdHJ1Y3QsIG1hcCwgb3IgcHJpbWl0aXZlIHR5cGUvbmVlZCB2YWxpZCB0eXBlL2c=</entry>
+        <entry encoding="base64">d3E=</entry>
+        <entry encoding="base64">NTYx</entry>
+        <entry encoding="base64">dw==</entry>
+      </history-cmd>
+      <history-expr />
+      <history-input />
+    </history>
+  </component>
+  <component name="VimJumpsSettings">
+    <project id="$USER_HOME$/Canonical/SQLair/sqlair">
+      <jump line="1916" column="0" filename="$USER_HOME$/go/pkg/mod/github.com/mattn/go-sqlite3@v1.14.16/sqlite3.go" />
+      <jump line="1920" column="0" filename="$USER_HOME$/go/pkg/mod/github.com/mattn/go-sqlite3@v1.14.16/sqlite3.go" />
+      <jump line="1921" column="0" filename="$USER_HOME$/go/pkg/mod/github.com/mattn/go-sqlite3@v1.14.16/sqlite3.go" />
+      <jump line="2076" column="0" filename="$USER_HOME$/go/pkg/mod/github.com/mattn/go-sqlite3@v1.14.16/sqlite3.go" />
+      <jump line="2088" column="0" filename="$USER_HOME$/go/pkg/mod/github.com/mattn/go-sqlite3@v1.14.16/sqlite3.go" />
+      <jump line="68" column="0" filename="$USER_HOME$/go/pkg/mod/github.com/mattn/go-sqlite3@v1.14.16/sqlite3_go18.go" />
+      <jump line="2641" column="0" filename="/snap/go/10339/src/database/sql/sql.go" />
+      <jump line="211" column="0" filename="/snap/go/10339/src/sync/mutex.go" />
+      <jump line="219" column="0" filename="/snap/go/10339/src/sync/mutex.go" />
+      <jump line="224" column="0" filename="/snap/go/10339/src/sync/mutex.go" />
+      <jump line="2634" column="0" filename="/snap/go/10339/src/database/sql/sql.go" />
+      <jump line="2643" column="0" filename="/snap/go/10339/src/database/sql/sql.go" />
+      <jump line="2616" column="0" filename="/snap/go/10339/src/database/sql/sql.go" />
+      <jump line="526" column="0" filename="/snap/go/10339/src/database/sql/sql.go" />
+      <jump line="44" column="0" filename="/snap/go/10339/src/errors/wrap.go" />
+      <jump line="395" column="0" filename="/snap/go/10339/src/internal/reflectlite/type.go" />
+      <jump line="397" column="0" filename="/snap/go/10339/src/internal/reflectlite/type.go" />
+      <jump line="49" column="0" filename="/snap/go/10339/src/errors/wrap.go" />
+      <jump line="57" column="0" filename="/snap/go/10339/src/errors/wrap.go" />
+      <jump line="62" column="0" filename="/snap/go/10339/src/errors/wrap.go" />
+      <jump line="70" column="0" filename="/snap/go/10339/src/errors/wrap.go" />
+      <jump line="1438" column="0" filename="/snap/go/10339/src/database/sql/sql.go" />
+      <jump line="1443" column="0" filename="/snap/go/10339/src/database/sql/sql.go" />
+      <jump line="1451" column="0" filename="/snap/go/10339/src/database/sql/sql.go" />
+      <jump line="1458" column="0" filename="/snap/go/10339/src/database/sql/sql.go" />
+      <jump line="1464" column="0" filename="/snap/go/10339/src/database/sql/sql.go" />
+      <jump line="64" column="0" filename="/snap/go/10339/src/database/sql/ctxutil.go" />
+      <jump line="2045" column="0" filename="$USER_HOME$/go/pkg/mod/github.com/mattn/go-sqlite3@v1.14.16/sqlite3.go" />
+      <jump line="183" column="0" filename="/snap/go/10339/src/context/context.go" />
+      <jump line="51" column="0" filename="$USER_HOME$/Canonical/SQLair/sqlair/package_test.go" />
+      <jump line="884" column="0" filename="$USER_HOME$/Canonical/SQLair/sqlair/package_test.go" />
+      <jump line="1224" column="31" filename="$USER_HOME$/Canonical/SQLair/sqlair/package_test.go" />
+      <jump line="1218" column="0" filename="$USER_HOME$/Canonical/SQLair/sqlair/package_test.go" />
+      <jump line="1214" column="23" filename="$USER_HOME$/Canonical/SQLair/sqlair/package_test.go" />
+      <jump line="1213" column="17" filename="$USER_HOME$/Canonical/SQLair/sqlair/package_test.go" />
+      <jump line="1212" column="16" filename="$USER_HOME$/Canonical/SQLair/sqlair/package_test.go" />
+      <jump line="1217" column="41" filename="$USER_HOME$/Canonical/SQLair/sqlair/package_test.go" />
+      <jump line="1220" column="77" filename="$USER_HOME$/Canonical/SQLair/sqlair/package_test.go" />
+      <jump line="1222" column="40" filename="$USER_HOME$/Canonical/SQLair/sqlair/package_test.go" />
+      <jump line="1225" column="1" filename="$USER_HOME$/Canonical/SQLair/sqlair/package_test.go" />
+      <jump line="1182" column="9" filename="$USER_HOME$/Canonical/SQLair/sqlair/package_test.go" />
+      <jump line="1009" column="19" filename="$USER_HOME$/Canonical/SQLair/sqlair/package_test.go" />
+      <jump line="634" column="45" filename="$USER_HOME$/Canonical/SQLair/sqlair/package_test.go" />
+      <jump line="0" column="0" filename="$USER_HOME$/Canonical/SQLair/sqlair/doc.go" />
+      <jump line="5" column="0" filename="$USER_HOME$/Canonical/SQLair/sqlair/doc.go" />
+      <jump line="61" column="0" filename="$USER_HOME$/Canonical/SQLair/sqlair/doc.go" />
+      <jump line="55" column="0" filename="$USER_HOME$/Canonical/SQLair/sqlair/doc.go" />
+      <jump line="62" column="10" filename="$USER_HOME$/Canonical/SQLair/sqlair/doc.go" />
+      <jump line="66" column="0" filename="$USER_HOME$/Canonical/SQLair/sqlair/doc.go" />
+      <jump line="65" column="4" filename="$USER_HOME$/Canonical/SQLair/sqlair/doc.go" />
+      <jump line="430" column="33" filename="$USER_HOME$/Canonical/SQLair/sqlair/internal/expr/expr_test.go" />
+      <jump line="431" column="95" filename="$USER_HOME$/Canonical/SQLair/sqlair/internal/expr/expr_test.go" />
+      <jump line="537" column="69" filename="$USER_HOME$/Canonical/SQLair/sqlair/internal/expr/expr_test.go" />
+      <jump line="789" column="4" filename="$USER_HOME$/Canonical/SQLair/sqlair/internal/expr/expr_test.go" />
+      <jump line="809" column="33" filename="$USER_HOME$/Canonical/SQLair/sqlair/internal/expr/expr_test.go" />
+      <jump line="581" column="92" filename="$USER_HOME$/Canonical/SQLair/sqlair/internal/expr/expr_test.go" />
+      <jump line="585" column="92" filename="$USER_HOME$/Canonical/SQLair/sqlair/internal/expr/expr_test.go" />
+      <jump line="589" column="92" filename="$USER_HOME$/Canonical/SQLair/sqlair/internal/expr/expr_test.go" />
+      <jump line="593" column="88" filename="$USER_HOME$/Canonical/SQLair/sqlair/internal/expr/expr_test.go" />
+      <jump line="597" column="92" filename="$USER_HOME$/Canonical/SQLair/sqlair/internal/expr/expr_test.go" />
+      <jump line="605" column="91" filename="$USER_HOME$/Canonical/SQLair/sqlair/internal/expr/expr_test.go" />
+      <jump line="314" column="9" filename="$USER_HOME$/Canonical/SQLair/sqlair/internal/expr/expr_test.go" />
+      <jump line="320" column="12" filename="$USER_HOME$/Canonical/SQLair/sqlair/internal/expr/expr_test.go" />
+      <jump line="326" column="5" filename="$USER_HOME$/Canonical/SQLair/sqlair/internal/expr/expr_test.go" />
+      <jump line="577" column="92" filename="$USER_HOME$/Canonical/SQLair/sqlair/internal/expr/expr_test.go" />
+      <jump line="281" column="0" filename="$USER_HOME$/Canonical/SQLair/sqlair/internal/expr/parser.go" />
+      <jump line="129" column="31" filename="$USER_HOME$/Canonical/SQLair/sqlair/internal/expr/prepare.go" />
+      <jump line="130" column="70" filename="$USER_HOME$/Canonical/SQLair/sqlair/internal/expr/prepare.go" />
+      <jump line="163" column="27" filename="$USER_HOME$/Canonical/SQLair/sqlair/internal/expr/prepare.go" />
+      <jump line="219" column="57" filename="$USER_HOME$/Canonical/SQLair/sqlair/internal/expr/prepare.go" />
+      <jump line="11" column="0" filename="$USER_HOME$/Canonical/SQLair/sqlair/internal/expr/query.go" />
+      <jump line="263" column="12" filename="$USER_HOME$/Canonical/SQLair/sqlair/internal/expr/prepare.go" />
+      <jump line="256" column="37" filename="$USER_HOME$/Canonical/SQLair/sqlair/internal/expr/prepare.go" />
+      <jump line="563" column="44" filename="$USER_HOME$/Canonical/SQLair/sqlair/internal/expr/expr_test.go" />
+      <jump line="564" column="36" filename="$USER_HOME$/Canonical/SQLair/sqlair/internal/expr/expr_test.go" />
+      <jump line="0" column="0" filename="$USER_HOME$/Canonical/SQLair/sqlair/internal/expr/prepare.go" />
+      <jump line="210" column="30" filename="$USER_HOME$/Canonical/SQLair/sqlair/internal/expr/prepare.go" />
+      <jump line="225" column="40" filename="$USER_HOME$/Canonical/SQLair/sqlair/internal/expr/prepare.go" />
+      <jump line="164" column="41" filename="$USER_HOME$/Canonical/SQLair/sqlair/internal/expr/prepare.go" />
+      <jump line="74" column="22" filename="$USER_HOME$/Canonical/SQLair/sqlair/internal/expr/prepare.go" />
+      <jump line="0" column="0" filename="$USER_HOME$/Canonical/SQLair/sqlair/internal/expr/typeinfo.go" />
+      <jump line="95" column="75" filename="$USER_HOME$/Canonical/SQLair/sqlair/internal/expr/typeinfo.go" />
+      <jump line="97" column="34" filename="$USER_HOME$/Canonical/SQLair/sqlair/internal/expr/typeinfo.go" />
+      <jump line="96" column="4" filename="$USER_HOME$/Canonical/SQLair/sqlair/internal/expr/typeinfo.go" />
+      <jump line="286" column="0" filename="$USER_HOME$/Canonical/SQLair/sqlair/sqlair.go" />
+      <jump line="70" column="1" filename="$USER_HOME$/Canonical/SQLair/sqlair/internal/expr/typeinfo.go" />
+      <jump line="38" column="5" filename="/snap/go/10339/src/reflect/type.go" />
+      <jump line="81" column="31" filename="$USER_HOME$/Canonical/SQLair/sqlair/internal/expr/typeinfo.go" />
+      <jump line="43" column="5" filename="/snap/go/10339/src/reflect/type.go" />
+      <jump line="80" column="26" filename="$USER_HOME$/Canonical/SQLair/sqlair/internal/expr/typeinfo.go" />
+      <jump line="0" column="0" filename="$USER_HOME$/Canonical/SQLair/sqlair/README.md" />
+      <jump line="22" column="25" filename="$USER_HOME$/Canonical/SQLair/sqlair/internal/expr/prepare.go" />
+      <jump line="25" column="23" filename="$USER_HOME$/Canonical/SQLair/sqlair/internal/expr/prepare.go" />
+      <jump line="38" column="33" filename="$USER_HOME$/Canonical/SQLair/sqlair/internal/expr/query.go" />
+      <jump line="23" column="0" filename="$USER_HOME$/Canonical/SQLair/sqlair/internal/expr/query.go" />
+      <jump line="51" column="0" filename="$USER_HOME$/Canonical/SQLair/sqlair/internal/expr/query.go" />
+      <jump line="88" column="0" filename="$USER_HOME$/Canonical/SQLair/sqlair/internal/expr/query.go" />
+      <jump line="24" column="27" filename="$USER_HOME$/Canonical/SQLair/sqlair/internal/expr/prepare.go" />
+      <jump line="18" column="0" filename="$USER_HOME$/Canonical/SQLair/sqlair/internal/expr/query.go" />
+      <jump line="37" column="0" filename="$USER_HOME$/Canonical/SQLair/sqlair/internal/expr/query.go" />
+    </project>
+  </component>
+  <component name="VimMarksSettings">
+    <globalmarks />
+    <localmarks>
+      <file name="$USER_HOME$/Canonical/SQLair/sqlair/sqlair.go" timestamp="1700656524698">
+        <mark key="&quot;" line="284" column="0" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1700656411578">
+        <mark key="&quot;" line="0" column="27" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="46" />
+        <mark key="^" line="0" column="46" />
+        <mark key="." line="0" column="45" />
+      </file>
+      <file name="$USER_HOME$/Canonical/SQLair/sqlair/internal/expr/prepare.go" timestamp="1700672311653">
+        <mark key="&quot;" line="24" column="27" />
+      </file>
+      <file name="/snap/go/10339/src/sync/mutex.go" timestamp="1700240208685">
+        <mark key="&quot;" line="224" column="0" />
+      </file>
+      <file name="/snap/go/10339/src/internal/reflectlite/type.go" timestamp="1700240196225">
+        <mark key="&quot;" line="397" column="0" />
+      </file>
+      <file name="/snap/go/10339/src/database/sql/ctxutil.go" timestamp="1700240197781">
+        <mark key="&quot;" line="64" column="0" />
+      </file>
+      <file name="/fragment.go" timestamp="1700240184506">
+        <mark key="&quot;" line="0" column="0" />
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/snap/go/10339/src/reflect/type.go" timestamp="1700656524734">
+        <mark key="&quot;" line="38" column="5" />
+        <mark key="'" line="43" column="5" />
+      </file>
+      <file name="$USER_HOME$/Canonical/SQLair/sqlair/doc.go" timestamp="1700656524712">
+        <mark key="&quot;" line="61" column="4" />
+      </file>
+      <file name="$USER_HOME$/go/pkg/mod/github.com/mattn/go-sqlite3@v1.14.16/sqlite3_go18.go" timestamp="1700240199013">
+        <mark key="&quot;" line="68" column="0" />
+      </file>
+      <file name="/snap/go/10339/src/context/context.go" timestamp="1700240208276">
+        <mark key="&quot;" line="183" column="0" />
+      </file>
+      <file name="$USER_HOME$/Canonical/SQLair/sqlair/internal/expr/expr_test.go" timestamp="1700656524715">
+        <mark key="&quot;" line="583" column="6" />
+      </file>
+      <file name="/snap/go/10339/src/sync/rwmutex.go" timestamp="1700656524740">
+        <mark key="&quot;" line="63" column="0" />
+      </file>
+      <file name="/snap/go/10339/src/errors/wrap.go" timestamp="1700240195437">
+        <mark key="&quot;" line="70" column="0" />
+      </file>
+      <file name="/snap/go/10339/src/database/sql/sql.go" timestamp="1700240194749">
+        <mark key="&quot;" line="1464" column="0" />
+      </file>
+      <file name="$USER_HOME$/Canonical/SQLair/sqlair/internal/expr/parser.go" timestamp="1700656524718">
+        <mark key="&quot;" line="280" column="0" />
+      </file>
+      <file name="$USER_HOME$/go/pkg/mod/github.com/mattn/go-sqlite3@v1.14.16/sqlite3.go" timestamp="1700240200355">
+        <mark key="&quot;" line="2045" column="0" />
+      </file>
+      <file name="$USER_HOME$/Canonical/SQLair/sqlair/internal/expr/typeinfo.go" timestamp="1700656524727">
+        <mark key="&quot;" line="134" column="13" />
+        <mark key="'" line="120" column="31" />
+      </file>
+    </localmarks>
+  </component>
+  <component name="VimRegisterSettings">
+    <registers>
+      <register name="&quot;" type="LINE_WISE">
+        <text encoding="base64">CXFnIDo9ICZxdWVyeUdlbmVyYXRvcnsKCQl0eXBlVG9WYWx1ZTogdHlwZVRvVmFsdWUsCgkJdHlwZU5hbWVzOiAgIHR5cGVOYW1lcywKCgkJaW5Db3VudDogIDAsCgkJb3V0Q291bnQ6IDAsCgoJCXR5cGVVc2VkOiAgbWFwW3JlZmxlY3QuVHlwZV1ib29se30sCgkJc3FsOiAgICAgICBieXRlcy5CdWZmZXJ7fSwKCQlxdWVyeUFyZ3M6IFtdYW55e30sCgkJb3V0cHV0czogICBbXXR5cGVNZW1iZXJ7fSwKCX0KCglmb3IgXywgcHAgOj0gcmFuZ2UgKnBlIHsKCQllcnIgPSBwcC5hY2NlcHQocWcpCgkJaWYgZXJyICE9IG5pbCB7CgkJCXJldHVybiBuaWwsIGVycgoJCX0KCX0K</text>
+      </register>
+      <register name="+" type="LINE_WISE">
+        <text encoding="base64">CXFnIDo9ICZxdWVyeUdlbmVyYXRvcnsKCQl0eXBlVG9WYWx1ZTogdHlwZVRvVmFsdWUsCgkJdHlwZU5hbWVzOiAgIHR5cGVOYW1lcywKCgkJaW5Db3VudDogIDAsCgkJb3V0Q291bnQ6IDAsCgoJCXR5cGVVc2VkOiAgbWFwW3JlZmxlY3QuVHlwZV1ib29se30sCgkJc3FsOiAgICAgICBieXRlcy5CdWZmZXJ7fSwKCQlxdWVyeUFyZ3M6IFtdYW55e30sCgkJb3V0cHV0czogICBbXXR5cGVNZW1iZXJ7fSwKCX0KCglmb3IgXywgcHAgOj0gcmFuZ2UgKnBlIHsKCQllcnIgPSBwcC5hY2NlcHQocWcpCgkJaWYgZXJyICE9IG5pbCB7CgkJCXJldHVybiBuaWwsIGVycgoJCX0KCX0K</text>
+      </register>
+      <register name="-" type="CHARACTER_WISE">
+        <text encoding="base64">dGFn</text>
+      </register>
+      <register name="." type="CHARACTER_WISE">
+        <text encoding="base64">IGlu</text>
+      </register>
+      <register name="/" type="CHARACTER_WISE">
+        <text encoding="base64">QmluZElucHV0</text>
+      </register>
+      <register name="0" type="LINE_WISE">
+        <text encoding="base64">CQkJJmJ5cGFzc3twLmlucHV0W3AucHJldlBhcnQ6cC5wYXJ0U3RhcnRdfSkKCX0K</text>
+      </register>
+      <register name="1" type="LINE_WISE">
+        <text encoding="base64">QWRkIGJhY2sgaW4gbGluZSBudW1iZXIgdGVzdAo=</text>
+      </register>
+      <register name="2" type="LINE_WISE">
+        <text encoding="base64">UmVtb3ZlIGV4dHJhIGluZm8gdGhlIGludHJvIHBhcmFncmFwaCBpbiBkb2MuZ28K</text>
+      </register>
+      <register name="3" type="LINE_WISE">
+        <text encoding="base64">U3RydWN0IGZpZWxkcyBhcmUgdGFnZ2VkIHdpdGggY29sdW1uIG5hbWVzIGFsbG93aW5nIHF1ZXJ5IHJlc3VsdHMgdG8gYmUgcmVhZCBkaXJlY3RseSBpbnRvIHRoZW0uCg==</text>
+      </register>
+      <register name="4" type="LINE_WISE">
+        <text encoding="base64">U1FMYWlyIGlzIGRlc2lnbmVkIGFyb3VuZCBmb3IgdXNlIHdpdGggdGhlIHN0cnVjdCB0eXBlLgo=</text>
+      </register>
+      <register name="5" type="LINE_WISE">
+        <text encoding="base64">CWRyb3BUYWJsZXMoYywgZGIsIHRhYmxlcy4uLikK</text>
+      </register>
+      <register name="6" type="LINE_WISE">
+        <text encoding="base64">Ly8gU2NhbkFyZ3MgdGFrZXMgdGhlIHJlc3VsdCBjb2x1bW4gbmFtZXMgYW5kIHRoZSBTUUxhaXIgb3V0cHV0IGFyZ3VtZW50cy4gSXQKLy8gcmV0dXJucyBsaXN0IG9mIHBvaW50ZXJzIHRvIGJlIHVzZWQgYXMgYXJndW1lbnRzIGZvciByb3dzLlNjYW4uIFRoZXkgcG9pbnQgdG8KLy8gbG9jYXRpb25zIHdpdGhpbiB0aGUgU1FMYWlyIG91dHB1dCBhcmd1bWVudHMuIFRoZSBvblN1Y2Nlc3MgZnVuY3Rpb24gc2hvdWxkCi8vIGJlIHJ1biBvbmNlIHRoZSBwb2ludGVycyBoYXZlIGJlZW4gc2Nhbm5lZCB0byBwb3B1bGF0ZSBvdXRwdXQgYXJndW1lbnRzIHRoYXQKLy8gY2Fubm90IGJlIHdyaXR0ZW4gdG8gZGlyZWN0bHkgKHN1Y2ggYXMgbWFwIHZhbHVlcykuCg==</text>
+      </register>
+      <register name="7" type="LINE_WISE">
+        <text encoding="base64">Ly8gZXhwcmVzc2lvbnMuCg==</text>
+      </register>
+      <register name="8" type="LINE_WISE">
+        <text encoding="base64">ZnVuYyBQcmVwYXJlZFNRTChwZSAqUHJlcGFyZWRFeHByKSBzdHJpbmcgewoJcmV0dXJuIHBlLnNxbAp9Cg==</text>
+      </register>
+      <register name="9" type="LINE_WISE">
+        <text encoding="base64">Ly8gZnVuY3Rpb24gc2hvdWxkIGJlIHJ1biBvbmNlIHRoZSB2YWx1ZXMgaGF2ZSBiZWVuIHNjYW5uZWQuCg==</text>
+      </register>
+      <register name=":" type="CHARACTER_WISE">
+        <text encoding="base64">dw==</text>
+      </register>
+    </registers>
+  </component>
+  <component name="VimSearchSettings">
+    <search>
+      <last-search encoding="base64">QmluZElucHV0</last-search>
+      <last-substitute encoding="base64">bmVlZCBzdHJ1Y3QsIG1hcCwgb3IgcHJpbWl0aXZlIHR5cGU=</last-substitute>
+      <last-replace encoding="base64">bmVlZCB2YWxpZCB0eXBl</last-replace>
+      <last-pattern encoding="base64">QmluZElucHV0</last-pattern>
+      <last-dir encoding="base64">MQ==</last-dir>
+      <show-last encoding="base64">ZmFsc2U=</show-last>
+    </search>
+  </component>
+</application>

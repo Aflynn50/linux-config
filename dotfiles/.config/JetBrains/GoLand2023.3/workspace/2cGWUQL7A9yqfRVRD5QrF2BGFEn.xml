@@ -1,0 +1,284 @@
+<project version="4">
+  <component name="BookmarksManager">
+    <option name="groups">
+      <GroupState>
+        <option name="name" value="charm" />
+      </GroupState>
+    </option>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="-1">
+      <file current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/README.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SHOW_PREVIEW" is_vertical_split="false">
+              <first_editor />
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/go.mod">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="200">
+              <caret line="10" column="34" selection-start-line="10" selection-start-column="34" selection-end-line="10" selection-end-column="34" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/charm_test.go">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="2520">
+              <caret line="126" column="31" selection-start-line="126" selection-start-column="31" selection-end-line="126" selection-end-column="31" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/charmarchive_test.go">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1200">
+              <caret line="60" selection-start-line="60" selection-end-line="60" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file>
+        <entry file="file://$PROJECT_DIR$/actions_test.go">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="280">
+              <caret line="114" column="16" selection-start-line="114" selection-start-column="16" selection-end-line="114" selection-end-column="16" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTypeUsageLocalSummary">
+    <fileType name="Go">
+      <summary usageCount="19" lastUsed="1708533194656" />
+    </fileType>
+    <fileType name="Markdown">
+      <summary usageCount="6" lastUsed="1708533194600" />
+    </fileType>
+    <fileType name="go.mod">
+      <summary usageCount="5" lastUsed="1708533194618" />
+    </fileType>
+  </component>
+  <component name="GitBranchesPopupTreeState">
+    <expand>
+      <path>
+        <item name="TreeRoot" type="41d8a9c2:GitBranchesTreeModel$TreeRoot" />
+        <item name="LOCAL" type="ae103dac:GitBranchType" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="IdeDocumentHistory">
+    <changedPaths>
+      <option value="$PROJECT_DIR$/charm_test.go" />
+      <option value="$PROJECT_DIR$/actions.go" />
+      <option value="$PROJECT_DIR$/go.mod" />
+      <option value="$PROJECT_DIR$/actions_test.go" />
+    </changedPaths>
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="$PROJECT_DIR$/.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="LanguageUsageStatistics">
+    <language id="Markdown">
+      <summary usageCount="6" lastUsage="1708533194600" />
+    </language>
+    <language id="go">
+      <summary usageCount="19" lastUsage="1708533194656" />
+    </language>
+    <language id="vgo">
+      <summary usageCount="5" lastUsage="1708533194618" />
+    </language>
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1" />
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="charm" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///home/aflynn/Canonical/Juju/charm}" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="RunConfigurationStartHistory">
+    <history>
+      <element setting="Go Test.gocheck actions_test.go" />
+      <element setting="Go Test.ActionsSuite.TestValidateFail in github.com/juju/charm/v13" />
+      <element setting="Go Test.gocheck charm" />
+      <element setting="Go Test.gocheck github.com/juju/charm/v13" />
+    </history>
+  </component>
+  <component name="TerminalArrangementManager">
+    <option name="myTabStates">
+      <TerminalTabState tabName="Local" currentWorkingDirectory="$PROJECT_DIR$">
+        <shellCommand>
+          <arg value="/usr/bin/zsh" />
+          <arg value="-i" />
+        </shellCommand>
+      </TerminalTabState>
+    </option>
+  </component>
+  <component name="TestHistory">
+    <history-entry file="gocheck_actions_test_go - 2024.02.12 at 16h 47m 56s.xml">
+      <configuration name="gocheck actions_test.go" configurationId="GoTestRunConfiguration" />
+    </history-entry>
+    <history-entry file="gocheck_github_com_juju_charm_v13 - 2024.02.12 at 16h 48m 25s.xml">
+      <configuration name="gocheck github.com/juju/charm/v13" configurationId="GoTestRunConfiguration" />
+    </history-entry>
+    <history-entry file="gocheck_charm - 2024.02.12 at 16h 48m 49s.xml">
+      <configuration name="gocheck charm" configurationId="GoTestRunConfiguration" />
+    </history-entry>
+    <history-entry file="ActionsSuite_TestValidateFail_in_github_com_juju_charm_v13 - 2024.02.13 at 09h 02m 56s.xml">
+      <configuration name="ActionsSuite.TestValidateFail in github.com/juju/charm/v13" configurationId="GoTestRunConfiguration" />
+    </history-entry>
+    <history-entry file="ActionsSuite_TestValidateFail_in_github_com_juju_charm_v13 - 2024.02.13 at 09h 03m 23s.xml">
+      <configuration name="ActionsSuite.TestValidateFail in github.com/juju/charm/v13" configurationId="GoTestRunConfiguration" />
+    </history-entry>
+    <history-entry file="gocheck_actions_test_go - 2024.02.13 at 09h 13m 22s.xml">
+      <configuration name="gocheck actions_test.go" configurationId="GoTestRunConfiguration" />
+    </history-entry>
+    <history-entry file="gocheck_actions_test_go - 2024.02.13 at 09h 14m 30s.xml">
+      <configuration name="gocheck actions_test.go" configurationId="GoTestRunConfiguration" />
+    </history-entry>
+    <history-entry file="gocheck_actions_test_go - 2024.02.13 at 14h 20m 25s.xml">
+      <configuration name="gocheck actions_test.go" configurationId="GoTestRunConfiguration" />
+    </history-entry>
+    <history-entry file="gocheck_actions_test_go - 2024.02.14 at 09h 17m 05s.xml">
+      <configuration name="gocheck actions_test.go" configurationId="GoTestRunConfiguration" />
+    </history-entry>
+    <history-entry file="gocheck_actions_test_go - 2024.02.14 at 09h 18m 03s.xml">
+      <configuration name="gocheck actions_test.go" configurationId="GoTestRunConfiguration" />
+    </history-entry>
+  </component>
+  <component name="ToolWindowManager">
+    <layoutV2>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.16432291" />
+      <window_info id="Commit" order="1" weight="0.25" />
+      <window_info id="Structure" order="2" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Version Control" order="0" />
+      <window_info anchor="bottom" id="Problems" order="1" />
+      <window_info anchor="bottom" id="Problems View" order="2" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="3" visible="true" weight="0.32967556" />
+      <window_info anchor="bottom" id="Run" order="4" weight="0.32967556" />
+      <window_info anchor="bottom" id="Python Packages" order="5" />
+      <window_info anchor="bottom" id="Services" order="6" />
+      <window_info anchor="right" content_ui="combo" id="Notifications" order="0" weight="0.25" />
+      <window_info anchor="right" id="AIAssistant" order="1" weight="0.25" />
+      <window_info anchor="right" id="Database" order="2" weight="0.25" />
+      <window_info anchor="right" id="Gradle" order="3" weight="0.25" />
+      <window_info anchor="right" id="Maven" order="4" weight="0.25" />
+      <unified_weights bottom="0.32967556" left="0.16432291" />
+    </layoutV2>
+    <recentWindows>
+      <value>Terminal</value>
+      <value>Project</value>
+      <value>Run</value>
+    </recentWindows>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="555" y="217" width="800" height="684" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1707756529081">
+      <screen x="0" y="32" width="1920" height="1048" />
+    </state>
+    <state x="555" y="217" width="800" height="684" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.32.1920.1048@0.32.1920.1048" timestamp="1707756529081" />
+    <state x="743" y="314" width="424" height="491" key="FileChooserDialogImpl" timestamp="1708533315723">
+      <screen x="0" y="32" width="1920" height="1048" />
+    </state>
+    <state x="743" y="314" width="424" height="491" key="FileChooserDialogImpl/0.32.1920.1048@0.32.1920.1048" timestamp="1708533315723" />
+    <state width="1838" height="303" key="GridCell.Tab.0.bottom" timestamp="1707902288440">
+      <screen x="0" y="32" width="1920" height="1048" />
+    </state>
+    <state width="1838" height="303" key="GridCell.Tab.0.bottom/0.32.1920.1048@0.32.1920.1048" timestamp="1707902288440" />
+    <state width="1838" height="303" key="GridCell.Tab.0.center" timestamp="1707902288440">
+      <screen x="0" y="32" width="1920" height="1048" />
+    </state>
+    <state width="1838" height="303" key="GridCell.Tab.0.center/0.32.1920.1048@0.32.1920.1048" timestamp="1707902288440" />
+    <state width="1838" height="303" key="GridCell.Tab.0.left" timestamp="1707902288440">
+      <screen x="0" y="32" width="1920" height="1048" />
+    </state>
+    <state width="1838" height="303" key="GridCell.Tab.0.left/0.32.1920.1048@0.32.1920.1048" timestamp="1707902288440" />
+    <state width="1838" height="303" key="GridCell.Tab.0.right" timestamp="1707902288440">
+      <screen x="0" y="32" width="1920" height="1048" />
+    </state>
+    <state width="1838" height="303" key="GridCell.Tab.0.right/0.32.1920.1048@0.32.1920.1048" timestamp="1707902288440" />
+    <state x="456" y="191" width="1007" height="737" key="SettingsEditor" timestamp="1708081648522">
+      <screen x="0" y="32" width="1920" height="1048" />
+    </state>
+    <state x="456" y="191" width="1007" height="737" key="SettingsEditor/0.32.1920.1048@0.32.1920.1048" timestamp="1708081648522" />
+    <state x="693" y="264" width="524" height="591" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1707815635657">
+      <screen x="0" y="32" width="1920" height="1048" />
+    </state>
+    <state x="693" y="264" width="524" height="591" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.32.1920.1048@0.32.1920.1048" timestamp="1707815635657" />
+    <state x="0" y="32" width="1523" height="702" key="dock-window-1" timestamp="1707847096041">
+      <screen x="0" y="32" width="1920" height="1048" />
+    </state>
+    <state x="0" y="32" width="1523" height="702" key="dock-window-1/0.32.1920.1048@0.32.1920.1048" timestamp="1707847096041" />
+    <state x="623" y="254" width="692" height="708" key="search.everywhere.popup" timestamp="1707832850988">
+      <screen x="0" y="32" width="1920" height="1048" />
+    </state>
+    <state x="623" y="254" width="692" height="708" key="search.everywhere.popup/0.32.1920.1048@0.32.1920.1048" timestamp="1707832850988" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/actions.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="129">
+          <caret line="51" column="24" selection-start-line="51" selection-start-column="24" selection-end-line="51" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SHOW_PREVIEW" is_vertical_split="false">
+          <first_editor />
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/go.mod">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="200">
+          <caret line="10" column="34" selection-start-line="10" selection-start-column="34" selection-end-line="10" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/charm_test.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2520">
+          <caret line="126" column="31" selection-start-line="126" selection-start-column="31" selection-end-line="126" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/charmarchive_test.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1200">
+          <caret line="60" selection-start-line="60" selection-end-line="60" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/actions_test.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="280">
+          <caret line="114" column="16" selection-start-line="114" selection-start-column="16" selection-end-line="114" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

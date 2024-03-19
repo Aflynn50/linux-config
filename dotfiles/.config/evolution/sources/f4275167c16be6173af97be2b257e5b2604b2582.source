@@ -1,0 +1,23 @@
+[Data Source]
+DisplayName=alastair.flynn@canonical.com
+Enabled=true
+Parent=11c1385ce269416905d867508f88fed222f3fc90
+
+[Authentication]
+Host=imap.gmail.com
+Method=Google
+Port=587
+ProxyUid=system-proxy
+RememberPassword=true
+User=alastair.flynn@canonical.com
+CredentialName=
+IsExternal=false
+
+[Security]
+Method=starttls-on-standard-port
+
+[Mail Transport]
+BackendName=smtp
+
+[Smtp Backend]
+ReencodeData=false

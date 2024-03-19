@@ -1,0 +1,49 @@
+[Data Source]
+DisplayName=Canonical Events
+Enabled=true
+Parent=google-stub
+
+[Authentication]
+Host=apidata.googleusercontent.com
+Method=Google
+Port=443
+ProxyUid=system-proxy
+RememberPassword=true
+User=alastair.flynn@canonical.com
+CredentialName=
+IsExternal=false
+
+[Security]
+Method=tls
+
+[Refresh]
+Enabled=true
+IntervalMinutes=30
+EnabledOnMeteredNetwork=true
+
+[WebDAV Backend]
+AvoidIfmatch=false
+CalendarAutoSchedule=false
+Color=
+DisplayName=Canonical Events
+EmailAddress=alastair.flynn@canonical.com
+ResourcePath=/caldav/v2/canonical.com_2c8vrm6lo709pu1i1643oht9m8%40group.calendar.google.com/events/
+ResourceQuery=
+SslTrust=accept|apidata.googleusercontent.com|6476db80a9ff8128b65b742b52a7585230a7ae78907b5c0198b21d19928c3ba2
+Order=4294967295
+
+[Calendar]
+BackendName=caldav
+Color=#b99aff
+Selected=false
+Order=0
+
+[Offline]
+StaySynchronized=true
+
+[Conflict Search]
+IncludeMe=true
+
+[Alarms]
+IncludeMe=true
+LastNotified=2023-01-29T09:00:00Z

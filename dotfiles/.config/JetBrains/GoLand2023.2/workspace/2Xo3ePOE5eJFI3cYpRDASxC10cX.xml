@@ -1,0 +1,527 @@
+<project version="4">
+  <component name="BookmarksManager">
+    <option name="groups">
+      <GroupState>
+        <option name="name" value="sqlair" />
+      </GroupState>
+    </option>
+  </component>
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="BRANCH:add-preparedParts-expreiment" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </select>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="-1">
+      <file current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/README.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SHOW_PREVIEW" is_vertical_split="false">
+              <first_editor />
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/package_test.go">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1400">
+              <caret line="89" selection-start-line="89" selection-end-line="89" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file>
+        <entry file="file://$PROJECT_DIR$/internal/expr/query.go">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-1168">
+              <caret line="37" selection-start-line="37" selection-end-line="37" />
+              <folding>
+                <element signature="e#14#103#0" expanded="true" />
+                <element signature="e#1743#1787#0" expanded="true" />
+                <element signature="e#1817#1874#0" expanded="true" />
+                <element signature="e#2010#2065#0" expanded="true" />
+                <element signature="e#2139#2244#0" expanded="true" />
+                <element signature="e#2326#2406#0" expanded="true" />
+                <element signature="e#2903#2982#0" expanded="true" />
+                <element signature="e#3141#3220#0" expanded="true" />
+                <element signature="e#3303#3332#0" expanded="true" />
+                <element signature="e#3538#3618#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTypeUsageLocalSummary">
+    <fileType name="DIFF">
+      <summary usageCount="4" lastUsed="1700236867445" />
+    </fileType>
+    <fileType name="Go">
+      <summary usageCount="45" lastUsed="1700656525426" />
+    </fileType>
+    <fileType name="Markdown">
+      <summary usageCount="5" lastUsed="1700656525025" />
+    </fileType>
+    <fileType name="YAML">
+      <summary usageCount="1" lastUsed="1700067230991" />
+    </fileType>
+  </component>
+  <component name="GitBranchesPopupTreeState">
+    <expand>
+      <path>
+        <item name="TreeRoot" type="41d8a9c2:GitBranchesTreeModel$TreeRoot" />
+        <item name="RECENT" type="baf65d7a:GitBranchesTreeModel$RecentNode" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="IdeDocumentHistory">
+    <changedPaths>
+      <option value="$PROJECT_DIR$/internal/expr/export_test.go" />
+      <option value="$PROJECT_DIR$/internal/expr/doc.go" />
+      <option value="$PROJECT_DIR$/internal/expr/parser.go" />
+      <option value="$PROJECT_DIR$/sqlair.go" />
+      <option value="$PROJECT_DIR$/package_test.go" />
+      <option value="$PROJECT_DIR$/doc.go" />
+      <option value="$PROJECT_DIR$/internal/expr/query.go" />
+      <option value="$PROJECT_DIR$/internal/expr/prepare.go" />
+      <option value="$PROJECT_DIR$/internal/expr/expr_test.go" />
+      <option value="$PROJECT_DIR$/internal/expr/typeinfo.go" />
+    </changedPaths>
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="$PROJECT_DIR$/.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="LanguageUsageStatistics">
+    <language id="Markdown">
+      <summary usageCount="5" lastUsage="1700656525025" />
+    </language>
+    <language id="go">
+      <summary usageCount="45" lastUsage="1700656525426" />
+    </language>
+    <language id="yaml">
+      <summary usageCount="1" lastUsage="1700067230991" />
+    </language>
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1" />
+    <panes />
+  </component>
+  <component name="RunConfigurationStartHistory">
+    <history>
+      <element setting="Go Test.go test sqlair" />
+      <element setting="Go Test.PackageSuite.TestCancelledQueryContext in github.com/canonical/sqlair" />
+    </history>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="TerminalArrangementManager">
+    <option name="myTabStates">
+      <TerminalTabState tabName="Local" currentWorkingDirectory="$PROJECT_DIR$">
+        <shellCommand>
+          <arg value="/usr/bin/zsh" />
+          <arg value="-i" />
+        </shellCommand>
+      </TerminalTabState>
+    </option>
+  </component>
+  <component name="TestHistory">
+    <history-entry file="PackageSuite_TestCancelledQueryContext_in_github_com_canonical_sqlair - 2023.11.17 at 17h 02m 55s.xml">
+      <configuration name="PackageSuite.TestCancelledQueryContext in github.com/canonical/sqlair" configurationId="GoTestRunConfiguration" />
+    </history-entry>
+    <history-entry file="PackageSuite_TestCancelledQueryContext_in_github_com_canonical_sqlair - 2023.11.20 at 12h 00m 57s.xml">
+      <configuration name="PackageSuite.TestCancelledQueryContext in github.com/canonical/sqlair" configurationId="GoTestRunConfiguration" />
+    </history-entry>
+    <history-entry file="go_test_sqlair - 2023.11.20 at 12h 01m 18s.xml">
+      <configuration name="go test sqlair" configurationId="GoTestRunConfiguration" />
+    </history-entry>
+    <history-entry file="go_test_sqlair - 2023.11.20 at 12h 02m 03s.xml">
+      <configuration name="go test sqlair" configurationId="GoTestRunConfiguration" />
+    </history-entry>
+    <history-entry file="go_test_sqlair - 2023.11.20 at 12h 02m 16s.xml">
+      <configuration name="go test sqlair" configurationId="GoTestRunConfiguration" />
+    </history-entry>
+    <history-entry file="go_test_sqlair - 2023.11.20 at 12h 05m 27s.xml">
+      <configuration name="go test sqlair" configurationId="GoTestRunConfiguration" />
+    </history-entry>
+    <history-entry file="go_test_sqlair - 2023.11.20 at 12h 09m 27s.xml">
+      <configuration name="go test sqlair" configurationId="GoTestRunConfiguration" />
+    </history-entry>
+    <history-entry file="go_test_sqlair - 2023.11.20 at 12h 17m 29s.xml">
+      <configuration name="go test sqlair" configurationId="GoTestRunConfiguration" />
+    </history-entry>
+    <history-entry file="go_test_sqlair - 2023.11.20 at 12h 19m 35s.xml">
+      <configuration name="go test sqlair" configurationId="GoTestRunConfiguration" />
+    </history-entry>
+    <history-entry file="go_test_sqlair - 2023.11.20 at 12h 19m 50s.xml">
+      <configuration name="go test sqlair" configurationId="GoTestRunConfiguration" />
+    </history-entry>
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <layoutV2>
+      <window_info id="Space Code Reviews" />
+      <window_info id="Bookmarks" side_tool="true" />
+      <window_info id="Merge Requests" />
+      <window_info id="Pull Requests" />
+      <window_info id="Learn" show_stripe_button="false" />
+      <window_info content_ui="combo" id="Project" order="0" weight="0.14817709" />
+      <window_info id="Commit" order="1" weight="0.14817709" />
+      <window_info id="Structure" order="2" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Database Changes" />
+      <window_info anchor="bottom" id="TypeScript" />
+      <window_info anchor="bottom" id="TODO" weight="0.3300095" />
+      <window_info anchor="bottom" id="File Transfer" />
+      <window_info anchor="bottom" id="Find" show_stripe_button="false" weight="0.3300095" />
+      <window_info active="true" anchor="bottom" id="Version Control" order="0" visible="true" weight="0.3300095" />
+      <window_info anchor="bottom" id="Problems" order="1" />
+      <window_info anchor="bottom" id="Problems View" order="2" weight="0.3300095" />
+      <window_info anchor="bottom" id="Terminal" order="3" weight="0.3300095" />
+      <window_info anchor="bottom" id="Debug" order="4" weight="0.3300095" />
+      <window_info anchor="bottom" id="Run" order="5" visible="true" weight="0.3300095" />
+      <window_info anchor="bottom" id="Services" order="6" weight="0.3300095" />
+      <window_info anchor="right" id="Endpoints" />
+      <window_info anchor="right" id="make" side_tool="true" />
+      <window_info anchor="right" id="documentation.v2" side_tool="true" />
+      <window_info anchor="right" id="Meet New UI" side_tool="true" />
+      <window_info anchor="right" content_ui="combo" id="Notifications" order="0" weight="0.25" />
+      <window_info anchor="right" id="AIAssistant" order="1" weight="0.25" />
+      <window_info anchor="right" id="Database" order="2" weight="0.25" />
+      <window_info anchor="right" id="Gradle" order="3" weight="0.25" />
+      <window_info anchor="right" id="Maven" order="4" weight="0.25" />
+      <unified_weights bottom="0.3300095" left="0.14817709" />
+    </layoutV2>
+    <recentWindows>
+      <value>Version Control</value>
+      <value>Commit</value>
+      <value>Run</value>
+      <value>Project</value>
+      <value>Debug</value>
+      <value>Terminal</value>
+      <value>Problems View</value>
+      <value>Find</value>
+      <value>Services</value>
+      <value>TODO</value>
+    </recentWindows>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="433" y="215" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1700482248423">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state x="433" y="215" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.27.1920.1053@0.27.1920.1053" timestamp="1700482248423" />
+    <state x="2353" y="626" key="#com.intellij.execution.impl.EditConfigurationsDialog/1920.438.1920.1053/0.860.1920.1080/3840.0.1200.1920@1920.438.1920.1053" timestamp="1700067337937" />
+    <state width="1838" height="305" key="GridCell.Tab.0.bottom" timestamp="1700482790183">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state width="1838" height="305" key="GridCell.Tab.0.bottom/0.27.1920.1053@0.27.1920.1053" timestamp="1700482790183" />
+    <state width="1838" height="305" key="GridCell.Tab.0.bottom/1920.438.1920.1053/0.860.1920.1080/3840.0.1200.1920@1920.438.1920.1053" timestamp="1700240575346" />
+    <state width="1838" height="305" key="GridCell.Tab.0.center" timestamp="1700482790183">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state width="1838" height="305" key="GridCell.Tab.0.center/0.27.1920.1053@0.27.1920.1053" timestamp="1700482790183" />
+    <state width="1838" height="305" key="GridCell.Tab.0.center/1920.438.1920.1053/0.860.1920.1080/3840.0.1200.1920@1920.438.1920.1053" timestamp="1700240575346" />
+    <state width="1838" height="305" key="GridCell.Tab.0.left" timestamp="1700482790183">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state width="1838" height="305" key="GridCell.Tab.0.left/0.27.1920.1053@0.27.1920.1053" timestamp="1700482790183" />
+    <state width="1838" height="305" key="GridCell.Tab.0.left/1920.438.1920.1053/0.860.1920.1080/3840.0.1200.1920@1920.438.1920.1053" timestamp="1700240575346" />
+    <state width="1838" height="305" key="GridCell.Tab.0.right" timestamp="1700482790183">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state width="1838" height="305" key="GridCell.Tab.0.right/0.27.1920.1053@0.27.1920.1053" timestamp="1700482790183" />
+    <state width="1838" height="305" key="GridCell.Tab.0.right/1920.438.1920.1053/0.860.1920.1080/3840.0.1200.1920@1920.438.1920.1053" timestamp="1700240575346" />
+    <state width="1838" height="305" key="GridCell.Tab.1.bottom" timestamp="1700479884618">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state width="1838" height="305" key="GridCell.Tab.1.bottom/0.27.1920.1053@0.27.1920.1053" timestamp="1700479884618" />
+    <state width="1838" height="305" key="GridCell.Tab.1.bottom/1920.438.1920.1053/0.860.1920.1080/3840.0.1200.1920@1920.438.1920.1053" timestamp="1700240542819" />
+    <state width="1838" height="305" key="GridCell.Tab.1.center" timestamp="1700479884618">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state width="1838" height="305" key="GridCell.Tab.1.center/0.27.1920.1053@0.27.1920.1053" timestamp="1700479884618" />
+    <state width="1838" height="305" key="GridCell.Tab.1.center/1920.438.1920.1053/0.860.1920.1080/3840.0.1200.1920@1920.438.1920.1053" timestamp="1700240542819" />
+    <state width="1838" height="305" key="GridCell.Tab.1.left" timestamp="1700479884618">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state width="1838" height="305" key="GridCell.Tab.1.left/0.27.1920.1053@0.27.1920.1053" timestamp="1700479884618" />
+    <state width="1838" height="305" key="GridCell.Tab.1.left/1920.438.1920.1053/0.860.1920.1080/3840.0.1200.1920@1920.438.1920.1053" timestamp="1700240542819" />
+    <state width="1838" height="305" key="GridCell.Tab.1.right" timestamp="1700479884618">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state width="1838" height="305" key="GridCell.Tab.1.right/0.27.1920.1053@0.27.1920.1053" timestamp="1700479884618" />
+    <state width="1838" height="305" key="GridCell.Tab.1.right/1920.438.1920.1053/0.860.1920.1080/3840.0.1200.1920@1920.438.1920.1053" timestamp="1700240542819" />
+    <state x="295" y="273" width="1007" height="737" key="SettingsEditor" timestamp="1700482640091">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state x="295" y="273" width="992" height="737" key="SettingsEditor/0.27.1920.1053@0.27.1920.1053" timestamp="1700482640091" />
+    <state x="2215" y="684" width="1007" height="737" key="SettingsEditor/1920.438.1920.1053/0.860.1920.1080/3840.0.1200.1920@1920.438.1920.1053" timestamp="1700067995075" />
+    <state width="640" height="278" key="ShowBookmarks" timestamp="1700481925483">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state width="640" height="278" key="ShowBookmarks/0.27.1920.1053@0.27.1920.1053" timestamp="1700481925483" />
+    <state width="640" height="278" key="ShowBookmarks/1920.438.1920.1053/0.860.1920.1080/3840.0.1200.1920@1920.438.1920.1053" timestamp="1700140430901" />
+    <state x="555" y="289" width="800" height="535" key="Vcs.Push.Dialog.v2" timestamp="1700480538906">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state x="555" y="289" width="800" height="535" key="Vcs.Push.Dialog.v2/0.27.1920.1053@0.27.1920.1053" timestamp="1700480538906" />
+    <state x="693" y="261" width="524" height="591" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1700481610001">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state x="693" y="261" width="524" height="591" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.27.1920.1053@0.27.1920.1053" timestamp="1700481610001" />
+    <state x="2613" y="672" width="524" height="591" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/1920.438.1920.1053/0.860.1920.1080/3840.0.1200.1920@1920.438.1920.1053" timestamp="1700226373124" />
+    <state x="2626" y="684" width="498" height="567" key="git4idea.branch.GitSmartOperationDialog" timestamp="1700126327772">
+      <screen x="1920" y="438" width="1920" height="1053" />
+    </state>
+    <state x="2626" y="684" width="498" height="567" key="git4idea.branch.GitSmartOperationDialog/1920.438.1920.1053/0.860.1920.1080/3840.0.1200.1920@1920.438.1920.1053" timestamp="1700126327772" />
+    <state x="2544" y="462" key="run.anything.popup" timestamp="1700067311377">
+      <screen x="1920" y="438" width="1920" height="1053" />
+    </state>
+    <state x="2544" y="462" key="run.anything.popup/1920.438.1920.1053/0.860.1920.1080/3840.0.1200.1920@1920.438.1920.1053" timestamp="1700067311377" />
+    <state x="623" y="250" width="692" height="707" key="search.everywhere.popup" timestamp="1700482719541">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state x="623" y="250" width="692" height="707" key="search.everywhere.popup/0.27.1920.1053@0.27.1920.1053" timestamp="1700482719541" />
+    <state x="2543" y="661" width="692" height="707" key="search.everywhere.popup/1920.438.1920.1053/0.860.1920.1080/3840.0.1200.1920@1920.438.1920.1053" timestamp="1700226594834" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/.github/workflows/go-test.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="480">
+          <caret line="24" column="13" selection-start-line="24" selection-start-column="13" selection-end-line="24" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/internal/expr/export_test.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="40">
+          <caret line="2" selection-start-line="2" selection-end-line="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/internal/expr/typebind.go" />
+    <entry file="file://$APPLICATION_CONFIG_DIR$/scratches/scratch.go">
+      <provider selected="true" editor-type-id="GoPlaygroundFileEditor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/internal/expr/doc.go" />
+    <entry file="file://$USER_HOME$/go/pkg/mod/github.com/mattn/go-sqlite3@v1.14.16/sqlite3_go18.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="412">
+          <caret line="68" selection-start-line="68" selection-end-line="68" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///snap/go/10339/src/sync/mutex.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="450">
+          <caret line="224" selection-start-line="224" selection-end-line="224" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///snap/go/10339/src/internal/reflectlite/type.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="230">
+          <caret line="397" selection-start-line="397" selection-end-line="397" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///snap/go/10339/src/errors/wrap.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="310">
+          <caret line="70" selection-start-line="70" selection-end-line="70" />
+          <folding>
+            <element signature="e#1541#1568#0" expanded="true" />
+            <element signature="e#1669#1689#0" expanded="true" />
+            <element signature="e#1758#1778#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///snap/go/10339/src/database/sql/sql.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="790">
+          <caret line="1464" selection-start-line="1464" selection-end-line="1464" />
+          <folding>
+            <element signature="e#74173#74192#0" expanded="true" />
+            <element signature="e#74840#74862#0" expanded="true" />
+            <element signature="e#74930#74952#0" expanded="true" />
+            <element signature="e#75906#75919#0" expanded="true" />
+            <element signature="e#76409#76441#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///snap/go/10339/src/database/sql/ctxutil.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="64" selection-start-line="64" selection-end-line="64" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/go/pkg/mod/github.com/mattn/go-sqlite3@v1.14.16/sqlite3.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="190">
+          <caret line="2045" selection-start-line="2045" selection-end-line="2045" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///snap/go/10339/src/context/context.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-10688">
+          <caret line="183" selection-start-line="183" selection-end-line="183" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sqlair.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="5120">
+          <caret line="284" selection-start-line="284" selection-end-line="284" />
+          <folding>
+            <element signature="e#2500#2522#0" expanded="true" />
+            <element signature="e#2595#2617#0" expanded="true" />
+            <element signature="e#3064#3081#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/doc.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1220">
+          <caret line="61" column="4" selection-start-line="61" selection-start-column="4" selection-end-line="61" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/internal/expr/expr_test.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="11520">
+          <caret line="583" column="6" selection-start-line="583" selection-start-column="6" selection-end-line="583" selection-end-column="6" />
+          <folding>
+            <element signature="e#19#156#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/internal/expr/parser.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="5520">
+          <caret line="280" selection-start-line="280" selection-end-line="280" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///snap/go/10339/src/sync/rwmutex.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1180">
+          <caret line="63" selection-start-line="63" selection-end-line="63" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///snap/go/10339/src/reflect/type.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="38" column="5" selection-start-line="38" selection-start-column="5" selection-end-line="38" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/internal/expr/typeinfo.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="190">
+          <caret line="134" column="13" selection-start-line="134" selection-start-column="13" selection-end-line="134" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/package_test.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1400">
+          <caret line="89" selection-start-line="89" selection-end-line="89" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SHOW_PREVIEW" is_vertical_split="false">
+          <first_editor />
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/internal/expr/prepare.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="140">
+          <caret line="24" column="27" selection-start-line="24" selection-start-column="27" selection-end-line="24" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/internal/expr/query.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1168">
+          <caret line="37" selection-start-line="37" selection-end-line="37" />
+          <folding>
+            <element signature="e#14#103#0" expanded="true" />
+            <element signature="e#1743#1787#0" expanded="true" />
+            <element signature="e#1817#1874#0" expanded="true" />
+            <element signature="e#2010#2065#0" expanded="true" />
+            <element signature="e#2139#2244#0" expanded="true" />
+            <element signature="e#2326#2406#0" expanded="true" />
+            <element signature="e#2903#2982#0" expanded="true" />
+            <element signature="e#3141#3220#0" expanded="true" />
+            <element signature="e#3303#3332#0" expanded="true" />
+            <element signature="e#3538#3618#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ScopeChooserConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>

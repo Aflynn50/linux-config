@@ -34,5 +34,5 @@ DisplayName=
 EmailAddress=
 ResourcePath=
 ResourceQuery=
-SslTrust=
+SslTrust=temporary-accept|alastair.flynn@canonical.com|c278fbb0ee4d36644bf848cd91988dbd1fc9fad6f8aa300062a89040773f3c80
 Order=4294967295

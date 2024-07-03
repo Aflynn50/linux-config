@@ -20,19 +20,8 @@ ZSH_THEME="aflynn"
 # Case-sensitive completion must be off. _ and - will be interchangeable.
 # HYPHEN_INSENSITIVE="true"
 
-# Uncomment one of the following lines to change the auto-update behavior
-# zstyle ':omz:update' mode disabled  # disable automatic updates
-# zstyle ':omz:update' mode auto      # update automatically without asking
-# zstyle ':omz:update' mode reminder  # just remind me to update when it's time
-
-# Uncomment the following line to change how often to auto-update (in days).
-# zstyle ':omz:update' frequency 13
-
 # Uncomment the following line if pasting URLs and other text is messed up.
-# DISABLE_MAGIC_FUNCTIONS="true"
-
-# Uncomment the following line to disable colors in ls.
-# DISABLE_LS_COLORS="true"
+DISABLE_MAGIC_FUNCTIONS="true"
 
 # Uncomment the following line to disable auto-setting terminal title.
 # DISABLE_AUTO_TITLE="true"
@@ -45,11 +34,6 @@ ZSH_THEME="aflynn"
 # e.g. COMPLETION_WAITING_DOTS="%F{yellow}waiting...%f"
 # Caution: this setting can cause issues with multiline prompts in zsh < 5.7.1 (see #5765)
 # COMPLETION_WAITING_DOTS="true"
-
-# Uncomment the following line if you want to disable marking untracked files
-# under VCS as dirty. This makes repository status check for large repositories
-# much, much faster.
-# DISABLE_UNTRACKED_FILES_DIRTY="true"
 
 # Uncomment the following line if you want to change the command execution time
 # stamp shown in the history command output.
@@ -71,7 +55,7 @@ export DISABLE_AUTO_UPDATE=true
 # Custom plugins may be added to $ZSH_CUSTOM/plugins/
 # Example format: plugins=(rails git textmate ruby lighthouse)
 # Add wisely, as too many plugins slow down shell startup.
-plugins=(git shrink-path)
+plugins=(git shrink-path vi-mode juju)
 
 source $ZSH/oh-my-zsh.sh
 
@@ -114,13 +98,28 @@ alias ll='ls -alF'
 alias la='ls -A'
 alias l='ls -CF'
 
-# easy and quick go test
+# Search
+alias rgt="rg -g '!*_{test,mock}.go'"
+
+# Go test
 alias got='go test ./... -check.v'
 alias gotv='go test -v ./... -check.vv'
+alias gotf='go test ./... -check.v -check.f'
+alias gotr='go test ./... -check.v -race'
+# Go test juju
+gotj() {
+    echo "go test -v -tags=libsqlite3,dqlite $(echo $(pwd) | sed 's#.*juju[0-9]*/#./#g')/... -check.v -check.f Suite"
+    go test -v -tags=libsqlite3,dqlite $(pwd)/... -check.v -check.f Suite
+}
 
 alias gpom='git checkout main && git pull origin main && git checkout -'
 alias gpum='git checkout main && git pull upstream main && git checkout -'
-alias gpl='git pull'
+alias gpuma='git checkout master && git pull upstream master && git checkout -'
+alias gpl='git pull upstream $(git rev-parse --abbrev-ref HEAD)'
+gcopr() {
+    git fetch upstream pull/$1/head:PR-$1
+    git checkout PR-$1
+}
 
 # alias jhack='python3 /home/aflynn50/Canonical/jhack/jhack/main.py'
 #
@@ -140,8 +139,11 @@ export PATH=$PATH:$HOME/.cargo/bin
 # Put python virtual env on the path to use it as normal
 export PATH=/home/aflynn/pythonenv/bin:$PATH
 
-# Juju
+replace() {
+    rg -l "$1" | xargs sed -i 's/$1/$2/g'
+}
 
+# Juju
 # Ignore tests that fail in make static-analysis
 # Note, this breaks the jenkins-qa make static-analysis
 # export STATIC_ANALYSIS_JOB=test_static_analysis_go
@@ -152,19 +154,26 @@ alias jkcs='juju list-controllers --format=json | jq ".controllers | keys | .[]"
 # status
 alias js='juju status --color'
 alias jsr='juju status --color --relations'
+alias jsc='juju status --color -m controller'
 # Watch status
-alias jw='watch -c juju status --color'
-alias jwr='watch -c juju status --color --relations'
+alias jws='watch -c juju status --color'
+alias jwsr='watch -c juju status --color --relations'
+alias jwsc='watch -c juju status --color -m controller'
 # debug log
-alias jdb='juju debug-log -m controller --replay'
+alias jdb='juju debug-log'
+alias jdbr='juju debug-log --replay'
+alias jdbc='juju debug-log -m controller'
+alias jdbcr='juju debug-log -m controller --replay'
 # destroy
 alias jdc='juju destroy-controller --destroy-all-models --no-prompt'
-alias jdm='juju destroy-model --no-prompt'
+alias jdm='juju destroy-model --destroy-storage --no-prompt'
 # switch
 alias jsw='juju switch'
 # Juju binary
 alias snuju='/snap/bin/juju'
+alias sj='/snap/bin/juju'
 alias j='juju'
 # Testing
-alias domaintest='f() {TEST_PACKAGES="./domain/$1/... -count=1 -race" TEST_FILTER="Suite" make run-go-tests};f'
-alias jt='PATH="/home/aflynn/Canonical/juju/_deps/musl-amd64/output/bin:$PATH" CC="musl-gcc" CGO_CFLAGS="-I/home/aflynn/Canonical/juju/_deps/dqlite-deps-amd64/include" CGO_LDFLAGS="-L/home/aflynn/Canonical/juju/_deps/dqlite-deps-amd64 -luv -lraft -ldqlite -llz4 -lsqlite3" CGO_LDFLAGS_ALLOW="(-Wl,-wrap,pthread_create)|(-Wl,-z,now)" LD_LIBRARY_PATH="/home/aflynn/Canonical/juju/_deps/dqlite-deps-amd64" CGO_ENABLED="1" go test -mod="readonly" -tags="libsqlite3,dqlite" -ldflags "-s -w -linkmode 'external' -extldflags '-static' -X github.com/juju/juju/version.GitCommit=4f05189fe8849b2cf5fb4e9dea7caf7edcbb438b -X github.com/juju/juju/version.GitTreeState=clean -X github.com/juju/juju/version.build= -X github.com/juju/juju/version.GoBuildTags=libsqlite3,dqlite"'
+alias dqlite-test='TEST_PACKAGES="${pwd}/... -count=1 -race" TEST_FILTER="Suite" make run-go-tests'
+# Terraforma
+alias terreset='rm -r .terraform && rm .terraform.lock.hcl terraform.tfstate terraform.tfstate.backup'

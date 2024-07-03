@@ -1,6 +1,6 @@
 [Data Source]
 DisplayName=alastairflynn@hotmail.co.uk
-Enabled=true
+Enabled=false
 Parent=0796472b624b3759235ee0b18a9bedac625a5a2d
 
 [Mail Submission]
@@ -36,6 +36,9 @@ SigningAlgorithm=
 SignByDefault=false
 EncryptByDefault=false
 PreferInline=false
+LocateKeys=true
+SendPublicKey=true
+SendPreferEncrypt=true
 
 [Message Disposition Notifications]
 ResponsePolicy=ask

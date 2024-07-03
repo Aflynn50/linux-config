@@ -30,118 +30,119 @@
     <select />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="-1">
+    <leaf ideFingerprint="2h2nbvs44fjfz" SIDE_TABS_SIZE_LIMIT_KEY="-1">
       <file current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/README.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SHOW_PREVIEW" is_vertical_split="false">
-              <first_editor />
-              <second_editor />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file>
-        <entry file="file://$PROJECT_DIR$/package_test.go">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="180">
-              <caret line="111" column="38" selection-start-line="111" selection-start-column="38" selection-end-line="111" selection-end-column="38" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/internal/typeinfo/arginfo_test.go">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="840">
-              <caret line="42" column="25" selection-start-line="42" selection-start-column="25" selection-end-line="42" selection-end-column="25" />
+        <entry file="file://$PROJECT_DIR$/internal/expr/parser.go">
+          <provider editor-type-id="text-editor" selected="true">
+            <state relative-caret-position="17380">
+              <caret line="869" column="19" selection-start-line="869" selection-start-column="19" selection-end-line="869" selection-end-column="19" />
             </state>
           </provider>
         </entry>
       </file>
       <file current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/internal/expr/query.go">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="880">
-              <caret line="50" selection-start-line="50" selection-end-line="50" />
-              <folding>
-                <element signature="n#!!block;n#SQL#0" expanded="true" />
-                <element signature="n#!!block;n#SQL#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/internal/expr/parser.go">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="500">
-              <caret line="25" column="14" selection-start-line="25" selection-start-column="14" selection-end-line="25" selection-end-column="14" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/internal/typeinfo/validate.go">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="840">
-              <caret line="44" column="4" selection-start-line="44" selection-start-column="4" selection-end-line="44" selection-end-column="4" />
+          <provider editor-type-id="text-editor" selected="true">
+            <state relative-caret-position="280">
+              <caret line="14" column="5" selection-start-line="14" selection-start-column="5" selection-end-line="14" selection-end-column="5" />
             </state>
           </provider>
         </entry>
       </file>
       <file current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/internal/expr/bindtypes.go">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="3680">
-              <caret line="184" column="4" selection-start-line="184" selection-start-column="4" selection-end-line="184" selection-end-column="4" />
+          <provider editor-type-id="text-editor" selected="true">
+            <state relative-caret-position="382">
+              <caret line="106" column="10" selection-start-line="106" selection-start-column="10" selection-end-line="106" selection-end-column="10" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file>
+        <entry file="file://$PROJECT_DIR$/cache.go">
+          <provider editor-type-id="text-editor" selected="true">
+            <state relative-caret-position="200">
+              <caret line="121" selection-start-line="121" selection-end-line="121" />
             </state>
           </provider>
         </entry>
       </file>
       <file current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/internal/expr/expr_test.go">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="900">
-              <caret line="45" column="18" selection-start-line="45" selection-start-column="18" selection-end-line="45" selection-end-column="18" />
+          <provider editor-type-id="text-editor" selected="true">
+            <state relative-caret-position="27540">
+              <caret line="1377" selection-start-line="1377" selection-end-line="1377" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file current-in-tab="false">
+        <entry file="file://$USER_HOME$/go/pkg/mod/gopkg.in/check.v1@v1.0.0-20201130134442-10cb98267c6c/run.go">
+          <provider editor-type-id="text-editor" selected="true">
+            <state relative-caret-position="400">
+              <caret line="20" selection-start-line="20" selection-end-line="20" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/internal/expr/querybuilder.go">
+          <provider editor-type-id="text-editor" selected="true">
+            <state relative-caret-position="5140">
+              <caret line="257" column="5" selection-start-line="257" selection-start-column="5" selection-end-line="257" selection-end-column="5" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/internal/typeinfo/arginfo_test.go">
+          <provider editor-type-id="text-editor" selected="true">
+            <state relative-caret-position="7000">
+              <caret line="350" column="4" selection-start-line="350" selection-start-column="4" selection-end-line="350" selection-end-column="4" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/package_test.go">
+          <provider editor-type-id="text-editor" selected="true">
+            <state relative-caret-position="25240">
+              <caret line="1262" column="107" selection-start-line="1262" selection-start-column="107" selection-end-line="1262" selection-end-column="107" />
             </state>
           </provider>
         </entry>
       </file>
       <file current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/internal/typeinfo/arginfo.go">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="6820">
-              <caret line="341" column="1" selection-start-line="341" selection-start-column="1" selection-end-line="341" selection-end-column="1" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/internal/typeinfo/valuelocator.go">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="2360">
-              <caret line="118" column="4" selection-start-line="118" selection-start-column="4" selection-end-line="118" selection-end-column="4" />
+          <provider editor-type-id="text-editor" selected="true">
+            <state relative-caret-position="1160">
+              <caret line="58" column="8" selection-start-line="58" selection-start-column="8" selection-end-line="58" selection-end-column="8" />
             </state>
           </provider>
         </entry>
       </file>
     </leaf>
   </component>
-  <component name="FileTypeUsageLocalSummary">
-    <fileType name="DIFF">
-      <summary usageCount="4" lastUsed="1700236867445" />
-    </fileType>
-    <fileType name="Go">
-      <summary usageCount="91" lastUsed="1710776202904" />
-    </fileType>
-    <fileType name="Markdown">
-      <summary usageCount="13" lastUsed="1710776201187" />
-    </fileType>
-    <fileType name="YAML">
-      <summary usageCount="1" lastUsed="1700067230991" />
-    </fileType>
-  </component>
+  <component name="FileTypeUsageLocalSummary"><![CDATA[{
+  "data": {
+    "Go": {
+      "usageCount": 169,
+      "lastUsed": 1719212507374
+    },
+    "go.mod": {
+      "usageCount": 1,
+      "lastUsed": 1715085355983
+    },
+    "YAML": {
+      "usageCount": 2,
+      "lastUsed": 1715246069615
+    },
+    "x86 Plan9 Assembly": {
+      "usageCount": 1,
+      "lastUsed": 1715335350738
+    }
+  }
+}]]></component>
   <component name="GitBranchesPopupTreeState">
     <expand>
       <path>
@@ -151,22 +152,33 @@
     </expand>
     <select />
   </component>
+  <component name="GitSEFilterConfiguration">{}</component>
   <component name="IdeDocumentHistory">
     <changedPaths>
       <option value="$PROJECT_DIR$/internal/expr/export_test.go" />
       <option value="$PROJECT_DIR$/internal/expr/doc.go" />
-      <option value="$PROJECT_DIR$/sqlair.go" />
       <option value="$PROJECT_DIR$/doc.go" />
       <option value="$PROJECT_DIR$/internal/expr/query.go" />
       <option value="$PROJECT_DIR$/internal/expr/prepare.go" />
       <option value="$PROJECT_DIR$/internal/expr/typeinfo.go" />
-      <option value="$PROJECT_DIR$/internal/expr/bindtypes.go" />
+      <option value="$PROJECT_DIR$/internal/typeinfo/validate.go" />
       <option value="$PROJECT_DIR$/internal/expr/parser.go" />
+      <option value="$PROJECT_DIR$/internal/expr/parser_helper_test.go" />
       <option value="$PROJECT_DIR$/internal/typeinfo/valuelocator.go" />
-      <option value="$PROJECT_DIR$/internal/typeinfo/arginfo.go" />
+      <option value="$PROJECT_DIR$/internal/expr/querybuilder.go" />
+      <option value="$PROJECT_DIR$/.github/workflows/go-test.yml" />
+      <option value="$PROJECT_DIR$/driver_test.go" />
+      <option value="$PROJECT_DIR$/cache_test.go" />
+      <option value="$PROJECT_DIR$/sqlair.go" />
+      <option value="$PROJECT_DIR$/internal/expr/bindinputs.go" />
+      <option value="$PROJECT_DIR$/internal/typeinfo/valuelocator_test.go" />
+      <option value="$PROJECT_DIR$/package_test.go" />
+      <option value="$PROJECT_DIR$/internal/expr/bindtypes.go" />
       <option value="$PROJECT_DIR$/internal/typeinfo/arginfo_test.go" />
       <option value="$PROJECT_DIR$/internal/expr/expr_test.go" />
-      <option value="$PROJECT_DIR$/package_test.go" />
+      <option value="$PROJECT_DIR$/internal/expr/typedexprbuilder.go" />
+      <option value="$PROJECT_DIR$/internal/typeinfo/arginfo.go" />
+      <option value="$PROJECT_DIR$/cache.go" />
     </changedPaths>
   </component>
   <component name="IgnoredFileRootStore">
@@ -178,13 +190,22 @@
   </component>
   <component name="LanguageUsageStatistics">
     <language id="Markdown">
-      <summary usageCount="13" lastUsage="1710776201187" />
+      <summary usageCount="14" lastUsage="1710962486910" />
     </language>
     <language id="go">
-      <summary usageCount="91" lastUsage="1710776202904" />
+      <summary usageCount="377" lastUsage="1719212507374" />
+    </language>
+    <language id="plan9_x86">
+      <summary usageCount="1" lastUsage="1715335350738" />
+    </language>
+    <language id="textmate">
+      <summary usageCount="1" lastUsage="1711133952254" />
+    </language>
+    <language id="vgo">
+      <summary usageCount="1" lastUsage="1715085355983" />
     </language>
     <language id="yaml">
-      <summary usageCount="1" lastUsage="1700067230991" />
+      <summary usageCount="3" lastUsage="1715246069615" />
     </language>
   </component>
   <component name="ProjectView">
@@ -200,13 +221,13 @@
             <path>
               <item name="sqlair" type="b2602c69:ProjectViewProjectNode" />
               <item name="dir{file:///home/aflynn/Canonical/SQLair/sqlair}" type="462c0819:PsiDirectoryNode" />
-              <item name="dir{file:///home/aflynn/Canonical/SQLair/sqlair/internal}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/aflynn/Canonical/SQLair/sqlair/.github}" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="sqlair" type="b2602c69:ProjectViewProjectNode" />
               <item name="dir{file:///home/aflynn/Canonical/SQLair/sqlair}" type="462c0819:PsiDirectoryNode" />
-              <item name="dir{file:///home/aflynn/Canonical/SQLair/sqlair/internal}" type="462c0819:PsiDirectoryNode" />
-              <item name="dir{file:///home/aflynn/Canonical/SQLair/sqlair/internal/expr}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/aflynn/Canonical/SQLair/sqlair/.github}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/aflynn/Canonical/SQLair/sqlair/.github/workflows}" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -217,15 +238,16 @@
   </component>
   <component name="RunConfigurationStartHistory">
     <history>
-      <element setting="Go Test.expr_test.go" />
-      <element setting="Go Test.go test sqlair" />
-      <element setting="Go Test.go test expr" />
-      <element setting="Go Build.go build github.com/canonical/sqlair/internal/expr" />
-      <element setting="Go Test.ExprSuite.TestExprPkg in github.com/canonical/sqlair/internal/expr (1)" />
-      <element setting="Go Test.ExprSuite.TestExprPkg in github.com/canonical/sqlair/internal/expr" />
-      <element setting="Go Test.PackageSuite.TestNulls in github.com/canonical/sqlair" />
-      <element setting="Go Test.go test github.com/canonical/sqlair/internal/expr" />
-      <element setting="Go Test.PackageSuite.TestCancelledQueryContext in github.com/canonical/sqlair" />
+      <element setting="Go Test.ExprSuite.TestBindTypesErrors in github.com/canonical/sqlair/internal/expr" />
+      <element setting="Go Test.CacheSuite.TestQueryWithBulkAndSlice in github.com/canonical/sqlair (2)" />
+      <element setting="Go Test.CacheSuite.TestQueryWithBulkAndSlice in github.com/canonical/sqlair (1)" />
+      <element setting="Go Test.CacheSuite.TestQueryWithBulkAndSlice in github.com/canonical/sqlair" />
+      <element setting="Go Test.CacheSuite.TestLateQueryTX in github.com/canonical/sqlair (2)" />
+      <element setting="Go Test.CacheSuite.TestLateQueryTX in github.com/canonical/sqlair (1)" />
+      <element setting="Go Test.CacheSuite.TestQueryWithBulkAndSlice in github.com/canonical/sqlair (3)" />
+      <element setting="Go Test.CacheSuite.TestLateQueryTX in github.com/canonical/sqlair" />
+      <element setting="Go Test.CacheSuite.TestPreparedStatementReuse in github.com/canonical/sqlair" />
+      <element setting="Go Test.CacheSuite.TestPreparedStatementsClosedWithDB in github.com/canonical/sqlair" />
     </history>
   </component>
   <component name="ServiceViewManager">
@@ -251,35 +273,35 @@
     </option>
   </component>
   <component name="TestHistory">
-    <history-entry file="go_test_expr - 2024.03.11 at 17h 08m 12s.xml">
-      <configuration name="go test expr" configurationId="GoTestRunConfiguration" />
+    <history-entry file="CacheSuite_TestQueryWithBulkAndSlice_in_github_com_canonical_sqlair_(1) - 2024.05.10 at 06h 06m 42s.xml">
+      <configuration name="CacheSuite.TestQueryWithBulkAndSlice in github.com/canonical/sqlair (1)" configurationId="GoTestRunConfiguration" />
     </history-entry>
-    <history-entry file="go_test_expr - 2024.03.11 at 17h 08m 48s.xml">
-      <configuration name="go test expr" configurationId="GoTestRunConfiguration" />
+    <history-entry file="CacheSuite_TestQueryWithBulkAndSlice_in_github_com_canonical_sqlair_(2) - 2024.05.10 at 06h 22m 36s.xml">
+      <configuration name="CacheSuite.TestQueryWithBulkAndSlice in github.com/canonical/sqlair (2)" configurationId="GoTestRunConfiguration" />
     </history-entry>
-    <history-entry file="go_test_expr - 2024.03.11 at 17h 09m 07s.xml">
-      <configuration name="go test expr" configurationId="GoTestRunConfiguration" />
+    <history-entry file="CacheSuite_TestQueryWithBulkAndSlice_in_github_com_canonical_sqlair_(2) - 2024.05.10 at 06h 22m 50s.xml">
+      <configuration name="CacheSuite.TestQueryWithBulkAndSlice in github.com/canonical/sqlair (2)" configurationId="GoTestRunConfiguration" />
     </history-entry>
-    <history-entry file="go_test_sqlair - 2024.03.11 at 17h 09m 23s.xml">
-      <configuration name="go test sqlair" configurationId="GoTestRunConfiguration" />
+    <history-entry file="ExprSuite_TestBindTypesErrors_in_github_com_canonical_sqlair_internal_expr - 2024.06.12 at 09h 33m 37s.xml">
+      <configuration name="ExprSuite.TestBindTypesErrors in github.com/canonical/sqlair/internal/expr" configurationId="GoTestRunConfiguration" />
     </history-entry>
-    <history-entry file="go_test_sqlair - 2024.03.11 at 17h 09m 40s.xml">
-      <configuration name="go test sqlair" configurationId="GoTestRunConfiguration" />
+    <history-entry file="ExprSuite_TestBindTypesErrors_in_github_com_canonical_sqlair_internal_expr - 2024.06.12 at 09h 38m 39s.xml">
+      <configuration name="ExprSuite.TestBindTypesErrors in github.com/canonical/sqlair/internal/expr" configurationId="GoTestRunConfiguration" />
     </history-entry>
-    <history-entry file="go_test_sqlair - 2024.03.11 at 17h 09m 54s.xml">
-      <configuration name="go test sqlair" configurationId="GoTestRunConfiguration" />
+    <history-entry file="ExprSuite_TestBindTypesErrors_in_github_com_canonical_sqlair_internal_expr - 2024.06.12 at 09h 39m 40s.xml">
+      <configuration name="ExprSuite.TestBindTypesErrors in github.com/canonical/sqlair/internal/expr" configurationId="GoTestRunConfiguration" />
     </history-entry>
-    <history-entry file="go_test_sqlair - 2024.03.11 at 17h 10m 10s.xml">
-      <configuration name="go test sqlair" configurationId="GoTestRunConfiguration" />
+    <history-entry file="ExprSuite_TestBindTypesErrors_in_github_com_canonical_sqlair_internal_expr - 2024.06.12 at 09h 49m 02s.xml">
+      <configuration name="ExprSuite.TestBindTypesErrors in github.com/canonical/sqlair/internal/expr" configurationId="GoTestRunConfiguration" />
     </history-entry>
-    <history-entry file="go_test_sqlair - 2024.03.11 at 17h 10m 19s.xml">
-      <configuration name="go test sqlair" configurationId="GoTestRunConfiguration" />
+    <history-entry file="ExprSuite_TestBindTypesErrors_in_github_com_canonical_sqlair_internal_expr - 2024.06.12 at 09h 49m 48s.xml">
+      <configuration name="ExprSuite.TestBindTypesErrors in github.com/canonical/sqlair/internal/expr" configurationId="GoTestRunConfiguration" />
     </history-entry>
-    <history-entry file="go_test_sqlair - 2024.03.11 at 17h 10m 33s.xml">
-      <configuration name="go test sqlair" configurationId="GoTestRunConfiguration" />
+    <history-entry file="ExprSuite_TestBindTypesErrors_in_github_com_canonical_sqlair_internal_expr - 2024.06.12 at 09h 53m 52s.xml">
+      <configuration name="ExprSuite.TestBindTypesErrors in github.com/canonical/sqlair/internal/expr" configurationId="GoTestRunConfiguration" />
     </history-entry>
-    <history-entry file="expr_test_go - 2024.03.14 at 15h 04m 17s.xml">
-      <configuration name="expr_test.go" configurationId="GoTestRunConfiguration" />
+    <history-entry file="ExprSuite_TestBindTypesErrors_in_github_com_canonical_sqlair_internal_expr - 2024.06.12 at 09h 54m 25s.xml">
+      <configuration name="ExprSuite.TestBindTypesErrors in github.com/canonical/sqlair/internal/expr" configurationId="GoTestRunConfiguration" />
     </history-entry>
   </component>
   <component name="TodoView">
@@ -298,8 +320,42 @@
       <window_info id="Merge Requests" />
       <window_info id="Pull Requests" />
       <window_info id="Learn" show_stripe_button="false" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2966146" />
-      <window_info id="Commit" order="1" weight="0.14817709" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.19270834" />
+      <window_info id="Commit" order="1" weight="0.14453125" />
+      <window_info id="Structure" order="2" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Database Changes" />
+      <window_info anchor="bottom" id="TypeScript" />
+      <window_info anchor="bottom" id="TODO" weight="0.3300095" />
+      <window_info anchor="bottom" id="File Transfer" />
+      <window_info anchor="bottom" id="Version Control" order="0" weight="0.32013357" />
+      <window_info anchor="bottom" id="Problems" order="1" />
+      <window_info anchor="bottom" id="Problems View" order="2" weight="0.4222328" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="3" visible="true" weight="0.42430025" />
+      <window_info anchor="bottom" id="Debug" order="4" show_stripe_button="false" weight="0.28291985" />
+      <window_info anchor="bottom" id="Run" order="5" show_stripe_button="false" weight="0.4384542" />
+      <window_info anchor="bottom" id="Python Packages" order="6" />
+      <window_info anchor="bottom" id="Services" order="7" weight="0.3300095" />
+      <window_info anchor="bottom" id="Find" order="8" show_stripe_button="false" weight="0.4384542" />
+      <window_info anchor="right" id="Endpoints" />
+      <window_info anchor="right" id="make" side_tool="true" />
+      <window_info anchor="right" id="documentation.v2" side_tool="true" />
+      <window_info anchor="right" id="Meet New UI" side_tool="true" />
+      <window_info anchor="right" content_ui="combo" id="Notifications" order="0" weight="0.25" />
+      <window_info anchor="right" id="AIAssistant" order="1" weight="0.32994792" />
+      <window_info anchor="right" id="Database" order="2" weight="0.12526041" />
+      <window_info anchor="right" id="Gradle" order="3" weight="0.25" />
+      <window_info anchor="right" id="Maven" order="4" weight="0.25" />
+      <window_info anchor="right" id="Python Console" order="5" />
+      <unified_weights bottom="0.42430025" left="0.19270834" right="0.12526041" />
+    </layoutV2>
+    <layout-to-restore>
+      <window_info id="Space Code Reviews" />
+      <window_info id="Bookmarks" side_tool="true" />
+      <window_info id="Merge Requests" />
+      <window_info id="Pull Requests" />
+      <window_info id="Learn" show_stripe_button="false" />
+      <window_info content_ui="combo" id="Project" order="0" weight="0.5932292" />
+      <window_info id="Commit" order="1" weight="0.2966146" />
       <window_info id="Structure" order="2" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Database Changes" />
       <window_info anchor="bottom" id="TypeScript" />
@@ -308,10 +364,10 @@
       <window_info anchor="bottom" id="Find" show_stripe_button="false" weight="0.32967556" />
       <window_info anchor="bottom" id="Version Control" order="0" weight="0.32013357" />
       <window_info anchor="bottom" id="Problems" order="1" />
-      <window_info anchor="bottom" id="Problems View" order="2" weight="0.322042" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="3" visible="true" weight="0.32967556" />
-      <window_info anchor="bottom" id="Debug" order="4" show_stripe_button="false" weight="0.322042" />
-      <window_info anchor="bottom" id="Run" order="5" weight="0.32967556" />
+      <window_info anchor="bottom" id="Problems View" order="2" weight="0.32967556" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="3" visible="true" weight="0.322042" />
+      <window_info anchor="bottom" id="Debug" order="4" show_stripe_button="false" weight="0.32967556" />
+      <window_info anchor="bottom" id="Run" order="5" show_stripe_button="false" weight="0.32967556" />
       <window_info anchor="bottom" id="Python Packages" order="6" />
       <window_info anchor="bottom" id="Services" order="7" weight="0.3300095" />
       <window_info anchor="right" id="Endpoints" />
@@ -323,140 +379,156 @@
       <window_info anchor="right" id="Database" order="2" weight="0.12526041" />
       <window_info anchor="right" id="Gradle" order="3" weight="0.25" />
       <window_info anchor="right" id="Maven" order="4" weight="0.25" />
-      <unified_weights bottom="0.32967556" left="0.2966146" right="0.12526041" />
-    </layoutV2>
+      <unified_weights bottom="0.322042" left="0.5932292" right="0.12526041" />
+    </layout-to-restore>
     <recentWindows>
       <value>Terminal</value>
       <value>Project</value>
       <value>Find</value>
       <value>Run</value>
-      <value>Database</value>
-      <value>Problems View</value>
       <value>Debug</value>
+      <value>Problems View</value>
+      <value>Commit</value>
+      <value>Database</value>
       <value>AIAssistant</value>
       <value>Version Control</value>
-      <value>Commit</value>
       <value>Services</value>
       <value>TODO</value>
     </recentWindows>
   </component>
   <component name="WindowStateProjectService">
-    <state x="2675" y="472" key="#GOROOT" timestamp="1702547099287">
-      <screen x="1920" y="0" width="1920" height="1080" />
-    </state>
-    <state x="2675" y="472" key="#GOROOT/0.32.1920.1048/1920.0.1920.1080/3840.0.1200.1920@1920.0.1920.1080" timestamp="1702547099287" />
-    <state x="611" y="386" width="1299" height="346" key="#SQL_Dialects" timestamp="1710185544721">
+    <state x="866" y="265" width="475" height="589" key="#xdebugger.XInspectDialog" timestamp="1715334449796">
       <screen x="0" y="32" width="1920" height="1048" />
     </state>
-    <state x="611" y="386" width="1299" height="346" key="#SQL_Dialects/0.32.1920.1048@0.32.1920.1048" timestamp="1710185544721" />
-    <state x="433" y="219" width="800" height="708" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1710185563106">
+    <state x="866" y="265" width="475" height="589" key="#xdebugger.XInspectDialog/0.32.1920.1048@0.32.1920.1048" timestamp="1715334449796" />
+    <state width="269" height="81" key="DebuggerActiveHint" timestamp="1718178424418">
       <screen x="0" y="32" width="1920" height="1048" />
     </state>
-    <state x="433" y="219" width="800" height="708" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.32.1920.1048@0.32.1920.1048" timestamp="1710185563106" />
-    <state width="402" height="155" key="DebuggerActiveHint" timestamp="1710182628237">
+    <state width="269" height="81" key="DebuggerActiveHint/0.32.1920.1048@0.32.1920.1048" timestamp="1718178424418" />
+    <state x="743" y="321" width="424" height="491" key="FileChooserDialogImpl" timestamp="1719214729055">
       <screen x="0" y="32" width="1920" height="1048" />
     </state>
-    <state width="402" height="155" key="DebuggerActiveHint/0.32.1920.1048@0.32.1920.1048" timestamp="1710182628237" />
-    <state x="743" y="321" width="424" height="491" key="FileChooserDialogImpl" timestamp="1707411325666">
+    <state x="743" y="321" width="424" height="491" key="FileChooserDialogImpl/0.32.1920.1048@0.32.1920.1048" timestamp="1719214729055" />
+    <state width="1838" height="254" key="GridCell.Tab.-1.bottom" timestamp="1718178561869">
       <screen x="0" y="32" width="1920" height="1048" />
     </state>
-    <state x="2663" y="298" width="424" height="491" key="FileChooserDialogImpl/0.32.1920.1048/1920.0.1920.1080/3840.0.1200.1920@1920.0.1920.1080" timestamp="1702547154094" />
-    <state x="743" y="321" key="FileChooserDialogImpl/0.32.1920.1048@0.32.1920.1048" timestamp="1707411325666" />
-    <state width="1836" height="303" key="GridCell.Tab.0.bottom" timestamp="1710443058099">
+    <state width="1838" height="254" key="GridCell.Tab.-1.bottom/0.32.1920.1048@0.32.1920.1048" timestamp="1718178561869" />
+    <state width="1838" height="254" key="GridCell.Tab.-1.center" timestamp="1718178561869">
       <screen x="0" y="32" width="1920" height="1048" />
     </state>
-    <state width="1836" height="303" key="GridCell.Tab.0.bottom/0.32.1920.1048@0.32.1920.1048" timestamp="1710443058099" />
-    <state width="1836" height="303" key="GridCell.Tab.0.center" timestamp="1710443058099">
+    <state width="1838" height="254" key="GridCell.Tab.-1.center/0.32.1920.1048@0.32.1920.1048" timestamp="1718178561869" />
+    <state width="1838" height="254" key="GridCell.Tab.-1.left" timestamp="1718178561869">
       <screen x="0" y="32" width="1920" height="1048" />
     </state>
-    <state width="1836" height="303" key="GridCell.Tab.0.center/0.32.1920.1048@0.32.1920.1048" timestamp="1710443058099" />
-    <state width="1836" height="303" key="GridCell.Tab.0.left" timestamp="1710443058099">
+    <state width="1838" height="254" key="GridCell.Tab.-1.left/0.32.1920.1048@0.32.1920.1048" timestamp="1718178561869" />
+    <state width="1838" height="254" key="GridCell.Tab.-1.right" timestamp="1718178561869">
       <screen x="0" y="32" width="1920" height="1048" />
     </state>
-    <state width="1836" height="303" key="GridCell.Tab.0.left/0.32.1920.1048@0.32.1920.1048" timestamp="1710443058099" />
-    <state width="1836" height="303" key="GridCell.Tab.0.right" timestamp="1710443058099">
+    <state width="1838" height="254" key="GridCell.Tab.-1.right/0.32.1920.1048@0.32.1920.1048" timestamp="1718178561869" />
+    <state width="1838" height="417" key="GridCell.Tab.0.bottom" timestamp="1718184574142">
       <screen x="0" y="32" width="1920" height="1048" />
     </state>
-    <state width="1836" height="303" key="GridCell.Tab.0.right/0.32.1920.1048@0.32.1920.1048" timestamp="1710443058099" />
-    <state width="1838" height="295" key="GridCell.Tab.1.bottom" timestamp="1710382887104">
+    <state width="1838" height="417" key="GridCell.Tab.0.bottom/0.32.1920.1048@0.32.1920.1048" timestamp="1718184574142" />
+    <state width="1838" height="320" key="GridCell.Tab.0.bottom/0.607.1920.1048/1920.0.1920.1200@1920.0.1920.1200" timestamp="1712652790543" />
+    <state width="1838" height="417" key="GridCell.Tab.0.center" timestamp="1718184574142">
       <screen x="0" y="32" width="1920" height="1048" />
     </state>
-    <state width="1838" height="295" key="GridCell.Tab.1.bottom/0.32.1920.1048@0.32.1920.1048" timestamp="1710382887104" />
-    <state width="1838" height="295" key="GridCell.Tab.1.center" timestamp="1710382887104">
+    <state width="1838" height="417" key="GridCell.Tab.0.center/0.32.1920.1048@0.32.1920.1048" timestamp="1718184574142" />
+    <state width="1838" height="320" key="GridCell.Tab.0.center/0.607.1920.1048/1920.0.1920.1200@1920.0.1920.1200" timestamp="1712652790543" />
+    <state width="1838" height="417" key="GridCell.Tab.0.left" timestamp="1718184574142">
       <screen x="0" y="32" width="1920" height="1048" />
     </state>
-    <state width="1838" height="295" key="GridCell.Tab.1.center/0.32.1920.1048@0.32.1920.1048" timestamp="1710382887104" />
-    <state width="1838" height="295" key="GridCell.Tab.1.left" timestamp="1710382887104">
+    <state width="1838" height="417" key="GridCell.Tab.0.left/0.32.1920.1048@0.32.1920.1048" timestamp="1718184574142" />
+    <state width="1838" height="320" key="GridCell.Tab.0.left/0.607.1920.1048/1920.0.1920.1200@1920.0.1920.1200" timestamp="1712652790543" />
+    <state width="1838" height="417" key="GridCell.Tab.0.right" timestamp="1718184574142">
       <screen x="0" y="32" width="1920" height="1048" />
     </state>
-    <state width="1838" height="295" key="GridCell.Tab.1.left/0.32.1920.1048@0.32.1920.1048" timestamp="1710382887104" />
-    <state width="1838" height="295" key="GridCell.Tab.1.right" timestamp="1710382887104">
+    <state width="1838" height="417" key="GridCell.Tab.0.right/0.32.1920.1048@0.32.1920.1048" timestamp="1718184574142" />
+    <state width="1838" height="320" key="GridCell.Tab.0.right/0.607.1920.1048/1920.0.1920.1200@1920.0.1920.1200" timestamp="1712652790543" />
+    <state width="1838" height="254" key="GridCell.Tab.1.bottom" timestamp="1718184574136">
       <screen x="0" y="32" width="1920" height="1048" />
     </state>
-    <state width="1838" height="295" key="GridCell.Tab.1.right/0.32.1920.1048@0.32.1920.1048" timestamp="1710382887104" />
-    <state x="295" y="277" width="1007" height="737" key="SettingsEditor" timestamp="1707411236417">
+    <state width="1838" height="254" key="GridCell.Tab.1.bottom/0.32.1920.1048@0.32.1920.1048" timestamp="1718184574136" />
+    <state width="1838" height="320" key="GridCell.Tab.1.bottom/0.607.1920.1048/1920.0.1920.1200@1920.0.1920.1200" timestamp="1712652790543" />
+    <state width="1838" height="254" key="GridCell.Tab.1.center" timestamp="1718184574136">
       <screen x="0" y="32" width="1920" height="1048" />
     </state>
-    <state x="295" y="277" width="1007" height="737" key="SettingsEditor/0.32.1920.1048@0.32.1920.1048" timestamp="1707411236417" />
-    <state x="693" y="264" width="524" height="591" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1710186539588">
+    <state width="1838" height="254" key="GridCell.Tab.1.center/0.32.1920.1048@0.32.1920.1048" timestamp="1718184574136" />
+    <state width="1838" height="320" key="GridCell.Tab.1.center/0.607.1920.1048/1920.0.1920.1200@1920.0.1920.1200" timestamp="1712652790543" />
+    <state width="1838" height="254" key="GridCell.Tab.1.left" timestamp="1718184574136">
       <screen x="0" y="32" width="1920" height="1048" />
     </state>
-    <state x="693" y="264" width="524" height="591" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.32.1920.1048@0.32.1920.1048" timestamp="1710186539588" />
-    <state x="624" y="257" width="672" height="707" key="run.anything.popup" timestamp="1710187803865">
+    <state width="1838" height="254" key="GridCell.Tab.1.left/0.32.1920.1048@0.32.1920.1048" timestamp="1718184574136" />
+    <state width="1838" height="320" key="GridCell.Tab.1.left/0.607.1920.1048/1920.0.1920.1200@1920.0.1920.1200" timestamp="1712652790543" />
+    <state width="1838" height="254" key="GridCell.Tab.1.right" timestamp="1718184574136">
       <screen x="0" y="32" width="1920" height="1048" />
     </state>
-    <state x="624" y="257" width="672" height="707" key="run.anything.popup/0.32.1920.1048@0.32.1920.1048" timestamp="1710187803865" />
-    <state x="623" y="254" width="692" height="704" key="search.everywhere.popup" timestamp="1710442982240">
+    <state width="1838" height="254" key="GridCell.Tab.1.right/0.32.1920.1048@0.32.1920.1048" timestamp="1718184574136" />
+    <state width="1838" height="320" key="GridCell.Tab.1.right/0.607.1920.1048/1920.0.1920.1200@1920.0.1920.1200" timestamp="1712652790543" />
+    <state x="295" y="277" width="1007" height="737" key="SettingsEditor" timestamp="1718027591712">
       <screen x="0" y="32" width="1920" height="1048" />
     </state>
-    <state x="623" y="254" width="692" height="704" key="search.everywhere.popup/0.32.1920.1048@0.32.1920.1048" timestamp="1710442982240" />
+    <state x="295" y="277" width="1007" height="737" key="SettingsEditor/0.32.1920.1048@0.32.1920.1048" timestamp="1718027591712" />
+    <state x="728" y="274" width="453" height="571" key="com.goide.refactor.move.GoMoveDeclarationDialog" timestamp="1715341359011">
+      <screen x="0" y="32" width="1920" height="1048" />
+    </state>
+    <state x="728" y="274" width="453" height="571" key="com.goide.refactor.move.GoMoveDeclarationDialog/0.32.1920.1048@0.32.1920.1048" timestamp="1715341359011" />
+    <state x="693" y="264" width="524" height="591" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1718103520107">
+      <screen x="0" y="32" width="1920" height="1048" />
+    </state>
+    <state x="693" y="264" width="524" height="591" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.32.1920.1048@0.32.1920.1048" timestamp="1718103520107" />
+    <state x="651" y="222" width="1269" height="702" key="dock-window-1" timestamp="1711740299382">
+      <screen x="0" y="32" width="1920" height="1048" />
+    </state>
+    <state x="651" y="222" width="1269" height="702" key="dock-window-1/0.32.1920.1048@0.32.1920.1048" timestamp="1711740299382" />
+    <state x="624" y="257" width="672" height="707" key="run.anything.popup" timestamp="1718032034193">
+      <screen x="0" y="32" width="1920" height="1048" />
+    </state>
+    <state x="624" y="257" width="672" height="707" key="run.anything.popup/0.32.1920.1048@0.32.1920.1048" timestamp="1718032034193" />
+    <state x="623" y="254" width="692" height="704" key="search.everywhere.popup" timestamp="1719212494511">
+      <screen x="0" y="32" width="1920" height="1048" />
+    </state>
+    <state x="623" y="254" width="692" height="704" key="search.everywhere.popup/0.32.1920.1048@0.32.1920.1048" timestamp="1719212494511" />
+    <state x="2543" y="254" width="692" height="807" key="search.everywhere.popup/0.607.1920.1048/1920.0.1920.1200@1920.0.1920.1200" timestamp="1712569506609" />
+  </component>
+  <component name="debuggerHistoryManager">
+    <expressions id="watch">
+      <expression>
+        <expression-string>*(*&quot;string&quot;)(824633804192)</expression-string>
+        <language-id>go</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+    </expressions>
+    <expressions id="evaluateExpression">
+      <expression>
+        <expression-string>allSuites</expression-string>
+        <language-id>go</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>stmtCache</expression-string>
+        <language-id>go</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>fmt.Println(stmtCache)</expression-string>
+        <language-id>go</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+    </expressions>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/.github/workflows/go-test.yml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="480">
-          <caret line="24" column="13" selection-start-line="24" selection-start-column="13" selection-end-line="24" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/internal/expr/export_test.go" />
     <entry file="file://$PROJECT_DIR$/internal/expr/typebind.go" />
     <entry file="file://$APPLICATION_CONFIG_DIR$/scratches/scratch.go">
       <provider selected="true" editor-type-id="GoPlaygroundFileEditor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/internal/expr/doc.go" />
-    <entry file="file://$USER_HOME$/go/pkg/mod/github.com/mattn/go-sqlite3@v1.14.16/sqlite3_go18.go">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="412">
-          <caret line="68" selection-start-line="68" selection-end-line="68" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file:///snap/go/10339/src/sync/mutex.go" />
     <entry file="file:///snap/go/10339/src/internal/reflectlite/type.go" />
     <entry file="file:///snap/go/10339/src/errors/wrap.go" />
     <entry file="file:///snap/go/10339/src/database/sql/sql.go" />
     <entry file="file:///snap/go/10339/src/database/sql/ctxutil.go" />
-    <entry file="file://$USER_HOME$/go/pkg/mod/github.com/mattn/go-sqlite3@v1.14.16/sqlite3.go">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="190">
-          <caret line="2045" selection-start-line="2045" selection-end-line="2045" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file:///snap/go/10339/src/context/context.go" />
-    <entry file="file://$PROJECT_DIR$/sqlair.go">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="5120">
-          <caret line="284" selection-start-line="284" selection-end-line="284" />
-          <folding>
-            <element signature="e#2500#2522#0" expanded="true" />
-            <element signature="e#2595#2617#0" expanded="true" />
-            <element signature="e#3064#3081#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/doc.go">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1220">
@@ -468,78 +540,251 @@
     <entry file="file:///snap/go/10339/src/reflect/type.go" />
     <entry file="file://$PROJECT_DIR$/internal/expr/typeinfo.go" />
     <entry file="file://$PROJECT_DIR$/internal/expr/prepare.go" />
-    <entry file="file://$PROJECT_DIR$/README.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SHOW_PREVIEW" is_vertical_split="false">
-          <first_editor />
-          <second_editor />
+    <entry file="file://$PROJECT_DIR$/README.md" />
+    <entry file="file:///snap/go/current/src/bytes/buffer.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="260">
+          <caret line="61" selection-start-line="61" selection-end-line="61" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/internal/typeinfo/arginfo_test.go">
+    <entry file="file://$USER_HOME$/.ideavimrc">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="840">
-          <caret line="42" column="25" selection-start-line="42" selection-start-column="25" selection-end-line="42" selection-end-column="25" />
+        <state relative-caret-position="80">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/internal/expr/query.go">
+    <entry file="file://$PROJECT_DIR$/internal/expr/parser_helper_test.go">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="880">
-          <caret line="50" selection-start-line="50" selection-end-line="50" />
-          <folding>
-            <element signature="n#!!block;n#SQL#0" expanded="true" />
-            <element signature="n#!!block;n#SQL#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="6900">
+          <caret line="345" selection-start-line="345" selection-end-line="345" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/internal/expr/parser.go">
+    <entry file="file:///snap/go/current/src/time/sleep.go">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="500">
-          <caret line="25" column="14" selection-start-line="25" selection-start-column="14" selection-end-line="25" selection-end-column="14" />
+        <state relative-caret-position="140">
+          <caret line="7" column="5" selection-start-line="7" selection-start-column="5" selection-end-line="7" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/go.mod">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.github/workflows/go-test.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="200">
+          <caret line="10" column="32" selection-start-line="10" selection-start-column="32" selection-end-line="10" selection-end-column="32" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/internal/typeinfo/validate.go">
       <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="9" selection-start-line="9" selection-end-line="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///snap/go/current/src/context/context.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="143">
+          <caret line="211" selection-start-line="211" selection-end-line="211" />
+          <folding>
+            <element signature="e#7689#7716#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/go/pkg/mod/gopkg.in/check.v1@v1.0.0-20201130134442-10cb98267c6c/benchmark.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="143">
+          <caret line="73" selection-start-line="73" selection-end-line="73" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///snap/go/current/src/runtime/panic.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="257">
+          <caret line="924" selection-start-line="924" selection-end-line="924" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///snap/go/current/src/database/sql/ctxutil.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="123">
+          <caret line="14" selection-start-line="14" selection-end-line="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/go/pkg/mod/gopkg.in/check.v1@v1.0.0-20201130134442-10cb98267c6c/helpers.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="157">
+          <caret line="160" column="12" selection-start-line="160" selection-start-column="12" selection-end-line="160" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///snap/go/current/src/runtime/asm_amd64.s">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="113">
+          <caret line="746" selection-start-line="746" selection-end-line="746" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///snap/go/current/src/reflect/value.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="379" selection-start-line="379" selection-end-line="379" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/go/pkg/mod/gopkg.in/check.v1@v1.0.0-20201130134442-10cb98267c6c/check.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="644" column="31" lean-forward="true" selection-start-line="644" selection-start-column="31" selection-end-line="644" selection-end-column="31" />
+          <folding>
+            <element signature="e#17276#17293#0" expanded="true" />
+            <element signature="e#17276#17293#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/go/pkg/mod/github.com/mattn/go-sqlite3@v1.14.16/sqlite3_go18.go">
+      <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="840">
-          <caret line="44" column="4" selection-start-line="44" selection-start-column="4" selection-end-line="44" selection-end-column="4" />
+          <caret line="45" column="13" selection-start-line="45" selection-start-column="13" selection-end-line="45" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/internal/expr/bindtypes.go">
+    <entry file="file:///snap/go/current/src/runtime/mfinal.go">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="3680">
-          <caret line="184" column="4" selection-start-line="184" selection-start-column="4" selection-end-line="184" selection-end-column="4" />
+        <state relative-caret-position="7700">
+          <caret line="387" column="5" selection-start-line="387" selection-start-column="5" selection-end-line="387" selection-end-column="5" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/internal/expr/expr_test.go">
+    <entry file="file:///snap/go/current/src/database/sql/sql.go">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="900">
-          <caret line="45" column="18" selection-start-line="45" selection-start-column="18" selection-end-line="45" selection-end-column="18" />
+        <state relative-caret-position="30140">
+          <caret line="1586" column="4" selection-start-line="1586" selection-start-column="4" selection-end-line="1586" selection-end-column="4" />
+          <folding>
+            <element signature="e#43299#43321#0" expanded="true" />
+            <element signature="e#43299#43321#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/internal/typeinfo/arginfo.go">
+    <entry file="file://$USER_HOME$/go/pkg/mod/github.com/mattn/go-sqlite3@v1.14.16/sqlite3.go">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="6820">
-          <caret line="341" column="1" selection-start-line="341" selection-start-column="1" selection-end-line="341" selection-end-column="1" />
+        <state relative-caret-position="507">
+          <caret line="1815" column="4" selection-start-line="1815" selection-start-column="4" selection-end-line="1815" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/driver_test.go" />
+    <entry file="file://$PROJECT_DIR$/cache_test.go" />
+    <entry file="file://$PROJECT_DIR$/sqlair.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="278">
+          <caret line="436" selection-start-line="436" selection-end-line="436" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/internal/typeinfo/valuelocator.go">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2360">
-          <caret line="118" column="4" selection-start-line="118" selection-start-column="4" selection-end-line="118" selection-end-column="4" />
+        <state relative-caret-position="340">
+          <caret line="23" column="5" selection-start-line="23" selection-start-column="5" selection-end-line="23" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/internal/expr/bindinputs.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="658">
+          <caret line="49" column="62" lean-forward="true" selection-start-line="49" selection-start-column="62" selection-end-line="49" selection-end-column="62" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/internal/typeinfo/valuelocator_test.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="203">
+          <caret line="144" column="24" selection-start-line="144" selection-start-column="24" selection-end-line="144" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/internal/expr/parser.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17380">
+          <caret line="869" column="19" selection-start-line="869" selection-start-column="19" selection-end-line="869" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/internal/expr/typedexprbuilder.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="25" column="29" selection-start-line="25" selection-start-column="29" selection-end-line="25" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/internal/expr/query.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="280">
+          <caret line="14" column="5" selection-start-line="14" selection-start-column="5" selection-end-line="14" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/internal/expr/expr_test.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="27540">
+          <caret line="1377" selection-start-line="1377" selection-end-line="1377" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/go/pkg/mod/gopkg.in/check.v1@v1.0.0-20201130134442-10cb98267c6c/run.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="400">
+          <caret line="20" selection-start-line="20" selection-end-line="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/internal/expr/querybuilder.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="5140">
+          <caret line="257" column="5" selection-start-line="257" selection-start-column="5" selection-end-line="257" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/internal/typeinfo/arginfo_test.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="7000">
+          <caret line="350" column="4" selection-start-line="350" selection-start-column="4" selection-end-line="350" selection-end-column="4" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/package_test.go">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="111" column="38" selection-start-line="111" selection-start-column="38" selection-end-line="111" selection-end-column="38" />
+        <state relative-caret-position="25240">
+          <caret line="1262" column="107" selection-start-line="1262" selection-start-column="107" selection-end-line="1262" selection-end-column="107" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/internal/typeinfo/arginfo.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1160">
+          <caret line="58" column="8" selection-start-line="58" selection-start-column="8" selection-end-line="58" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/internal/expr/bindtypes.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="382">
+          <caret line="106" column="10" selection-start-line="106" selection-start-column="10" selection-end-line="106" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cache.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="200">
+          <caret line="121" selection-start-line="121" selection-end-line="121" />
         </state>
       </provider>
     </entry>

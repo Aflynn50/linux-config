@@ -1,6 +1,6 @@
 [Data Source]
 DisplayName=alastairflynn@hotmail.co.uk
-Enabled=true
+Enabled=false
 Parent=
 
 [Mail Account]
@@ -10,6 +10,7 @@ ArchiveFolder=folder://0796472b624b3759235ee0b18a9bedac625a5a2d/Archive
 NeedsInitialSetup=false
 MarkSeen=inconsistent
 MarkSeenTimeout=1500
+Builtin=false
 
 [Authentication]
 Host=outlook.office365.com
@@ -24,6 +25,7 @@ IsExternal=false
 [Refresh]
 Enabled=true
 IntervalMinutes=2
+EnabledOnMeteredNetwork=true
 
 [Security]
 Method=ssl-on-alternate-port
@@ -60,3 +62,4 @@ IgnoreOtherUsersNamespace=false
 IgnoreSharedFoldersNamespace=false
 FullUpdateOnMeteredNetwork=true
 SendClientId=false
+SingleClientMode=false

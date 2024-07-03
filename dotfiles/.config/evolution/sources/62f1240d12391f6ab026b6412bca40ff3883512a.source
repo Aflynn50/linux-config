@@ -35,7 +35,7 @@ Order=4294967295
 [Calendar]
 BackendName=caldav
 Color=#9fe1e7
-Selected=false
+Selected=true
 Order=0
 
 [Offline]
@@ -43,7 +43,8 @@ StaySynchronized=true
 
 [Alarms]
 IncludeMe=true
-LastNotified=2024-03-19T14:05:00Z
+LastNotified=2024-07-03T08:20:00Z
+ForEveryEvent=false
 
 [Conflict Search]
 IncludeMe=true

@@ -2,6 +2,17 @@
   <component name="BookmarksManager">
     <option name="groups">
       <GroupState>
+        <option name="bookmarks">
+          <BookmarkState>
+            <attributes>
+              <entry key="url" value="file://$PROJECT_DIR$/domain/access/state/user.go" />
+              <entry key="line" value="124" />
+            </attributes>
+            <option name="description" value="FROM   v_user_auth u" />
+            <option name="provider" value="com.intellij.ide.bookmark.providers.LineBookmarkProvider" />
+            <option name="type" value="DIGIT_1" />
+          </BookmarkState>
+        </option>
         <option name="name" value="juju" />
       </GroupState>
     </option>
@@ -36,148 +47,166 @@
       <path>
         <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
         <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
-        <item name="BRANCH:3.3-3.4" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="BRANCH:master" type="e8cecc67:BranchNodeDescriptor" />
       </path>
     </select>
   </component>
+  <component name="DatabaseView">
+    <expand />
+    <select />
+  </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="-1">
+    <leaf ideFingerprint="2h2nbvs44fjfz" SIDE_TABS_SIZE_LIMIT_KEY="-1">
       <file current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/domain/blockdevice/state/state.go">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="340">
-              <caret line="328" column="36" selection-start-line="328" selection-start-column="36" selection-end-line="328" selection-end-column="36" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/domain/credential/state/state.go">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="280">
-              <caret line="592" column="4" selection-start-line="592" selection-start-column="4" selection-end-line="592" selection-end-column="4" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/domain/network/state/subnet.go">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="341">
-              <caret line="382" column="11" selection-start-line="382" selection-start-column="11" selection-end-line="382" selection-end-column="11" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/domain/network/state/space.go">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="260">
-              <caret line="218" column="4" selection-start-line="218" selection-start-column="4" selection-end-line="218" selection-end-column="4" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/domain/annotation/state/types.go">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/domain/annotation/state/state.go">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="300">
-              <caret line="132" column="43" selection-start-line="132" selection-start-column="43" selection-end-line="132" selection-end-column="43" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/domain/permission/state/state.go">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="361">
-              <caret line="206" column="29" selection-start-line="206" selection-start-column="29" selection-end-line="206" selection-end-column="29" />
-              <folding>
-                <element signature="e#6119#6136#0" expanded="true" />
-                <element signature="e#6119#6136#0" expanded="true" />
-                <element signature="e#8803#8834#0" expanded="true" />
-                <element signature="e#8803#8834#0" expanded="true" />
-                <element signature="e#9218#9249#0" expanded="true" />
-                <element signature="e#9218#9249#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/domain/objectstore/state/state.go">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="300">
-              <caret line="15" column="30" selection-start-line="15" selection-start-column="30" selection-end-line="15" selection-end-column="30" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/domain/externalcontroller/state/state.go">
-          <provider selected="true" editor-type-id="text-editor">
+        <entry file="file://$PROJECT_DIR$/apiserver/root.go">
+          <provider editor-type-id="text-editor" selected="true">
             <state relative-caret-position="240">
-              <caret line="70" column="32" selection-start-line="70" selection-start-column="32" selection-end-line="70" selection-end-column="32" />
+              <caret line="728" column="14" selection-start-line="728" selection-start-column="14" selection-end-line="728" selection-end-column="14" />
             </state>
           </provider>
         </entry>
       </file>
       <file>
-        <entry file="file://$PROJECT_DIR$/go.mod">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="526">
-              <caret line="316" selection-start-line="316" selection-end-line="316" />
+        <entry file="file://$PROJECT_DIR$/apiserver/facades/client/usermanager/register.go">
+          <provider editor-type-id="text-editor" selected="true">
+            <state relative-caret-position="280">
+              <caret line="27" column="14" selection-start-line="27" selection-start-column="14" selection-end-line="27" selection-end-column="14" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/apiserver/apiserver.go">
+          <provider editor-type-id="text-editor" selected="true">
+            <state relative-caret-position="258">
+              <caret line="1166" column="23" selection-start-line="1166" selection-start-column="23" selection-end-line="1166" selection-end-column="23" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/apiserver/shared.go">
+          <provider editor-type-id="text-editor" selected="true">
+            <state relative-caret-position="191">
+              <caret line="42" column="5" selection-start-line="42" selection-start-column="5" selection-end-line="42" selection-end-column="5" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/apiserver/facade/facadetest/context.go">
+          <provider editor-type-id="text-editor" selected="true">
+            <state relative-caret-position="184">
+              <caret line="18" column="5" selection-start-line="18" selection-start-column="5" selection-end-line="18" selection-end-column="5" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/apiserver/facade/interface.go">
+          <provider editor-type-id="text-editor" selected="true">
+            <state relative-caret-position="191">
+              <caret line="76" column="17" lean-forward="true" selection-start-line="76" selection-start-column="17" selection-end-line="76" selection-end-column="17" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/apiserver/authentication/interfaces.go">
+          <provider editor-type-id="text-editor" selected="true">
+            <state relative-caret-position="252">
+              <caret line="60" column="35" selection-start-line="60" selection-start-column="35" selection-end-line="60" selection-end-column="35" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/apiserver/authentication/jwt/jwt.go">
+          <provider editor-type-id="text-editor" selected="true">
+            <state relative-caret-position="480">
+              <caret line="33" column="10" selection-start-line="33" selection-start-column="10" selection-end-line="33" selection-end-column="10" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/internal/worker/actionpruner/worker.go">
+          <provider editor-type-id="text-editor" selected="true">
+            <state relative-caret-position="474">
+              <caret line="36" column="75" selection-start-line="36" selection-start-column="75" selection-end-line="36" selection-end-column="75" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/internal/worker/pruner/worker.go">
+          <provider editor-type-id="text-editor" selected="true">
+            <state relative-caret-position="474">
+              <caret line="83" selection-start-line="83" selection-end-line="83" />
             </state>
           </provider>
         </entry>
       </file>
     </leaf>
   </component>
-  <component name="FileTypeUsageLocalSummary">
-    <fileType name="DIFF">
-      <summary usageCount="2" lastUsed="1709648029516" />
-    </fileType>
-    <fileType name="GitIgnore file">
-      <summary usageCount="1" lastUsed="1708708132677" />
-    </fileType>
-    <fileType name="Go">
-      <summary usageCount="551" lastUsed="1710801982884" />
-    </fileType>
-    <fileType name="Makefile">
-      <summary usageCount="1" lastUsed="1709051824735" />
-    </fileType>
-    <fileType name="Markdown">
-      <summary usageCount="8" lastUsed="1709293235326" />
-    </fileType>
-    <fileType name="PLAIN_TEXT">
-      <summary usageCount="9" lastUsed="1708939042204" />
-    </fileType>
-    <fileType name="Python">
-      <summary usageCount="9" lastUsed="1709293235358" />
-    </fileType>
-    <fileType name="Requirements.txt">
-      <summary usageCount="2" lastUsed="1709201553409" />
-    </fileType>
-    <fileType name="Shell Script">
-      <summary usageCount="27" lastUsed="1709666393306" />
-    </fileType>
-    <fileType name="YAML">
-      <summary usageCount="28" lastUsed="1709201432250" />
-    </fileType>
-    <fileType name="go.mod">
-      <summary usageCount="7" lastUsed="1710851736340" />
-    </fileType>
-  </component>
+  <component name="FileTypeUsageLocalSummary"><![CDATA[{
+  "data": {
+    "Go": {
+      "usageCount": 1101,
+      "lastUsed": 1719926624440
+    },
+    "WebPreview": {
+      "usageCount": 1,
+      "lastUsed": 1713789425532
+    },
+    "DIFF": {
+      "usageCount": 3,
+      "lastUsed": 1718700862884
+    },
+    "go.mod": {
+      "usageCount": 8,
+      "lastUsed": 1718202577336
+    },
+    "PLAIN_TEXT": {
+      "usageCount": 7,
+      "lastUsed": 1718265563946
+    },
+    "YAML": {
+      "usageCount": 15,
+      "lastUsed": 1718782791642
+    },
+    "Shell Script": {
+      "usageCount": 20,
+      "lastUsed": 1718196745622
+    },
+    "JSON": {
+      "usageCount": 2,
+      "lastUsed": 1715850147528
+    },
+    "textmate": {
+      "usageCount": 4,
+      "lastUsed": 1716974443603
+    },
+    "Markdown": {
+      "usageCount": 3,
+      "lastUsed": 1718265493877
+    },
+    "SQL": {
+      "usageCount": 8,
+      "lastUsed": 1718701125882
+    },
+    "Makefile": {
+      "usageCount": 1,
+      "lastUsed": 1718265567307
+    }
+  }
+}]]></component>
   <component name="FindInProjectRecents">
     <findStrings>
       <find>/</find>
       <find>manifolds</find>
       <find>_</find>
+      <find />
     </findStrings>
     <replaceStrings>
       <replace />
@@ -199,59 +228,60 @@
     </expand>
     <select />
   </component>
+  <component name="GitSEFilterConfiguration">{}</component>
   <component name="IdeDocumentHistory">
     <changedPaths>
-      <option value="$PROJECT_DIR$/worker/containerbroker/broker.go" />
-      <option value="$PROJECT_DIR$/container/broker/host_preparer.go" />
-      <option value="$PROJECT_DIR$/worker/machiner/machiner.go" />
-      <option value="$PROJECT_DIR$/worker/provisioner/containermanifold.go" />
-      <option value="$PROJECT_DIR$/worker/provisioner/container_initialisation.go" />
-      <option value="$PROJECT_DIR$/container/broker/instance_broker.go" />
-      <option value="$PROJECT_DIR$/worker/machiner/machiner_test.go" />
-      <option value="$PROJECT_DIR$/worker/provisioner/container_initialisation_test.go" />
-      <option value="$PROJECT_DIR$/worker/provisioner/containerworker_test.go" />
-      <option value="$PROJECT_DIR$/worker/containerbroker/broker_test.go" />
-      <option value="$PROJECT_DIR$/api/common/package_test.go" />
-      <option value="$PROJECT_DIR$/core/network/discovery.go" />
-      <option value="$PROJECT_DIR$/core/network/discovery_test.go" />
-      <option value="$PROJECT_DIR$/tests/suites/deploy/deploy_charms.sh" />
-      <option value="$PROJECT_DIR$/state/upgrades.go" />
-      <option value="$PROJECT_DIR$/state/upgrades_test.go" />
-      <option value="$PROJECT_DIR$/upgrades/backend.go" />
-      <option value="$PROJECT_DIR$/tests/suites/relations/relation_data_exchange.sh" />
-      <option value="$PROJECT_DIR$/tests/suites/relations/relation_list_app.sh" />
-      <option value="$PROJECT_DIR$/tests/includes/juju.sh" />
-      <option value="$PROJECT_DIR$/domain/modelconfig/state/state.go" />
-      <option value="$PROJECT_DIR$/domain/doc.go" />
-      <option value="$PROJECT_DIR$/domain/state.go" />
-      <option value="$USER_HOME$/go/pkg/mod/github.com/juju/utils/v3@v3.0.0/ssh/authorisedkeys.go" />
-      <option value="$PROJECT_DIR$/apiserver/facades/client/keymanager/keymanager.go" />
-      <option value="$PROJECT_DIR$/apiserver/facades/client/keymanager/keymanager_test.go" />
-      <option value="$PROJECT_DIR$/cmd/juju/application/deployer/interface.go" />
-      <option value="$PROJECT_DIR$/state/state.go" />
-      <option value="$PROJECT_DIR$/state/state_test.go" />
-      <option value="$PROJECT_DIR$/api/client/application/client_test.go" />
-      <option value="$PROJECT_DIR$/apiserver/facades/client/application/deployrepository_test.go" />
-      <option value="$PROJECT_DIR$/cmd/juju/application/deployer/charm.go" />
-      <option value="$PROJECT_DIR$/core/charm/origin.go" />
-      <option value="$PROJECT_DIR$/domain/state_test.go" />
-      <option value="$PROJECT_DIR$/domain/application/state/state.go" />
-      <option value="$PROJECT_DIR$/domain/autocert/state/state.go" />
-      <option value="$PROJECT_DIR$/domain/cloud/state/state.go" />
-      <option value="$PROJECT_DIR$/domain/machine/state/state.go" />
-      <option value="$PROJECT_DIR$/domain/network/state/space.go" />
-      <option value="$PROJECT_DIR$/domain/storage/state/storagepool.go" />
-      <option value="$PROJECT_DIR$/domain/unit/state/state.go" />
-      <option value="$PROJECT_DIR$/domain/upgrade/state/state.go" />
-      <option value="$PROJECT_DIR$/domain/upgrade/state/state_test.go" />
-      <option value="$PROJECT_DIR$/domain/user/state/state.go" />
-      <option value="$PROJECT_DIR$/domain/blockdevice/state/state.go" />
-      <option value="$PROJECT_DIR$/domain/credential/state/state.go" />
-      <option value="$PROJECT_DIR$/domain/network/state/subnet.go" />
-      <option value="$PROJECT_DIR$/domain/annotation/state/state.go" />
-      <option value="$PROJECT_DIR$/domain/permission/state/state.go" />
-      <option value="$PROJECT_DIR$/domain/externalcontroller/state/state.go" />
+      <option value="$PROJECT_DIR$/apiserver/facades/client/controller/controller.go" />
+      <option value="$PROJECT_DIR$/jujuclient/registration.go" />
+      <option value="$PROJECT_DIR$/cmd/juju/controller/register_test.go" />
+      <option value="$PROJECT_DIR$/cmd/juju/controller/register.go" />
+      <option value="$PROJECT_DIR$/cmd/juju/cloud/addcredential.go" />
+      <option value="$PROJECT_DIR$/core/base/base.go" />
       <option value="$PROJECT_DIR$/go.mod" />
+      <option value="$PROJECT_DIR$/agent/agentbootstrap/bootstrap.go" />
+      <option value="$PROJECT_DIR$/agent/agentbootstrap/bootstrap_test.go" />
+      <option value="$PROJECT_DIR$/apiserver/facades/agent/provisioner/provisioninginfo.go" />
+      <option value="$PROJECT_DIR$/apiserver/facades/agent/provisioner/provisioninginfo_test.go" />
+      <option value="$PROJECT_DIR$/domain/autocert/doc.go" />
+      <option value="$PROJECT_DIR$/domain/autocert/state/types.go" />
+      <option value="$PROJECT_DIR$/domain/autocert/state/state.go" />
+      <option value="$PROJECT_DIR$/domain/controllernode/state/types.go" />
+      <option value="$PROJECT_DIR$/domain/controllernode/state/state.go" />
+      <option value="$PROJECT_DIR$/domain/controllernode/doc.go" />
+      <option value="$PROJECT_DIR$/internal/worker/dbaccessor/package_test.go" />
+      <option value="$PROJECT_DIR$/internal/worker/dbaccessor/worker_test.go" />
+      <option value="$PROJECT_DIR$/testcharms/charm-hub/charms/juju-qa-test/3-0-stable/charmcraft.yaml" />
+      <option value="$PROJECT_DIR$/core/base/supported.go" />
+      <option value="$PROJECT_DIR$/apiserver/facades/client/modelupgrader/upgrader_test.go" />
+      <option value="$PROJECT_DIR$/testing/environ.go" />
+      <option value="$PROJECT_DIR$/core/charm/baseselector_test.go" />
+      <option value="$PROJECT_DIR$/domain/flag/state/types.gp.go" />
+      <option value="$PROJECT_DIR$/domain/flag/state/types.go" />
+      <option value="$PROJECT_DIR$/domain/flag/state/state_test.go" />
+      <option value="$PROJECT_DIR$/domain/externalcontroller/state/types.go" />
+      <option value="$PROJECT_DIR$/domain/objectstore/state/types.go" />
+      <option value="$PROJECT_DIR$/domain/objectstore/service/service.go" />
+      <option value="$PROJECT_DIR$/domain/objectstore/service/service_test.go" />
+      <option value="$PROJECT_DIR$/domain/objectstore/state/state_test.go" />
+      <option value="$PROJECT_DIR$/domain/objectstore/state/state.go" />
+      <option value="$PROJECT_DIR$/domain/objectstore/doc.go" />
+      <option value="$PROJECT_DIR$/domain/flag/doc.go" />
+      <option value="$PROJECT_DIR$/domain/flag/state/state.go" />
+      <option value="$PROJECT_DIR$/cmd/juju/application/deployer/deployer.go" />
+      <option value="$PROJECT_DIR$/core/base/supportedseries_linux_test.go" />
+      <option value="$PROJECT_DIR$/core/charm/baseselector.go" />
+      <option value="$PROJECT_DIR$/cmd/juju/application/deployer/bundlehandler_test.go" />
+      <option value="$PROJECT_DIR$/cmd/juju/commands/bootstrap.go" />
+      <option value="$PROJECT_DIR$/domain/externalcontroller/doc.go" />
+      <option value="$PROJECT_DIR$/domain/externalcontroller/state/state.go" />
+      <option value="$PROJECT_DIR$/cmd/juju/commands/bootstrap_test.go" />
+      <option value="$PROJECT_DIR$/worker/uniter/operation/factory.go" />
+      <option value="$PROJECT_DIR$/worker/uniter/operation/runhook.go" />
+      <option value="$PROJECT_DIR$/worker/uniter/operation/deploy.go" />
+      <option value="$PROJECT_DIR$/worker/uniter/manifold.go" />
+      <option value="$PROJECT_DIR$/worker/uniter/resolver.go" />
+      <option value="$PROJECT_DIR$/apiserver/facades/agent/uniter/uniter.go" />
+      <option value="$PROJECT_DIR$/worker/uniter/resolver/loop.go" />
     </changedPaths>
   </component>
   <component name="IgnoredFileRootStore">
@@ -265,11 +295,14 @@
     <language id="GitIgnore">
       <summary usageCount="1" lastUsage="1708708132677" />
     </language>
+    <language id="JSON">
+      <summary usageCount="2" lastUsage="1715850147528" />
+    </language>
     <language id="Makefile">
-      <summary usageCount="1" lastUsage="1709051824735" />
+      <summary usageCount="3" lastUsage="1718265567307" />
     </language>
     <language id="Markdown">
-      <summary usageCount="8" lastUsage="1709293235326" />
+      <summary usageCount="11" lastUsage="1718265493877" />
     </language>
     <language id="Python">
       <summary usageCount="9" lastUsage="1709293235358" />
@@ -277,20 +310,26 @@
     <language id="Requirements">
       <summary usageCount="2" lastUsage="1709201553409" />
     </language>
+    <language id="SQL">
+      <summary usageCount="8" lastUsage="1718701125882" />
+    </language>
     <language id="Shell Script">
-      <summary usageCount="27" lastUsage="1709666393306" />
+      <summary usageCount="62" lastUsage="1718196745622" />
     </language>
     <language id="TEXT">
-      <summary usageCount="9" lastUsage="1708939042204" />
+      <summary usageCount="17" lastUsage="1718265563946" />
     </language>
     <language id="go">
-      <summary usageCount="551" lastUsage="1710801982884" />
+      <summary usageCount="2258" lastUsage="1719926624440" />
+    </language>
+    <language id="textmate">
+      <summary usageCount="6" lastUsage="1716974443603" />
     </language>
     <language id="vgo">
-      <summary usageCount="7" lastUsage="1710851736340" />
+      <summary usageCount="18" lastUsage="1718202577336" />
     </language>
     <language id="yaml">
-      <summary usageCount="28" lastUsage="1709201432250" />
+      <summary usageCount="43" lastUsage="1718782791642" />
     </language>
   </component>
   <component name="ProjectView">
@@ -306,113 +345,20 @@
             <path>
               <item name="juju" type="b2602c69:ProjectViewProjectNode" />
               <item name="dir{file:///home/aflynn/Canonical/Juju/juju}" type="462c0819:PsiDirectoryNode" />
-              <item name="dir{file:///home/aflynn/Canonical/Juju/juju/domain}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/aflynn/Canonical/Juju/juju/apiserver}" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="juju" type="b2602c69:ProjectViewProjectNode" />
               <item name="dir{file:///home/aflynn/Canonical/Juju/juju}" type="462c0819:PsiDirectoryNode" />
-              <item name="dir{file:///home/aflynn/Canonical/Juju/juju/domain}" type="462c0819:PsiDirectoryNode" />
-              <item name="dir{file:///home/aflynn/Canonical/Juju/juju/domain/annotation}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/aflynn/Canonical/Juju/juju/apiserver}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/aflynn/Canonical/Juju/juju/apiserver/authentication}" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="juju" type="b2602c69:ProjectViewProjectNode" />
               <item name="dir{file:///home/aflynn/Canonical/Juju/juju}" type="462c0819:PsiDirectoryNode" />
-              <item name="dir{file:///home/aflynn/Canonical/Juju/juju/domain}" type="462c0819:PsiDirectoryNode" />
-              <item name="dir{file:///home/aflynn/Canonical/Juju/juju/domain/annotation}" type="462c0819:PsiDirectoryNode" />
-              <item name="dir{file:///home/aflynn/Canonical/Juju/juju/domain/annotation/state}" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="juju" type="b2602c69:ProjectViewProjectNode" />
-              <item name="dir{file:///home/aflynn/Canonical/Juju/juju}" type="462c0819:PsiDirectoryNode" />
-              <item name="dir{file:///home/aflynn/Canonical/Juju/juju/domain}" type="462c0819:PsiDirectoryNode" />
-              <item name="dir{file:///home/aflynn/Canonical/Juju/juju/domain/blockdevice}" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="juju" type="b2602c69:ProjectViewProjectNode" />
-              <item name="dir{file:///home/aflynn/Canonical/Juju/juju}" type="462c0819:PsiDirectoryNode" />
-              <item name="dir{file:///home/aflynn/Canonical/Juju/juju/domain}" type="462c0819:PsiDirectoryNode" />
-              <item name="dir{file:///home/aflynn/Canonical/Juju/juju/domain/blockdevice}" type="462c0819:PsiDirectoryNode" />
-              <item name="dir{file:///home/aflynn/Canonical/Juju/juju/domain/blockdevice/state}" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="juju" type="b2602c69:ProjectViewProjectNode" />
-              <item name="dir{file:///home/aflynn/Canonical/Juju/juju}" type="462c0819:PsiDirectoryNode" />
-              <item name="dir{file:///home/aflynn/Canonical/Juju/juju/domain}" type="462c0819:PsiDirectoryNode" />
-              <item name="dir{file:///home/aflynn/Canonical/Juju/juju/domain/credential}" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="juju" type="b2602c69:ProjectViewProjectNode" />
-              <item name="dir{file:///home/aflynn/Canonical/Juju/juju}" type="462c0819:PsiDirectoryNode" />
-              <item name="dir{file:///home/aflynn/Canonical/Juju/juju/domain}" type="462c0819:PsiDirectoryNode" />
-              <item name="dir{file:///home/aflynn/Canonical/Juju/juju/domain/credential}" type="462c0819:PsiDirectoryNode" />
-              <item name="dir{file:///home/aflynn/Canonical/Juju/juju/domain/credential/state}" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="juju" type="b2602c69:ProjectViewProjectNode" />
-              <item name="dir{file:///home/aflynn/Canonical/Juju/juju}" type="462c0819:PsiDirectoryNode" />
-              <item name="dir{file:///home/aflynn/Canonical/Juju/juju/domain}" type="462c0819:PsiDirectoryNode" />
-              <item name="dir{file:///home/aflynn/Canonical/Juju/juju/domain/network}" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="juju" type="b2602c69:ProjectViewProjectNode" />
-              <item name="dir{file:///home/aflynn/Canonical/Juju/juju}" type="462c0819:PsiDirectoryNode" />
-              <item name="dir{file:///home/aflynn/Canonical/Juju/juju/domain}" type="462c0819:PsiDirectoryNode" />
-              <item name="dir{file:///home/aflynn/Canonical/Juju/juju/domain/network}" type="462c0819:PsiDirectoryNode" />
-              <item name="dir{file:///home/aflynn/Canonical/Juju/juju/domain/network/state}" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="juju" type="b2602c69:ProjectViewProjectNode" />
-              <item name="dir{file:///home/aflynn/Canonical/Juju/juju}" type="462c0819:PsiDirectoryNode" />
-              <item name="dir{file:///home/aflynn/Canonical/Juju/juju/domain}" type="462c0819:PsiDirectoryNode" />
-              <item name="dir{file:///home/aflynn/Canonical/Juju/juju/domain/permission}" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="juju" type="b2602c69:ProjectViewProjectNode" />
-              <item name="dir{file:///home/aflynn/Canonical/Juju/juju}" type="462c0819:PsiDirectoryNode" />
-              <item name="dir{file:///home/aflynn/Canonical/Juju/juju/domain}" type="462c0819:PsiDirectoryNode" />
-              <item name="dir{file:///home/aflynn/Canonical/Juju/juju/domain/permission}" type="462c0819:PsiDirectoryNode" />
-              <item name="dir{file:///home/aflynn/Canonical/Juju/juju/domain/permission/state}" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="juju" type="b2602c69:ProjectViewProjectNode" />
-              <item name="dir{file:///home/aflynn/Canonical/Juju/juju}" type="462c0819:PsiDirectoryNode" />
-              <item name="dir{file:///home/aflynn/Canonical/Juju/juju/internal}" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="juju" type="b2602c69:ProjectViewProjectNode" />
-              <item name="dir{file:///home/aflynn/Canonical/Juju/juju}" type="462c0819:PsiDirectoryNode" />
-              <item name="dir{file:///home/aflynn/Canonical/Juju/juju/internal}" type="462c0819:PsiDirectoryNode" />
-              <item name="dir{file:///home/aflynn/Canonical/Juju/juju/internal/changestream}" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="juju" type="b2602c69:ProjectViewProjectNode" />
-              <item name="dir{file:///home/aflynn/Canonical/Juju/juju}" type="462c0819:PsiDirectoryNode" />
-              <item name="dir{file:///home/aflynn/Canonical/Juju/juju/internal}" type="462c0819:PsiDirectoryNode" />
-              <item name="dir{file:///home/aflynn/Canonical/Juju/juju/internal/changestream}" type="462c0819:PsiDirectoryNode" />
-              <item name="dir{file:///home/aflynn/Canonical/Juju/juju/internal/changestream/eventmultiplexer}" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="juju" type="b2602c69:ProjectViewProjectNode" />
-              <item name="dir{file:///home/aflynn/Canonical/Juju/juju}" type="462c0819:PsiDirectoryNode" />
-              <item name="dir{file:///home/aflynn/Canonical/Juju/juju/internal}" type="462c0819:PsiDirectoryNode" />
-              <item name="dir{file:///home/aflynn/Canonical/Juju/juju/internal/changestream}" type="462c0819:PsiDirectoryNode" />
-              <item name="dir{file:///home/aflynn/Canonical/Juju/juju/internal/changestream/stream}" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="juju" type="b2602c69:ProjectViewProjectNode" />
-              <item name="dir{file:///home/aflynn/Canonical/Juju/juju}" type="462c0819:PsiDirectoryNode" />
-              <item name="dir{file:///home/aflynn/Canonical/Juju/juju/rpc}" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="juju" type="b2602c69:ProjectViewProjectNode" />
-              <item name="dir{file:///home/aflynn/Canonical/Juju/juju}" type="462c0819:PsiDirectoryNode" />
-              <item name="dir{file:///home/aflynn/Canonical/Juju/juju/rpc}" type="462c0819:PsiDirectoryNode" />
-              <item name="dir{file:///home/aflynn/Canonical/Juju/juju/rpc/params}" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="juju" type="b2602c69:ProjectViewProjectNode" />
-              <item name="dir{file:///home/aflynn/Canonical/Juju/juju}" type="462c0819:PsiDirectoryNode" />
-              <item name="dir{file:///home/aflynn/Canonical/Juju/juju/state}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/aflynn/Canonical/Juju/juju/apiserver}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/aflynn/Canonical/Juju/juju/apiserver/authentication}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/aflynn/Canonical/Juju/juju/apiserver/authentication/jwt}" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -423,16 +369,16 @@
   </component>
   <component name="RunConfigurationStartHistory">
     <history>
-      <element setting="Go Test.go test state" />
-      <element setting="Go Test.stateSuite.TestSetAnnotationsUnset in github.com/juju/juju/domain/annotation/state" />
-      <element setting="Go Test.stateSuite.TestStateBasePrepareKeyClash in github.com/juju/juju/domain" />
-      <element setting="Go Test.gocheck state_test.go" />
-      <element setting="Go Test.validatorSuite.TestValidatePlacementSuccessToLXD in github.com/juju/juju/apiserver/facades/client/application" />
-      <element setting="Go Test.StateSuite.TestAddApplicationWithSpecifiedBindings in github.com/juju/juju/state (1)" />
-      <element setting="Go Test.StateSuite.TestAddApplicationContainerOnMachinePlacementWithChannel in github.com/juju/juju/state (3)" />
-      <element setting="Go Test.StateSuite.TestAddApplicationWithSpecifiedBindings in github.com/juju/juju/state" />
-      <element setting="Go Test.StateSuite.TestAddApplicationContainerOnMachinePlacementWithChannel in github.com/juju/juju/state (2)" />
-      <element setting="Go Test.StateSuite.TestAddApplicationContainerOnMachinePlacementWithChannel in github.com/juju/juju/state (1)" />
+      <element setting="Go Test.stateSuite.TestPutMetadataConflict in github.com/juju/juju/domain/objectstore/state" />
+      <element setting="Go Test.stateSuite.TestPutMetadataWithSameHashAndSize in github.com/juju/juju/domain/objectstore/state (1)" />
+      <element setting="Go Test.stateSuite.TestPutMetadataWithSameHashAndSize in github.com/juju/juju/domain/objectstore/state" />
+      <element setting="Go Test.stateSuite.TestPutMetadataWithDifferentHashes in github.com/juju/juju/domain/objectstore/state" />
+      <element setting="Go Test.stateSuite.TestRemoveMetadataCleansUpEverything in github.com/juju/juju/domain/objectstore/state" />
+      <element setting="Go Test.stateSuite.TestControllersForModels in github.com/juju/juju/domain/externalcontroller/state (1)" />
+      <element setting="Go Test.stateSuite.TestControllersForModels in github.com/juju/juju/domain/externalcontroller/state" />
+      <element setting="Go Test.baseSelectorSuite.TestCharmBase in github.com/juju/juju/core/charm" />
+      <element setting="Go Test.RegisterSuite.TestAPIOpenError in github.com/juju/juju/cmd/juju/controller (1)" />
+      <element setting="Go Test.RegisterSuite.TestAPIOpenError in github.com/juju/juju/cmd/juju/controller" />
     </history>
   </component>
   <component name="ServiceViewManager">
@@ -443,7 +389,7 @@
             <expand>
               <path>
                 <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
-                <item name="com.intellij.docker.runtimes.DockerServerRuntime@b93e268d" type="9fbbdea:ServiceModel$ServiceNode" />
+                <item name="com.intellij.docker.runtimes.DockerServerRuntime@34c59362" type="9fbbdea:ServiceModel$ServiceNode" />
               </path>
             </expand>
             <select />
@@ -454,512 +400,611 @@
   </component>
   <component name="TerminalArrangementManager">
     <option name="myTabStates">
-      <TerminalTabState tabName="Local" currentWorkingDirectory="$PROJECT_DIR$/domain">
+      <TerminalTabState tabName="Local" currentWorkingDirectory="$PROJECT_DIR$/bug-report-juju-upgrade-error-state-missing-event-vm" />
+      <TerminalTabState tabName="Local (2)" currentWorkingDirectory="$PROJECT_DIR$/peer-relation-test-charm" />
+      <TerminalTabState tabName="Local (4)" currentWorkingDirectory="$PROJECT_DIR$" />
+      <TerminalTabState tabName="Local (6)" currentWorkingDirectory="$PROJECT_DIR$/worker/uniter/resolver" />
+      <TerminalTabState tabName="Local (7)" currentWorkingDirectory="$PROJECT_DIR$">
         <shellCommand>
           <arg value="/usr/bin/zsh" />
           <arg value="-i" />
         </shellCommand>
       </TerminalTabState>
-      <TerminalTabState tabName="Local (4)" currentWorkingDirectory="$PROJECT_DIR$" />
     </option>
+    <option name="mySelectedTabIndex" value="4" />
   </component>
   <component name="TestHistory">
-    <history-entry file="validatorSuite_TestValidatePlacementSuccessToLXD_in_github_com_juju_juju_apiserver_facades_client_application - 2024.03.13 at 16h 33m 44s.xml">
-      <configuration name="validatorSuite.TestValidatePlacementSuccessToLXD in github.com/juju/juju/apiserver/facades/client/application" configurationId="GoTestRunConfiguration" />
+    <history-entry file="stateSuite_TestPutMetadataWithSameHashAndSize_in_github_com_juju_juju_domain_objectstore_state - 2024.06.18 at 11h 25m 49s.xml">
+      <configuration name="stateSuite.TestPutMetadataWithSameHashAndSize in github.com/juju/juju/domain/objectstore/state" configurationId="GoTestRunConfiguration" />
     </history-entry>
-    <history-entry file="validatorSuite_TestValidatePlacementSuccessToLXD_in_github_com_juju_juju_apiserver_facades_client_application - 2024.03.13 at 16h 36m 54s.xml">
-      <configuration name="validatorSuite.TestValidatePlacementSuccessToLXD in github.com/juju/juju/apiserver/facades/client/application" configurationId="GoTestRunConfiguration" />
+    <history-entry file="stateSuite_TestPutMetadataWithSameHashAndSize_in_github_com_juju_juju_domain_objectstore_state - 2024.06.18 at 11h 26m 44s.xml">
+      <configuration name="stateSuite.TestPutMetadataWithSameHashAndSize in github.com/juju/juju/domain/objectstore/state" configurationId="GoTestRunConfiguration" />
     </history-entry>
-    <history-entry file="validatorSuite_TestValidatePlacementSuccessToLXD_in_github_com_juju_juju_apiserver_facades_client_application - 2024.03.13 at 16h 38m 29s.xml">
-      <configuration name="validatorSuite.TestValidatePlacementSuccessToLXD in github.com/juju/juju/apiserver/facades/client/application" configurationId="GoTestRunConfiguration" />
+    <history-entry file="stateSuite_TestPutMetadataWithSameHashAndSize_in_github_com_juju_juju_domain_objectstore_state_(1) - 2024.06.18 at 11h 26m 48s.xml">
+      <configuration name="stateSuite.TestPutMetadataWithSameHashAndSize in github.com/juju/juju/domain/objectstore/state (1)" configurationId="GoTestRunConfiguration" />
     </history-entry>
-    <history-entry file="validatorSuite_TestValidatePlacementSuccessToLXD_in_github_com_juju_juju_apiserver_facades_client_application - 2024.03.13 at 16h 48m 14s.xml">
-      <configuration name="validatorSuite.TestValidatePlacementSuccessToLXD in github.com/juju/juju/apiserver/facades/client/application" configurationId="GoTestRunConfiguration" />
+    <history-entry file="stateSuite_TestPutMetadataConflict_in_github_com_juju_juju_domain_objectstore_state - 2024.06.18 at 11h 28m 32s.xml">
+      <configuration name="stateSuite.TestPutMetadataConflict in github.com/juju/juju/domain/objectstore/state" configurationId="GoTestRunConfiguration" />
     </history-entry>
-    <history-entry file="validatorSuite_TestValidatePlacementSuccessToLXD_in_github_com_juju_juju_apiserver_facades_client_application - 2024.03.18 at 14h 52m 40s.xml">
-      <configuration name="validatorSuite.TestValidatePlacementSuccessToLXD in github.com/juju/juju/apiserver/facades/client/application" configurationId="GoTestRunConfiguration" />
+    <history-entry file="stateSuite_TestPutMetadataConflict_in_github_com_juju_juju_domain_objectstore_state - 2024.06.18 at 11h 29m 19s.xml">
+      <configuration name="stateSuite.TestPutMetadataConflict in github.com/juju/juju/domain/objectstore/state" configurationId="GoTestRunConfiguration" />
     </history-entry>
-    <history-entry file="gocheck_state_test_go - 2024.03.18 at 14h 53m 04s.xml">
-      <configuration name="gocheck state_test.go" configurationId="GoTestRunConfiguration" />
+    <history-entry file="stateSuite_TestPutMetadataConflict_in_github_com_juju_juju_domain_objectstore_state - 2024.06.18 at 11h 30m 04s.xml">
+      <configuration name="stateSuite.TestPutMetadataConflict in github.com/juju/juju/domain/objectstore/state" configurationId="GoTestRunConfiguration" />
     </history-entry>
-    <history-entry file="stateSuite_TestStateBasePrepareKeyClash_in_github_com_juju_juju_domain - 2024.03.18 at 14h 54m 17s.xml">
-      <configuration name="stateSuite.TestStateBasePrepareKeyClash in github.com/juju/juju/domain" configurationId="GoTestRunConfiguration" />
+    <history-entry file="stateSuite_TestPutMetadataConflict_in_github_com_juju_juju_domain_objectstore_state - 2024.06.18 at 11h 30m 57s.xml">
+      <configuration name="stateSuite.TestPutMetadataConflict in github.com/juju/juju/domain/objectstore/state" configurationId="GoTestRunConfiguration" />
     </history-entry>
-    <history-entry file="go_test_state - 2024.03.18 at 14h 56m 02s.xml">
-      <configuration name="go test state" configurationId="GoTestRunConfiguration" />
+    <history-entry file="stateSuite_TestPutMetadataConflict_in_github_com_juju_juju_domain_objectstore_state - 2024.06.18 at 11h 33m 13s.xml">
+      <configuration name="stateSuite.TestPutMetadataConflict in github.com/juju/juju/domain/objectstore/state" configurationId="GoTestRunConfiguration" />
     </history-entry>
-    <history-entry file="stateSuite_TestSetAnnotationsUnset_in_github_com_juju_juju_domain_annotation_state - 2024.03.18 at 15h 45m 35s.xml">
-      <configuration name="stateSuite.TestSetAnnotationsUnset in github.com/juju/juju/domain/annotation/state" configurationId="GoTestRunConfiguration" />
+    <history-entry file="stateSuite_TestPutMetadataConflict_in_github_com_juju_juju_domain_objectstore_state - 2024.06.18 at 11h 33m 26s.xml">
+      <configuration name="stateSuite.TestPutMetadataConflict in github.com/juju/juju/domain/objectstore/state" configurationId="GoTestRunConfiguration" />
     </history-entry>
-    <history-entry file="go_test_state - 2024.03.18 at 15h 50m 09s.xml">
-      <configuration name="go test state" configurationId="GoTestRunConfiguration" />
+    <history-entry file="stateSuite_TestPutMetadataConflict_in_github_com_juju_juju_domain_objectstore_state - 2024.06.18 at 11h 35m 32s.xml">
+      <configuration name="stateSuite.TestPutMetadataConflict in github.com/juju/juju/domain/objectstore/state" configurationId="GoTestRunConfiguration" />
     </history-entry>
   </component>
   <component name="ToolWindowManager">
     <layoutV2>
-      <window_info id="Bookmarks" show_stripe_button="false" side_tool="true" />
+      <window_info id="Bookmarks" side_tool="true" weight="0.15442708" />
       <window_info id="Merge Requests" show_stripe_button="false" />
       <window_info id="Pull Requests" show_stripe_button="false" />
       <window_info id="Learn" show_stripe_button="false" />
       <window_info id="DFA" show_stripe_button="false" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.1861979" />
-      <window_info id="Commit" order="1" weight="0.16015625" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.18932292" />
+      <window_info id="Commit" order="1" weight="0.18932292" />
       <window_info id="Structure" order="2" side_tool="true" weight="0.16015625" />
       <window_info anchor="bottom" id="Database Changes" show_stripe_button="false" />
       <window_info anchor="bottom" id="TypeScript" show_stripe_button="false" />
       <window_info anchor="bottom" id="TODO" show_stripe_button="false" />
       <window_info anchor="bottom" id="File Transfer" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Find" weight="0.2447519" />
-      <window_info anchor="bottom" id="Version Control" order="0" weight="0.36879772" />
+      <window_info anchor="bottom" id="Version Control" order="0" weight="0.34589696" />
       <window_info anchor="bottom" id="Problems" order="1" />
-      <window_info anchor="bottom" id="Problems View" order="2" weight="0.33540076" />
-      <window_info active="true" anchor="bottom" x="84" y="347" width="1836" height="261" id="Terminal" order="3" visible="true" weight="0.22089696" />
-      <window_info anchor="bottom" id="Python Packages" order="4" weight="0.3020038" />
-      <window_info anchor="bottom" id="Run" order="5" weight="0.48998094" />
-      <window_info anchor="bottom" id="Services" order="6" weight="0.36879772" />
+      <window_info anchor="bottom" id="Problems View" order="2" weight="0.3754771" />
+      <window_info anchor="bottom" id="Python Packages" order="3" weight="0.35925573" />
+      <window_info anchor="bottom" id="Run" order="4" show_stripe_button="false" weight="0.3678435" />
+      <window_info anchor="bottom" id="Debug" order="5" show_stripe_button="false" weight="0.3678435" />
+      <window_info anchor="bottom" id="Services" order="6" weight="0.48616412" />
+      <window_info active="true" anchor="bottom" x="84" y="383" width="1836" height="261" id="Terminal" order="7" visible="true" weight="0.34589696" />
+      <window_info anchor="bottom" id="Find" order="8" weight="0.60925573" />
       <window_info anchor="right" id="Endpoints" show_stripe_button="false" />
       <window_info anchor="right" id="make" show_stripe_button="false" side_tool="true" />
       <window_info anchor="right" id="documentation.v2" show_stripe_button="false" side_tool="true" />
-      <window_info anchor="right" id="Notifications" order="0" weight="0.32994792" />
+      <window_info anchor="right" id="Notifications" order="0" weight="0.2502604" />
       <window_info anchor="right" id="AIAssistant" order="1" weight="0.25" />
-      <window_info anchor="right" id="Database" order="2" weight="0.25" />
+      <window_info anchor="right" id="Database" order="2" weight="0.2502604" />
       <window_info anchor="right" id="Gradle" order="3" weight="0.25" />
       <window_info anchor="right" id="Maven" order="4" weight="0.25" />
       <window_info anchor="right" id="Coverage" order="5" side_tool="true" />
-      <unified_weights bottom="0.22089696" left="0.1861979" right="0.32994792" />
+      <window_info anchor="right" id="Python Console" order="6" />
+      <unified_weights bottom="0.34589696" left="0.18932292" right="0.2502604" />
     </layoutV2>
+    <layout-to-restore>
+      <window_info id="Bookmarks" side_tool="true" weight="0.15442708" />
+      <window_info id="Merge Requests" show_stripe_button="false" />
+      <window_info id="Pull Requests" show_stripe_button="false" />
+      <window_info id="Learn" show_stripe_button="false" />
+      <window_info id="DFA" show_stripe_button="false" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.18932292" />
+      <window_info id="Commit" order="1" weight="0.18932292" />
+      <window_info id="Structure" order="2" side_tool="true" weight="0.16015625" />
+      <window_info anchor="bottom" id="Database Changes" show_stripe_button="false" />
+      <window_info anchor="bottom" id="TypeScript" show_stripe_button="false" />
+      <window_info anchor="bottom" id="TODO" show_stripe_button="false" />
+      <window_info anchor="bottom" id="File Transfer" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="0" weight="0.35543895" />
+      <window_info anchor="bottom" id="Problems" order="1" />
+      <window_info anchor="bottom" id="Problems View" order="2" weight="0.3754771" />
+      <window_info anchor="bottom" id="Python Packages" order="3" weight="0.35925573" />
+      <window_info anchor="bottom" id="Run" order="4" weight="0.35925573" />
+      <window_info anchor="bottom" id="Debug" order="5" weight="0.39933205" />
+      <window_info anchor="bottom" id="Services" order="6" weight="0.48616412" />
+      <window_info active="true" anchor="bottom" x="84" y="555" width="1836" height="261" id="Terminal" order="7" visible="true" weight="0.35925573" />
+      <window_info anchor="bottom" id="Find" order="8" show_stripe_button="false" weight="0.39933205" />
+      <window_info anchor="right" id="Endpoints" show_stripe_button="false" />
+      <window_info anchor="right" id="make" show_stripe_button="false" side_tool="true" />
+      <window_info anchor="right" id="documentation.v2" show_stripe_button="false" side_tool="true" />
+      <window_info anchor="right" id="Notifications" order="0" weight="0.2502604" />
+      <window_info anchor="right" id="AIAssistant" order="1" weight="0.25" />
+      <window_info anchor="right" id="Database" order="2" weight="0.2502604" />
+      <window_info anchor="right" id="Gradle" order="3" weight="0.25" />
+      <window_info anchor="right" id="Maven" order="4" weight="0.25" />
+      <window_info anchor="right" id="Coverage" order="5" side_tool="true" />
+      <window_info anchor="right" id="Python Console" order="6" />
+      <unified_weights bottom="0.35925573" left="0.18932292" right="0.2502604" />
+    </layout-to-restore>
     <recentWindows>
       <value>Terminal</value>
-      <value>Run</value>
       <value>Project</value>
-      <value>Problems View</value>
+      <value>Version Control</value>
       <value>Find</value>
-      <value>Notifications</value>
-      <value>Structure</value>
+      <value>Debug</value>
+      <value>Run</value>
+      <value>Commit</value>
       <value>Python Packages</value>
       <value>Services</value>
-      <value>Commit</value>
-      <value>Version Control</value>
+      <value>Problems View</value>
+      <value>Database</value>
+      <value>Notifications</value>
+      <value>Bookmarks</value>
+      <value>Structure</value>
     </recentWindows>
   </component>
   <component name="WindowStateProjectService">
-    <state x="755" y="488" width="410" height="143" key="#GOROOT" timestamp="1709590633433">
+    <state x="740" y="211" width="842" height="697" key="#Grammar_and_Style" timestamp="1713520326549">
       <screen x="0" y="32" width="1920" height="1048" />
     </state>
-    <state x="755" y="488" width="410" height="143" key="#GOROOT/0.32.1920.1048@0.32.1920.1048" timestamp="1709590633433" />
-    <state x="740" y="211" width="842" height="697" key="#Grammar_and_Style" timestamp="1710432071829">
+    <state x="740" y="211" width="842" height="697" key="#Grammar_and_Style/0.32.1920.1048@0.32.1920.1048" timestamp="1713520326549" />
+    <state x="589" y="233" width="732" height="652" key="#Inspections" timestamp="1718631777188">
       <screen x="0" y="32" width="1920" height="1048" />
     </state>
-    <state x="740" y="211" width="842" height="697" key="#Grammar_and_Style/0.32.1920.1048@0.32.1920.1048" timestamp="1710432071829" />
-    <state x="555" y="217" width="800" height="684" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1708448400227">
+    <state x="589" y="233" width="732" height="652" key="#Inspections/0.32.1920.1048@0.32.1920.1048" timestamp="1718631777188" />
+    <state x="305" y="384" width="1299" height="350" key="#SQL_Dialects" timestamp="1713858763749">
       <screen x="0" y="32" width="1920" height="1048" />
     </state>
-    <state x="555" y="217" width="800" height="684" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.32.1920.1048@0.32.1920.1048" timestamp="1708448400227" />
-    <state x="558" y="338" width="794" height="443" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1709050283390">
+    <state x="305" y="384" width="1299" height="350" key="#SQL_Dialects/0.32.1920.1048@0.32.1920.1048" timestamp="1713858763749" />
+    <state x="555" y="217" width="800" height="684" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1713858782765">
       <screen x="0" y="32" width="1920" height="1048" />
     </state>
-    <state x="558" y="338" width="794" height="443" key="#com.intellij.fileTypes.FileTypeChooser/0.32.1920.1048@0.32.1920.1048" timestamp="1709050283390" />
-    <state x="742" y="269" width="424" height="591" key="#com.intellij.ide.macro.MacrosDialog" timestamp="1708425724667">
+    <state x="555" y="217" width="800" height="684" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.32.1920.1048@0.32.1920.1048" timestamp="1713858782765" />
+    <state x="742" y="322" width="424" height="491" key="FileChooserDialogImpl" timestamp="1719579910764">
       <screen x="0" y="32" width="1920" height="1048" />
     </state>
-    <state x="742" y="269" width="424" height="591" key="#com.intellij.ide.macro.MacrosDialog/0.32.1920.1048@0.32.1920.1048" timestamp="1708425724667" />
-    <state x="621" y="188" width="676" height="753" key="EditFileWatcherDialog" timestamp="1708611029108">
+    <state x="742" y="322" width="424" height="491" key="FileChooserDialogImpl/0.32.1920.1048@0.32.1920.1048" timestamp="1719579910764" />
+    <state x="2662" y="332" width="424" height="491" key="FileChooserDialogImpl/0.607.1920.1048/1920.0.1920.1200@1920.0.1920.1200" timestamp="1712769017107" />
+    <state width="1838" height="343" key="GridCell.Tab.0.bottom" timestamp="1718995017650">
       <screen x="0" y="32" width="1920" height="1048" />
     </state>
-    <state x="621" y="188" width="676" height="753" key="EditFileWatcherDialog/0.32.1920.1048@0.32.1920.1048" timestamp="1708611029108" />
-    <state x="742" y="322" width="476" height="563" key="FileChooserDialogImpl" timestamp="1710441351823">
+    <state width="1838" height="343" key="GridCell.Tab.0.bottom/0.32.1920.1048@0.32.1920.1048" timestamp="1718995017650" />
+    <state width="1838" height="360" key="GridCell.Tab.0.bottom/0.607.1920.1048/1920.0.1920.1200@1920.0.1920.1200" timestamp="1712761429741" />
+    <state width="1838" height="343" key="GridCell.Tab.0.center" timestamp="1718995017650">
       <screen x="0" y="32" width="1920" height="1048" />
     </state>
-    <state x="2662" y="332" width="476" height="563" key="FileChooserDialogImpl/0.32.1920.1048/1920.0.1920.1200@1920.0.1920.1200" timestamp="1709141245136" />
-    <state x="742" y="322" width="424" height="491" key="FileChooserDialogImpl/0.32.1920.1048@0.32.1920.1048" timestamp="1710441351823" />
-    <state x="390" y="32" width="1520" height="1048" key="FileDocumentManager.FileCacheConflict" timestamp="1708428126816">
+    <state width="1838" height="343" key="GridCell.Tab.0.center/0.32.1920.1048@0.32.1920.1048" timestamp="1718995017650" />
+    <state width="1838" height="360" key="GridCell.Tab.0.center/0.607.1920.1048/1920.0.1920.1200@1920.0.1920.1200" timestamp="1712761429741" />
+    <state width="1838" height="343" key="GridCell.Tab.0.left" timestamp="1718995017650">
       <screen x="0" y="32" width="1920" height="1048" />
     </state>
-    <state x="390" y="32" width="1520" height="1048" key="FileDocumentManager.FileCacheConflict/0.32.1920.1048@0.32.1920.1048" timestamp="1708428126816" />
-    <state width="1838" height="309" key="GridCell.Tab.0.bottom" timestamp="1710851782530">
+    <state width="1838" height="343" key="GridCell.Tab.0.left/0.32.1920.1048@0.32.1920.1048" timestamp="1718995017650" />
+    <state width="1838" height="360" key="GridCell.Tab.0.left/0.607.1920.1048/1920.0.1920.1200@1920.0.1920.1200" timestamp="1712761429741" />
+    <state width="1838" height="343" key="GridCell.Tab.0.right" timestamp="1718995017650">
       <screen x="0" y="32" width="1920" height="1048" />
     </state>
-    <state width="1838" height="318" key="GridCell.Tab.0.bottom/0.32.1920.1048/1920.0.1920.1200@1920.0.1920.1200" timestamp="1709141167228" />
-    <state width="1838" height="309" key="GridCell.Tab.0.bottom/0.32.1920.1048@0.32.1920.1048" timestamp="1710851782530" />
-    <state width="1838" height="309" key="GridCell.Tab.0.center" timestamp="1710851782530">
+    <state width="1838" height="343" key="GridCell.Tab.0.right/0.32.1920.1048@0.32.1920.1048" timestamp="1718995017650" />
+    <state width="1838" height="360" key="GridCell.Tab.0.right/0.607.1920.1048/1920.0.1920.1200@1920.0.1920.1200" timestamp="1712761429741" />
+    <state width="1838" height="343" key="GridCell.Tab.1.bottom" timestamp="1718995017650">
       <screen x="0" y="32" width="1920" height="1048" />
     </state>
-    <state width="1838" height="318" key="GridCell.Tab.0.center/0.32.1920.1048/1920.0.1920.1200@1920.0.1920.1200" timestamp="1709141167228" />
-    <state width="1838" height="309" key="GridCell.Tab.0.center/0.32.1920.1048@0.32.1920.1048" timestamp="1710851782530" />
-    <state width="1838" height="309" key="GridCell.Tab.0.left" timestamp="1710851782530">
+    <state width="1838" height="343" key="GridCell.Tab.1.bottom/0.32.1920.1048@0.32.1920.1048" timestamp="1718995017650" />
+    <state width="1838" height="343" key="GridCell.Tab.1.center" timestamp="1718995017650">
       <screen x="0" y="32" width="1920" height="1048" />
     </state>
-    <state width="1838" height="318" key="GridCell.Tab.0.left/0.32.1920.1048/1920.0.1920.1200@1920.0.1920.1200" timestamp="1709141167228" />
-    <state width="1838" height="309" key="GridCell.Tab.0.left/0.32.1920.1048@0.32.1920.1048" timestamp="1710851782530" />
-    <state width="1838" height="309" key="GridCell.Tab.0.right" timestamp="1710851782530">
+    <state width="1838" height="343" key="GridCell.Tab.1.center/0.32.1920.1048@0.32.1920.1048" timestamp="1718995017650" />
+    <state width="1838" height="343" key="GridCell.Tab.1.left" timestamp="1718995017650">
       <screen x="0" y="32" width="1920" height="1048" />
     </state>
-    <state width="1838" height="318" key="GridCell.Tab.0.right/0.32.1920.1048/1920.0.1920.1200@1920.0.1920.1200" timestamp="1709141167228" />
-    <state width="1838" height="309" key="GridCell.Tab.0.right/0.32.1920.1048@0.32.1920.1048" timestamp="1710851782530" />
-    <state x="187" y="122" width="1536" height="875" key="MergeDialog" timestamp="1709214274882">
+    <state width="1838" height="343" key="GridCell.Tab.1.left/0.32.1920.1048@0.32.1920.1048" timestamp="1718995017650" />
+    <state width="1838" height="343" key="GridCell.Tab.1.right" timestamp="1718995017650">
       <screen x="0" y="32" width="1920" height="1048" />
     </state>
-    <state x="187" y="122" width="1536" height="875" key="MergeDialog/0.32.1920.1048@0.32.1920.1048" timestamp="1709214274882" />
-    <state x="456" y="191" width="910" height="805" key="SettingsEditor" timestamp="1710257783549">
+    <state width="1838" height="343" key="GridCell.Tab.1.right/0.32.1920.1048@0.32.1920.1048" timestamp="1718995017650" />
+    <state x="187" y="122" width="1536" height="875" maximized="true" key="MergeDialog" timestamp="1718781303329">
       <screen x="0" y="32" width="1920" height="1048" />
     </state>
-    <state x="456" y="191" width="910" height="805" key="SettingsEditor/0.32.1920.1048@0.32.1920.1048" timestamp="1710257783549" />
-    <state width="254" height="198" key="ShowFilterAction_Filter_Popup" timestamp="1710776864567">
+    <state x="187" y="122" width="1536" height="875" maximized="true" key="MergeDialog/0.32.1920.1048@0.32.1920.1048" timestamp="1718781303329" />
+    <state x="187" y="697" width="1536" height="875" key="MergeDialog/0.607.1920.1048/1920.0.1920.1200@0.607.1920.1048" timestamp="1717167543135" />
+    <state x="573" y="313" width="763" height="493" key="MultipleFileMergeDialog" timestamp="1718024175159">
       <screen x="0" y="32" width="1920" height="1048" />
     </state>
-    <state width="254" height="198" key="ShowFilterAction_Filter_Popup/0.32.1920.1048@0.32.1920.1048" timestamp="1710776864567" />
-    <state x="692" y="267" width="524" height="591" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1710797372823">
+    <state x="573" y="313" width="763" height="493" key="MultipleFileMergeDialog/0.32.1920.1048@0.32.1920.1048" timestamp="1718024175159" />
+    <state x="456" y="191" width="910" height="805" key="SettingsEditor" timestamp="1718961425131">
       <screen x="0" y="32" width="1920" height="1048" />
     </state>
-    <state x="2612" y="269" width="524" height="591" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.32.1920.1048/1920.0.1920.1200@1920.0.1920.1200" timestamp="1709124848471" />
-    <state x="692" y="267" width="524" height="591" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.32.1920.1048@0.32.1920.1048" timestamp="1710797372823" />
-    <state x="754" y="476" width="402" height="167" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1709214977370">
+    <state x="456" y="191" width="910" height="805" key="SettingsEditor/0.32.1920.1048@0.32.1920.1048" timestamp="1718961425131" />
+    <state x="2376" y="182" key="SettingsEditor/0.607.1920.1048/1920.0.1920.1200@1920.0.1920.1200" timestamp="1712746391290" />
+    <state x="100" y="132" width="1720" height="848" key="VCS.FileHistoryDialog" timestamp="1718781303329">
       <screen x="0" y="32" width="1920" height="1048" />
     </state>
-    <state x="754" y="476" width="402" height="167" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.32.1920.1048@0.32.1920.1048" timestamp="1709214977370" />
-    <state x="736" y="246" width="673" height="630" key="find.popup" timestamp="1709023778732">
+    <state x="100" y="132" width="1720" height="848" key="VCS.FileHistoryDialog/0.32.1920.1048@0.32.1920.1048" timestamp="1718781303329" />
+    <state x="650" y="319" width="868" height="564" key="Vcs.Multiple.Commit.Info.Dialog.Key" timestamp="1718014068491">
       <screen x="0" y="32" width="1920" height="1048" />
     </state>
-    <state x="736" y="246" width="673" height="630" key="find.popup/0.32.1920.1048@0.32.1920.1048" timestamp="1709023778732" />
-    <state x="706" y="275" width="498" height="569" key="git4idea.branch.GitSmartOperationDialog" timestamp="1709214223939">
+    <state x="650" y="319" width="868" height="564" key="Vcs.Multiple.Commit.Info.Dialog.Key/0.32.1920.1048@0.32.1920.1048" timestamp="1718014068491" />
+    <state x="100" y="132" width="1720" height="848" key="com.intellij.history.integration.ui.views.FileHistoryDialog" timestamp="1718781303329">
       <screen x="0" y="32" width="1920" height="1048" />
     </state>
-    <state x="706" y="275" width="498" height="569" key="git4idea.branch.GitSmartOperationDialog/0.32.1920.1048@0.32.1920.1048" timestamp="1709214223939" />
-    <state x="624" y="257" width="672" height="707" key="run.anything.popup" timestamp="1710795287936">
+    <state x="100" y="132" width="1720" height="848" key="com.intellij.history.integration.ui.views.FileHistoryDialog/0.32.1920.1048@0.32.1920.1048" timestamp="1718781303329" />
+    <state x="100" y="132" width="1720" height="848" key="com.intellij.history.integration.ui.views.SelectionHistoryDialog" timestamp="1718781303329">
       <screen x="0" y="32" width="1920" height="1048" />
     </state>
-    <state x="624" y="257" width="672" height="707" key="run.anything.popup/0.32.1920.1048@0.32.1920.1048" timestamp="1710795287936" />
-    <state x="554" y="226" width="800" height="684" key="scopes" timestamp="1708425683184">
+    <state x="100" y="132" width="1720" height="848" key="com.intellij.history.integration.ui.views.SelectionHistoryDialog/0.32.1920.1048@0.32.1920.1048" timestamp="1718781303329" />
+    <state x="692" y="267" width="524" height="595" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1718799362837">
       <screen x="0" y="32" width="1920" height="1048" />
     </state>
-    <state x="554" y="226" width="800" height="684" key="scopes/0.32.1920.1048@0.32.1920.1048" timestamp="1708425683184" />
-    <state x="623" y="254" width="692" height="692" key="search.everywhere.popup" timestamp="1710851736216">
+    <state x="692" y="267" width="524" height="591" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.32.1920.1048@0.32.1920.1048" timestamp="1718799362837" />
+    <state x="692" y="842" width="524" height="595" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.607.1920.1048/1920.0.1920.1200@0.607.1920.1048" timestamp="1714660757486" />
+    <state x="2612" y="269" width="524" height="591" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.607.1920.1048/1920.0.1920.1200@1920.0.1920.1200" timestamp="1712748982391" />
+    <state x="738" y="229" width="445" height="660" key="conflicts.dialog" timestamp="1714726244283">
       <screen x="0" y="32" width="1920" height="1048" />
     </state>
-    <state x="2543" y="254" width="692" height="793" key="search.everywhere.popup/0.32.1920.1048/1920.0.1920.1200@1920.0.1920.1200" timestamp="1709141530960" />
-    <state x="623" y="254" width="692" height="692" key="search.everywhere.popup/0.32.1920.1048@0.32.1920.1048" timestamp="1710851736216" />
-    <state x="685" y="466" width="540" height="187" key="vcs.readOnlyHandler.ReadOnlyStatusDialog" timestamp="1709757848015">
+    <state x="738" y="229" width="445" height="660" key="conflicts.dialog/0.32.1920.1048@0.32.1920.1048" timestamp="1714726244283" />
+    <state x="479" y="185" width="1542" height="651" key="dock-window-1" timestamp="1714034150256">
       <screen x="0" y="32" width="1920" height="1048" />
     </state>
-    <state x="685" y="466" width="540" height="187" key="vcs.readOnlyHandler.ReadOnlyStatusDialog/0.32.1920.1048@0.32.1920.1048" timestamp="1709757848015" />
+    <state x="479" y="185" width="1542" height="651" key="dock-window-1/0.32.1920.1048@0.32.1920.1048" timestamp="1714034150256" />
+    <state x="797" y="321" key="refactoring.ChangeSignatureDialog" timestamp="1714726244298">
+      <screen x="0" y="32" width="1920" height="1048" />
+    </state>
+    <state x="797" y="321" key="refactoring.ChangeSignatureDialog/0.32.1920.1048@0.32.1920.1048" timestamp="1714726244298" />
+    <state x="624" y="257" width="672" height="707" key="run.anything.popup" timestamp="1718630269667">
+      <screen x="0" y="32" width="1920" height="1048" />
+    </state>
+    <state x="624" y="257" width="672" height="707" key="run.anything.popup/0.32.1920.1048@0.32.1920.1048" timestamp="1718630269667" />
+    <state x="623" y="254" width="692" height="692" key="search.everywhere.popup" timestamp="1719926624379">
+      <screen x="0" y="32" width="1920" height="1048" />
+    </state>
+    <state x="623" y="254" width="692" height="692" key="search.everywhere.popup/0.32.1920.1048@0.32.1920.1048" timestamp="1719926624379" />
+    <state x="623" y="829" width="692" height="692" key="search.everywhere.popup/0.607.1920.1048/1920.0.1920.1200@0.607.1920.1048" timestamp="1717167882021" />
+    <state x="2629" y="128" width="692" height="793" key="search.everywhere.popup/0.607.1920.1048/1920.0.1920.1200@1920.0.1920.1200" timestamp="1712760822889" />
+    <state x="685" y="466" width="540" height="187" key="vcs.readOnlyHandler.ReadOnlyStatusDialog" timestamp="1715860291947">
+      <screen x="0" y="32" width="1920" height="1048" />
+    </state>
+    <state x="685" y="466" width="540" height="187" key="vcs.readOnlyHandler.ReadOnlyStatusDialog/0.32.1920.1048@0.32.1920.1048" timestamp="1715860291947" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/domain/controllerconfig/state/state.go">
+    <entry file="file://$PROJECT_DIR$/worker/uniter/operation/executor.go">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="343">
-          <caret line="118" column="23" selection-start-line="118" selection-start-column="23" selection-end-line="118" selection-end-column="23" />
+        <state relative-caret-position="238">
+          <caret line="62" column="4" selection-start-line="62" selection-start-column="4" selection-end-line="62" selection-end-column="4" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/domain/controllernode/state/state.go">
+    <entry file="file://$PROJECT_DIR$/worker/uniter/verifycharmprofile/verifycharmprofile.go">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="543">
-          <caret line="115" selection-start-line="115" selection-end-line="115" />
+        <state relative-caret-position="134">
+          <caret line="37" column="10" lean-forward="true" selection-start-line="37" selection-start-column="10" selection-end-line="37" selection-end-column="10" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/internal/database/statement.go">
+    <entry file="file://$PROJECT_DIR$/worker/uniter/remotestate/state.go">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="557">
-          <caret line="99" column="5" selection-start-line="99" selection-start-column="5" selection-end-line="99" selection-end-column="5" />
+        <state relative-caret-position="-720" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/worker/uniter/manifold.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="325">
+          <caret line="42" column="19" selection-start-line="42" selection-start-column="19" selection-end-line="42" selection-end-column="19" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/domain/credential/state/package_test.go">
-      <provider selected="true" editor-type-id="text-editor" />
+    <entry file="file://$PROJECT_DIR$/worker/uniter/operation/runhook.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="178">
+          <caret line="170" column="20" selection-start-line="170" selection-start-column="20" selection-end-line="170" selection-end-column="20" />
+        </state>
+      </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/domain/credential/state/types.go">
+    <entry file="file://$PROJECT_DIR$/apiserver/common/http.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="181">
+          <caret line="17" column="22" lean-forward="true" selection-start-line="17" selection-start-column="22" selection-end-line="17" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/api/http/http.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1600">
+          <caret line="80" column="4" selection-start-line="80" selection-start-column="4" selection-end-line="80" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/worker/uniter/remotestate/interface.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="15" column="15" selection-start-line="15" selection-start-column="15" selection-end-line="15" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/worker/uniter/remotestate/snapshot.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="480">
+          <caret line="113" column="42" lean-forward="true" selection-start-line="113" selection-start-column="42" selection-end-line="113" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/rpc/params/constants.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="164">
+          <caret line="25" column="11" lean-forward="true" selection-start-line="25" selection-start-column="11" selection-end-line="25" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/rpc/params/internal.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="132">
+          <caret line="178" column="20" lean-forward="true" selection-start-line="178" selection-start-column="20" selection-end-line="178" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cmd/juju/application/resolved.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="977">
+          <caret line="82" selection-start-line="82" selection-end-line="82" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/api/client/application/client.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="260">
+          <caret line="846" column="50" selection-start-line="846" selection-start-column="50" selection-end-line="846" selection-end-column="50" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/apiserver/facades/client/application/application.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="420">
+          <caret line="2502" column="22" lean-forward="true" selection-start-line="2502" selection-start-column="22" selection-end-line="2502" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/apiserver/facades/client/application/backend.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="147">
+          <caret line="194" column="21" selection-start-line="194" selection-start-column="21" selection-end-line="194" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/state/unit.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="500">
+          <caret line="2894" column="17" selection-start-line="2894" selection-start-column="17" selection-end-line="2894" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/apiserver/facades/agent/uniter/uniter.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="732">
+          <caret line="1167" column="8" selection-start-line="1167" selection-start-column="8" selection-end-line="1167" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/worker/uniter/operation/skip.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="352">
+          <caret line="35" selection-start-line="35" selection-end-line="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/worker/uniter/operation/factory.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2400">
+          <caret line="120" column="21" selection-start-line="120" selection-start-column="21" selection-end-line="120" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/worker/uniter/relation/resolver.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="224" column="48" lean-forward="true" selection-start-line="224" selection-start-column="48" selection-end-line="224" selection-end-column="48" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/worker/uniter/operation/interface.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1860">
+          <caret line="93" column="12" selection-start-line="93" selection-start-column="12" selection-end-line="93" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wrench/wrench.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="349">
+          <caret line="48" selection-start-line="48" selection-end-line="48" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/worker/uniter/resolver/interface.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1600">
+          <caret line="80" column="4" selection-start-line="80" selection-start-column="4" selection-end-line="80" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/worker/uniter/resolver/opfactory.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="540">
+          <caret line="27" column="17" selection-start-line="27" selection-start-column="17" selection-end-line="27" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/worker/uniter/uniter.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="10960">
+          <caret line="548" column="24" selection-start-line="548" selection-start-column="24" selection-end-line="548" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/worker/uniter/operation/deploy.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1780">
+          <caret line="89" selection-start-line="89" selection-end-line="89" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/worker/uniter/operation/state.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="349">
+          <caret line="97" selection-start-line="97" selection-end-line="97" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/worker/uniter/resolver/loop.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3100">
+          <caret line="155" column="12" selection-start-line="155" selection-start-column="12" selection-end-line="155" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/worker/uniter/resolver.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="43">
+          <caret line="296" column="64" selection-start-line="296" selection-start-column="64" selection-end-line="296" selection-end-column="64" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/core/database/dbmanager.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="220">
+          <caret line="11" column="4" selection-start-line="11" selection-start-column="4" selection-end-line="11" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/go/pkg/mod/github.com/juju/errors@v1.0.0/functions.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="364">
+          <caret line="145" column="4" selection-start-line="145" selection-start-column="4" selection-end-line="145" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/apiserver/admin.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="560">
+          <caret line="496" column="52" lean-forward="true" selection-start-line="496" selection-start-column="52" selection-end-line="496" selection-end-column="52" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/apiserver/httpcontext.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="344">
+          <caret line="28" column="9" selection-start-line="28" selection-start-column="9" selection-end-line="28" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/apiserver/admin_test.go">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="320">
-          <caret line="72" column="24" selection-start-line="72" selection-start-column="24" selection-end-line="72" selection-end-column="24" />
+          <caret line="995" column="31" selection-start-line="995" selection-start-column="31" selection-end-line="995" selection-end-column="31" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/domain/blockdevice/state/state_test.go">
+    <entry file="file://$PROJECT_DIR$/domain/access/service/permission.go">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="195">
-          <caret line="94" selection-start-line="94" selection-end-line="94" />
+        <state relative-caret-position="312">
+          <caret line="60" column="132" lean-forward="true" selection-start-line="60" selection-start-column="132" selection-end-line="60" selection-end-column="132" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/domain/externalcontroller/state/state_test.go">
+    <entry file="file://$PROJECT_DIR$/core/permission/useraccess.go">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="160">
-          <caret line="79" column="31" selection-start-line="79" selection-start-column="31" selection-end-line="79" selection-end-column="31" />
+        <state relative-caret-position="417">
+          <caret line="26" column="5" selection-start-line="26" selection-start-column="5" selection-end-line="26" selection-end-column="5" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/domain/filesystem/filesystemtype.go">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/domain/flag/state/state.go">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/domain/life/life_test.go">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/domain/life/life.go">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/domain/lease/state/state.go">
+    <entry file="file://$PROJECT_DIR$/apiserver/introspection.go">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="280">
-          <caret line="14" selection-start-line="14" selection-end-line="14" />
+        <state relative-caret-position="484">
+          <caret line="69" column="50" lean-forward="true" selection-start-line="69" selection-start-column="50" selection-end-line="69" selection-end-column="50" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/domain/machine/state/state.go">
+    <entry file="file://$PROJECT_DIR$/apiserver/stateauthenticator/context.go">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="367">
-          <caret line="133" column="4" selection-start-line="133" selection-start-column="4" selection-end-line="133" selection-end-column="4" />
-          <folding>
-            <element signature="e#3862#3893#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="304">
+          <caret line="56" column="4" selection-start-line="56" selection-start-column="4" selection-end-line="56" selection-end-column="4" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/domain/model/state/modelstate.go">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-840" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/domain/modelconfig/state/state.go">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="23">
-          <caret line="67" lean-forward="true" selection-start-line="67" selection-end-line="67" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/domain/model/state/state.go">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="3736">
-          <caret line="514" column="21" lean-forward="true" selection-start-line="514" selection-start-column="21" selection-end-line="514" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/domain/modeldefaults/state/state.go">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="323">
-          <caret line="188" column="11" selection-start-line="188" selection-start-column="11" selection-end-line="188" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/domain/modelmanager/state/state.go">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="263">
-          <caret line="54" column="4" selection-start-line="54" selection-start-column="4" selection-end-line="54" selection-end-column="4" />
-          <folding>
-            <element signature="e#1530#1561#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/domain/modelmigration/export.go">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/domain/modelmigration/import.go">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-477" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/core/network/space.go">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="58" column="5" selection-start-line="58" selection-start-column="5" selection-end-line="58" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/domain/network/state/types.go">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="195">
-          <caret line="169" selection-start-line="169" selection-end-line="169" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/domain/network/state/subnet_test.go">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="420">
-          <caret line="368" column="21" selection-start-line="368" selection-start-column="21" selection-end-line="368" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/domain/objectstore/types.go">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/domain/objectstore/package_test.go">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/domain/schema/controller.go">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="80">
-          <caret line="367" column="19" lean-forward="true" selection-start-line="367" selection-start-column="19" selection-end-line="367" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/core/database/schema/schema.go">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="700">
-          <caret line="35" column="5" selection-start-line="35" selection-start-column="5" selection-end-line="35" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/domain/servicefactory/model.go">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-2157" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/domain/servicefactory/provider.go">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-517" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/domain/servicefactory/service.go">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-217" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/domain/servicefactory/controller.go">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-3237" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/domain/storage/state/state.go">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-37" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/domain/storage/state/storagepool.go">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="140">
-          <caret line="305" column="53" selection-start-line="305" selection-start-column="53" selection-end-line="305" selection-end-column="53" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/domain/testing/controllerconfigsuite.go">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-137" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/domain/testing/watcher.go">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/domain/unit/state/state.go">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="420">
-          <caret line="21" column="18" selection-start-line="21" selection-start-column="18" selection-end-line="21" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/domain/upgrade/state/state.go">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="260">
-          <caret line="310" selection-start-line="310" selection-end-line="310" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/domain/upgrade/state/state_test.go">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="443">
-          <caret line="456" column="21" selection-start-line="456" selection-start-column="21" selection-end-line="456" selection-end-column="21" />
-          <folding>
-            <element signature="e#15958#15977#0" expanded="true" />
-            <element signature="e#15958#15977#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/domain/user/state/state.go">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="303">
-          <caret line="138" column="27" lean-forward="true" selection-start-line="138" selection-start-column="27" selection-end-line="138" selection-end-column="27" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/domain/credential/state/state_test.go">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1447">
-          <caret line="550" column="22" selection-start-line="550" selection-start-column="22" selection-end-line="550" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/domain/user/state/state_test.go">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret line="141" column="32" selection-start-line="141" selection-start-column="32" selection-end-line="141" selection-end-column="32" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/domain/blockdevice/state/state.go">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="340">
-          <caret line="328" column="36" selection-start-line="328" selection-start-column="36" selection-end-line="328" selection-end-column="36" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/domain/credential/state/state.go">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="280">
-          <caret line="592" column="4" selection-start-line="592" selection-start-column="4" selection-end-line="592" selection-end-column="4" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/domain/network/state/subnet.go">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="341">
-          <caret line="382" column="11" lean-forward="true" selection-start-line="382" selection-start-column="11" selection-end-line="382" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/domain/network/state/space.go">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="260">
-          <caret line="218" column="4" selection-start-line="218" selection-start-column="4" selection-end-line="218" selection-end-column="4" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/domain/annotation/state/types.go">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/domain/annotation/state/state.go">
+    <entry file="file://$PROJECT_DIR$/apiserver/common/permissions.go">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="300">
-          <caret line="132" column="43" lean-forward="true" selection-start-line="132" selection-start-column="43" selection-end-line="132" selection-end-column="43" />
+          <caret line="55" column="23" selection-start-line="55" selection-start-column="23" selection-end-line="55" selection-end-column="23" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/domain/permission/state/state.go">
+    <entry file="file://$PROJECT_DIR$/apiserver/stateauthenticator/auth.go">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="361">
-          <caret line="206" column="29" selection-start-line="206" selection-start-column="29" selection-end-line="206" selection-end-column="29" />
-          <folding>
-            <element signature="e#6119#6136#0" expanded="true" />
-            <element signature="e#6119#6136#0" expanded="true" />
-            <element signature="e#8803#8834#0" expanded="true" />
-            <element signature="e#8803#8834#0" expanded="true" />
-            <element signature="e#9218#9249#0" expanded="true" />
-            <element signature="e#9218#9249#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="560">
+          <caret line="208" column="30" lean-forward="true" selection-start-line="208" selection-start-column="30" selection-end-line="208" selection-end-column="30" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/domain/objectstore/state/state.go">
+    <entry file="file://$PROJECT_DIR$/apiserver/stateauthenticator/delegator.go">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="300">
-          <caret line="15" column="30" lean-forward="true" selection-start-line="15" selection-start-column="30" selection-end-line="15" selection-end-column="30" />
+        <state relative-caret-position="364">
+          <caret line="20" lean-forward="true" selection-start-line="20" selection-end-line="20" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/domain/externalcontroller/state/state.go">
+    <entry file="file://$PROJECT_DIR$/apiserver/authentication/interfaces.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="252">
+          <caret line="60" column="35" selection-start-line="60" selection-start-column="35" selection-end-line="60" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/apiserver/authentication/jwt/jwt.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="480">
+          <caret line="33" column="10" lean-forward="true" selection-start-line="33" selection-start-column="10" selection-end-line="33" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/internal/worker/pruner/worker.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="474">
+          <caret line="83" selection-start-line="83" selection-end-line="83" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/internal/worker/actionpruner/worker.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="474">
+          <caret line="36" column="75" selection-start-line="36" selection-start-column="75" selection-end-line="36" selection-end-column="75" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/apiserver/apiserver.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="258">
+          <caret line="1166" column="23" selection-start-line="1166" selection-start-column="23" selection-end-line="1166" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/apiserver/shared.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="191">
+          <caret line="42" column="5" selection-start-line="42" selection-start-column="5" selection-end-line="42" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/apiserver/facade/facadetest/context.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="184">
+          <caret line="18" column="5" selection-start-line="18" selection-start-column="5" selection-end-line="18" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/apiserver/facade/interface.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="191">
+          <caret line="76" column="17" lean-forward="true" selection-start-line="76" selection-start-column="17" selection-end-line="76" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/apiserver/root.go">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="240">
-          <caret line="70" column="32" lean-forward="true" selection-start-line="70" selection-start-column="32" selection-end-line="70" selection-end-column="32" />
+          <caret line="728" column="14" selection-start-line="728" selection-start-column="14" selection-end-line="728" selection-end-column="14" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/go.mod">
+    <entry file="file://$PROJECT_DIR$/apiserver/facades/client/usermanager/register.go">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="526">
-          <caret line="316" selection-start-line="316" selection-end-line="316" />
+        <state relative-caret-position="280">
+          <caret line="27" column="14" selection-start-line="27" selection-start-column="14" selection-end-line="27" selection-end-column="14" />
         </state>
       </provider>
     </entry>

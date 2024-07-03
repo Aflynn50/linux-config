@@ -2,10 +2,12 @@
   <component name="GoSdkList">
     <sdk-url>
       <set>
+        <option value="file://$USER_HOME$/go/pkg/mod/golang.org/toolchain@v0.0.1-go1.22.4.linux-amd64" />
         <option value="file:///snap/go/10339" />
         <option value="file:///snap/go/10455" />
         <option value="file:///snap/go/10489" />
         <option value="file:///snap/go/10554" />
+        <option value="file:///snap/go/10627" />
         <option value="file:///snap/go/current" />
       </set>
     </sdk-url>

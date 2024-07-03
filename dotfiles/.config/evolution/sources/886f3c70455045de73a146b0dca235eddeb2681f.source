@@ -11,7 +11,7 @@ Writable=true
 [Calendar]
 BackendName=local
 Color=#e01b24
-Selected=true
+Selected=false
 Order=0
 
 [Offline]

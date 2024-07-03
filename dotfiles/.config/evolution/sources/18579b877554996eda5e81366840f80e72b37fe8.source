@@ -45,4 +45,5 @@ Order=0
 
 [Alarms]
 IncludeMe=true
-LastNotified=2023-10-20T23:50:00Z
+LastNotified=2024-06-15T23:50:00Z
+ForEveryEvent=false

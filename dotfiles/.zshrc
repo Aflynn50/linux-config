@@ -41,7 +41,7 @@ DISABLE_MAGIC_FUNCTIONS="true"
 # "mm/dd/yyyy"|"dd.mm.yyyy"|"yyyy-mm-dd"
 # or set a custom format using the strftime function format specifications,
 # see 'man strftime' for details.
-# HIST_STAMPS="mm/dd/yyyy"
+HIST_STAMPS="dd/mm/yyyy"
 
 # Would you like to use another custom folder than $ZSH/custom?
 # ZSH_CUSTOM=/path/to/new-custom-folder
@@ -55,7 +55,7 @@ export DISABLE_AUTO_UPDATE=true
 # Custom plugins may be added to $ZSH_CUSTOM/plugins/
 # Example format: plugins=(rails git textmate ruby lighthouse)
 # Add wisely, as too many plugins slow down shell startup.
-plugins=(git shrink-path vi-mode juju)
+plugins=(git shrink-path vi-mode juju-aflynn)
 
 source $ZSH/oh-my-zsh.sh
 
@@ -136,6 +136,14 @@ export PATH=$GOROOT/bin:$GOPATH/bin:$PATH
 
 export PATH=$PATH:$HOME/.cargo/bin
 
+# Fucking pyenv shit
+# Put on path
+export PATH=$PATH:$HOME/.pyenv/bin
+# Let it fuck with my path
+export PYENV_ROOT="$HOME/.pyenv"
+[[ -d $PYENV_ROOT/bin ]] && export PATH="$PYENV_ROOT/bin:$PATH"
+eval "$(pyenv init -)"
+
 # Put python virtual env on the path to use it as normal
 export PATH=/home/aflynn/pythonenv/bin:$PATH
 
@@ -164,11 +172,20 @@ alias jdb='juju debug-log'
 alias jdbr='juju debug-log --replay'
 alias jdbc='juju debug-log -m controller'
 alias jdbcr='juju debug-log -m controller --replay'
+alias jdbrc='juju debug-log -m controller --replay'
 # destroy
-alias jdc='juju destroy-controller --destroy-all-models --no-prompt'
+alias jdc='juju destroy-controller --destroy-all-models --destroy-storage --no-prompt'
 alias jdm='juju destroy-model --destroy-storage --no-prompt'
 # switch
 alias jsw='juju switch'
+# login
+alias jch='juju change-user-password'
+alias jchap='echo "p" | juju change-user-password admin --no-prompt'
+alias jlin='juju login -u'
+alias jlo='juju logout'
+alias jg='juju grant'
+# delete all lxd containers
+alias lxcda='lxc list -fcsv -cn | xargs lxc delete -f'
 # Juju binary
 alias snuju='/snap/bin/juju'
 alias sj='/snap/bin/juju'

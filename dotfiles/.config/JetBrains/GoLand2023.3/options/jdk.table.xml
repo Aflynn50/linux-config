@@ -702,7 +702,7 @@
             <root url="file:///usr/lib/python3.12" type="simple" />
             <root url="file:///usr/lib/python3.12/lib-dynload" type="simple" />
             <root url="file://$USER_HOME$/Canonical/Juju/python-libjuju/venv/lib/python3.12/site-packages" type="simple" />
-            <root url="file://$USER_HOME$/.cache/JetBrains/GoLand2024.1/python_stubs/-2101445415" type="simple" />
+            <root url="file://$USER_HOME$/.cache/JetBrains/GoLand2024.2/python_stubs/-2101445415" type="simple" />
             <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/python-skeletons" type="simple" />
             <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/stdlib" type="simple" />
             <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/stubs/gdb" type="simple" />

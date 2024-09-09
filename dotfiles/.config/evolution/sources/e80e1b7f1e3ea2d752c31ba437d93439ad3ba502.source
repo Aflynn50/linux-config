@@ -35,7 +35,7 @@ Order=4294967295
 [Calendar]
 BackendName=caldav
 Color=#b99aff
-Selected=true
+Selected=false
 Order=0
 
 [Offline]

@@ -5,6 +5,5 @@
         <option name="autoCheckIntervalHours" value="24" />
       </OutdatedBranchesAutoCleanupConfig>
     </option>
-    <option name="startupNotificationVersion" value="1" />
   </component>
 </application>

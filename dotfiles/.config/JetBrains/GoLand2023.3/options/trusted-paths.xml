@@ -8,6 +8,7 @@
         <entry key="$USER_HOME$/Canonical/Juju/juju" value="true" />
         <entry key="$USER_HOME$/Canonical/Juju/juju-controller" value="true" />
         <entry key="$USER_HOME$/Canonical/Juju/juju-qa-jenkins" value="true" />
+        <entry key="$USER_HOME$/Canonical/Juju/juju-release-jenkins" value="true" />
         <entry key="$USER_HOME$/Canonical/Juju/juju2" value="true" />
         <entry key="$USER_HOME$/Canonical/Juju/juju3" value="true" />
         <entry key="$USER_HOME$/Canonical/Juju/os" value="true" />

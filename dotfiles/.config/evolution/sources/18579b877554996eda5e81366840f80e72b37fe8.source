@@ -17,7 +17,7 @@ DisplayName=New calendar please work
 EmailAddress=alastairflynn@hotmail.co.uk
 ResourcePath=/remote.php/dav/calendars/aflynn50/alastairs-calendar/
 ResourceQuery=
-SslTrust=accept|nextcloud.aflynn.uk|18a1e4462428705cf2795316343faa7529135eab3392558e6cee4c5457f0148b
+SslTrust=temporary-accept|nextcloud.aflynn.uk|b7a691cbfa8dde6dab8c7e5d5c9407cecaff70f7f85e57887995c3949853c7ec
 
 Order=0
 
@@ -45,5 +45,5 @@ Order=0
 
 [Alarms]
 IncludeMe=true
-LastNotified=2024-06-15T23:50:00Z
+LastNotified=2024-09-07T17:50:00Z
 ForEveryEvent=false

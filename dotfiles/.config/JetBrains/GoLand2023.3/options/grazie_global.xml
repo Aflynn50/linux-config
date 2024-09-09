@@ -15,9 +15,9 @@
       <SuppressingContext>
         <option name="suppressed">
           <set>
-            <option value="human readable" />
             <option value="are outside of SQLair" />
             <option value="garbage" />
+            <option value="human readable" />
           </set>
         </option>
       </SuppressingContext>

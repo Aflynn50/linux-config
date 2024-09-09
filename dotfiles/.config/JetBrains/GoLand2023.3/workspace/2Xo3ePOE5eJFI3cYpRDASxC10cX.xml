@@ -30,116 +30,140 @@
     <select />
   </component>
   <component name="FileEditorManager">
-    <leaf ideFingerprint="2h2nbvs44fjfz" SIDE_TABS_SIZE_LIMIT_KEY="-1">
-      <file current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/internal/expr/parser.go">
-          <provider editor-type-id="text-editor" selected="true">
-            <state relative-caret-position="17380">
-              <caret line="869" column="19" selection-start-line="869" selection-start-column="19" selection-end-line="869" selection-end-column="19" />
+    <leaf ideFingerprint="kn8dbc6unvu8" SIDE_TABS_SIZE_LIMIT_KEY="-1">
+      <file>
+        <entry file="file://$PROJECT_DIR$/docs/howto/output-expressions.md">
+          <provider editor-type-id="split-provider[text-editor;markdown-preview-editor]" selected="true">
+            <state split_layout="SHOW_EDITOR" is_vertical_split="true">
+              <first_editor relative-caret-position="40">
+                <caret line="2" column="17" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
+              </first_editor>
+              <second_editor />
             </state>
           </provider>
         </entry>
+        <tab><![CDATA[{"tabTitle":"output-expressions.md","foregroundColor":-16777216,"textAttributes":{"name":"a"},"icon":[10,57,99,111,109,46,105,110,116,101,108,108,105,106,46,117,105,46,105,99,111,110,115,46,82,97,115,116,101,114,105,122,101,100,73,109,97,103,101,68,97,116,97,76,111,97,100,101,114,68,101,115,99,114,105,112,116,111,114,18,96,10,24,105,99,111,110,115,47,77,97,114,107,100,111,119,110,80,108,117,103,105,110,46,115,118,103,18,24,105,99,111,110,115,47,101,120,112,117,105,47,109,97,114,107,100,111,119,110,46,115,118,103,26,29,111,114,103,46,105,110,116,101,108,108,105,106,46,112,108,117,103,105,110,115,46,109,97,114,107,100,111,119,110,40,-33,-55,-17,-63,-7,-1,-1,-1,-1,1,48,0]}]]></tab>
       </file>
-      <file current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/internal/expr/query.go">
-          <provider editor-type-id="text-editor" selected="true">
-            <state relative-caret-position="280">
-              <caret line="14" column="5" selection-start-line="14" selection-start-column="5" selection-end-line="14" selection-end-column="5" />
+      <file>
+        <entry file="file://$PROJECT_DIR$/docs/howto/types.md">
+          <provider editor-type-id="split-provider[text-editor;markdown-preview-editor]" selected="true">
+            <state split_layout="SHOW_EDITOR" is_vertical_split="false">
+              <first_editor relative-caret-position="780">
+                <caret line="39" column="9" selection-start-line="39" selection-start-column="9" selection-end-line="39" selection-end-column="9" />
+              </first_editor>
+              <second_editor />
             </state>
           </provider>
         </entry>
+        <tab><![CDATA[{"tabTitle":"types.md","foregroundColor":-16777216,"textAttributes":{"name":"a"},"icon":[10,57,99,111,109,46,105,110,116,101,108,108,105,106,46,117,105,46,105,99,111,110,115,46,82,97,115,116,101,114,105,122,101,100,73,109,97,103,101,68,97,116,97,76,111,97,100,101,114,68,101,115,99,114,105,112,116,111,114,18,96,10,24,105,99,111,110,115,47,77,97,114,107,100,111,119,110,80,108,117,103,105,110,46,115,118,103,18,24,105,99,111,110,115,47,101,120,112,117,105,47,109,97,114,107,100,111,119,110,46,115,118,103,26,29,111,114,103,46,105,110,116,101,108,108,105,106,46,112,108,117,103,105,110,115,46,109,97,114,107,100,111,119,110,40,-33,-55,-17,-63,-7,-1,-1,-1,-1,1,48,0]}]]></tab>
       </file>
-      <file current-in-tab="false">
+      <file>
         <entry file="file://$PROJECT_DIR$/internal/expr/bindtypes.go">
           <provider editor-type-id="text-editor" selected="true">
-            <state relative-caret-position="382">
-              <caret line="106" column="10" selection-start-line="106" selection-start-column="10" selection-end-line="106" selection-end-column="10" />
+            <state relative-caret-position="620">
+              <caret line="31" column="22" selection-start-line="31" selection-start-column="22" selection-end-line="31" selection-end-column="22" />
             </state>
           </provider>
         </entry>
+        <tab><![CDATA[{"tabTitle":"bindtypes.go","foregroundColor":-16777216,"textAttributes":{"name":"a"},"icon":[10,57,99,111,109,46,105,110,116,101,108,108,105,106,46,117,105,46,105,99,111,110,115,46,82,97,115,116,101,114,105,122,101,100,73,109,97,103,101,68,97,116,97,76,111,97,100,101,114,68,101,115,99,114,105,112,116,111,114,18,68,10,12,105,99,111,110,115,47,103,111,46,115,118,103,18,18,105,99,111,110,115,47,101,120,112,117,105,47,103,111,46,115,118,103,26,24,111,114,103,46,106,101,116,98,114,97,105,110,115,46,112,108,117,103,105,110,115,46,103,111,40,-57,-27,-111,-15,3,48,8]}]]></tab>
+      </file>
+      <file current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/sqlair.go">
+          <provider editor-type-id="text-editor" selected="true">
+            <state relative-caret-position="358">
+              <caret line="117" column="14" selection-start-line="117" selection-start-column="14" selection-end-line="117" selection-end-column="14" />
+            </state>
+          </provider>
+        </entry>
+        <tab><![CDATA[{"tabTitle":"sqlair.go","foregroundColor":-16763981,"textAttributes":{"name":"a","children":[{"name":"option","attributes":{"name":"FOREGROUND","value":"33b3"}}]},"icon":[10,57,99,111,109,46,105,110,116,101,108,108,105,106,46,117,105,46,105,99,111,110,115,46,82,97,115,116,101,114,105,122,101,100,73,109,97,103,101,68,97,116,97,76,111,97,100,101,114,68,101,115,99,114,105,112,116,111,114,18,68,10,12,105,99,111,110,115,47,103,111,46,115,118,103,18,18,105,99,111,110,115,47,101,120,112,117,105,47,103,111,46,115,118,103,26,24,111,114,103,46,106,101,116,98,114,97,105,110,115,46,112,108,117,103,105,110,115,46,103,111,40,-57,-27,-111,-15,3,48,8]}]]></tab>
+      </file>
+      <file>
+        <entry file="file://$PROJECT_DIR$/internal/expr/query.go">
+          <provider editor-type-id="text-editor" selected="true">
+            <state relative-caret-position="1360">
+              <caret line="68" column="22" selection-start-line="68" selection-start-column="22" selection-end-line="68" selection-end-column="22" />
+            </state>
+          </provider>
+        </entry>
+        <tab><![CDATA[{"tabTitle":"query.go","foregroundColor":-16777216,"textAttributes":{"name":"a"},"icon":[10,57,99,111,109,46,105,110,116,101,108,108,105,106,46,117,105,46,105,99,111,110,115,46,82,97,115,116,101,114,105,122,101,100,73,109,97,103,101,68,97,116,97,76,111,97,100,101,114,68,101,115,99,114,105,112,116,111,114,18,68,10,12,105,99,111,110,115,47,103,111,46,115,118,103,18,18,105,99,111,110,115,47,101,120,112,117,105,47,103,111,46,115,118,103,26,24,111,114,103,46,106,101,116,98,114,97,105,110,115,46,112,108,117,103,105,110,115,46,103,111,40,-57,-27,-111,-15,3,48,8]}]]></tab>
+      </file>
+      <file>
+        <entry file="file://$PROJECT_DIR$/internal/expr/bindinputs.go">
+          <provider editor-type-id="text-editor" selected="true">
+            <state relative-caret-position="3260">
+              <caret line="163" column="31" selection-start-line="163" selection-start-column="31" selection-end-line="163" selection-end-column="31" />
+            </state>
+          </provider>
+        </entry>
+        <tab><![CDATA[{"tabTitle":"bindinputs.go","foregroundColor":-16777216,"textAttributes":{"name":"a"},"icon":[10,57,99,111,109,46,105,110,116,101,108,108,105,106,46,117,105,46,105,99,111,110,115,46,82,97,115,116,101,114,105,122,101,100,73,109,97,103,101,68,97,116,97,76,111,97,100,101,114,68,101,115,99,114,105,112,116,111,114,18,68,10,12,105,99,111,110,115,47,103,111,46,115,118,103,18,18,105,99,111,110,115,47,101,120,112,117,105,47,103,111,46,115,118,103,26,24,111,114,103,46,106,101,116,98,114,97,105,110,115,46,112,108,117,103,105,110,115,46,103,111,40,-57,-27,-111,-15,3,48,8]}]]></tab>
+      </file>
+      <file>
+        <entry file="file://$PROJECT_DIR$/internal/typeinfo/valuelocator.go">
+          <provider editor-type-id="text-editor" selected="true">
+            <state relative-caret-position="4000">
+              <caret line="200" column="39" selection-start-line="200" selection-start-column="39" selection-end-line="200" selection-end-column="39" />
+            </state>
+          </provider>
+        </entry>
+        <tab><![CDATA[{"tabTitle":"valuelocator.go","foregroundColor":-16777216,"textAttributes":{"name":"a"},"icon":[10,57,99,111,109,46,105,110,116,101,108,108,105,106,46,117,105,46,105,99,111,110,115,46,82,97,115,116,101,114,105,122,101,100,73,109,97,103,101,68,97,116,97,76,111,97,100,101,114,68,101,115,99,114,105,112,116,111,114,18,68,10,12,105,99,111,110,115,47,103,111,46,115,118,103,18,18,105,99,111,110,115,47,101,120,112,117,105,47,103,111,46,115,118,103,26,24,111,114,103,46,106,101,116,98,114,97,105,110,115,46,112,108,117,103,105,110,115,46,103,111,40,-57,-27,-111,-15,3,48,8]}]]></tab>
+      </file>
+      <file>
+        <entry file="file:///snap/go/current/src/reflect/value.go">
+          <provider editor-type-id="text-editor" selected="true">
+            <state relative-caret-position="64040">
+              <caret line="3202" selection-start-line="3202" selection-end-line="3202" />
+            </state>
+          </provider>
+        </entry>
+        <tab><![CDATA[{"tabTitle":"value.go","foregroundColor":-16777216,"textAttributes":{"name":"a"},"icon":[10,57,99,111,109,46,105,110,116,101,108,108,105,106,46,117,105,46,105,99,111,110,115,46,82,97,115,116,101,114,105,122,101,100,73,109,97,103,101,68,97,116,97,76,111,97,100,101,114,68,101,115,99,114,105,112,116,111,114,18,68,10,12,105,99,111,110,115,47,103,111,46,115,118,103,18,18,105,99,111,110,115,47,101,120,112,117,105,47,103,111,46,115,118,103,26,24,111,114,103,46,106,101,116,98,114,97,105,110,115,46,112,108,117,103,105,110,115,46,103,111,40,-57,-27,-111,-15,3,48,8]}]]></tab>
+      </file>
+      <file>
+        <entry file="file:///snap/go/current/src/database/sql/sql.go">
+          <provider editor-type-id="text-editor" selected="true">
+            <state relative-caret-position="9080">
+              <caret line="454" column="5" selection-start-line="454" selection-start-column="5" selection-end-line="454" selection-end-column="5" />
+            </state>
+          </provider>
+        </entry>
+        <tab><![CDATA[{"tabTitle":"sql.go","foregroundColor":-16777216,"textAttributes":{"name":"a"},"icon":[10,57,99,111,109,46,105,110,116,101,108,108,105,106,46,117,105,46,105,99,111,110,115,46,82,97,115,116,101,114,105,122,101,100,73,109,97,103,101,68,97,116,97,76,111,97,100,101,114,68,101,115,99,114,105,112,116,111,114,18,68,10,12,105,99,111,110,115,47,103,111,46,115,118,103,18,18,105,99,111,110,115,47,101,120,112,117,105,47,103,111,46,115,118,103,26,24,111,114,103,46,106,101,116,98,114,97,105,110,115,46,112,108,117,103,105,110,115,46,103,111,40,-57,-27,-111,-15,3,48,8]}]]></tab>
       </file>
       <file>
         <entry file="file://$PROJECT_DIR$/cache.go">
           <provider editor-type-id="text-editor" selected="true">
-            <state relative-caret-position="200">
-              <caret line="121" selection-start-line="121" selection-end-line="121" />
+            <state relative-caret-position="840">
+              <caret line="42" selection-start-line="42" selection-end-line="42" />
             </state>
           </provider>
         </entry>
-      </file>
-      <file current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/internal/expr/expr_test.go">
-          <provider editor-type-id="text-editor" selected="true">
-            <state relative-caret-position="27540">
-              <caret line="1377" selection-start-line="1377" selection-end-line="1377" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file current-in-tab="false">
-        <entry file="file://$USER_HOME$/go/pkg/mod/gopkg.in/check.v1@v1.0.0-20201130134442-10cb98267c6c/run.go">
-          <provider editor-type-id="text-editor" selected="true">
-            <state relative-caret-position="400">
-              <caret line="20" selection-start-line="20" selection-end-line="20" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/internal/expr/querybuilder.go">
-          <provider editor-type-id="text-editor" selected="true">
-            <state relative-caret-position="5140">
-              <caret line="257" column="5" selection-start-line="257" selection-start-column="5" selection-end-line="257" selection-end-column="5" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/internal/typeinfo/arginfo_test.go">
-          <provider editor-type-id="text-editor" selected="true">
-            <state relative-caret-position="7000">
-              <caret line="350" column="4" selection-start-line="350" selection-start-column="4" selection-end-line="350" selection-end-column="4" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/package_test.go">
-          <provider editor-type-id="text-editor" selected="true">
-            <state relative-caret-position="25240">
-              <caret line="1262" column="107" selection-start-line="1262" selection-start-column="107" selection-end-line="1262" selection-end-column="107" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/internal/typeinfo/arginfo.go">
-          <provider editor-type-id="text-editor" selected="true">
-            <state relative-caret-position="1160">
-              <caret line="58" column="8" selection-start-line="58" selection-start-column="8" selection-end-line="58" selection-end-column="8" />
-            </state>
-          </provider>
-        </entry>
+        <tab><![CDATA[{"tabTitle":"cache.go","foregroundColor":-16777216,"textAttributes":{"name":"a"},"icon":[10,57,99,111,109,46,105,110,116,101,108,108,105,106,46,117,105,46,105,99,111,110,115,46,82,97,115,116,101,114,105,122,101,100,73,109,97,103,101,68,97,116,97,76,111,97,100,101,114,68,101,115,99,114,105,112,116,111,114,18,68,10,12,105,99,111,110,115,47,103,111,46,115,118,103,18,18,105,99,111,110,115,47,101,120,112,117,105,47,103,111,46,115,118,103,26,24,111,114,103,46,106,101,116,98,114,97,105,110,115,46,112,108,117,103,105,110,115,46,103,111,40,-57,-27,-111,-15,3,48,8]}]]></tab>
       </file>
     </leaf>
   </component>
   <component name="FileTypeUsageLocalSummary"><![CDATA[{
   "data": {
     "Go": {
-      "usageCount": 169,
-      "lastUsed": 1719212507374
+      "usageCount": 244,
+      "lastUsed": 1724936593723
     },
     "go.mod": {
       "usageCount": 1,
       "lastUsed": 1715085355983
     },
     "YAML": {
-      "usageCount": 2,
-      "lastUsed": 1715246069615
+      "usageCount": 9,
+      "lastUsed": 1723038964114
     },
     "x86 Plan9 Assembly": {
       "usageCount": 1,
       "lastUsed": 1715335350738
+    },
+    "PLAIN_TEXT": {
+      "usageCount": 14,
+      "lastUsed": 1723121624777
+    },
+    "Markdown": {
+      "usageCount": 94,
+      "lastUsed": 1724936594403
     }
   }
 }]]></component>
@@ -161,24 +185,38 @@
       <option value="$PROJECT_DIR$/internal/expr/query.go" />
       <option value="$PROJECT_DIR$/internal/expr/prepare.go" />
       <option value="$PROJECT_DIR$/internal/expr/typeinfo.go" />
-      <option value="$PROJECT_DIR$/internal/typeinfo/validate.go" />
       <option value="$PROJECT_DIR$/internal/expr/parser.go" />
       <option value="$PROJECT_DIR$/internal/expr/parser_helper_test.go" />
-      <option value="$PROJECT_DIR$/internal/typeinfo/valuelocator.go" />
       <option value="$PROJECT_DIR$/internal/expr/querybuilder.go" />
       <option value="$PROJECT_DIR$/.github/workflows/go-test.yml" />
       <option value="$PROJECT_DIR$/driver_test.go" />
       <option value="$PROJECT_DIR$/cache_test.go" />
-      <option value="$PROJECT_DIR$/sqlair.go" />
       <option value="$PROJECT_DIR$/internal/expr/bindinputs.go" />
       <option value="$PROJECT_DIR$/internal/typeinfo/valuelocator_test.go" />
-      <option value="$PROJECT_DIR$/package_test.go" />
-      <option value="$PROJECT_DIR$/internal/expr/bindtypes.go" />
       <option value="$PROJECT_DIR$/internal/typeinfo/arginfo_test.go" />
       <option value="$PROJECT_DIR$/internal/expr/expr_test.go" />
+      <option value="$PROJECT_DIR$/cache.go" />
+      <option value="$PROJECT_DIR$/internal/typeinfo/validate.go" />
       <option value="$PROJECT_DIR$/internal/expr/typedexprbuilder.go" />
       <option value="$PROJECT_DIR$/internal/typeinfo/arginfo.go" />
-      <option value="$PROJECT_DIR$/cache.go" />
+      <option value="$PROJECT_DIR$/package_test.go" />
+      <option value="$PROJECT_DIR$/internal/expr/bindtypes.go" />
+      <option value="$PROJECT_DIR$/docs/.sphinx/spellingcheck.yaml" />
+      <option value="$PROJECT_DIR$/docs/howto/custom-types-in-structs.md" />
+      <option value="$PROJECT_DIR$/docs/.custom_wordlist.txt" />
+      <option value="$PROJECT_DIR$/docs/howto/preparing.go" />
+      <option value="$PROJECT_DIR$/docs/index.md" />
+      <option value="$PROJECT_DIR$/docs/howto/preparing.md" />
+      <option value="$PROJECT_DIR$/docs/howto/types.go" />
+      <option value="$PROJECT_DIR$/docs/howto/prepareandrun.md" />
+      <option value="$PROJECT_DIR$/docs/howto/index.md" />
+      <option value="$PROJECT_DIR$/docs/howto/input-expressions.md" />
+      <option value="$PROJECT_DIR$/docs/tutorial/tutorial.md" />
+      <option value="$PROJECT_DIR$/docs/howto/output-expressions.md" />
+      <option value="$PROJECT_DIR$/docs/howto/prepare-and-run.md" />
+      <option value="$PROJECT_DIR$/docs/howto/types.md" />
+      <option value="$PROJECT_DIR$/sqlair.go" />
+      <option value="$PROJECT_DIR$/internal/typeinfo/valuelocator.go" />
     </changedPaths>
   </component>
   <component name="IgnoredFileRootStore">
@@ -190,10 +228,13 @@
   </component>
   <component name="LanguageUsageStatistics">
     <language id="Markdown">
-      <summary usageCount="14" lastUsage="1710962486910" />
+      <summary usageCount="108" lastUsage="1724936594403" />
+    </language>
+    <language id="TEXT">
+      <summary usageCount="14" lastUsage="1723121624777" />
     </language>
     <language id="go">
-      <summary usageCount="377" lastUsage="1719212507374" />
+      <summary usageCount="452" lastUsage="1724936593723" />
     </language>
     <language id="plan9_x86">
       <summary usageCount="1" lastUsage="1715335350738" />
@@ -205,7 +246,7 @@
       <summary usageCount="1" lastUsage="1715085355983" />
     </language>
     <language id="yaml">
-      <summary usageCount="3" lastUsage="1715246069615" />
+      <summary usageCount="10" lastUsage="1723038964114" />
     </language>
   </component>
   <component name="ProjectView">
@@ -221,16 +262,334 @@
             <path>
               <item name="sqlair" type="b2602c69:ProjectViewProjectNode" />
               <item name="dir{file:///home/aflynn/Canonical/SQLair/sqlair}" type="462c0819:PsiDirectoryNode" />
-              <item name="dir{file:///home/aflynn/Canonical/SQLair/sqlair/.github}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/aflynn/Canonical/SQLair/sqlair/internal}" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="sqlair" type="b2602c69:ProjectViewProjectNode" />
               <item name="dir{file:///home/aflynn/Canonical/SQLair/sqlair}" type="462c0819:PsiDirectoryNode" />
-              <item name="dir{file:///home/aflynn/Canonical/SQLair/sqlair/.github}" type="462c0819:PsiDirectoryNode" />
-              <item name="dir{file:///home/aflynn/Canonical/SQLair/sqlair/.github/workflows}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/aflynn/Canonical/SQLair/sqlair/internal}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/aflynn/Canonical/SQLair/sqlair/internal/expr}" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="sqlair" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///home/aflynn/Canonical/SQLair/sqlair}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/aflynn/Canonical/SQLair/sqlair/internal}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/aflynn/Canonical/SQLair/sqlair/internal/typeinfo}" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
+          <presentation>
+            <attributes />
+            <data iconPath="expui/toolwindows/project.svg" iconPlugin="com.intellij" isLeaf="false" text="sqlair" />
+            <item name="sqlair" type="b2602c69:ProjectViewProjectNode" />
+            <presentation>
+              <attributes>
+                <map>
+                  <entry key="filePath" value="$PROJECT_DIR$" />
+                </map>
+              </attributes>
+              <data iconPath="expui/nodes/folder.svg" iconPlugin="com.intellij" isLeaf="false" text="sqlair" />
+              <item name="dir{file:///home/aflynn/Canonical/SQLair/sqlair}" type="462c0819:PsiDirectoryNode" />
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/.github" />
+                  </map>
+                </attributes>
+                <data iconPath="expui/nodes/folder.svg" iconPlugin="com.intellij" isLeaf="false" text=".github" />
+                <item name="dir{file:///home/aflynn/Canonical/SQLair/sqlair/.github}" type="462c0819:PsiDirectoryNode" />
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/docs" />
+                  </map>
+                </attributes>
+                <data iconPath="expui/nodes/folder.svg" iconPlugin="com.intellij" isLeaf="false" text="docs" />
+                <item name="dir{file:///home/aflynn/Canonical/SQLair/sqlair/docs}" type="462c0819:PsiDirectoryNode" />
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/internal" />
+                  </map>
+                </attributes>
+                <data iconPath="expui/nodes/folder.svg" iconPlugin="com.intellij" isLeaf="false" text="internal" />
+                <item name="dir{file:///home/aflynn/Canonical/SQLair/sqlair/internal}" type="462c0819:PsiDirectoryNode" />
+                <presentation>
+                  <attributes>
+                    <map>
+                      <entry key="filePath" value="$PROJECT_DIR$/internal/expr" />
+                    </map>
+                  </attributes>
+                  <data iconPath="expui/nodes/folder.svg" iconPlugin="com.intellij" isLeaf="false" text="expr" />
+                  <item name="dir{file:///home/aflynn/Canonical/SQLair/sqlair/internal/expr}" type="462c0819:PsiDirectoryNode" />
+                  <presentation>
+                    <attributes>
+                      <map>
+                        <entry key="filePath" value="$PROJECT_DIR$/internal/expr/bindinputs.go" />
+                      </map>
+                    </attributes>
+                    <data iconPath="icons/expui/go.svg" iconPlugin="org.jetbrains.plugins.go" isLeaf="true" text="bindinputs.go" />
+                    <item name="bindinputs.go" type="ab9368bb:PsiFileNode" />
+                  </presentation>
+                  <presentation>
+                    <attributes>
+                      <map>
+                        <entry key="filePath" value="$PROJECT_DIR$/internal/expr/bindtypes.go" />
+                      </map>
+                    </attributes>
+                    <data iconPath="icons/expui/go.svg" iconPlugin="org.jetbrains.plugins.go" isLeaf="true" text="bindtypes.go" />
+                    <item name="bindtypes.go" type="ab9368bb:PsiFileNode" />
+                  </presentation>
+                  <presentation>
+                    <attributes>
+                      <map>
+                        <entry key="filePath" value="$PROJECT_DIR$/internal/expr/doc.go" />
+                      </map>
+                    </attributes>
+                    <data iconPath="icons/expui/go.svg" iconPlugin="org.jetbrains.plugins.go" isLeaf="true" text="doc.go" />
+                    <item name="doc.go" type="ab9368bb:PsiFileNode" />
+                  </presentation>
+                  <presentation>
+                    <attributes>
+                      <map>
+                        <entry key="filePath" value="$PROJECT_DIR$/internal/expr/expr_test.go" />
+                      </map>
+                    </attributes>
+                    <data iconPath="icons/expui/runTest.svg" iconPlugin="org.jetbrains.plugins.go" isLeaf="true" text="expr_test.go" />
+                    <item name="expr_test.go" type="ab9368bb:PsiFileNode" />
+                  </presentation>
+                  <presentation>
+                    <attributes>
+                      <map>
+                        <entry key="filePath" value="$PROJECT_DIR$/internal/expr/parser.go" />
+                      </map>
+                    </attributes>
+                    <data iconPath="icons/expui/go.svg" iconPlugin="org.jetbrains.plugins.go" isLeaf="true" text="parser.go" />
+                    <item name="parser.go" type="ab9368bb:PsiFileNode" />
+                  </presentation>
+                  <presentation>
+                    <attributes>
+                      <map>
+                        <entry key="filePath" value="$PROJECT_DIR$/internal/expr/parser_helper_test.go" />
+                      </map>
+                    </attributes>
+                    <data iconPath="icons/expui/runTest.svg" iconPlugin="org.jetbrains.plugins.go" isLeaf="true" text="parser_helper_test.go" />
+                    <item name="parser_helper_test.go" type="ab9368bb:PsiFileNode" />
+                  </presentation>
+                  <presentation>
+                    <attributes>
+                      <map>
+                        <entry key="filePath" value="$PROJECT_DIR$/internal/expr/query.go" />
+                      </map>
+                    </attributes>
+                    <data iconPath="icons/expui/go.svg" iconPlugin="org.jetbrains.plugins.go" isLeaf="true" text="query.go" />
+                    <item name="query.go" type="ab9368bb:PsiFileNode" />
+                  </presentation>
+                  <presentation>
+                    <attributes>
+                      <map>
+                        <entry key="filePath" value="$PROJECT_DIR$/internal/expr/querybuilder.go" />
+                      </map>
+                    </attributes>
+                    <data iconPath="icons/expui/go.svg" iconPlugin="org.jetbrains.plugins.go" isLeaf="true" text="querybuilder.go" />
+                    <item name="querybuilder.go" type="ab9368bb:PsiFileNode" />
+                  </presentation>
+                  <presentation>
+                    <attributes>
+                      <map>
+                        <entry key="filePath" value="$PROJECT_DIR$/internal/expr/typedexprbuilder.go" />
+                      </map>
+                    </attributes>
+                    <data iconPath="icons/expui/go.svg" iconPlugin="org.jetbrains.plugins.go" isLeaf="true" text="typedexprbuilder.go" />
+                    <item name="typedexprbuilder.go" type="ab9368bb:PsiFileNode" />
+                  </presentation>
+                </presentation>
+                <presentation>
+                  <attributes>
+                    <map>
+                      <entry key="filePath" value="$PROJECT_DIR$/internal/typeinfo" />
+                    </map>
+                  </attributes>
+                  <data iconPath="expui/nodes/folder.svg" iconPlugin="com.intellij" isLeaf="false" text="typeinfo" />
+                  <item name="dir{file:///home/aflynn/Canonical/SQLair/sqlair/internal/typeinfo}" type="462c0819:PsiDirectoryNode" />
+                  <presentation>
+                    <attributes>
+                      <map>
+                        <entry key="filePath" value="$PROJECT_DIR$/internal/typeinfo/arginfo.go" />
+                      </map>
+                    </attributes>
+                    <data iconPath="icons/expui/go.svg" iconPlugin="org.jetbrains.plugins.go" isLeaf="true" text="arginfo.go" />
+                    <item name="arginfo.go" type="ab9368bb:PsiFileNode" />
+                  </presentation>
+                  <presentation>
+                    <attributes>
+                      <map>
+                        <entry key="filePath" value="$PROJECT_DIR$/internal/typeinfo/arginfo_test.go" />
+                      </map>
+                    </attributes>
+                    <data iconPath="icons/expui/runTest.svg" iconPlugin="org.jetbrains.plugins.go" isLeaf="true" text="arginfo_test.go" />
+                    <item name="arginfo_test.go" type="ab9368bb:PsiFileNode" />
+                  </presentation>
+                  <presentation>
+                    <attributes>
+                      <map>
+                        <entry key="filePath" value="$PROJECT_DIR$/internal/typeinfo/scan.go" />
+                      </map>
+                    </attributes>
+                    <data iconPath="icons/expui/go.svg" iconPlugin="org.jetbrains.plugins.go" isLeaf="true" text="scan.go" />
+                    <item name="scan.go" type="ab9368bb:PsiFileNode" />
+                  </presentation>
+                  <presentation>
+                    <attributes>
+                      <map>
+                        <entry key="filePath" value="$PROJECT_DIR$/internal/typeinfo/validate.go" />
+                      </map>
+                    </attributes>
+                    <data iconPath="icons/expui/go.svg" iconPlugin="org.jetbrains.plugins.go" isLeaf="true" text="validate.go" />
+                    <item name="validate.go" type="ab9368bb:PsiFileNode" />
+                  </presentation>
+                  <presentation>
+                    <attributes>
+                      <map>
+                        <entry key="filePath" value="$PROJECT_DIR$/internal/typeinfo/valuelocator.go" />
+                      </map>
+                    </attributes>
+                    <data iconPath="icons/expui/go.svg" iconPlugin="org.jetbrains.plugins.go" isLeaf="true" text="valuelocator.go" />
+                    <item name="valuelocator.go" type="ab9368bb:PsiFileNode" />
+                  </presentation>
+                  <presentation>
+                    <attributes>
+                      <map>
+                        <entry key="filePath" value="$PROJECT_DIR$/internal/typeinfo/valuelocator_test.go" />
+                      </map>
+                    </attributes>
+                    <data iconPath="icons/expui/runTest.svg" iconPlugin="org.jetbrains.plugins.go" isLeaf="true" text="valuelocator_test.go" />
+                    <item name="valuelocator_test.go" type="ab9368bb:PsiFileNode" />
+                  </presentation>
+                </presentation>
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/.gitignore" />
+                  </map>
+                </attributes>
+                <data iconPath="expui/fileTypes/ignored.svg" iconPlugin="com.intellij" isLeaf="true" text=".gitignore" />
+                <item name=".gitignore" type="ab9368bb:PsiFileNode" />
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/cache.go" />
+                  </map>
+                </attributes>
+                <data iconPath="icons/expui/go.svg" iconPlugin="org.jetbrains.plugins.go" isLeaf="true" text="cache.go" />
+                <item name="cache.go" type="ab9368bb:PsiFileNode" />
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/cache_test.go" />
+                  </map>
+                </attributes>
+                <data iconPath="icons/expui/runTest.svg" iconPlugin="org.jetbrains.plugins.go" isLeaf="true" text="cache_test.go" />
+                <item name="cache_test.go" type="ab9368bb:PsiFileNode" />
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/CONTRIBUTING.md" />
+                  </map>
+                </attributes>
+                <data iconPath="icons/expui/markdown.svg" iconPlugin="org.intellij.plugins.markdown" isLeaf="true" text="CONTRIBUTING.md" />
+                <item name="CONTRIBUTING.md" type="ab9368bb:PsiFileNode" />
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/doc.go" />
+                  </map>
+                </attributes>
+                <data iconPath="icons/expui/go.svg" iconPlugin="org.jetbrains.plugins.go" isLeaf="true" text="doc.go" />
+                <item name="doc.go" type="ab9368bb:PsiFileNode" />
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/driver_test.go" />
+                  </map>
+                </attributes>
+                <data iconPath="icons/expui/runTest.svg" iconPlugin="org.jetbrains.plugins.go" isLeaf="true" text="driver_test.go" />
+                <item name="driver_test.go" type="ab9368bb:PsiFileNode" />
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/example_test.go" />
+                  </map>
+                </attributes>
+                <data iconPath="icons/expui/runTest.svg" iconPlugin="org.jetbrains.plugins.go" isLeaf="true" text="example_test.go" />
+                <item name="example_test.go" type="ab9368bb:PsiFileNode" />
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/go.mod" />
+                  </map>
+                </attributes>
+                <data iconPath="icons/expui/goMod.svg" iconPlugin="org.jetbrains.plugins.go" isLeaf="false" text="go.mod" />
+                <item name="go.mod" type="620a8d5e:NestingTreeNode" />
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/LICENSE" />
+                  </map>
+                </attributes>
+                <data iconPath="expui/fileTypes/text.svg" iconPlugin="com.intellij" isLeaf="true" text="LICENSE" />
+                <item name="LICENSE" type="ab9368bb:PsiFileNode" />
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/package_test.go" />
+                  </map>
+                </attributes>
+                <data iconPath="icons/expui/runTest.svg" iconPlugin="org.jetbrains.plugins.go" isLeaf="true" text="package_test.go" />
+                <item name="package_test.go" type="ab9368bb:PsiFileNode" />
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/README.md" />
+                  </map>
+                </attributes>
+                <data iconPath="icons/expui/markdown.svg" iconPlugin="org.intellij.plugins.markdown" isLeaf="true" text="README.md" />
+                <item name="README.md" type="ab9368bb:PsiFileNode" />
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/sqlair.go" />
+                  </map>
+                </attributes>
+                <data iconPath="icons/expui/go.svg" iconPlugin="org.jetbrains.plugins.go" isLeaf="true" text="sqlair.go" />
+                <item name="sqlair.go" type="ab9368bb:PsiFileNode" />
+              </presentation>
+            </presentation>
+            <presentation>
+              <attributes />
+              <data iconPath="expui/nodes/library.svg" iconPlugin="com.intellij" isLeaf="false" text="External Libraries" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+            </presentation>
+            <presentation>
+              <attributes />
+              <data iconPath="expui/fileTypes/scratches.svg" iconPlugin="com.intellij" isLeaf="false" text="Scratches and Consoles" />
+              <item name="Scratches and Consoles" type="b85a3e1f:ScratchTreeStructureProvider$MyProjectNode" />
+            </presentation>
+          </presentation>
         </subPane>
       </pane>
       <pane id="Scope" />
@@ -264,13 +623,15 @@
   </component>
   <component name="TerminalArrangementManager">
     <option name="myTabStates">
-      <TerminalTabState tabName="Local" currentWorkingDirectory="$PROJECT_DIR$">
+      <TerminalTabState tabName="Local" currentWorkingDirectory="$PROJECT_DIR$/docs" />
+      <TerminalTabState tabName="Local (2)" currentWorkingDirectory="$PROJECT_DIR$">
         <shellCommand>
           <arg value="/usr/bin/zsh" />
           <arg value="-i" />
         </shellCommand>
       </TerminalTabState>
     </option>
+    <option name="mySelectedTabIndex" value="1" />
   </component>
   <component name="TestHistory">
     <history-entry file="CacheSuite_TestQueryWithBulkAndSlice_in_github_com_canonical_sqlair_(1) - 2024.05.10 at 06h 06m 42s.xml">
@@ -320,8 +681,8 @@
       <window_info id="Merge Requests" />
       <window_info id="Pull Requests" />
       <window_info id="Learn" show_stripe_button="false" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.19270834" />
-      <window_info id="Commit" order="1" weight="0.14453125" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.17630208" />
+      <window_info id="Commit" order="1" weight="0.3200521" />
       <window_info id="Structure" order="2" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Database Changes" />
       <window_info anchor="bottom" id="TypeScript" />
@@ -329,13 +690,13 @@
       <window_info anchor="bottom" id="File Transfer" />
       <window_info anchor="bottom" id="Version Control" order="0" weight="0.32013357" />
       <window_info anchor="bottom" id="Problems" order="1" />
-      <window_info anchor="bottom" id="Problems View" order="2" weight="0.4222328" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="3" visible="true" weight="0.42430025" />
+      <window_info anchor="bottom" id="Problems View" order="2" weight="0.3096374" />
+      <window_info anchor="bottom" id="Terminal" order="3" weight="0.4384542" />
       <window_info anchor="bottom" id="Debug" order="4" show_stripe_button="false" weight="0.28291985" />
       <window_info anchor="bottom" id="Run" order="5" show_stripe_button="false" weight="0.4384542" />
       <window_info anchor="bottom" id="Python Packages" order="6" />
       <window_info anchor="bottom" id="Services" order="7" weight="0.3300095" />
-      <window_info anchor="bottom" id="Find" order="8" show_stripe_button="false" weight="0.4384542" />
+      <window_info anchor="bottom" id="Find" order="8" show_stripe_button="false" weight="0.43875" />
       <window_info anchor="right" id="Endpoints" />
       <window_info anchor="right" id="make" side_tool="true" />
       <window_info anchor="right" id="documentation.v2" side_tool="true" />
@@ -345,8 +706,9 @@
       <window_info anchor="right" id="Database" order="2" weight="0.12526041" />
       <window_info anchor="right" id="Gradle" order="3" weight="0.25" />
       <window_info anchor="right" id="Maven" order="4" weight="0.25" />
-      <window_info anchor="right" id="Python Console" order="5" />
-      <unified_weights bottom="0.42430025" left="0.19270834" right="0.12526041" />
+      <window_info anchor="right" id="Cody" order="5" />
+      <window_info anchor="right" id="Python Console" order="6" />
+      <unified_weights bottom="0.4384542" left="0.17630208" right="0.12526041" />
     </layoutV2>
     <layout-to-restore>
       <window_info id="Space Code Reviews" />
@@ -384,11 +746,11 @@
     <recentWindows>
       <value>Terminal</value>
       <value>Project</value>
+      <value>Commit</value>
       <value>Find</value>
+      <value>Problems View</value>
       <value>Run</value>
       <value>Debug</value>
-      <value>Problems View</value>
-      <value>Commit</value>
       <value>Database</value>
       <value>AIAssistant</value>
       <value>Version Control</value>
@@ -405,10 +767,10 @@
       <screen x="0" y="32" width="1920" height="1048" />
     </state>
     <state width="269" height="81" key="DebuggerActiveHint/0.32.1920.1048@0.32.1920.1048" timestamp="1718178424418" />
-    <state x="743" y="321" width="424" height="491" key="FileChooserDialogImpl" timestamp="1719214729055">
+    <state x="743" y="321" width="424" height="491" key="FileChooserDialogImpl" timestamp="1723131177874">
       <screen x="0" y="32" width="1920" height="1048" />
     </state>
-    <state x="743" y="321" width="424" height="491" key="FileChooserDialogImpl/0.32.1920.1048@0.32.1920.1048" timestamp="1719214729055" />
+    <state x="743" y="321" width="424" height="491" key="FileChooserDialogImpl/0.32.1920.1048@0.32.1920.1048" timestamp="1723131177874" />
     <state width="1838" height="254" key="GridCell.Tab.-1.bottom" timestamp="1718178561869">
       <screen x="0" y="32" width="1920" height="1048" />
     </state>
@@ -429,67 +791,55 @@
       <screen x="0" y="32" width="1920" height="1048" />
     </state>
     <state width="1838" height="417" key="GridCell.Tab.0.bottom/0.32.1920.1048@0.32.1920.1048" timestamp="1718184574142" />
-    <state width="1838" height="320" key="GridCell.Tab.0.bottom/0.607.1920.1048/1920.0.1920.1200@1920.0.1920.1200" timestamp="1712652790543" />
     <state width="1838" height="417" key="GridCell.Tab.0.center" timestamp="1718184574142">
       <screen x="0" y="32" width="1920" height="1048" />
     </state>
     <state width="1838" height="417" key="GridCell.Tab.0.center/0.32.1920.1048@0.32.1920.1048" timestamp="1718184574142" />
-    <state width="1838" height="320" key="GridCell.Tab.0.center/0.607.1920.1048/1920.0.1920.1200@1920.0.1920.1200" timestamp="1712652790543" />
     <state width="1838" height="417" key="GridCell.Tab.0.left" timestamp="1718184574142">
       <screen x="0" y="32" width="1920" height="1048" />
     </state>
     <state width="1838" height="417" key="GridCell.Tab.0.left/0.32.1920.1048@0.32.1920.1048" timestamp="1718184574142" />
-    <state width="1838" height="320" key="GridCell.Tab.0.left/0.607.1920.1048/1920.0.1920.1200@1920.0.1920.1200" timestamp="1712652790543" />
     <state width="1838" height="417" key="GridCell.Tab.0.right" timestamp="1718184574142">
       <screen x="0" y="32" width="1920" height="1048" />
     </state>
     <state width="1838" height="417" key="GridCell.Tab.0.right/0.32.1920.1048@0.32.1920.1048" timestamp="1718184574142" />
-    <state width="1838" height="320" key="GridCell.Tab.0.right/0.607.1920.1048/1920.0.1920.1200@1920.0.1920.1200" timestamp="1712652790543" />
     <state width="1838" height="254" key="GridCell.Tab.1.bottom" timestamp="1718184574136">
       <screen x="0" y="32" width="1920" height="1048" />
     </state>
     <state width="1838" height="254" key="GridCell.Tab.1.bottom/0.32.1920.1048@0.32.1920.1048" timestamp="1718184574136" />
-    <state width="1838" height="320" key="GridCell.Tab.1.bottom/0.607.1920.1048/1920.0.1920.1200@1920.0.1920.1200" timestamp="1712652790543" />
     <state width="1838" height="254" key="GridCell.Tab.1.center" timestamp="1718184574136">
       <screen x="0" y="32" width="1920" height="1048" />
     </state>
     <state width="1838" height="254" key="GridCell.Tab.1.center/0.32.1920.1048@0.32.1920.1048" timestamp="1718184574136" />
-    <state width="1838" height="320" key="GridCell.Tab.1.center/0.607.1920.1048/1920.0.1920.1200@1920.0.1920.1200" timestamp="1712652790543" />
     <state width="1838" height="254" key="GridCell.Tab.1.left" timestamp="1718184574136">
       <screen x="0" y="32" width="1920" height="1048" />
     </state>
     <state width="1838" height="254" key="GridCell.Tab.1.left/0.32.1920.1048@0.32.1920.1048" timestamp="1718184574136" />
-    <state width="1838" height="320" key="GridCell.Tab.1.left/0.607.1920.1048/1920.0.1920.1200@1920.0.1920.1200" timestamp="1712652790543" />
     <state width="1838" height="254" key="GridCell.Tab.1.right" timestamp="1718184574136">
       <screen x="0" y="32" width="1920" height="1048" />
     </state>
     <state width="1838" height="254" key="GridCell.Tab.1.right/0.32.1920.1048@0.32.1920.1048" timestamp="1718184574136" />
-    <state width="1838" height="320" key="GridCell.Tab.1.right/0.607.1920.1048/1920.0.1920.1200@1920.0.1920.1200" timestamp="1712652790543" />
-    <state x="295" y="277" width="1007" height="737" key="SettingsEditor" timestamp="1718027591712">
+    <state x="295" y="277" width="1007" height="737" key="SettingsEditor" timestamp="1720953165811">
       <screen x="0" y="32" width="1920" height="1048" />
     </state>
-    <state x="295" y="277" width="1007" height="737" key="SettingsEditor/0.32.1920.1048@0.32.1920.1048" timestamp="1718027591712" />
+    <state x="295" y="277" width="1007" height="737" key="SettingsEditor/0.32.1920.1048@0.32.1920.1048" timestamp="1720953165811" />
     <state x="728" y="274" width="453" height="571" key="com.goide.refactor.move.GoMoveDeclarationDialog" timestamp="1715341359011">
       <screen x="0" y="32" width="1920" height="1048" />
     </state>
     <state x="728" y="274" width="453" height="571" key="com.goide.refactor.move.GoMoveDeclarationDialog/0.32.1920.1048@0.32.1920.1048" timestamp="1715341359011" />
-    <state x="693" y="264" width="524" height="591" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1718103520107">
+    <state x="693" y="264" width="524" height="591" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1723649514505">
       <screen x="0" y="32" width="1920" height="1048" />
     </state>
-    <state x="693" y="264" width="524" height="591" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.32.1920.1048@0.32.1920.1048" timestamp="1718103520107" />
-    <state x="651" y="222" width="1269" height="702" key="dock-window-1" timestamp="1711740299382">
-      <screen x="0" y="32" width="1920" height="1048" />
-    </state>
-    <state x="651" y="222" width="1269" height="702" key="dock-window-1/0.32.1920.1048@0.32.1920.1048" timestamp="1711740299382" />
+    <state x="693" y="264" width="524" height="591" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.32.1920.1048@0.32.1920.1048" timestamp="1723649514505" />
     <state x="624" y="257" width="672" height="707" key="run.anything.popup" timestamp="1718032034193">
       <screen x="0" y="32" width="1920" height="1048" />
     </state>
     <state x="624" y="257" width="672" height="707" key="run.anything.popup/0.32.1920.1048@0.32.1920.1048" timestamp="1718032034193" />
-    <state x="623" y="254" width="692" height="704" key="search.everywhere.popup" timestamp="1719212494511">
-      <screen x="0" y="32" width="1920" height="1048" />
+    <state x="2543" y="254" width="692" height="807" key="search.everywhere.popup" timestamp="1723718469582">
+      <screen x="1920" y="0" width="1920" height="1200" />
     </state>
-    <state x="623" y="254" width="692" height="704" key="search.everywhere.popup/0.32.1920.1048@0.32.1920.1048" timestamp="1719212494511" />
-    <state x="2543" y="254" width="692" height="807" key="search.everywhere.popup/0.607.1920.1048/1920.0.1920.1200@1920.0.1920.1200" timestamp="1712569506609" />
+    <state x="623" y="254" width="692" height="704" key="search.everywhere.popup/0.32.1920.1048@0.32.1920.1048" timestamp="1723650024666" />
+    <state x="2543" y="254" width="692" height="807" key="search.everywhere.popup/0.575.1920.1080/1920.0.1920.1200@1920.0.1920.1200" timestamp="1723718469582" />
   </component>
   <component name="debuggerHistoryManager">
     <expressions id="watch">
@@ -518,43 +868,6 @@
     </expressions>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/internal/expr/typebind.go" />
-    <entry file="file://$APPLICATION_CONFIG_DIR$/scratches/scratch.go">
-      <provider selected="true" editor-type-id="GoPlaygroundFileEditor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/internal/expr/doc.go" />
-    <entry file="file:///snap/go/10339/src/sync/mutex.go" />
-    <entry file="file:///snap/go/10339/src/internal/reflectlite/type.go" />
-    <entry file="file:///snap/go/10339/src/errors/wrap.go" />
-    <entry file="file:///snap/go/10339/src/database/sql/sql.go" />
-    <entry file="file:///snap/go/10339/src/database/sql/ctxutil.go" />
-    <entry file="file:///snap/go/10339/src/context/context.go" />
-    <entry file="file://$PROJECT_DIR$/doc.go">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1220">
-          <caret line="61" column="4" selection-start-line="61" selection-start-column="4" selection-end-line="61" selection-end-column="4" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file:///snap/go/10339/src/sync/rwmutex.go" />
-    <entry file="file:///snap/go/10339/src/reflect/type.go" />
-    <entry file="file://$PROJECT_DIR$/internal/expr/typeinfo.go" />
-    <entry file="file://$PROJECT_DIR$/internal/expr/prepare.go" />
-    <entry file="file://$PROJECT_DIR$/README.md" />
-    <entry file="file:///snap/go/current/src/bytes/buffer.go">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="260">
-          <caret line="61" selection-start-line="61" selection-end-line="61" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/.ideavimrc">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="80">
-          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/internal/expr/parser_helper_test.go">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="6900">
@@ -576,13 +889,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="200">
           <caret line="10" column="32" selection-start-line="10" selection-start-column="32" selection-end-line="10" selection-end-column="32" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/internal/typeinfo/validate.go">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="9" selection-start-line="9" selection-end-line="9" />
         </state>
       </provider>
     </entry>
@@ -631,13 +937,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file:///snap/go/current/src/reflect/value.go">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="379" selection-start-line="379" selection-end-line="379" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$USER_HOME$/go/pkg/mod/gopkg.in/check.v1@v1.0.0-20201130134442-10cb98267c6c/check.go">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="360">
@@ -663,17 +962,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file:///snap/go/current/src/database/sql/sql.go">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30140">
-          <caret line="1586" column="4" selection-start-line="1586" selection-start-column="4" selection-end-line="1586" selection-end-column="4" />
-          <folding>
-            <element signature="e#43299#43321#0" expanded="true" />
-            <element signature="e#43299#43321#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$USER_HOME$/go/pkg/mod/github.com/mattn/go-sqlite3@v1.14.16/sqlite3.go">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="507">
@@ -683,62 +971,6 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/driver_test.go" />
     <entry file="file://$PROJECT_DIR$/cache_test.go" />
-    <entry file="file://$PROJECT_DIR$/sqlair.go">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="278">
-          <caret line="436" selection-start-line="436" selection-end-line="436" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/internal/typeinfo/valuelocator.go">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="340">
-          <caret line="23" column="5" selection-start-line="23" selection-start-column="5" selection-end-line="23" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/internal/expr/bindinputs.go">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="658">
-          <caret line="49" column="62" lean-forward="true" selection-start-line="49" selection-start-column="62" selection-end-line="49" selection-end-column="62" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/internal/typeinfo/valuelocator_test.go">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="203">
-          <caret line="144" column="24" selection-start-line="144" selection-start-column="24" selection-end-line="144" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/internal/expr/parser.go">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="17380">
-          <caret line="869" column="19" selection-start-line="869" selection-start-column="19" selection-end-line="869" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/internal/expr/typedexprbuilder.go">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="165">
-          <caret line="25" column="29" selection-start-line="25" selection-start-column="29" selection-end-line="25" selection-end-column="29" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/internal/expr/query.go">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="280">
-          <caret line="14" column="5" selection-start-line="14" selection-start-column="5" selection-end-line="14" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/internal/expr/expr_test.go">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="27540">
-          <caret line="1377" selection-start-line="1377" selection-end-line="1377" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$USER_HOME$/go/pkg/mod/gopkg.in/check.v1@v1.0.0-20201130134442-10cb98267c6c/run.go">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="400">
@@ -753,38 +985,162 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/internal/typeinfo/arginfo_test.go">
+    <entry file="file://$PROJECT_DIR$/internal/expr/parser.go">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="7000">
-          <caret line="350" column="4" selection-start-line="350" selection-start-column="4" selection-end-line="350" selection-end-column="4" />
+        <state relative-caret-position="300">
+          <caret line="869" column="19" selection-start-line="869" selection-start-column="19" selection-end-line="869" selection-end-column="19" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/package_test.go">
+    <entry file="file://$PROJECT_DIR$/internal/typeinfo/validate.go">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="25240">
-          <caret line="1262" column="107" selection-start-line="1262" selection-start-column="107" selection-end-line="1262" selection-end-column="107" />
+        <state relative-caret-position="121">
+          <caret line="66" selection-start-line="66" selection-end-line="66" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/internal/expr/expr_test.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="151">
+          <caret line="68" column="5" selection-start-line="68" selection-start-column="5" selection-end-line="68" selection-end-column="5" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/internal/typeinfo/arginfo.go">
       <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1535">
+          <caret line="350" column="75" selection-start-line="350" selection-start-column="75" selection-end-line="350" selection-end-column="75" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/internal/typeinfo/arginfo_test.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="605">
+          <caret line="142" column="20" selection-start-line="142" selection-start-column="20" selection-end-line="142" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/internal/typeinfo/valuelocator_test.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="31">
+          <caret line="77" column="24" selection-start-line="77" selection-start-column="24" selection-end-line="77" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/internal/expr/typedexprbuilder.go" />
+    <entry file="file://$PROJECT_DIR$/docs/.sphinx/spellingcheck.yaml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="280">
+          <caret line="14" column="20" selection-start-line="14" selection-start-column="20" selection-end-line="14" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/docs/.custom_wordlist.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="260">
+          <caret line="13" column="10" selection-start-line="13" selection-start-column="10" selection-end-line="13" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/docs/.wordlist.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="80">
+          <caret line="4" selection-start-line="4" selection-end-line="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/docs/reference/output-expression-syntax.md" />
+    <entry file="file://$PROJECT_DIR$/docs/howto/preparing.go" />
+    <entry file="file://$PROJECT_DIR$/package_test.go">
+      <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1160">
-          <caret line="58" column="8" selection-start-line="58" selection-start-column="8" selection-end-line="58" selection-end-column="8" />
+          <caret line="58" column="26" selection-start-line="58" selection-start-column="26" selection-end-line="58" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/docs/explanation/index.md" />
+    <entry file="file://$PROJECT_DIR$/docs/howto/types.go" />
+    <entry file="file://$PROJECT_DIR$/docs/howto/custom-types-in-structs.md" />
+    <entry file="file://$PROJECT_DIR$/docs/reference/input-expression-syntax.md" />
+    <entry file="file://$PROJECT_DIR$/docs/reference/index.md" />
+    <entry file="file://$PROJECT_DIR$/docs/howto/index.md" />
+    <entry file="file://$PROJECT_DIR$/docs/index.md" />
+    <entry file="file://$PROJECT_DIR$/docs/howto/input-expressions.md" />
+    <entry file="file://$PROJECT_DIR$/docs/tutorial/tutorial.md" />
+    <entry file="file://$PROJECT_DIR$/docs/howto/prepare-and-run.md" />
+    <entry file="file://$PROJECT_DIR$/internal/expr/query.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1360">
+          <caret line="68" column="22" selection-start-line="68" selection-start-column="22" selection-end-line="68" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/internal/typeinfo/valuelocator.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="4000">
+          <caret line="200" column="39" selection-start-line="200" selection-start-column="39" selection-end-line="200" selection-end-column="39" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/internal/expr/bindtypes.go">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="382">
-          <caret line="106" column="10" selection-start-line="106" selection-start-column="10" selection-end-line="106" selection-end-column="10" />
+        <state relative-caret-position="620">
+          <caret line="31" column="22" selection-start-line="31" selection-start-column="22" selection-end-line="31" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/internal/expr/bindinputs.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3260">
+          <caret line="163" column="31" selection-start-line="163" selection-start-column="31" selection-end-line="163" selection-end-column="31" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/cache.go">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="200">
-          <caret line="121" selection-start-line="121" selection-end-line="121" />
+        <state relative-caret-position="840">
+          <caret line="42" selection-start-line="42" selection-end-line="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///snap/go/current/src/database/sql/sql.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="9080">
+          <caret line="454" column="5" selection-start-line="454" selection-start-column="5" selection-end-line="454" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///snap/go/current/src/reflect/value.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="64040">
+          <caret line="3202" selection-start-line="3202" selection-end-line="3202" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sqlair.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="358">
+          <caret line="117" column="14" selection-start-line="117" selection-start-column="14" selection-end-line="117" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/docs/howto/types.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SHOW_EDITOR" is_vertical_split="false">
+          <first_editor relative-caret-position="780">
+            <caret line="39" column="9" selection-start-line="39" selection-start-column="9" selection-end-line="39" selection-end-column="9" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/docs/howto/output-expressions.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SHOW_EDITOR" is_vertical_split="true">
+          <first_editor relative-caret-position="40">
+            <caret line="2" column="17" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
+          </first_editor>
+          <second_editor />
         </state>
       </provider>
     </entry>

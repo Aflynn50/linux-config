@@ -1,14 +1,14 @@
 <application>
   <component name="DimensionService">
     <location key="find.popup.0.0.1920.1080" x="736" y="246" />
-    <size key="GridCell.Tab.0.left.0.0.1920.1080" width="1838" height="431" />
-    <size key="GridCell.Tab.0.center.0.0.1920.1080" width="1838" height="431" />
-    <size key="GridCell.Tab.0.right.0.0.1920.1080" width="1838" height="431" />
-    <size key="GridCell.Tab.0.bottom.0.0.1920.1080" width="1838" height="431" />
-    <size key="GridCell.Tab.1.left.0.0.1920.1080" width="1838" height="343" />
-    <size key="GridCell.Tab.1.center.0.0.1920.1080" width="1838" height="343" />
-    <size key="GridCell.Tab.1.right.0.0.1920.1080" width="1838" height="343" />
-    <size key="GridCell.Tab.1.bottom.0.0.1920.1080" width="1838" height="343" />
+    <size key="GridCell.Tab.0.left.0.0.1920.1080" width="1838" height="437" />
+    <size key="GridCell.Tab.0.center.0.0.1920.1080" width="1838" height="437" />
+    <size key="GridCell.Tab.0.right.0.0.1920.1080" width="1838" height="437" />
+    <size key="GridCell.Tab.0.bottom.0.0.1920.1080" width="1838" height="437" />
+    <size key="GridCell.Tab.1.left.0.0.1920.1080" width="1838" height="437" />
+    <size key="GridCell.Tab.1.center.0.0.1920.1080" width="1838" height="437" />
+    <size key="GridCell.Tab.1.right.0.0.1920.1080" width="1838" height="437" />
+    <size key="GridCell.Tab.1.bottom.0.0.1920.1080" width="1838" height="437" />
     <size key="GridCell.Tab.0.left.1920.411.1920.1080" width="1838" height="305" />
     <size key="GridCell.Tab.0.center.1920.411.1920.1080" width="1838" height="305" />
     <size key="GridCell.Tab.0.right.1920.411.1920.1080" width="1838" height="305" />
@@ -17,40 +17,53 @@
     <size key="GridCell.Tab.1.center.1920.411.1920.1080" width="1838" height="305" />
     <size key="GridCell.Tab.1.right.1920.411.1920.1080" width="1838" height="305" />
     <size key="GridCell.Tab.1.bottom.1920.411.1920.1080" width="1838" height="305" />
-    <size key="GridCell.Tab.0.left.1920.0.1920.1080" width="1838" height="269" />
-    <size key="GridCell.Tab.0.center.1920.0.1920.1080" width="1838" height="269" />
-    <size key="GridCell.Tab.0.right.1920.0.1920.1080" width="1838" height="269" />
-    <size key="GridCell.Tab.0.bottom.1920.0.1920.1080" width="1838" height="269" />
+    <size key="GridCell.Tab.0.left.1920.0.1920.1080" width="1838" height="459" />
+    <size key="GridCell.Tab.0.center.1920.0.1920.1080" width="1838" height="459" />
+    <size key="GridCell.Tab.0.right.1920.0.1920.1080" width="1838" height="459" />
+    <size key="GridCell.Tab.0.bottom.1920.0.1920.1080" width="1838" height="459" />
     <size key="GridCell.Tab.1.left.1920.0.1920.1080" width="1838" height="269" />
     <size key="GridCell.Tab.1.center.1920.0.1920.1080" width="1838" height="269" />
     <size key="GridCell.Tab.1.right.1920.0.1920.1080" width="1838" height="269" />
     <size key="GridCell.Tab.1.bottom.1920.0.1920.1080" width="1838" height="269" />
     <size key="find.popup.0.0.1920.1080" width="673" height="630" />
-    <size key="GridCell.Tab.0.left.1920.0.1920.1200" width="1838" height="497" />
-    <size key="GridCell.Tab.0.center.1920.0.1920.1200" width="1838" height="497" />
-    <size key="GridCell.Tab.0.right.1920.0.1920.1200" width="1838" height="497" />
-    <size key="GridCell.Tab.0.bottom.1920.0.1920.1200" width="1838" height="497" />
-    <size key="GridCell.Tab.1.left.1920.0.1920.1200" width="1838" height="320" />
-    <size key="GridCell.Tab.1.center.1920.0.1920.1200" width="1838" height="320" />
-    <size key="GridCell.Tab.1.right.1920.0.1920.1200" width="1838" height="320" />
-    <size key="GridCell.Tab.1.bottom.1920.0.1920.1200" width="1838" height="320" />
+    <size key="GridCell.Tab.0.left.1920.0.1920.1200" width="1838" height="390" />
+    <size key="GridCell.Tab.0.center.1920.0.1920.1200" width="1838" height="390" />
+    <size key="GridCell.Tab.0.right.1920.0.1920.1200" width="1838" height="390" />
+    <size key="GridCell.Tab.0.bottom.1920.0.1920.1200" width="1838" height="390" />
+    <size key="GridCell.Tab.1.left.1920.0.1920.1200" width="1838" height="374" />
+    <size key="GridCell.Tab.1.center.1920.0.1920.1200" width="1838" height="374" />
+    <size key="GridCell.Tab.1.right.1920.0.1920.1200" width="1838" height="374" />
+    <size key="GridCell.Tab.1.bottom.1920.0.1920.1200" width="1838" height="374" />
     <size key="GridCell.Tab.-1.left.0.0.1920.1080" width="1838" height="254" />
     <size key="GridCell.Tab.-1.center.0.0.1920.1080" width="1838" height="254" />
     <size key="GridCell.Tab.-1.right.0.0.1920.1080" width="1838" height="254" />
     <size key="GridCell.Tab.-1.bottom.0.0.1920.1080" width="1838" height="254" />
+    <size key="GridCell.Tab.0.left.1920.136.1920.1080" width="1838" height="349" />
+    <size key="GridCell.Tab.0.center.1920.136.1920.1080" width="1838" height="349" />
+    <size key="GridCell.Tab.0.right.1920.136.1920.1080" width="1838" height="349" />
+    <size key="GridCell.Tab.0.bottom.1920.136.1920.1080" width="1838" height="349" />
+    <size key="GridCell.Tab.0.left.0.113.1920.1080" width="1838" height="249" />
+    <size key="GridCell.Tab.0.center.0.113.1920.1080" width="1838" height="249" />
+    <size key="GridCell.Tab.0.right.0.113.1920.1080" width="1838" height="249" />
+    <size key="GridCell.Tab.0.bottom.0.113.1920.1080" width="1838" height="249" />
+    <size key="GridCell.Tab.0.left.0.575.1920.1080" width="1838" height="473" />
+    <size key="GridCell.Tab.0.center.0.575.1920.1080" width="1838" height="473" />
+    <size key="GridCell.Tab.0.right.0.575.1920.1080" width="1838" height="473" />
+    <size key="GridCell.Tab.0.bottom.0.575.1920.1080" width="1838" height="473" />
   </component>
   <component name="WindowManager">
-    <frame x="240" y="118" width="1440" height="786" />
+    <frame x="0" y="32" width="1920" height="1048" extendedState="6" />
   </component>
   <component name="WindowStateApplicationService">
-    <state width="634" height="302" key="ShowUsagesActions.dimensionServiceKey" timestamp="1720000773835">
+    <state width="637" height="134" key="ShowUsagesActions.dimensionServiceKey" timestamp="1723191690625">
       <screen x="0" y="32" width="1920" height="1048" />
     </state>
-    <state width="634" height="302" key="ShowUsagesActions.dimensionServiceKey/0.32.1920.1048" timestamp="1720000773835" />
-    <state width="660" height="158" key="ShowUsagesActions.dimensionServiceKey/0.607.1920.1048/1920.0.1920.1200" timestamp="1717167774044" />
-    <state x="960" y="489" width="800" height="650" key="WELCOME_SCREEN" timestamp="1719212442506">
+    <state width="637" height="134" key="ShowUsagesActions.dimensionServiceKey/0.32.1920.1048" timestamp="1723191690625" />
+    <state width="653" height="158" key="ShowUsagesActions.dimensionServiceKey/0.32.1920.1048/1920.136.1920.1080" timestamp="1723031396908" />
+    <state width="768" height="158" key="ShowUsagesActions.dimensionServiceKey/0.607.1920.1048/1920.0.1920.1200" timestamp="1722942140681" />
+    <state x="960" y="489" width="800" height="650" key="WELCOME_SCREEN" timestamp="1725872499685">
       <screen x="0" y="32" width="1920" height="1048" />
     </state>
-    <state x="960" y="489" width="800" height="650" key="WELCOME_SCREEN/0.32.1920.1048" timestamp="1719212442506" />
+    <state x="960" y="489" width="800" height="650" key="WELCOME_SCREEN/0.32.1920.1048" timestamp="1725872499685" />
   </component>
 </application>

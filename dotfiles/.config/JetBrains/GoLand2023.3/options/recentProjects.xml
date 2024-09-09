@@ -175,38 +175,6 @@
             </RecentProjectMetaInfo>
           </value>
         </entry>
-        <entry key="$USER_HOME$/Canonical/SQLair/sqlair">
-          <value>
-            <RecentProjectMetaInfo frameTitle="sqlair – cache.go" projectWorkspaceId="2Xo3ePOE5eJFI3cYpRDASxC10cX">
-              <option name="activationTimestamp" value="1719214729189" />
-              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
-              <option name="build" value="GO-241.18034.61" />
-              <option name="buildTimestamp" value="1718905560000" />
-              <option name="colorInfo">
-                <RecentProjectColorInfo associatedIndex="1" />
-              </option>
-              <frame x="224" y="84" width="1440" height="786" />
-              <option name="productionCode" value="GO" />
-              <option name="projectOpenTimestamp" value="1719212451977" />
-            </RecentProjectMetaInfo>
-          </value>
-        </entry>
-        <entry key="$USER_HOME$/Canonical/Juju/terraform-provider-juju">
-          <value>
-            <RecentProjectMetaInfo frameTitle="terraform-provider-juju – applications.go" projectWorkspaceId="2eajN4znWM6JKE233fy0L7YOkr0">
-              <option name="activationTimestamp" value="1719394046442" />
-              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
-              <option name="build" value="GO-241.18034.61" />
-              <option name="buildTimestamp" value="1718905560000" />
-              <option name="colorInfo">
-                <RecentProjectColorInfo associatedIndex="6" />
-              </option>
-              <frame x="0" y="32" width="1920" height="1048" extendedState="6" />
-              <option name="productionCode" value="GO" />
-              <option name="projectOpenTimestamp" value="1719217352983" />
-            </RecentProjectMetaInfo>
-          </value>
-        </entry>
         <entry key="$USER_HOME$/Canonical/SQLair/sqlair-parser/sqlair-to-sql">
           <value>
             <RecentProjectMetaInfo frameTitle="sqlair-to-sql – snapcraft.yaml" projectWorkspaceId="2iT1jJsfjmj7j1QfpHnGTP7zXVU">
@@ -223,104 +191,168 @@
             </RecentProjectMetaInfo>
           </value>
         </entry>
-        <entry key="$USER_HOME$/Canonical/Juju/juju2">
+        <entry key="$USER_HOME$/Canonical/Juju/pylibjuju-3.5">
           <value>
-            <RecentProjectMetaInfo frameTitle="juju2 – 0008-space.sql" opened="true" projectWorkspaceId="2dPx5aID8SlSetLDIszwo4llT8K">
-              <option name="activationTimestamp" value="1720001107629" />
+            <RecentProjectMetaInfo frameTitle="pylibjuju-3.5" projectWorkspaceId="2j3fSergvru6bDmBE4P8sRh43Mq">
+              <option name="activationTimestamp" value="1720620700461" />
               <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
               <option name="build" value="GO-241.18034.61" />
               <option name="buildTimestamp" value="1718905560000" />
+              <option name="colorInfo">
+                <RecentProjectColorInfo associatedIndex="2" />
+              </option>
+              <frame x="260" y="56" width="1400" height="1000" />
+              <option name="productionCode" value="GO" />
+              <option name="projectOpenTimestamp" value="1720620681923" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Canonical/Juju/juju-qa-jenkins">
+          <value>
+            <RecentProjectMetaInfo frameTitle="juju-qa-jenkins – package-juju-source.sh" projectWorkspaceId="2dN1U5u8qTbnJQQyKsGmITA5bY8">
+              <option name="activationTimestamp" value="1723133175770" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="GO-241.18968.32" />
+              <option name="buildTimestamp" value="1722920940000" />
+              <option name="colorInfo">
+                <RecentProjectColorInfo associatedIndex="3" />
+              </option>
+              <frame x="0" y="32" width="1920" height="1048" extendedState="6" />
+              <option name="productionCode" value="GO" />
+              <option name="projectOpenTimestamp" value="1723124679783" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Canonical/Juju/juju-release-jenkins">
+          <value>
+            <RecentProjectMetaInfo frameTitle="juju-release-jenkins – release-juju-upload-snap-package.yml" projectWorkspaceId="2kNnouqkKHLumQTYPaMVpHDjA8d">
+              <option name="activationTimestamp" value="1723546387338" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="GO-242.20224.306" />
+              <option name="buildTimestamp" value="1723006080000" />
+              <option name="colorInfo">
+                <RecentProjectColorInfo associatedIndex="3" />
+              </option>
+              <frame x="0" y="32" width="1920" height="1048" extendedState="6" />
+              <option name="productionCode" value="GO" />
+              <option name="projectOpenTimestamp" value="1723537010648" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Canonical/Juju/terraform-provider-juju">
+          <value>
+            <RecentProjectMetaInfo frameTitle="~/.cache/JetBrains/GoLand2024.2/github-actions/cache/wagoid/commitlint-github-action/v6/action.yml" projectWorkspaceId="2eajN4znWM6JKE233fy0L7YOkr0">
+              <option name="activationTimestamp" value="1724838257744" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="GO-242.20224.306" />
+              <option name="buildTimestamp" value="1723006080000" />
               <option name="colorInfo">
                 <RecentProjectColorInfo associatedIndex="6" />
               </option>
               <frame x="0" y="32" width="1920" height="1048" extendedState="6" />
               <option name="productionCode" value="GO" />
-              <option name="projectOpenTimestamp" value="1719563505843" />
+              <option name="projectOpenTimestamp" value="1724832498728" />
             </RecentProjectMetaInfo>
           </value>
         </entry>
         <entry key="$USER_HOME$/Canonical/Juju/juju">
           <value>
-            <RecentProjectMetaInfo frameTitle="juju – register.go" projectWorkspaceId="2cRlBVi7mm4vDZuEUMYLZYqBT6Y">
-              <option name="activationTimestamp" value="1719926665088" />
+            <RecentProjectMetaInfo frameTitle="juju – export.go" projectWorkspaceId="2cRlBVi7mm4vDZuEUMYLZYqBT6Y">
+              <option name="activationTimestamp" value="1724917799451" />
               <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
-              <option name="build" value="GO-241.18034.61" />
-              <option name="buildTimestamp" value="1718905560000" />
+              <option name="build" value="GO-242.20224.424" />
+              <option name="buildTimestamp" value="1724158020000" />
               <option name="colorInfo">
                 <RecentProjectColorInfo associatedIndex="6" />
               </option>
               <frame x="0" y="32" width="1920" height="1048" extendedState="6" />
               <option name="productionCode" value="GO" />
-              <option name="projectOpenTimestamp" value="1719572578842" />
+              <option name="projectOpenTimestamp" value="1724917800284" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Canonical/Juju/python-libjuju">
+          <value>
+            <RecentProjectMetaInfo frameTitle="python-libjuju – test_macaroon_auth.py" projectWorkspaceId="2dxecmh2q7uV2KjdU7F0qBBMe1j">
+              <option name="activationTimestamp" value="1724925753890" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="GO-242.20224.424" />
+              <option name="buildTimestamp" value="1724158020000" />
+              <option name="colorInfo">
+                <RecentProjectColorInfo associatedIndex="5" />
+              </option>
+              <frame x="0" y="32" width="1920" height="1048" extendedState="6" />
+              <option name="productionCode" value="GO" />
+              <option name="projectOpenTimestamp" value="1724921647175" />
             </RecentProjectMetaInfo>
           </value>
         </entry>
         <entry key="$USER_HOME$/Canonical/Juju/take-home-test">
           <value>
             <RecentProjectMetaInfo frameTitle="take-home-test – main.go" projectWorkspaceId="2i8hNRP2BggbWaM5FyJUS21kKe2">
-              <option name="activationTimestamp" value="1719989516398" />
+              <option name="activationTimestamp" value="1724931738447" />
               <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
-              <option name="build" value="GO-241.18034.61" />
-              <option name="buildTimestamp" value="1718905560000" />
+              <option name="build" value="GO-242.20224.424" />
+              <option name="buildTimestamp" value="1724158020000" />
               <option name="colorInfo">
                 <RecentProjectColorInfo associatedIndex="8" />
               </option>
               <frame x="0" y="32" width="1920" height="1048" extendedState="6" />
               <option name="productionCode" value="GO" />
-              <option name="projectOpenTimestamp" value="1719579911296" />
+              <option name="projectOpenTimestamp" value="1724930450724" />
             </RecentProjectMetaInfo>
           </value>
         </entry>
-        <entry key="$USER_HOME$/Canonical/Juju/python-libjuju">
+        <entry key="$USER_HOME$/Canonical/SQLair/sqlair">
           <value>
-            <RecentProjectMetaInfo frameTitle="python-libjuju – test_edge.yaml" projectWorkspaceId="2dxecmh2q7uV2KjdU7F0qBBMe1j">
-              <option name="activationTimestamp" value="1719926238847" />
+            <RecentProjectMetaInfo frameTitle="sqlair – sqlair.go" projectWorkspaceId="2Xo3ePOE5eJFI3cYpRDASxC10cX">
+              <option name="activationTimestamp" value="1724938127677" />
               <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
-              <option name="build" value="GO-241.18034.61" />
-              <option name="buildTimestamp" value="1718905560000" />
+              <option name="build" value="GO-242.20224.424" />
+              <option name="buildTimestamp" value="1724158020000" />
               <option name="colorInfo">
-                <RecentProjectColorInfo associatedIndex="5" />
+                <RecentProjectColorInfo associatedIndex="1" />
+              </option>
+              <frame x="0" y="607" width="1920" height="1048" extendedState="6" />
+              <option name="productionCode" value="GO" />
+              <option name="projectOpenTimestamp" value="1724936593692" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Canonical/Juju/juju2">
+          <value>
+            <RecentProjectMetaInfo frameTitle="juju2 – add.go" opened="true" projectWorkspaceId="2dPx5aID8SlSetLDIszwo4llT8K">
+              <option name="activationTimestamp" value="1725896145162" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="GO-242.21829.220" />
+              <option name="buildTimestamp" value="1725796800000" />
+              <option name="colorInfo">
+                <RecentProjectColorInfo associatedIndex="6" />
               </option>
               <frame x="0" y="32" width="1920" height="1048" extendedState="6" />
               <option name="productionCode" value="GO" />
-              <option name="projectOpenTimestamp" value="1719823849873" />
+              <option name="projectOpenTimestamp" value="1725876358873" />
             </RecentProjectMetaInfo>
           </value>
         </entry>
         <entry key="$USER_HOME$/Canonical/Juju/juju3">
           <value>
-            <RecentProjectMetaInfo frameTitle="juju3 – go.mod" projectWorkspaceId="2iPZE5D23loFTw22ORLnBN21Sie">
-              <option name="activationTimestamp" value="1719924866460" />
+            <RecentProjectMetaInfo frameTitle="juju3 – bootstrap_test.go" opened="true" projectWorkspaceId="2iPZE5D23loFTw22ORLnBN21Sie">
+              <option name="activationTimestamp" value="1725897562907" />
               <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
-              <option name="build" value="GO-241.18034.61" />
-              <option name="buildTimestamp" value="1718905560000" />
+              <option name="build" value="GO-242.21829.220" />
+              <option name="buildTimestamp" value="1725796800000" />
               <option name="colorInfo">
                 <RecentProjectColorInfo associatedIndex="0" />
               </option>
               <frame x="0" y="32" width="1920" height="1048" extendedState="6" />
               <option name="productionCode" value="GO" />
-              <option name="projectOpenTimestamp" value="1719923653961" />
-            </RecentProjectMetaInfo>
-          </value>
-        </entry>
-        <entry key="$USER_HOME$/Canonical/Juju/juju-qa-jenkins">
-          <value>
-            <RecentProjectMetaInfo frameTitle="juju-qa-jenkins – requirements.txt" projectWorkspaceId="2dN1U5u8qTbnJQQyKsGmITA5bY8">
-              <option name="activationTimestamp" value="1719997614142" />
-              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
-              <option name="build" value="GO-241.18034.61" />
-              <option name="buildTimestamp" value="1718905560000" />
-              <option name="colorInfo">
-                <RecentProjectColorInfo associatedIndex="3" />
-              </option>
-              <frame x="240" y="118" width="1440" height="786" />
-              <option name="productionCode" value="GO" />
-              <option name="projectOpenTimestamp" value="1719993923463" />
+              <option name="projectOpenTimestamp" value="1725896146311" />
             </RecentProjectMetaInfo>
           </value>
         </entry>
       </map>
     </option>
-    <option name="lastOpenedProject" value="$USER_HOME$/Canonical/Juju/juju2" />
+    <option name="lastOpenedProject" value="$USER_HOME$/Canonical/Juju/juju3" />
   </component>
 </application>

@@ -108,7 +108,7 @@
       <idea-join enabled="true" />
       <idea-put enabled="false" />
       <idea-undo enabled="true" />
-      <was-automatically-subscribed-to-eap enabled="false" />
+      <was-automatically-subscribed-to-eap enabled="true" />
     </notifications>
   </component>
 </application>

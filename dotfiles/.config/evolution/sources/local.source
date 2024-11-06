@@ -89,13 +89,17 @@ ArchiveFolder=
 NeedsInitialSetup=false
 MarkSeen=inconsistent
 MarkSeenTimeout=1500
+Builtin=false
 
 [Maildir Backend]
 FilterInbox=true
 FilterAll=false
 FilterJunk=true
-Path=/home/aflynn50/.local/share/evolution/mail/local
+Path=/home/aflynn/.local/share/evolution/mail/local
+StoreChangesInterval=3
+MaildirAltFlagSep=false
 
 [Refresh]
 Enabled=true
 IntervalMinutes=60
+EnabledOnMeteredNetwork=true

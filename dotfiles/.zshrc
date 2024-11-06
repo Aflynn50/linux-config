@@ -55,7 +55,10 @@ export DISABLE_AUTO_UPDATE=true
 # Custom plugins may be added to $ZSH_CUSTOM/plugins/
 # Example format: plugins=(rails git textmate ruby lighthouse)
 # Add wisely, as too many plugins slow down shell startup.
-plugins=(git shrink-path vi-mode juju-aflynn)
+plugins=(git shrink-path juju-aflynn tmux)
+
+# Autostart tmux (works with the tmux plugin)
+ZSH_TMUX_AUTOSTART=true
 
 source $ZSH/oh-my-zsh.sh
 
@@ -63,31 +66,15 @@ source /usr/share/doc/fzf/examples/key-bindings.zsh
 
 # User configuration
 
-# export MANPATH="/usr/local/man:$MANPATH"
+# tmux user config
+tmux set -g status off
 
-# You may need to manually set your language environment
-# export LANG=en_US.UTF-8
-
-# Preferred editor for local and remote sessions
-# if [[ -n $SSH_CONNECTION ]]; then
-#   export EDITOR='vim'
-# else
-#   export EDITOR='mvim'
-# fi
-
-# Compilation flags
-# export ARCHFLAGS="-arch x86_64"
-
+export EDITOR='vim'
 
 # Set personal aliases, overriding those provided by oh-my-zsh libs,
 # plugins, and themes. Aliases can be placed here, though oh-my-zsh
 # users are encouraged to define aliases within the ZSH_CUSTOM folder.
 # For a full list of active aliases, run `alias`.
-#
-# Example aliases
-# alias zshconfig="mate ~/.zshrc"
-# alias ohmyzsh="mate ~/.oh-my-zsh"
-
 
 # Use nvim for vim
 alias vim="nvim"
@@ -116,6 +103,10 @@ alias gpom='git checkout main && git pull origin main && git checkout -'
 alias gpum='git checkout main && git pull upstream main && git checkout -'
 alias gpuma='git checkout master && git pull upstream master && git checkout -'
 alias gpl='git pull upstream $(git rev-parse --abbrev-ref HEAD)'
+alias gcf='git commit --verbose --fixup'
+alias gcfh='git commit --verbose --fixup HEAD'
+alias gcaf='git commit -a --verbose --fixup'
+alias gcafh='git commit -a --verbose --fixup HEAD'
 gcopr() {
     git fetch upstream pull/$1/head:PR-$1
     git checkout PR-$1
@@ -175,7 +166,11 @@ alias jdbcr='juju debug-log -m controller --replay'
 alias jdbrc='juju debug-log -m controller --replay'
 # destroy
 alias jdc='juju destroy-controller --destroy-all-models --destroy-storage --no-prompt'
+alias jdcf='juju destroy-controller --destroy-all-models --destroy-storage --no-prompt --force --no-wait'
+alias sjdc='/snap/bin/juju destroy-controller --destroy-all-models --destroy-storage --no-prompt'
+alias sjdcf='/snap/bin/juju destroy-controller --destroy-all-models --destroy-storage --no-prompt --force --no-wait'
 alias jdm='juju destroy-model --destroy-storage --no-prompt'
+alias jdmf='juju destroy-model --destroy-storage --no-prompt --force --no-wait'
 # switch
 alias jsw='juju switch'
 # login
@@ -192,5 +187,11 @@ alias sj='/snap/bin/juju'
 alias j='juju'
 # Testing
 alias dqlite-test='TEST_PACKAGES="${pwd}/... -count=1 -race" TEST_FILTER="Suite" make run-go-tests'
-# Terraforma
+# Terraform
 alias terreset='rm -r .terraform && rm .terraform.lock.hcl terraform.tfstate terraform.tfstate.backup'
+# Microk8s
+alias microk8s-refresh='sudo microk8s refresh-certs --cert ca.crt && sudo microk8s refresh-certs --cert front-proxy-client.crt && sudo microk8s refresh-certs --cert server.crt'
+
+export NVM_DIR="$HOME/.nvm"
+[ -s "$NVM_DIR/nvm.sh" ] && \. "$NVM_DIR/nvm.sh"  # This loads nvm
+[ -s "$NVM_DIR/bash_completion" ] && \. "$NVM_DIR/bash_completion"  # This loads nvm bash_completion

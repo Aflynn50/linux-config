@@ -36,6 +36,10 @@ SigningAlgorithm=
 SignByDefault=false
 EncryptByDefault=false
 PreferInline=false
+LocateKeys=true
+SendPublicKey=false
+SendPreferEncrypt=true
+AskSendPublicKey=true
 
 [Message Disposition Notifications]
 ResponsePolicy=ask

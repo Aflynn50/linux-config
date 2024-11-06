@@ -201,30 +201,31 @@ wjst() {
   watch -n "$interval" --color juju status --relations --color "$@"
 }
 
-juju_prompt () {
-    local controller="$(awk '/current-controller/ {print $2}' ~/.local/share/juju/controllers.yaml)" 
-	if [[ -z "$controller" ]]
-	then
-		return 1
-	fi
-    	
-    local yqbin="$(whereis yq | awk '{print $2}')" 
+juju_prompt_text () {
+  local controller=$(jcontroller)
+  if [[ -z "$controller" ]]; then
+    return 0
+  fi
+  local yqbin="$(whereis yq | awk '{print $2}')" 
 	if [[ -z "$yqbin" ]]
 	then
-		echo "--"
+		echo -n "$controller:--"
 		return 1
 	fi
 	local model="$( cat ~/.local/share/juju/models.yaml | yq ".controllers.\"$controller\".current-model" | cut -d/ -f2)" 
-	if [[ -z "$model" ]]
-	then
-		echo "--"
-		return 1
-	fi
-    if [[ "$model" = "null" ]]
-    then 
-        echo $controller
-    else
-	    echo $controller:$model
-    fi
-	return 0
+  if [[ -z "$model" ]] || [[ "$model" = "null" ]]; then
+    echo -n $controller
+    return 0
+  fi
+  echo -n "$controller:$model"
+  return 0
+}
+
+juju_prompt () {
+  local text=$(juju_prompt_text)
+  if [[ -z "$text" ]]
+  then
+    return 0
+  fi
+  echo -n "$ZSH_THEME_JUJU_PROMPT_PREFIX$text$ZSH_THEME_JUJU_PROMPT_SUFFIX "
 }

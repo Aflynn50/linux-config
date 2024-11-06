@@ -28,4 +28,9 @@
   <component name="InlineCompletionOnboarding">
     <option name="onboardingFinished" value="true" />
   </component>
+  <component name="MarkdownCodeFoldingSettings">
+    <option name="collapseFrontMatter" value="false" />
+    <option name="collapseLinks" value="false" />
+    <option name="collapseTableOfContents" value="false" />
+  </component>
 </application>

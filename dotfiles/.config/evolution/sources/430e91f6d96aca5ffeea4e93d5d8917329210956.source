@@ -1,6 +1,6 @@
 [Data Source]
 DisplayName=alastair.flynn@canonical.com
-Enabled=true
+Enabled=false
 Parent=
 
 [Authentication]

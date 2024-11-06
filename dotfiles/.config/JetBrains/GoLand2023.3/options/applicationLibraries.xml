@@ -315,6 +315,11 @@
         <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/stubs/tree-sitter-languages" />
       </SOURCES>
     </library>
+    <library name="Python 3.11 (juju-qa-jenkins) interpreter library">
+      <CLASSES />
+      <JAVADOC />
+      <SOURCES />
+    </library>
     <library name="Python 3.11 (python-libjuju) interpreter library">
       <CLASSES>
         <root url="file:///usr/lib/python3.11" />
@@ -1265,7 +1270,7 @@
         <root url="file:///usr/lib/python3.12" />
         <root url="file:///usr/lib/python3.12/lib-dynload" />
         <root url="file://$USER_HOME$/Canonical/Juju/python-libjuju/venv/lib/python3.12/site-packages" />
-        <root url="file://$USER_HOME$/.cache/JetBrains/GoLand2024.1/python_stubs/-2101445415" />
+        <root url="file://$USER_HOME$/.cache/JetBrains/GoLand2024.2/python_stubs/-2101445415" />
         <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/python-skeletons" />
         <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/stdlib" />
         <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/stubs/gdb" />
@@ -1422,7 +1427,7 @@
         <root url="file:///usr/lib/python3.12" />
         <root url="file:///usr/lib/python3.12/lib-dynload" />
         <root url="file://$USER_HOME$/Canonical/Juju/python-libjuju/venv/lib/python3.12/site-packages" />
-        <root url="file://$USER_HOME$/.cache/JetBrains/GoLand2024.1/python_stubs/-2101445415" />
+        <root url="file://$USER_HOME$/.cache/JetBrains/GoLand2024.2/python_stubs/-2101445415" />
         <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/python-skeletons" />
         <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/stdlib" />
         <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/stubs/gdb" />

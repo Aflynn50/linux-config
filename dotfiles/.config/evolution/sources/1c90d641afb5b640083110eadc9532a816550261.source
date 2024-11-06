@@ -1,6 +1,6 @@
 [Data Source]
 DisplayName=alastair.flynn@canonical.com
-Enabled=true
+Enabled=false
 Parent=430e91f6d96aca5ffeea4e93d5d8917329210956
 
 [Mail Submission]
